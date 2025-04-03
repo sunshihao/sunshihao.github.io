@@ -1,3 +1,4 @@
+'use client';
 import { Container } from '@/components/Container';
 import { AspectRatio } from '@/components/ui/aspect-ratio';
 import { Separator } from '@/components/ui/separator';
@@ -6,6 +7,7 @@ import { allPosts, type Post } from 'contentlayer/generated';
 import dayjs from 'dayjs';
 import Image from 'next/image';
 import Link from 'next/link';
+import { useTranslation } from 'react-i18next';
 import CoverSwitch from './CoverSwitch';
 import { Tag } from './TagItem';
 
@@ -60,24 +62,9 @@ function PostCard({ post, showCover }: { post: Post; showCover?: boolean }) {
 		</Link>
 	);
 }
-const title = '我的博客列表 | ';
-const description =
-	'记录在编程学习、工作中遇到的问题。我精心整理为技术博客文章合集，涵盖前端开发、React、Next.js等热门话题。发现实用的开发技巧、最佳实践和行业动态，提升您的开发技能。立即浏览最新文章！';
-export const metadata = {
-	title,
-	description,
-	openGraph: {
-		title,
-		description
-	},
-	twitter: {
-		title,
-		description,
-		card: 'summary_large_image'
-	}
-};
 
 export default function Posts() {
+	const { t } = useTranslation();
 	// 	{
 	// 	searchParams
 	// }: {
@@ -95,13 +82,12 @@ export default function Posts() {
 			<header className="max-w-2xl mb-4">
 				<div className="flex items-center ">
 					<h1 className="text-xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-xl">
-						我的 blog
+						{t('blog.title', '我的博客d')} {/* 修改为正确的键名 */}
 					</h1>
 					<CoverSwitch />
 				</div>
 				<p className="mt-4 mb-6 text-base text-zinc-600 dark:text-zinc-400">
-					记录工作，学习，生活中的所见所闻所想，主要分享领域 <b>前端开发</b>
-					，偶尔也会记录 <b>其他内容</b>
+					{t('blog.description', '记录工作，学习，生活中的所见所闻所想，主要分享领域前端开发，偶尔也会记录其他内容')}
 				</p>
 			</header>
 			<div className={cn('grid grid-cols-1 gap-4', false ? 'grid-cols-2' : '')}>

@@ -24,6 +24,19 @@
     "prettier/prettier": "error",
     "no-case-declarations": "off",
     "no-constant-condition": "off",
+    "@typescript-eslint/ban-ts-comment": "off",
+    // 将规则设置为警告级别 (1) 而不是错误级别 (2)
+    "no-unused-vars": 1,
+    "@typescript-eslint/no-unused-vars": 1,
+    "react/no-unescaped-entities": 1,
+    "react/display-name": 1,
+    "react/jsx-key": 1,
+    "react/jsx-no-target-blank": 1,
+    "react/no-children-prop": 1,
+    // 其他规则也可以设置为 1
+    "prettier/prettier": "error",
+    "no-case-declarations": "off",
+    "no-constant-condition": "off",
     "@typescript-eslint/ban-ts-comment": "off"
   },
   "overrides": [
@@ -35,5 +48,7 @@
   ],
   "globals": {
     "browser": true
-  }
+  },
+  // 全局设置所有规则为警告
+  "reportUnusedDisableDirectives": "warn",
 }

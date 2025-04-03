@@ -30,5 +30,8 @@
 	},
 	"prettier.ignorePath": ".gitignore",
 	"commentTranslate.hover.enabled": true,
-	"testing.automaticallyOpenTestResults": "neverOpen" // Don't run prettier for files listed in .gitignore
+	"testing.automaticallyOpenTestResults": "neverOpen",
+	"[json]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	} // Don't run prettier for files listed in .gitignore
 }
