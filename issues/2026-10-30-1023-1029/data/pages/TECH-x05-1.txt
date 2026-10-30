@@ -1,0 +1,46 @@
+1. [Home](https://internet.gmo/en/)
+2. [News](https://internet.gmo/en/news/)
+3. [[Important] Current Response to Unauthorized Access to “Onamae.com Desktop Cloud” (Tenth Report)](https://internet.gmo/en/news/article/256/)
+October 27, 2026
+Internet Infrastructure
+
+# [Important] Current Response to Unauthorized Access to “Onamae.com Desktop Cloud” (Tenth Report)
+(Regarding the Publication of Information by the Attackers: Our Understanding and Countermeasures)
+* SHARE
+* [Xでシェア](https://twitter.com/intent/tweet?url=https%3A%2F%2Finternet.gmo%2Fen%2Fnews%2Farticle%2F256%2F&text=%5BImportant%5D+Current+Response+to+Unauthorized+Access+to+%E2%80%9COnamae.com+Desktop+Cloud%E2%80%9D+%28Tenth+Report%29+%7C+GMO+Internet%2C+Inc.)
+* [Facebookでシェア](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Finternet.gmo%2Fen%2Fnews%2Farticle%2F256%2F)
+
+...
+
+We once again sincerely apologize for the great inconvenience and concern that the unauthorized access to “Onamae.com Desktop Cloud” has caused our customers.
+We have confirmed that persons believed to be the attackers have published information, and we are informing you of the current situation and our requests to customers.
+We have judged that explaining the situation to our customers should be our top priority, and we are providing this information to the extent that we are able to disclose it.
+In addition, we are coordinating in a timely and appropriate manner with investigative agencies, relevant authorities, and other appropriate organizations regarding the information we have been able to ascertain about the incident, the attackers, and the damage.
+
+...
+
+## 1. Publication of Information by Persons Believed to Be the Attackers and the Ransomware Attack
+At 12:30 on October 27, we confirmed that persons believed to be the attackers had published what they claim to be information about our company and our customers. We are currently verifying the published content. It may contain information that is inconsistent with the facts.
+We ask our customers to note the following points.
+[Important] [Danger] Please do not access or spread what is claimed to be the published information.
+The information of those who have accessed the site in question has been obtained by the attackers. We cannot accept responsibility for any damage arising from access to the site, so please refrain from accessing it.
+
+...
+
+② Regarding the Ransomware Attack
+As of 13:55 on October 27, no ransomware attack has been confirmed. We remain on alert.
+
+...
+
+## 5. We Will Inform You Immediately If New Facts or Countermeasures Are Identified
+If the investigation reveals new facts, or measures that customers should take, we will contact customers who use the Service individually by email and will also announce them on this page.
+
+## ■ Requests to Customers
+1. Please run a full antivirus scan on your own devices
+2. Please back up your data
+3. Please disconnect your PC from the network and power it off
+Please back up your data, disconnect from the network, shut down the power, and unplug the cords connected to your PC.
+
+...
+
+Caution: We will never ask you for your password or authentication code. Please do not respond to any communication that asks for payment, such as an offer to “recover your losses.” Announcements from us can also be checked on this page. Please do not open links or files in emails or SMS messages; check this page instead.

@@ -1,0 +1,1163 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://apnews.com/article/russia-ukraine-war-oleshky-melania-trump-putin-aab99d86fccb26294711ef40407b416c",
+      "title": "Associated Press: 奥莱什基局部停火进入第三天，人道车队待命周五入境",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Humanitarian aid is poised to roll into the stricken city of Oleshky, negotiators said Thursday, as a localized ceasefire between Russia and Ukraine stretched into a third day and military units cleared landmines.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://www.theguardian.com/world/2026/oct/29/ukraine-war-briefing-oleshky-truce-holding-and-demining-under-way-to-enable-humanitarian-corridor-kyiv-says",
+      "title": "The Guardian: 奥莱什基局部停火进入第三天，人道车队待命周五入境",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "A local ceasefire in southern Ukraine was holding for a second day, both sides said on Wednesday, as hopes grew that vital aid would be able to reach stranded residents.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://apnews.com/article/venezuela-maria-corina-machado-elections-b2b023d18eadfa57e701bd554503017a",
+      "title": "Associated Press: 马查多返委后首度公开讲话，称 2027 年大选不可逆",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Following her return to Venezuela, opposition leader María Corina Machado said on Thursday in her first public statements that the transition in the South American country is moving irreversibly toward a presidential election in 2027, while denying any contact with interim president Delcy Rodríguez.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://www.washingtonpost.com/world/2026/10/29/back-venezuela-opposition-leader-endorses-us-plan-elections",
+      "title": "The Washington Post: 马查多返委后首度公开讲话，称 2027 年大选不可逆",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Venezuelan opposition leader María Corina Machado, making her first public address since her surprise return to the country, endorsed U.S. plans for free elections as soon as next year, a transition to democracy that she called “irreversible.”",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "url": "https://apnews.com/article/israel-elections-netanyahu-eisenkot-arab-results-9a0620a1314fdc127245ba1a7f0aa762",
+      "title": "Associated Press: 以色列最终计票：内塔尼亚胡阵营 53 席，失去过半",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Results released by election officials on Thursday showed Netanyahu’s bloc winning 53 seats in the 120-member assembly, well below the 68 seats it had controlled at its peak in the previous parliament.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
+      "title": "The New York Times: 以色列最终计票：内塔尼亚胡阵营 53 席，失去过半",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Mr. Netanyahu’s Likud party and its hard-right allies won 53 seats in Parliament, not enough to meet the 61-seat threshold for an outright majority.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "url": "https://apnews.com/article/train-accident-spain-4f65471a0e36f448d7ee9efe0768cd77",
+      "title": "Associated Press: 西班牙高铁相撞致至少 68 死，全国哀悼三天",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "A high-speed train slammed into another that had stopped on the tracks Wednesday in Spain, killing at least 68 people and injuring dozens in the second deadly rail collision this year.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
+      "title": "BBC News: 西班牙高铁相撞致至少 68 死，全国哀悼三天",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "At least 69 people were killed and dozens injured in the collision, when a state-operated Renfe high-speed train smashed into the back of a stationary train operated by the Iryo company near the town of Urda.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "url": "https://apnews.com/article/brazil-election-lula-bolsonaro-runoff-vote-president-e2c9fe8fc4aa3e3675b9a8ec15405d93",
+      "title": "Associated Press: 卢拉赢得巴西大选第二轮，博索纳罗阵营拒绝认输",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "With 100% of the vote counted, Brazil’s electoral court announced that the soon to be 81-year-old Lula had a lead of nearly 4.4 million votes over opponent Flávio Bolsonaro, giving him 51.8% of the total vote.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
+      "title": "The Guardian: 卢拉赢得巴西大选第二轮，博索纳罗阵营拒绝认输",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "After a shock defeat in the first round, the incumbent Brazilian president, Luiz Inácio Lula da Silva, has turned the election around to win the runoff",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "url": "https://apnews.com/article/haiti-elections-el-salvador-troops-gang-violence-3c24fe0b0134ea2b41b48fc80457215d",
+      "title": "Associated Press: 海地定 2027 年两轮大选，萨尔瓦多 2000 兵进驻",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "The Provisional Electoral Council said late Wednesday that the first round of general elections will be held next July 18 and the second round on Oct. 4.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "url": "https://www.bbc.com/news/articles/ck0e075n79j5o",
+      "title": "BBC News: 海地定 2027 年两轮大选，萨尔瓦多 2000 兵进驻",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "El Salvador has deployed more than 2,000 soldiers to Haiti as part of a mission to retrieve four nationals who went missing in the Caribbean country almost two weeks ago.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "url": "https://apnews.com/article/bulgaria-drone-attack-container-ship-black-sea-2bfd978d36fbb958781cf2721cabcf5c",
+      "title": "Associated Press: 黑海无人机袭船致集装箱船沉没，保加利亚促盟友支援",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Three maritime drones struck the container ship Contship Jet about 21 nautical miles off the coast of Bulgaria on Wednesday, Defense Minister Dimitar Stoyanov said.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "url": "https://contships-management.com/2026/10/29/contships-management-inc-company-update",
+      "title": "Contships Management: 黑海无人机袭船致集装箱船沉没，保加利亚促盟友支援",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "The vessel was seriously damaged and started listing by 20-30 degrees when the Master and Crew onboard abandoned the vessel and were taken safely to Varna, Bulgaria by two local warships.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "url": "https://www.jpost.com/middle-east/iran-news/article-913174",
+      "title": "The Jerusalem Post: 万斯致函伊朗国安委秘书，伊方称已收信未回复",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "The letter is Washington’s highest-level outreach to Tehran in months, according to Axios, and comes as Trump considers resuming strikes after the US midterms.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "url": "https://english.alarabiya.net/News/middle-east/2026/10/29/iran-received-letter-from-vance-but-has-yet-to-respond-statelinked-agency-says",
+      "title": "Al Arabiya English: 万斯致函伊朗国安委秘书，伊方称已收信未回复",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Tehran has received a letter from US Vice President JD Vance but has not yet responded, Iran’s state-linked Tasnim news agency reported on Thursday.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "url": "https://apnews.com/article/syria-jordan-strikes-karak-daraa-is-5c278be71a23176a092779ef8484c213",
+      "title": "Associated Press: 约旦叙利亚成立联合安全委员会，调查空袭平民死亡",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Jordan and Syria agreed Tuesday to form a joint committee to investigate the circumstances leading to Jordanian strikes that killed a number of civilians in Syria the day before, raising tensions between the neighboring countries.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "url": "https://petra.gov.jo/osc/index.php/en/news/fm-syrian-counterpart-discuss-border-security-and-recent-airstrikes-in-phone-call",
+      "title": "Petra (Jordan News Agency): 约旦叙利亚成立联合安全委员会，调查空袭平民死亡",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "To enhance operational coordination and maintain transparency, the ministers agreed to establish a joint security committee.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "url": "https://news.un.org/en/story/2026/10/1168661",
+      "title": "UN News: 联合国：苏丹三周内无人机袭击致至少 306 人死亡",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "UN human rights chief Volker Türk on Friday strongly condemned an escalation in drone strikes across Sudan this month, which killed at least 306 people and injured hundreds more in the first three weeks of October alone.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+      "title": "European Central Bank: 欧洲央行维持利率不变，拉加德宣布提前卸任",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "The interest rates on the deposit facility, the main refinancing operations and the marginal lending facility will remain unchanged at 2.50%, 2.65% and 2.90% respectively.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
+      "title": "European Central Bank: 欧洲央行维持利率不变，拉加德宣布提前卸任",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "European Central Bank President Christine Lagarde today informed the Governing Council and the President of the European Council António Costa that she will step down from her position on 7 February 2027.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "url": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early",
+      "title": "The Guardian: 欧洲央行维持利率不变，拉加德宣布提前卸任",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Christine Lagarde, the eurozone’s top central banker, is stepping down nine months early, ending months of speculation about her future.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "title": "Federal Reserve Board: 美联储维持利率 3.75%–4%，两名委员主张加息",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "The Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent, in support of the Federal Reserve's dual mandate.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "url": "https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html",
+      "title": "CNBC: 美联储维持利率 3.75%–4%，两名委员主张加息",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "The accumulation of more information will help the Committee determine the policy stance appropriate to ensure a timely return of inflation to the Committee's 2 percent goal.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "url": "https://company.instacart.com/pressreleases/doordash-to-acquire-instacart-to-help-local-stores-win",
+      "title": "Instacart Newsroom: DoorDash 以 170 亿美元收购 Instacart",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "SAN FRANCISCO, October 29, 2026 -- DoorDash, Inc. (NASDAQ: DASH) and Maplebear Inc. (d.b.a. Instacart, NASDAQ: CART) today announced a definitive agreement under which DoorDash will acquire Instacart for a total value of $65.00 for each Instacart share, or an equity value of approximately $17 billion.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+      "title": "DoorDash Newsroom: DoorDash 以 170 亿美元收购 Instacart",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "The aggregate transaction consideration will be at least 75% cash, with Instacart stockholders able to elect cash, DoorDash stock, or a combination of both, subject to proration so that DoorDash stock does not exceed 25% of the aggregate consideration.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "url": "https://news.microsoft.com/source/2026/10/28/microsoft-announces-first-quarter-results-2",
+      "title": "Microsoft: 微软第一财季营收 923 亿美元，云业务增三成",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Revenue was $92.3 billion and increased 19%",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "url": "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+      "title": "CNBC: 微软第一财季营收 923 亿美元，云业务增三成",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "With respect to guidance, Microsoft called for $96 billion to $97.1 billion in fiscal second-quarter revenue, which works out to 18.8% growth at the middle of the range.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
+      "title": "Alphabet (SEC 8-K Ex.99.1): Alphabet 三季度营收增 25%，自由现金流转负",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Consolidated Alphabet operating income increased 30% and operating margin was 31.8%.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+      "title": "CNBC: Alphabet 三季度营收增 25%，自由现金流转负",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "The Google parent reported negative free cash flow of $9.07 billion, which fell much further than the $2.70 billion expected by analysts.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "url": "https://apnews.com/article/stock-markets-ai-earnings-oil-b07c5abe1fbaacc7618aeb610eaa91e0",
+      "title": "Associated Press: 美联储决议后 2 年期美债收益率冲高回落",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "The action was much stronger in the bond market, where the yield on the two-year Treasury initially climbed after the Fed announced it was holding the federal funds rate steady.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "url": "https://www.cnbc.com/2026/10/26/us-treasury-yields-investors-feds-interest-rate-decision-.html",
+      "title": "CNBC: 美联储决议后 2 年期美债收益率冲高回落",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "U.S. Treasury yields are little changed as investors look ahead to the Fed's rate decision",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026",
+      "title": "U.S. Bureau of Economic Analysis: 美国 9 月 PCE 物价环比涨 0.5%，核心涨 0.3%",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Excluding food and energy, the PCE price index increased 0.3 percent.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "url": "https://newsroom.adt.com/financial/adt-to-be-acquired-by-thrive-holdings-in-15-3-billion-transaction",
+      "title": "ADT Newsroom: Thrive Holdings 以 153 亿美元私有化 ADT",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "The agreement values ADT at approximately $7.6 billion in equity value and $15.3 billion in enterprise value.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt",
+      "title": "TechCrunch: Thrive Holdings 以 153 亿美元私有化 ADT",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Beyond equity, the total enterprise value of the deal is $15.3 billion, ADT said.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-7864eac2e13db75f07758ed9c39ad96b",
+      "title": "Associated Press: 标普 500 三连涨，收于 7,743.98 点",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "The S&P 500 rose 21.38 points, or 0.3%, to 7,743.98.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "url": "https://www.cnbc.com/2026/10/27/stock-market-today-live-updates.html",
+      "title": "CNBC: 标普 500 三连涨，收于 7,743.98 点",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "The S&P 500 added 0.28% to 7,743.98, while the Nasdaq Composite gained 0.27% to close at 26,549.85.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "url": "https://boeing.mediaroom.com/2026-10-27-Boeing-Reports-Third-Quarter-Results",
+      "title": "Boeing: 波音三季度营收 242 亿美元，仍录得亏损",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "The Boeing Company (NYSE: BA) recorded third quarter revenue of $24.2 billion, primarily reflecting higher defense and services volume and less favorable commercial delivery mix.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "url": "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+      "title": "CNBC: 波音三季度营收 242 亿美元，仍录得亏损",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "For the three months ended Sept. 30, Boeing reported a net loss of $116 million, or 26 cents a share, compared with a $5.34 billion loss, or $7.14 per share, a year earlier.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display",
+      "title": "Apple Newsroom: 苹果发布首款触屏 MacBook Pro，配 PROLED XDR 屏",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "The new MacBook Pro also introduces intuitive Touch capabilities on the Mac for the first time, opening up a whole new dimension for pros to interact with their content, from manipulating 3D models to playing musical instruments onscreen.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "url": "https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html",
+      "title": "CNBC: 苹果发布首款触屏 MacBook Pro，配 PROLED XDR 屏",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "The new laptop will go on sale Nov. 6 and the 14-inch version will start at $2,899.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "url": "https://investor.lilly.com/news-releases/news-release-details/lillys-retatrutide-delivered-greater-a1c-reduction-and-more",
+      "title": "Eli Lilly (investor.lilly.com): 礼来 retatrutide III 期头对头击败司美格鲁肽",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "In the TRANSCEND-T2D-2 trial, both doses of retatrutide lowered A1C by an average of 2.2% compared to 1.8% with Ozempic at 80 weeks.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
+      "title": "NPR: SpaceX 承认限速乌克兰星链，服务已恢复",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "In a post on social media site X, Musk said that Ukraine had been violating Starlink's terms of service by using it for offensive military activity.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "url": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+      "title": "CNBC: SpaceX 承认限速乌克兰星链，服务已恢复",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "In a post on X, Musk said: “Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week.”",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-97631",
+      "title": "CVE Program (TianoCore CNA): EDK II 网络引导驱动曝 9.5 分漏洞，尚无补丁",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "EDK2 contains a vulnerability in BIOS where a user may cause “Out-of-bounds\nWrite”, Classic\nBuffer Overflow, and “Incorrect Calculation of Buffer Size” by remote access.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "url": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
+      "title": "The Hacker News: EDK II 网络引导驱动曝 9.5 分漏洞，尚无补丁",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "A code fix exists, but no stable release of EDK II contains it yet, and the advisory still lists no patched version, so most users have nothing to install today.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "url": "https://www.justice.gov/usao-edva/pr/bulletproof-website-domain-seized-international-law-enforcement-operation",
+      "title": "U.S. DOJ (E.D. Va.): 美司法部查封「防弹主机」virtualine.net",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "announced today the seizure of the website virtualine.net after it was used to commit and facilitate prolific criminal activity",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "url": "https://therecord.media/fbi-seizure-csam-virtualine",
+      "title": "The Record: 美司法部查封「防弹主机」virtualine.net",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "The FBI seized the domain of a “bulletproof” hosting provider accused of facilitating a range of cybercrimes, including money laundering and the distribution of child sexual abuse material.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "url": "https://internet.gmo/en/news/article/256",
+      "title": "GMO Internet: 日本 GMO 云主机被入侵，要求客户断网关机",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "At 12:30 on October 27, we confirmed that persons believed to be the attackers had published what they claim to be information about our company and our customers.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat",
+      "title": "BleepingComputer: 日本 GMO 云主机被入侵，要求客户断网关机",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company’s Onamae Desktop Cloud threatened to launch a ransomware attack today.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "url": "https://www.intc.com/news-events/press-releases/detail/1784/intel-to-acquire-classiq-to-create-a-full-stack-quantum",
+      "title": "Intel (intc.com): 英特尔收购 Classiq，组建全栈量子平台",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Intel Corporation today announced that it has entered into a definitive agreement to acquire Classiq, a leading provider of quantum computing software.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-ignites-giant-super-heavy-booster-engines-ahead-of-daring-starship-launch-video",
+      "title": "Space.com: 星舰 15 飞完成 33 机静态点火，拟首次回收飞船",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "The Super Heavy booster for Flight Test 15, Booster 22, underwent a static test fire on Sunday (Oct. 25), igniting all of its Raptor 3 engines for about 15 seconds.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "url": "https://www.digitimes.com/news/a20261023VL220/nvidia-chips-security-blackwell-china-telecom.html",
+      "title": "DigiTimes: 中国电信网络现 32 颗被禁 B300，出口管制受质疑",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Israeli security firm Lava identified 32 Nvidia Blackwell Ultra B300 GPUs through monitoring endpoints linked to China Telecom, a state-owned carrier.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/illegal-nvidia-blackwell-ultra-b300-gpus-found-inside-state-owned-china-telecoms-network-nvidia-says-chip-smuggling-a-drop-in-the-bucket-insists-smuggling-remains-a-nonfactor",
+      "title": "Tom's Hardware: 中国电信网络现 32 颗被禁 B300，出口管制受质疑",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Lava, an Israeli security firm, says that it has been able to identify 32 Nvidia Blackwell Ultra B300 chips within the network of China Telecom, a state-owned company that provides telecommunications services within the country.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "url": "https://www.digitimes.com/news/a20261023VL219/samsung-texas-2nm-fab.html",
+      "title": "DigiTimes: 三星为泰勒厂追加 2nm 设备，产能瞄准 2 万片",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Samsung Electronics has ordered additional equipment to fill the remaining space at its first foundry fab in Taylor, Texas, a move that would lift the plant's 2nm capacity to 20,000 wafers per month in the second half of 2027",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "url": "https://wccftech.com/samsung-orders-equipment-for-6000-more-2nm-wafers-a-month-at-its-taylor-texas-fab-putting-20000-within-reach-by-the-second-half-of-2027",
+      "title": "Wccftech: 三星为泰勒厂追加 2nm 设备，产能瞄准 2 万片",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "The facility is expected to become operational by the end of this year, and the report adds that by the second half of 2027, the Taylor site should be capable of producing 20,000 wafers per month.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "title": "Anthropic: Anthropic 递交 S-1，拟以代码 ANT 登陆纳斯达克",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "title": "SEC / Anthropic S-1: Anthropic 递交 S-1，拟以代码 ANT 登陆纳斯达克",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "We have applied to list our Class A common stock on the Nasdaq Global Select Market under the symbol “ANT.”",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
+      "title": "CNBC: Anthropic 递交 S-1，拟以代码 ANT 登陆纳斯达克",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "The company's net revenue retention, or NRR, stood at around 900% as of Sept. 30, according to the prospectus.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "url": "https://www.cnbc.com/2026/10/28/doj-questions-nvidias-12point9-billion-hugging-face-deal.html",
+      "title": "CNBC: 美司法部就英伟达 129 亿美元收购 Hugging Face 展开问询",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "The U.S. Department of Justice is investigating Nvidia and has asked it for information about how its $12.9 billion acquisition of Hugging Face could impact competitors.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "url": "https://www.theverge.com/tech/1021355/the-doj-is-reportedly-looking-into-nvidias-hugging-face-acquisition",
+      "title": "The Verge: 美司法部就英伟达 129 亿美元收购 Hugging Face 展开问询",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "The US Department of Justice has “made inquiries” about the $13 billion deal, including how it could affect competition in the AI industry, according to a report from Reuters.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon",
+      "title": "Google (blog.google): Google 发布 Gemini 4 Carbon，主打长时程与网络安全",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Carbon ranks #1 on the recently updated v5.0 of Artificial Analysis Intelligence Index at 59.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "url": "https://navercorp.com/en/media/pressReleasesDetail?seq=10034796",
+      "title": "NAVER: Naver 与 Brookfield 签 90 亿美元算力融资，为英伟达入股铺路",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "By signing a $9 billion agreement with Brookfield to secure computing infrastructure, NAVER has met the precondition for NVIDIA’s strategic equity investment.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "url": "https://www.koreaherald.com/article/10916658",
+      "title": "The Korea Herald: Naver 与 Brookfield 签 90 亿美元算力融资，为英伟达入股铺路",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Naver has finalized a deal with US-based global asset manager Brookfield to secure up to $9 billion in artificial intelligence computing infrastructure, putting a formal financing structure in place for its $10 billion AI factory project with Nvidia.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "title": "OpenAI: OpenAI 发布 GPT-6.1 Terra，API 价格砍半",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Its standard API prices are 50% lower than those of GPT-5.6 Terra and GPT-6.1 Sol,",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth",
+      "title": "NVIDIA Newsroom: 英伟达入股 Meta 30 亿美元，扩产 Vera Rubin",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "In addition, NVIDIA will invest $3 billion in Meta’s equity offering.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "url": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
+      "title": "CNBC: 英伟达入股 Meta 30 亿美元，扩产 Vera Rubin",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Meta on Monday said it would initially raise $35 billion in underwritten public equity offerings, before raising an additional $60 billion with an at-the-market program.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "url": "https://lofgren.house.gov/media/press-releases/house-democratic-committee-leaders-request-frontier-ai-companies-report",
+      "title": "U.S. House (Rep. Lofgren): 美众院三委员会要求五家前沿 AI 公司 48 小时内上报事故",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "House Democratic Committee leaders with jurisdiction over artificial intelligence wrote to five of the nation’s leading frontier AI companies today requesting information and ongoing reporting to Congress about AI model misalignment and safety incidents within 48 hours of incident detection.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work",
+      "title": "Microsoft (Official Blog): 微软把 Copilot harness 通过 Foundry 开放给开发者",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Luckily, the GitHub engineering team built a best-in-class, truly multi-model harness, which we’ve adopted company-wide. The Microsoft Copilot harness powers Copilot Code, Copilot Studio, the GitHub Copilot app, the CLI, VS Code, and more. And today, we’re making that harness available through Microsoft Foundry.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
+      "title": "TechCrunch: 父母起诉 OpenAI，称 GPT-4o 诱导女儿停用抗癫痫药",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "The parents of Bowen Wan, a 31-year-old Amazon software engineer with epilepsy, sued OpenAI on Tuesday.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "url": "https://github.com/openai/math/blob/main/lean/docs/378.md",
+      "title": "OpenAI (official math repo): OpenAI 称模型证出三个数学与物理难题",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "The following describes the scope of the Lean formalization related to the following accompanying paper(s):",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "url": "https://www.scientificamerican.com/article/openai-just-scooped-human-researchers-on-a-million-dollar-quantum-math-problem",
+      "title": "Scientific American: OpenAI 称模型证出三个数学与物理难题",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Using a proprietary internal large language model (LLM), OpenAI just released a result mathematicians have been chasing for decades: a formal proof validating the “quantum chromodynamics” that underpin physicists’ best, most successful description of the universe.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "url": "https://aa.com.tr/en/europe/openai-announces-3-ai-generated-discoveries-in-mathematics-computer-science-physics/4102636",
+      "title": "Anadolu Agency: OpenAI 称模型证出三个数学与物理难题",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "In computer science, OpenAI claimed its AI had disproved the Exponential Time Hypothesis, a longstanding conjecture about the computational difficulty of solving certain problems that has underpinned hundreds of research papers.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7666352/content.shtml",
+      "title": "中国证监会: 证监会就私募投资母基金新规征求意见 共二十三条",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "《母基金规定》共二十三条，主要内容包括：一是明确私募投资母基金概念和具体分类，细化认定标准，根据投资范围差异对私募投资母基金分类。",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "url": "https://www.21jingji.com/article/20261029/herald/d89c5b91e62382573c46c29de56d1012.html",
+      "title": "21世纪经济报道: 比亚迪三季度净利100.2亿元 同比增28.08%",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "公司第三季度实现营业收入2214.88亿元，同比增长13.59%；归母净利润100.20亿元，同比增长28.08%，单季净利重返百亿大关。",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "url": "https://english.news.cn/20261029/77b9f8612764457daed8b095e7621f11/c.html",
+      "title": "Xinhua（新华社英文）: 沪指跌0.82%报3651.43点 四大行总市值首破10万亿",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "benchmark Shanghai Composite Index down 0.82 percent to 3,651.43 points.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "url": "http://finance.ce.cn/stock/gsgdbd/202610/t20261029_3275771.shtml",
+      "title": "中国经济网: 沪指跌0.82%报3651.43点 四大行总市值首破10万亿",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "截至收盘，上证指数报3651.43点，跌幅0.82%，成交额7156.21亿元",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "url": "https://www.cnfin.com/yw-lb/detail/20261029/4488115_1.html",
+      "title": "新华财经（中国金融信息网）: 沪指跌0.82%报3651.43点 四大行总市值首破10万亿",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "沪深两市成交额1.56万亿，较上一个交易日缩量720亿。",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "url": "https://www.21jingji.com/article/20261029/herald/9f5b8e6be4fbfec61aaefc323920564c.html",
+      "title": "21世纪经济报道: 中金公司A股跌停 11.36亿股解禁占总股本14.33%",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "截至收盘，中金公司股价报27.12元/股，成交金额为25.2亿元。",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "url": "https://www.nbd.com.cn/articles/2026-10-29/4628627.html",
+      "title": "每日经济新闻: 中金公司A股跌停 11.36亿股解禁占总股本14.33%",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "中金公司A股换股价确实为36.68元/股，但它的作用仅是比较基准",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "url": "https://www.yicai.com/news/103413911.html",
+      "title": "第一财经: 两融余额降至2.4098万亿 创年内新低",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "10月27日，A股两融余额再度创出新低2.4098万亿元，相较上个交易日缩水164.25亿元。",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026102808465912088/index.html",
+      "title": "中国人民银行: 央行10月28日净投放1510亿元 隔夜逆回购1万亿元",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "2026年10月28日中国人民银行以固定利率、数量招标方式开展了1510亿元7天期逆回购操作，全额满足了一级交易商需求。",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "url": "https://www.cnfin.com/hb-lb/detail/20261028/4487728_1.html",
+      "title": "新华财经（中国金融信息网）: 央行10月28日净投放1510亿元 隔夜逆回购1万亿元",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "人民银行28日开展1510亿元7天期逆回购和10000亿元隔夜逆回购操作；鉴于当日有10000亿元逆回购到期，公开市场实现净投放1510亿元。",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125437/125446/125873/2026102317142393853/index.html",
+      "title": "中国人民银行: 央行10月26日开展7000亿元MLF 缩量续作2000亿",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "为保持银行体系流动性充裕，2026年10月26日，中国人民银行将以固定数量、利率招标、多重价位中标方式开展7000亿元MLF操作，期限为1年期。",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "url": "https://www.xinhuanet.com/20261023/9d017899050149a39cc58ad7005b42cb/c.html",
+      "title": "新华网: 央行10月26日开展7000亿元MLF 缩量续作2000亿",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "由于10月有9000亿元MLF到期，这意味着本月MLF缩量续作2000亿元。",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "url": "https://english.news.cn/20261023/6741f8cf50614cc4868cf2b83b57284b/c.html",
+      "title": "Xinhua（新华社英文）: 10月23日A股V型反转 沪指涨0.89%成交1.97万亿",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Chinese stocks closed higher on Friday, with the benchmark Shanghai Composite Index up 0.89 percent to 3,690.48 points.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "url": "https://finance.cnr.cn/ycbd/20261023/t20261023_527850963.shtml",
+      "title": "央广网财经: 10月23日A股V型反转 沪指涨0.89%成交1.97万亿",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "沪深两市全天成交额达1.96万亿元，较上一个交易日放量4276亿元，全市场超4500只个股收涨。",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "url": "https://www.cnfin.com/gs-lb/detail/20261023/4485636_1.html",
+      "title": "新华财经（中国金融信息网）: 10月23日A股V型反转 沪指涨0.89%成交1.97万亿",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "沪深北三市全天合计成交19728亿元，较前一交易日放量4310亿元。",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "url": "http://m.mof.gov.cn/czxw/202610/t20261023_4003380.htm",
+      "title": "财政部: 财政部：前三季度证券交易印花税2391亿元 增65.1%",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "证券交易印花税 2391 亿元， 同比增长 65.1% 。",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "url": "https://english.news.cn/20261027/e0997e568bba4c5681f482e57b94b767/c.html",
+      "title": "Xinhua（新华社英文）: 10月27日沪指跌1.33% 成交缩至1.46万亿逾4900股下跌",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "benchmark Shanghai Composite Index down 1.33 percent to 3,648.3 points.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "url": "https://www.nbd.com.cn/articles/2026-10-27/4620289.html",
+      "title": "每日经济新闻: 10月27日沪指跌1.33% 成交缩至1.46万亿逾4900股下跌",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "沪深两市成交额1.46万亿元，较上一个交易日缩量1478亿元。全市场超4900只个股下跌。",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "url": "https://www.cnfin.com/gs-lb/detail/20261027/4486901_1.html",
+      "title": "新华财经（中国金融信息网）: 10月27日沪指跌1.33% 成交缩至1.46万亿逾4900股下跌",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "沪指报3648.30点，跌幅1.33%，成交6724亿元",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "url": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
+      "title": "CNBC: 布伦特12月合约结算115.32美元，涨1.3%",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "International benchmark Brent crude futures rose 1.3% to close at $115.32 a barrel, while U.S. West Texas Intermediate crude futures gained 2.9% to settle at $102.78 per barrel.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "url": "https://www.thestar.com.my/news/world/2026/10/30/crude-futures-settle-lower",
+      "title": "Xinhua (via The Star): 布伦特12月合约结算115.32美元，涨1.3%",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Brent crude for December delivery decreased by 44 cents, or 0.38 percent, to settle at 114.88 dollars a barrel on the London ICE Futures Exchange.",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "url": "https://www.shfe.com.cn/data/tradedata/future/dailydata/kx20261029.dat",
+      "title": "上海国际能源交易中心（INE）/上海期货交易所: 上期能源原油SC2612结算735.9元，涨1.87%",
+      "accessed": "2026-10-30"
+    },
+    {
+      "id": 96,
+      "url": "https://www.czce.com.cn/cn/DFSStaticFiles/Future/2026/20261029/FutureDataDaily.txt",
+      "title": "郑州商品交易所（CZCE）: 郑商所白糖SR701结算5267元，跌0.21%",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "SR701 |5,278.00  |5,278.00  |5,285.00  |5,249.00  |5,267.00  |5,267.00  |-11.00   |-11.00   |262,227   |569,396   |6,764     |1,381,048.76|",
+          "added": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "url": "https://www.eia.gov/petroleum/supply/weekly/pdf/highlights.pdf",
+      "title": "U.S. Energy Information Administration (EIA): EIA：美国商业原油库存降至4.106亿桶",
+      "accessed": "2026-10-30",
+      "quotes": [
+        {
+          "text": "Crude Oil (Excluding SPR)2 410.6 412.5 416.0",
+          "added": "2026-10-30"
+        }
+      ]
+    }
+  ]
+}

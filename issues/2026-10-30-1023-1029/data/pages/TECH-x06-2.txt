@@ -1,0 +1,47 @@
+* [Cyber Daily®](https://therecord.media/subscribe)
+* [Click Here Podcast](https://therecord.media/podcast)
+  Go
+  Subscribe to The Record
+Virtualine splash page
+Image: A seizure notice has replaced the Virtualine homepage.
+
+...
+
+# FBI seizes ‘bulletproof’ hosting site accused of facilitating child abuse, money laundering
+The FBI seized the domain of a “bulletproof” hosting provider accused of facilitating a range of cybercrimes, including money laundering and the distribution of child sexual abuse material.
+The Justice Department [said](https://www.justice.gov/usao-edva/pr/bulletproof-website-domain-seized-international-law-enforcement-operation) Tuesday that a court authorized the seizure of virtualine.net — a service operating under names including Secury, Massgod, Spamhouse, Lanedo and Omegatech — which has now been replaced by a splashpage.
+So-called “bulletproof” hosting providers are specialized criminal businesses that rent critical infrastructure to customers based on the promise they will ignore abuse complaints and law enforcement requests. According to court records, Virtualine explicitly advertised on cybercrime forums, offering hosting for “all illegal/black hat activities,” including phishing, carding and spam.
+
+...
+
+In June 2025, Virtualine boasted on HackForums that it had “ignored more abuse than your last three therapists.” In January, about a month after allegedly providing an IP address to a forum used to sell sexually explicit images of minors, distribute nonconsensual intimate images and advertise account-hacking services, the company was sent complaints from authorities in Germany, Canada and
+Australia, as well as the National Center for Missing and Exploited Children and a victim’s attorney. Instead of terminating services to the forum, Virtualine helped its operators build another site for uploading and downloading illicit content, according to the Justice Department. The site remained online despite complaints related to sexually explicit images of children.
+Virtualine accepted bitcoin payments through a service it named “BTC [NO-AML],” referencing anti-money laundering checks. Prosecutors said Virtualine attempted to launder the proceeds to conceal their origin, though some payments were traceable to criminal groups.
+The FBI’s Washington Field Office led the investigation, assisted by authorities in Germany, the Netherlands and Britain, along with private sector partners OverRIPE and Lumen. The Justice Department did not identify Virtualine’s operators or announce criminal charges at the time of the domain seizure.
+The seizure follows a series of international actions against bulletproof hosting providers, particularly Russia-linked services accused of supporting ransomware gangs. In February 2025, the U.S., UK and Australia [sanctioned Zservers](https://therecord.media/zservers-russia-bulletproof-hosting-us-uk-sanctions) for allegedly supporting the LockBit ransomware gang.
+Dutch police [seized 127 of its servers](https://therecord.media/dutch-police-take-down-127-servers-sanctioned-host) that same week. The U.S. Treasury Department [sanctioned](https://therecord.media/russia-bulletproof-hosting-aeza-group-us-sanctions) Russia-based Aeza Group in July 2025 for allegedly hosting the BianLian ransomware gang and information-stealing malware.
+Researchers also [linked](https://therecord.media/cyberattack-on-russian-media-linked-to-sanctioned-institute) the provider to the Doppelgänger disinformation campaign. In November, the three countries [sanctioned Media Land](https://therecord.media/bulletproof-hosting-sanctions-ransomware) over alleged ties to the LockBit, BlackSuit and Play ransomware groups. U.S.
+prosecutors had [charged three alleged operators](https://therecord.media/us-unseals-indictment-russians-bulletproof-hosting) in that case, which they said resulted in about $62 million in victim losses.
+Dutch authorities [arrested two men and seized 800 servers](https://therecord.media/dutch-authorities-arrest-suspects-over-russian-cyber-operations) in May during an investigation into infrastructure linked to Stark Industries, an EU-sanctioned provider accused of enabling Russian cyber operations. Investigators said another company took over Stark's infrastructure after sanctions were imposed.
+The long-term impact of such crackdowns has been questioned. Threat intelligence firm Intel 471 [reported](https://www.intel471.com/blog/a-new-era-of-bulletproof-hosting-providers-emerge) in August that disruptions had driven customers to newer providers operated by former resellers, fragmenting the market rather than eliminating demand.
+
+...
+
+* [](https://www.facebook.com/sharer/sharer.php?u=&src=sdkpreparse)
+* [](https://www.reddit.com/submit?url=)
+* [](https://news.ycombinator.com/submitlink?u=&t=FBI%20seizes%20%E2%80%98bulletproof%E2%80%99%20hosting%20site%20accused%20of%20facilitating%20child%20abuse,%20money%20laundering)
+
+...
+
+[Recorded Future](https://www.recordedfuture.com/?utm_source=therecord&utm_medium=referral&utm_content=post-footer-ad)
+No previous article
+No new articles
+
+...
+
+is the UK Editor for Recorded Future News. He was previously a technology reporter for Sky News and a fellow at the European Cyber Conflict Research Initiative, now Virtual Routes. He can be reached securely using Signal on: AlexanderMartin.79
+
+...
+
+## Briefs
+[The Record from Recorded Future News](https://therecord.media/)

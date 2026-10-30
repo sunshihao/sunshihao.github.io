@@ -1,0 +1,47 @@
+* [Home](https://www.bleepingcomputer.com/)
+* [News](https://www.bleepingcomputer.com/news/)
+* [Security](https://www.bleepingcomputer.com/news/security/)
+* Japan's GMO urges customers to shut down PCs amid ransomware threat
+
+...
+
+# Japan's GMO urges customers to shut down PCs amid ransomware threat
+## [Bill Toulas](https://www.bleepingcomputer.com/author/bill-toulas/)
+The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company’s Onamae Desktop Cloud threatened to launch a ransomware attack today.
+The company later confirmed that data belonging to both the company and its customers had been published online.
+The alert concerns a [cyberattack on Onamae Desktop Cloud](https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/) , a popular VPS provider in Japan operated by GMO Internet, a member of GMO Internet Group and one of Japan's largest domain registrars.
+Last week, the company announced it detected an intrusion on October 20 that could have installed malware on up to 26,739 customers' servers.
+To minimize the risk, the company shut down the servers and reduced service availability before launching an investigation.
+The internet company assured customers that their payment information had not been exposed but warned that MetaTrader 4 and MetaTrader 5 (MT4/MT5) credentials and trading-account details may have been exposed or compromised. It urged customers to reset their passwords and terminate active sessions.
+
+## Cyberattack escalation
+Subsequent updates from the company [confirmed that data had been stolen](https://group.gmo/info/alert/20261024/) and that the attacker was demanding a ransom of ¥8 billion ($50 million), which GMO said it would not pay. Instead, the company announced it would compensate each customer ¥5,000 ($30) for the inconvenience caused.
+On October 26, [GMO warned](https://group.gmo/info/alert/2026102602/) that threat actors planned to leak customer information online and trigger a ransomware payload planted on customer servers earlier in the attack.
+The next day, the company [asked customers to disconnect their PCs](https://group.gmo/info/alert/20261027/) from the internet, shut them down, and unplug all cables before noon, while it worked with Trend Micro to recover from the cyberattack.
+“Once you have a backup, disconnect the network, power it down, and unplug the cord that connects to your PC,” advised GMO to customers.
+iNSTRUCTIONS **Instructions to customers**
+_Source: GMO_
+The company said it was scanning customer systems to determine whether malware was still present, and offered equivalent PC replacements to those who suffered damages from a ransomware attack.
+In a report published earlier today, GMO confirmed that the threat actor had [published company and customer data](http://group.gmo/info/alert/2026102703/) , prompting efforts to verify the authenticity of the leaked information.
+For customers whose information was exposed, GMO said it will consider additional financial compensation.
+It appears that the attacker never acted on their threat, as no ransomware was activated on customer machines.
+The company [warned people and the media](https://group.gmo/info/alert/2026102704/) not to disseminate the exposed information, announcing it will take legal action against those who do, while reaffirming its refusal to pay the attackers.
+
+...
+
+## [Once attackers have valid credentials, only 37% of their actions are blocked](https://hubs.li/Q04sB3fb0)
+The Blue Report 2026 measures defenses technique by technique across 338 million simulations run in customer production environments.
+[Get the report](https://hubs.li/Q04sB3fb0)
+
+...
+
+### You may also like:
+#### Reporter
+##### Help us understand the problem. What is going on with this comment?
+* Spam
+* Abusive or Harmful
+* Inappropriate content
+* Strong language
+* Other
+Read our [posting guidelinese](https://www.bleepingcomputer.com/posting-guidelines/) to learn what content is prohibited.
+SUBMIT

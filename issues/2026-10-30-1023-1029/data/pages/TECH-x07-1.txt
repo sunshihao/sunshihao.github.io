@@ -1,0 +1,189 @@
+Skip to main content
+Join Tom’s Hardware today
+EXPLORE
+Choose how you want to join Tom’s Hardware
+MEMBER
+
+Get started with free access to reviews, badges and discussions.
+
+BECOME A MEMBER
+PREMIUM MEMBER
+
+Unlock exclusive tools and insights for enthusiasts who want more.
+
+Bench Database
+Exclusive Features
+Roadmaps
+Deep Analysis
+BECOME A PREMIUM MEMBER
+Tom's Hardware
+US Edition
+RSS
+Sign in
+Search
+Best Picks
+CPUs
+GPUs
+PC Components
+News
+Laptops
+Desktops
+Software & AI
+Coupons
+Premium
+Forums
+TRENDING
+RTX Spark Deals
+Nova Lake
+RAM Shortage
+AI Data Centers
+TH App
+RAM Combo Deals
+Vera Rubin
+Tom's 30th Anniversary
+Tech Industry  Data Centers
+Illegal Nvidia Blackwell Ultra B300 GPUs found inside state-owned China Telecom's network — Nvidia says chip smuggling is 'a drop in the bucket,' insists it remains a non-factor
+News
+By Oliver Haslam
+Published October 23, 2026
+
+A security firm was able to spot 32 of the high-powered chips within the state-owned telecom company's network, but it can't pinpoint where they are physically located.
+
+When you purchase through links on our site, we may earn an affiliate commission. Here’s how it works.
+
+(Image credit: Getty / Bloomberg)
+Share this article
+9
+Join the conversation
+Add us as a preferred source on Google
+Newsletter
+Subscribe to our newsletter
+
+Lava, an Israeli security firm, says that it has been able to identify 32 Nvidia Blackwell Ultra B300 chips within the network of China Telecom, a state-owned company that provides telecommunications services within the country. These same chips have already been barred from export by U.S. export controls, a report by The Information notes, which begs the question of how they have turned up in a Chinese data center. Such chips can only be sold to whitelisted buyers who agree not to export them to sanctioned parties, including those in China.
+
+However, banning companies from buying Nvidia's high-performance GPUs and AI data center chips hasn't always worked. In 2025, it was reported that Chinese companies smuggled $1 billion worth of Nvidia AI chips into the country in three months. At the time, the B200 chips were the most sought-after, but some distributors were already gearing up to sell B300-series chips when they became available.
+
+While the latest finding shows that the proliferation of export-controlled chips into China continues to be an issue, Nvidia has downplayed the report but didn't deny the findings. "Governments, researchers, and media have all found insignificant diversion of controlled US products, less than one half of one percent in recent court cases — a drop in the bucket compared to the ocean of domestic compute China already has," an Nvidia spokesperson told Tom's Hardware. "With tens of millions of GPUs in service in approved countries, this report again demonstrates that smuggling is a nonfactor, blocked by governments on both sides of the globe."
+
+Latest Videos From
+Tom's Hardware
+
+It's unknown how B300 chips found their way into China Telecom's server racks, nor can Lava confirm exactly where within the company's network they are located. But they are there, with Lava identifying them via Nvidia's own DCGM Exporter tool. The software can be installed by data center operators and is used to monitor server health and performance, and while designed for internal use, it can oftentimes be accessed beyond the data center's network. Oddly, it doesn't always require password authentication, either. Nvidia previously confirmed it was working on a tool that would allow its chips to be located, but it is yet to be released.
+
+It's easy to see why Chinese firms are keen to get their hands on the Blackwell Ultra B300. Announced in March of last year, the data center GPU is one of the most powerful on the planet, offering huge performance gains with 50% more memory and FP4 compute than the previous-generation B200. At the time, Nvidia touted that the chip was "built for the age of reasoning," while name-checking more sophisticated AI LLMs like DeepSeek R1. At the time of its announcement, the B300 was expected to ship by the end of 2025, and it didn't take long for it to become hot property. In August 2026, nine people were indicted in Taiwan over the illegal export of B300 GPUs to China. This came just days after Supermicro confirmed that it had fired several employees following an investigation into smuggling. The complicated smuggling process included the use of a Taiwanese server trading firm called Flying Tiget Tech — a firm with whitelisted status for GPU purchases.
+
+YOU MAY LIKE
+Nine indicted by Taiwan over illegal export of Nvidia B300 GPUs to China — details reveal five-point strategy to exploit and avoid customs controls
+Investigative report details how export-restricted Nvidia AI chips reach China
+China’s tech giants drop $35 billion on export-compliant Nvidia RTX Pro 5500 workstation GPU orders to power AI ambitions, according to reports
+
+Nvidia's chips have proven so vital to AI data centers that demand for even its older silicon has caused skyrocketing prices. The company's A100 servers have tripled in price, despite being five years old, and can cost up to $82.,000. The ongoing crackdown on Nvidia chip smuggling has even seen some resort to retooling gaming GPUs to run AI workloads where possible.
+
+Follow Tom's Hardware on Google News, or add us as a preferred source, to get our latest news, analysis, & reviews in your feeds.
+
+Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
+
+Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
+
+Contact me with news and offers from other Future brands
+Receive email from us on behalf of our trusted partners or sponsors
+By submitting your information you agree to the Terms & Conditions and Privacy Policy and are aged 16 or over.
+TOPICS
+Data Center
+Nvidia
+ SEE ALL COMMENTS (9)
+Oliver Haslam
+Contributing Writer
+
+Oliver Haslam has written about technology of all shapes and sizes for over 15 years, both online and in print. He's fascinated by how personal computing continues to change as tower PCs give way to foldable phones and beyond.
+
+READ MORE
+Artificial Intelligence
+Investigative report details how export-restricted Nvidia AI chips reach China
+ 
+ 
+GPUs
+China’s tech giants drop $35 billion on export-compliant Nvidia RTX Pro 5500 workstation GPU orders to power AI ambitions, according to reports
+ 
+ 
+GPUs
+Chinese AI companies buy 1 million Nvidia GPUs in a single year, report claims
+ 
+ 
+Artificial Intelligence
+California tech CEO arrested, faces up to 20 years in prison for smuggling $300 million in Nvidia AI servers to China
+ 
+ 
+Policy
+H200s finally reach China under case-by-case import licenses, but it's already too late for Nvidia
+ 
+ 
+GPUs
+First Nvidia H200 shipments reach China, ByteDance and Tencent take deliveries as Beijing loosens its import block
+ 
+ 
+LATEST IN DATA CENTERS
+Data Centers
+SpaceX closes $40 billion debt financing for GPUs expected in the first half of 2027, Musk says
+ 
+ 
+Data Centers
+Ukrainian drone attacks hammer Russia's finance ministry data center, damaged facility reportedly holds tax databases
+ 
+ 
+Data Centers
+Nvidia eyes converting old nuclear plants into massive AI data centers
+ 
+ 
+Data Centers
+Texas has suspended 17 data center construction permits and shut down automated portal that rubber-stamped projects
+ 
+ 
+Data Centers
+Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia
+ 
+ 
+Data Centers
+Wolves roam into Finnish villages after Google destroys 1,300 acres of forest for AI data centers
+ 
+ 
+LATEST IN NEWS
+Laptops
+Apple launches new MacBook Pro with touchscreen and OLED — starts at $2,899
+ 
+ 
+Policy
+Malaysia seizes $12 million worth of advanced AI chips hidden inside 30 servers
+ 
+ 
+Artificial Intelligence
+Amazon tells engineers to stop ‘tokenmaxxing’ to look productive
+ 
+ 
+Manufacturing
+AI component hikes force the world's largest PC makers to return manufacturing capacity to China
+ 
+ 
+Tech Industry
+US Marines join NATO mission in the Baltic Sea to protect undersea cables from sabotage as Russia continues to lurk
+ 
+ 
+Manufacturing
+SK hynix-owned Solidigm is plotting a new $45 billion flash memory factory for the US, report claims
+ 
+ 
+
+Tom's Hardware is part of Future US Inc, an international media group and leading digital publisher. Visit our corporate site.
+
+Add as a preferred source on Google
+Terms and conditions
+Contact Future's experts
+Privacy policy
+Cookies policy
+Accessibility Statement
+Advertise with us
+About us
+Coupons
+Careers
+
+© Future US, Inc. Full 7th Floor, 130 West 42nd Street, New York, NY 10036.

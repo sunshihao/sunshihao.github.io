@@ -1,0 +1,158 @@
+[Skip Navigation](https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html#MainContent)
+
+Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop
+
+- [Livestream](https://www.cnbc.com/live-tv/)
+
+
+CREATE FREE ACCOUNT
+
+[Markets](https://www.cnbc.com/markets/)
+
+[Business](https://www.cnbc.com/business/)
+
+[Investing](https://www.cnbc.com/investing/)
+
+[Tech](https://www.cnbc.com/technology/)
+
+[Politics & Policy](https://www.cnbc.com/politics/)
+
+[Video](https://www.cnbc.com/tv/)
+
+[Watchlist](https://www.cnbc.com/watchlist/)
+
+[Investing Club](https://www.cnbc.com/investingclub/subscribe?__source=investingclub|globalnav|join&tpcc=investingclub|globalnav|join)
+
+![Join IC](https://static-redesign.cnbcfm.com/dist/93743f20be95b721880f.svg)
+
+[PRO](https://www.cnbc.com/application/pro?__source=pro|globalnav|join&tpcc=pro|globalnav|join)
+
+![Join Pro](https://static-redesign.cnbcfm.com/dist/69ae09b80acd376e9c97.svg)
+
+[Livestream](https://www.cnbc.com/live-tv/)
+
+Menu
+
+Key Points
+
+- Apple announced its first laptop with a touchscreen will go on sale Nov. 6.
+- The launch signifies the growing strategic importance of the Mac to Apple, despite it generating less revenue than the iPhone.
+- Global PC shipments have fallen and Apple faces pressure from rising memory costs and higher computer prices.
+- Touchscreens have not typically driven laptop purchases, making Apple’s software changes and developer strategy central to whether the feature catches on.
+
+In this article
+
+- [AAPL+3.14 (+0.90%)![After Hours](https://static-redesign.cnbcfm.com/dist/1b0cc41fb0c34e043aa0.svg)](https://www.cnbc.com/quotes/AAPL)
+
+Follow your favorite stocksCREATE FREE ACCOUNT
+
+![Apple's new touchscreen Macbook Pro — first impressions](https://image.cnbcfm.com/api/v1/image/108476495-1793219040763-C617900_09_24_00Still052.jpg?v=1793226192&w=750&h=422&vtcrop=y)
+
+watch now
+
+VIDEO1:5901:59
+
+Apple’s new touchscreen Macbook Pro — first impressions
+
+[News Videos](https://www.cnbc.com/news-videos/)
+
+Apple on Wednesday announced its first laptop with a touchscreen, which it’s calling MacBook Pro with ProLED XDR Display.
+
+Apple said the laptop has a new display, using OLED technology, that offers more brightness, better colors and wider viewing angles. It’s using Apple’s M5 Pro or Max chips, and Apple said Wednesday that it’s lighter than Apple’s current Pro laptops.
+
+It’s still an Apple laptop, and is running MacOS, not a version of the iPhone or iPad operating system. In a video, Apple showed users swiping on the screen to manipulate videos or images. It also has a glowing Apple logo on the laptop’s lid.
+
+The new laptop will go on sale Nov. 6 and the 14-inch version will start at $2,899. The 16-inch version will cost at least $3,399. Both are notable price increases from existing models.
+
+This is Apple’s third major product launch under new CEO John Ternus, signaling a faster cadence for hardware releases. It’s also a major reversal for Apple, which has resisted putting touchscreens on its laptops for decades as some Windows machines gained the feature.
+
+![German-Russian record producer and DJ Zedd (L) and Apple CEO John Ternus look at the new M6 14-inch MacBook Pro during the Apple Experience LA event in Los Angeles, on October 28, 2026. (Photo by Frederic J. Brown / AFP via Getty Images)](https://image.cnbcfm.com/api/v1/image/108475791-1793209938147-gettyimages-2301899661-AFP_D4QA43J.jpeg?v=1793216686&w=1858&h=1045&vtcrop=y)
+
+German-Russian record producer and DJ Zedd, at left, and Apple CEO John Ternus look at the new M6 14-inch MacBook Pro during the Apple Experience LA event in Los Angeles, Oct. 28, 2026.
+
+Frederic J. Brown \| Afp \| Getty Images
+
+“Yes, for the very first time, we are bringing touch to the Mac,” Ternus said in live remarks to media and analysts in Los Angeles.
+
+The laptop market has been going through one of its worst slumps ever. Overall shipments are expected to be down 11% this year. Analysts say the AI-driven global market shortage of memory has contributed to higher laptop prices, which has hurt sales and demand.
+
+In the third quarter, total PC shipments dropped 20% on a year-over-year basis, according to market researcher IDC. Apple’s own shipments fell 11% during the quarter, according to the estimate.
+
+Even Apple’s not immune to rising memory prices, after then-CEO Tim Cook warned this summer that the situation around memory prices was “unsustainable.” Nearly all Macs got price hikes this year. Mac Minis introduced in August got a $300 bump, for example.
+
+The announcement caps a busy two months of product launches under Ternus.
+
+Apple also introduced [new iMac](https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/) and [MacBook Pro models](https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/) with M6 chips this week, after price hikes to the lineup totaling several hundred dollars in June. Apple introduced an iPad Mini on Monday that starts at $699, $100 more than its predecessor.
+
+![Attendees play with the new Touchscreen MacBook Pro (OLED) during the Apple Experience LA in Los Angeles on October 28, 2026. (Photo by Frederic J. Brown / AFP via Getty Images)](https://image.cnbcfm.com/api/v1/image/108475798-1793210354810-gettyimages-2301902133-AFP_D4QA44C.jpeg?v=1793218883&w=1858&h=1045&vtcrop=y)
+
+Attendees try out the new touchscreen MacBook Pro during the Apple Experience LA in Los Angeles, Oct. 28, 2026.
+
+Frederic J. Brown \| AFP \| Getty Images
+
+In September, Apple released new iPhones, including its first foldable phone, the iPhone Duo. It also revealed a new smart speaker with a display called HomeView that uses a redesigned version of Siri to answer a broader range of questions.
+
+The launch signifies the growing strategic importance of the Mac to Apple, despite it generating less revenue than the iPhone. In the most recent quarter, Apple reported $10.35 billion in Mac sales, or just under 10% of the company’s total revenue.
+
+But many software developers swear by the Mac, and it remains the only supported platform to develop iPhone apps. And in recent months, Apple has highlighted its chips and memory architecture to make the case that its computers are the best fit for local or edge AI that runs on a device, instead of the cloud.
+
+Meta’s AI model developer team [bought hundreds](https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html) of Mac Minis this year to test agents, for example. And Apple notably [teamed up with Meta](https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html) earlier this month to make an announcement that large, nearly frontier models can run on clusters of Macs connected with high-speed cabling, allowing developers to run agentic code without paying Anthropic or OpenAI.
+
+## Read more CNBC tech news
+
+- [AI build-out hits snag as Google and Microsoft put off raising capex forecasts](https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html)
+- [Alphabet earnings miss reflects first real sign that AI is taking a bite out of search](https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html)
+- [As Waymo expands overseas, it remains a niche cash-burning business](https://www.cnbc.com/2026/10/28/as-waymo-expands-overseas-it-remains-a-niche-cash-burning-business.html)
+- [Hands-on with Apple’s first touchscreen laptop: Touch is totally optional](https://www.cnbc.com/2026/10/28/apple-touchscreen-macbook-pro-hands-on.html)
+
+Apple has had a historical resistance to touchscreen laptops. Software chief Craig Federighi [said](https://www.wired.com/story/wwdc-2018-federighi-ios-apps-on-macos) in 2018 that the ergonomics would fatigue users.
+
+“We make the world’s best touch computer on an iPad,” Ternus, then Apple’s senior VP of hardware engineering, [told The Wall Street Journal](https://www.wsj.com/tech/personal-tech/apple-macbook-pro-laptop-review-2021-11635451575) in 2021. “It’s totally optimized for that. And the Mac is totally optimized for indirect input. We haven’t really felt a reason to change that.”
+
+Ternus has been working on Macs since he joined the company and was credited along with silicon chief Johny Srouji as the leader of Apple’s effort to get Macs running on Apple’s chips, not Intel’s. Apple credited Ternus’ work on Mac in [its official CEO transition statement](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/).
+
+That may be why Ternus in his early days as CEO will be the executive to backtrack on a long-running Apple design philosophy.
+
+Touchscreen laptops have been available on Windows machines for a long time, but they’re just another feature, not a selling point behind most purchasing decisions, said Ryan Reith, IDC’s vice president for worldwide device trackers.
+
+Only 17% of notebook PCs shipped globally this year will have touchscreens, according to IDC data. Touchscreen laptops also have a slightly lower average selling price than non-touchscreen notebooks.
+
+Hardware technology hasn’t been the limiting factor for Apple merging its desktop and mobile interfaces, he added, and Apple could have been waiting to launch a touchscreen laptop until it could present a good user experience and perfect its software after attempts to make its iPad more like a laptop.
+
+“This is really a user interface and software thing,” Reith said. “It’s one more thing that can draw the developers in.”
+
+![First Wall Street checks show iPhone Duo demand holding despite early display issues](https://image.cnbcfm.com/api/v1/image/108466799-mack_hit_social.jpg?v=1793069276&w=750&h=422&vtcrop=y)
+
+watch now
+
+VIDEO1:1601:16
+
+First Wall Street checks show iPhone Duo demand holding despite early display issues
+
+[Closing Bell](https://www.cnbc.com/closing-bell/)
+
+[Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.](https://www.google.com/preferences/source?q=https://www.cnbc.com/)
+
+Trending Now
+
+1. [![A gold-colored token bearing the Bitcoin symbol.](https://image.cnbcfm.com/api/v1/image/108373743-1791342277720-gettyimages-2296543585-img_3420.jpeg?v=1793320464&w=200)](https://www.cnbc.com/2026/10/30/bitcoin-ether-price-binance-security-scare-rattles-crypto-markets.html)
+[Bitcoin tumbles below $78,000 as Binance security scare rattles crypto markets](https://www.cnbc.com/2026/10/30/bitcoin-ether-price-binance-security-scare-rattles-crypto-markets.html)
+
+2. [![Intel CEO Lip-Bu Tan speaks during a keynote presentation at Computex in Taipei on June 2, 2026. ](https://image.cnbcfm.com/api/v1/image/108477591-1793228651801-gettyimages-2278665792-AFP_B4P96JT.jpeg?v=1793228835&w=200)](https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html)
+[Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance](https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html)
+
+3. [![Andy Jassy, CEO of Amazon, appears at an event organized by the company.](https://image.cnbcfm.com/api/v1/image/108342762-1785443278645-108342762-1785443064240-gettyimages-2265246744-20090101260310-99-780957.jpeg?v=1785443305&w=200)](https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html)
+[Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged](https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html)
+
+4. [![Bill McDermott, CEO of ServiceNow speaks with CNBC on May 5, 2026.](https://image.cnbcfm.com/api/v1/image/108302531-1793294032166-108302531-1778009344248-McDermott-1.jpg?v=1793294039&w=200)](https://www.cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html)
+[ServiceNow shares plunge 27% to worst day ever after earnings revive AI disruption fears](https://www.cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html)
+
+5. [![FedEx Corp. signage at the New York Stock Exchange (NYSE) in New York, US, on Monday, June 1, 2026. ](https://image.cnbcfm.com/api/v1/image/108314793-1780337957063-gettyimages-2278584352-US_STOCKS.jpeg?v=1780337979&w=200)](https://www.cnbc.com/investingclub/2026/10/29/fedex-freight-delivers-a-much-needed-quarterly-beat-where-we-stand-on-shares-now.html)
+[FedEx Freight delivers a much-needed quarterly beat. Where we stand on shares now](https://www.cnbc.com/investingclub/2026/10/29/fedex-freight-delivers-a-much-needed-quarterly-beat-where-we-stand-on-shares-now.html)
+
+
+reCAPTCHA
+
+Recaptcha requires verification.
+
+protected by **reCAPTCHA**

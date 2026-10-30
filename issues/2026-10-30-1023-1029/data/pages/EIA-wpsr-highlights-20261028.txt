@@ -1,0 +1,144 @@
+Weekly Petroleum Status Report/Energy Information Administration
+v
+For the week ending September 11, 2026, U.S. refineries processed 17.3 
+million barrels per day (b/d), down 256,000 b/d from the previous week, 
+at 96.8% capacity utilization. Gasoline output averaged 9.6 million b/d, and 
+distillate production decreased to 5.2 million b/d. 
+Crude oil imports increased 234,000 b/d to 7.1 million b/d, and the four-
+week average of 6.7 million b/d is 7.5% above the year-ago level. Gasoline 
+imports averaged 537,000 b/d; distillate imports averaged 114,000 b/d. 
+Commercial crude oil inventories (excluding the Strategic Petroleum 
+Reserve) decreased 0.6 million barrels to 423.4 million barrels, 1% above 
+the five-year average. Gasoline inventories increased 0.8 million barrels, 
+5% below the five-year average. Distillate inventories increased 1.6 million 
+barrels, 13% below the five-year average. Propane/propylene inventories 
+decreased 1.4 million barrels, 22% above the five-year average. Total 
+commercial petroleum inventories increased by 2.6 million barrels for the 
+week.
+Over the past four weeks, total product supplied averaged 20.5 million 
+b/d, down 0.6% year over year. The four-week average for gasoline product 
+supplied decreased 1.0% year over year to 8.8 million b/d, while the four-
+week average for distillate product supplied decreased 3.3% to 3.6 million 
+b/d. The four-week average for jet fuel product supplied increased 4.4% year 
+over year.
+The price for West Texas Intermediate crude oil was $101.27 per barrel on 
+September 11, 2026, $8.58 more than a week ago, and $38.25 more than a 
+year ago. The New Y ork Harbor spot price for conventional gasoline was 
+$3.376 per gallon, $0.131 more than a week ago, and $1.380 more than the 
+year-ago price. The spot price for No. 2 heating oil at New Y ork Harbor was 
+$4.910 per gallon, $0.456 more than a week ago, and $2.714 more than the 
+price last year.
+The national average retail price for regular gasoline increased to $4.319 per 
+gallon on September 14, 2026, $0.162 more than last week’s price, and $1.151 
+more than the year-ago price. The national average retail diesel fuel price 
+increased $0.318 to $6.285 per gallon, $2.546 more than the price one year 
+ago.
+Highlights
+Refinery Activity (Thousand Barrels per Day)
+Four Weeks Ending
+10/23/26 10/16/26 10/24/25
+Crude Oil Input to Refineries 16,567 16,500 15,594
+Refinery Capacity Utilization (Percent) 93.1 93.0 88.3
+Motor Gasoline Production 9,393 9,450 9,574
+Distillate Fuel Oil Production 5,218 5,179 4,723
+See Table 2.
+Stocks (Million Barrels)
+10/23/26 10/16/26 10/24/251
+Crude Oil (Excluding SPR)2 410.6 412.5 416.0
+Motor Gasoline3 209.2 205.3 210.7
+Distillate Fuel Oil3 102.8 104.3 112.2
+All Other Oils4 489.9 493.5 529.9
+Crude Oil in SPR 282.6 282.7 409.1
+Total4 1,495.1 1,498.2 1,677.8
+See Table 1.
+1 Year-ago data originally published for crude oil stocks included lease stocks which
+began being excluded from commercial crude oil inventories with data for the week ended
+October 7, 2016.
+2 Includes those domestic and Customs-cleared foreign crude oil stocks held at
+refineries and tank farms or in transit thereto, and in pipelines.
+3 Excludes stocks located in the "Northeast Heating Oil Reserve", "Northeast Regional
+Refined Petroleum Product Reserve", and "State of New York’s Strategic Fuels Reserve
+Program." For details see Appendix C.
+4 Prior to April 10, 2020 this included stocks of propylene held at terminals.
+Net Imports (Thousand Barrels per Day)
+Four Weeks Ending
+10/23/26 10/16/26 10/24/25
+Crude Oil 1,847 1,999 1,569
+Petroleum Products -6,213 -6,117 -5,344
+Total -4,365 -4,118 -3,774
+See Table 1.
+Products Supplied (Thousand Barrels per Day)
+Four Weeks Ending
+10/23/26 10/16/26 10/24/25
+Motor Gasoline 8,629 8,712 8,688
+Distillate Fuel Oil 3,978 3,913 4,002
+All Other Products 8,193 8,497 8,064
+Total 20,799 21,122 20,753
+See Table 1.
+Prices (Dollars per Gallon except as noted)
+10/23/26 10/16/26 10/24/25
+World Crude Oil (Dollars per Barrel) – – –
+Spot Prices
+WTI Crude Oil - Cushing  (Dollars per Barrel) 109.72 108.21 62.27
+Conv. Regular Gasoline - NYH 2.962 2.968 1.925
+No. 2 Heating Oil - NYH 4.912 4.804 2.299
+Ultra-Low Sulfur Diesel Fuel - NYH 5.162 5.102 2.447
+Propane - Mont Belvieu 1.125 1.113 0.664
+Retail Prices
+10/26/26 10/19/26 10/27/25
+Motor Gasoline - Regular 4.269 4.284 3.035
+Motor Gasoline - Midgrade 4.877 4.915 3.627
+Motor Gasoline - Premium 5.275 5.314 3.985
+On-Highway Diesel Fuel 6.352 6.276 3.718
+See Table 10,11,12,14.
+Prices (Dollars per Gallon except as noted)
+10/23/26 10/16/26 10/24/25
+World Crude Oil (Dollars per Barrel) – – –
+Spot Prices
+WTI Crude Oil - Cushing  (Dollars per Barrel) 109.72 108.21 62.27
+Conv. Regular Gasoline - NYH 2.962 2.968 1.925
+No. 2 Heating Oil - NYH 4.912 4.804 2.299
+Ultra-Low Sulfur Diesel Fuel - NYH 5.162 5.102 2.447
+Propane - Mont Belvieu 1.125 1.113 0.664
+Retail Prices
+10/26/26 10/19/26 10/27/25
+Motor Gasoline - Regular 4.269 4.284 3.035
+Motor Gasoline - Midgrade 4.877 4.915 3.627
+Motor Gasoline - Premium 5.275 5.314 3.985
+On-Highway Diesel Fuel 6.352 6.276 3.718
+See Table 10,11,12,14.Prices (Dollars per Gallon except as noted)
+10/23/26 10/16/26 10/24/25
+World Crude Oil (Dollars per Barrel) – – –
+Spot Prices
+WTI Crude Oil - Cushing  (Dollars per Barrel) 109.72 108.21 62.27
+Conv. Regular Gasoline - NYH 2.962 2.968 1.925
+No. 2 Heating Oil - NYH 4.912 4.804 2.299
+Ultra-Low Sulfur Diesel Fuel - NYH 5.162 5.102 2.447
+Propane - Mont Belvieu 1.125 1.113 0.664
+Retail Prices
+10/26/26 10/19/26 10/27/25
+Motor Gasoline - Regular 4.269 4.284 3.035
+Motor Gasoline - Midgrade 4.877 4.915 3.627
+Motor Gasoline - Premium 5.275 5.314 3.985
+On-Highway Diesel Fuel 6.352 6.276 3.718
+See Table 10,11,12,14.
+Prices (Dollars per Gallon except as noted)
+10/23/26 10/16/26 10/24/25
+World Crude Oil (Dollars per Barrel) – – –
+Spot Prices
+WTI Crude Oil - Cushing  (Dollars per Barrel) 109.72 108.21 62.27
+Conv. Regular Gasoline - NYH 2.962 2.968 1.925
+No. 2 Heating Oil - NYH 4.912 4.804 2.299
+Ultra-Low Sulfur Diesel Fuel - NYH 5.162 5.102 2.447
+Propane - Mont Belvieu 1.125 1.113 0.664
+Retail Prices
+10/26/26 10/19/26 10/27/25
+Motor Gasoline - Regular 4.269 4.284 3.035
+Motor Gasoline - Midgrade 4.877 4.915 3.627
+Motor Gasoline - Premium 5.275 5.314 3.985
+On-Highway Diesel Fuel 6.352 6.276 3.718
+See Table 10,11,12,14.
+Data for the week ending October 23 reflect benchmarking to the September Petroleum Supply Monthly containing July data. 
+– = Data Not Available.
+1  Distillate fuel oil stocks located in the “Northeast Heating Oil Reserve” are not included.
+Note: Data may not add to total due to independent rounding.

@@ -1,0 +1,3 @@
+# What to know about Starshield and why its disruption rattled Ukraine’s forces
+## What is Starshield?
+Starshield is SpaceX’s satellite program for governments and the military. Built on Starlink technology, it is designed for national security missions and includes secure communications, Earth observation and satellites equipped with specialized sensors. It also incorporates additional encryption and security measures for sensitive government operations.

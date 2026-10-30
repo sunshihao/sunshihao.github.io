@@ -1,0 +1,51 @@
+{
+ "tech-01": {
+  "file": "tech-01.jpg",
+  "credit": "Apple Newsroom",
+  "source_page": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
+  "image_url": "https://www.apple.com/newsroom/images/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/tile/Apple-MacBook-Pro-with-PROLED-XDR-Display-Touch-experience-261028-lp.jpg.og.jpg?202610291907",
+  "bytes": 157278
+ },
+ "ai-01": {
+  "file": "ai-01.jpg",
+  "credit": "Anthropic",
+  "source_page": "https://www.anthropic.com/news/s1-sec",
+  "image_url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+  "bytes": 29599
+ },
+ "ai-02": {
+  "file": "ai-02.jpg",
+  "credit": "CNBC / Getty Images",
+  "source_page": "https://www.cnbc.com/2026/10/28/doj-questions-nvidias-12point9-billion-hugging-face-deal.html",
+  "image_url": "https://image.cnbcfm.com/api/v1/image/108416313-1792099132044-gettyimages-2299644955-AFP_D3B329K.jpeg?v=1793222589&amp;w=1920&amp;h=1080",
+  "bytes": 199431
+ },
+ "ai-03": {
+  "file": "ai-03.jpg",
+  "credit": "Google",
+  "source_page": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+  "image_url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
+  "bytes": 90940
+ },
+ "fut-01": {
+  "file": "fut-01.jpg",
+  "credit": "CNBC / Getty Images",
+  "source_page": "https://www.cnbc.com/2026/10/28/oil-price-today-wti-brent-hormuz.html",
+  "image_url": "https://image.cnbcfm.com/api/v1/image/108419670-1792156386789-gettyimages-2299888156-US_OIL.jpeg?v=1792156436&amp;w=1920&amp;h=1080",
+  "bytes": 269120
+ },
+ "fm-03": {
+  "file": "fm-03.jpg",
+  "credit": "Instacart 官方",
+  "source_page": "https://company.instacart.com/pressreleases/doordash-to-acquire-instacart-to-help-local-stores-win",
+  "image_url": "https://images.contentstack.io/v3/assets/blta100b44b847ff4ca/blt89fcb9e991733278/6ae3266d629a084ddbb2bdb5/D_I_Lockup-Social_1200x600_1.png",
+  "bytes": 38923
+ },
+ "tech-09": {
+  "file": "tech-09.jpg",
+  "credit": "Digitimes",
+  "source_page": "https://www.digitimes.com/news/a20261023VL220/nvidia-chips-security-blackwell-china-telecom.html",
+  "image_url": "https://img.digitimes.com/newsshow/20261023vl220_files/2_2b.jpg",
+  "bytes": 215220
+ }
+}

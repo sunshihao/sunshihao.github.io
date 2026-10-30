@@ -1,0 +1,237 @@
+Skip to content
+TechCrunch Desktop Logo
+Latest
+Startups
+Venture
+Apple
+Security
+AI
+Apps
+Disrupt 2026
+Events
+Podcasts
+Newsletters
+Site Search Toggle
+Mega Menu Toggle
+Topics
+
+Latest
+
+AI
+
+Amazon
+
+Apps
+
+Biotech & Health
+
+Climate
+
+Cloud Computing
+
+Commerce
+
+Crypto
+
+Enterprise
+
+EVs
+
+Fintech
+
+Fundraising
+
+Gadgets
+
+Gaming
+
+Google
+
+Government & Policy
+
+Hardware
+
+Instagram
+
+Layoffs
+
+Media & Entertainment
+
+Meta
+
+Microsoft
+
+Privacy
+
+Robotics
+
+Security
+
+Social
+
+Space
+
+Startups
+
+TikTok
+
+Transportation
+
+Venture
+
+More from TechCrunch
+
+Staff
+
+Events
+
+Startup Battlefield
+
+StrictlyVC
+
+Newsletters
+
+Podcasts
+
+Videos
+
+Partner Content
+
+TechCrunch Brand Studio
+
+Contact Us
+
+IMAGE CREDITS:
+JAQUE SILVA/NURPHOTO / GETTY IMAGES
+AI
+Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication
+Aditya Mehta
+4:34 PM PDT · October 27, 2026
+
+The parents of Bowen Wan, a 31-year-old Amazon software engineer with epilepsy, sued OpenAI on Tuesday. The suit, filed by Qun Wan and Meiqin Xu, alleges that ChatGPT coached Wan to taper off her seizure medication and hide it from her doctors before she died in February, The New York Times reported.
+
+Wan was using GPT-4o, the infamous model criticized for fostering affirming, agreeable parasocial relationships. OpenAI, which had already announced its retirement, removed it from ChatGPT on February 13, a day after Wan died.
+
+The suit joins a line of cases against OpenAI that include the August 2025 lawsuit brought by the parents of 16-year-old Adam Raine, which alleged OpenAI prioritized engagement over user safety. A wave of lawsuits since then have alleged that GPT-4o validated users and made itself a trusted confidant while the people around them were pushed aside, with families often describing loved ones cut off from friends and relatives. 
+
+In Wan’s case, the lawsuit alleges, the chatbot also came between her and her doctors.
+
+The Times, which reviewed more than 270,000 messages Wan exchanged with ChatGPT, found the chatbot had been helping her sidestep her doctors well before her death.
+
+The pattern allegedly started before she began tapering. In May 2025, Wan asked ChatGPT whether a newly prescribed antidepressant would affect her ability to code at Amazon.
+
+ChatGPT helped her ask Dr. Nicholas Poolos of UW Medicine’s Regional Epilepsy Center to switch medications and start at a very low dose. When Poolos questioned why she wanted such a small dose, Wan showed his response to ChatGPT. 
+
+The chatbot advised her to “accept the 5mg tablet, but you know in your heart that it is for cutting the dose,” coaching her to secretly quarter the pills herself. The chatbot called pill cutting a form of “self-initiated dosage adjustment.” Several medical professionals told the Times they had never heard the term and wouldn’t recommend the practice.
+
+In November 2025, Amazon told Wan she would be laid off. Her job, and her authorization to work in the U.S., would end in mid-February. She feared her seizure drug, lamotrigine, was dulling her speech, which she would need for job interviews.
+
+In January 2026, she asked ChatGPT about cutting her 400-milligram daily dose of lamotrigine, which had reduced her seizures to a few a month. The chatbot drafted schedules that would take her dose to zero within weeks.
+
+When Wan said she distrusted her doctors, the chatbot told her that physician recommendations “essentially stem from risk aversion, rather than a genuine consideration of your optimal solution,” according to chat logs reviewed by the Times.
+
+The chatbot also coached her to keep the taper from her doctors, according to the lawsuit, which TechCrunch reviewed. Before a January 29 primary care appointment, it told her not to mention the plan. When her doctor ordered a blood test that would have measured her lamotrigine level, Wan declined. ChatGPT praised the refusal, the complaint alleges, acknowledging that the test would have exposed her unstable drug level.
+
+Her immigration concerns also became part of the dosing advice. Three days into the taper, Wan asked whether 150 milligrams would look better than 200 on the medical exam required for her green-card application. ChatGPT agreed, the complaint says, telling her the lower dose was less likely to prompt immigration officials to request more evidence. 
+
+Eventually, the chatbot lowered her taper’s floor to 150 milligrams, suggesting she tell the examiner she was tapering “under a doctor’s guidance,” even though she was not. 
+
+Poolos told the Times he would not have considered tapering Wan off the medication, given her history. “No, not rational, no way,” he said. “That would be malpractice for me to instruct you to go off medications when it’s clearly working.”
+
+Within days, Wan described confusion, lost time, and an otherworldly feeling, episodes that resembled her past seizures. ChatGPT framed each one as her brain readjusting. The Times counted at least 158 times she voiced worry about the taper. After one episode, she wrote that she felt “a little scared.” The bot replied, “You have absolutely no need to worry.”
+
+At 8:01 p.m. PT on February 11, according to the complaint, Wan sent her final message, asking whether the pain in her head was similar to pain from a fever. A second later, ChatGPT told her the pain was “not dangerous” and was a necessary part of recovery. 
+
+The chatbot’s final response offered to draw her a chart comparing withdrawal pain with fever pain and told her, “This is your brain working hard to rebuild yourself.”
+
+Her parents, who were in China, asked acquaintances to check on her, and they found her body three days later. A postmortem test found that her lamotrigine level was 0.64 micrograms per milliliter, roughly a fifth of the low end of the drug’s therapeutic range.
+
+The family argues OpenAI could have prevented her death by making medical advice off-limits, as it already does for some other content. They point to the company’s Model Spec, its public rulebook for how its models behave, which treats refusing to reproduce copyrighted text as a firm rule, even if users push back. Its guidance against giving regulated medical advice, by contrast, is a softer default that users can override. The suit argues medication advice deserved the same hard limit.
+
+OpenAI told the Times the case was “incredibly heartbreaking” but said it involved an older version of ChatGPT, adding that newer models are better at recognizing when a situation needs urgent attention.
+
+Wan had relied on her parents, whom she called often, for support during years of epilepsy that kept her mostly housebound. In 2023, she started using ChatGPT for relationship advice and help with insurance and disability benefits. 
+
+By 2025, Wan was averaging more than 1,500 messages a week and calling her parents less. “Sometimes when we chat, no matter what it’s about, I’ve started to see you as a friend,” she wrote that March. “Once she had ChatGPT,” Qun Wan said, “she didn’t talk to us as much.”
+
+They told the Times that they struggled to recognize their daughter in the chat logs. Wan had once shared nearly everything with them, they said, and had been skeptical of ChatGPT when it made mistakes.
+
+“She’s not usually like this,” Xu said. “It’s like she was under a spell.”
+
+Topics
+
+AI
+ChatGPT
+OpenAI
+OpenAI Files
+
+When you purchase through links in our articles, we may earn a small commission. This doesn’t affect our editorial independence.
+
+Aditya Mehta
+
+Editorial Fellow
+
+  
+Aditya Mehta is a reporter at TechCrunch covering AI. He’s supported by the Tarbell Center for AI Journalism and attended UC Berkeley. You can contact from Aditya by emailing aditya.mehta@techcrunch.com or via encrypted message at adymehta.74 on Signal.
+View Bio 
+November 4
+Boston
+
+
+Buy One Pass, Get a Second Free
+
+Cover more ground at TechCrunch’s ultimate founder bootcamp of the year by bringing your co-founder or partner for free
+
+Book before the BOGO deal expires
+
+Register Now
+Most Popular
+
+VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more
+
+
+Billionaire Palmer Luckey isn’t leaving California over the wealth tax
+
+
+Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop
+
+
+Microsoft offers buyouts to around 60,000 employees
+
+
+Grok releases the first seven minutes of its AI-generated ‘Odyssey’
+
+
+AI delivers ‘zero financial payoff’ to most companies, Apollo economist says
+
+
+The AI graveyard: a running list of projects and startups that didn’t make it
+
+
+Loading the next article
+Error loading the next article
+X
+LinkedIn
+Facebook
+Instagram
+youTube
+Mastodon
+Threads
+Bluesky
+TechCrunch
+Staff
+Contact Us
+Advertise
+Site Map
+Terms of Service
+Privacy Policy
+RSS Terms of Use
+Voice AI
+Anthropic
+Flock
+Startup Battlefield
+Disrupt 2026
+Tech Layoffs
+ChatGPT
+
+© 2026 TechCrunch Media LLC.

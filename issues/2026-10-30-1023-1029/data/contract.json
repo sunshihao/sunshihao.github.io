@@ -1,0 +1,20 @@
+{
+  "brief_date": "2026-10-30",
+  "as_of": "2026-10-30T08:55:00+08:00",
+  "timezone": "Asia/Shanghai",
+  "trigger": "用户口头请求：使用 skill 生成 2026-10-23 至 2026-10-29 的见闻合集",
+  "coverage": {
+    "start_local": "2026-10-23T00:00:00+08:00",
+    "end_local": "2026-10-29T23:59:59+08:00",
+    "start_utc": "2026-10-22T16:00:00Z",
+    "end_utc": "2026-10-29T15:59:59Z"
+  },
+  "categories": {
+    "foreign_politics": {"label": "国外政治", "quota": 10, "window_days": 7.4, "min_tier12_share": 0.6, "region_policy": "foreign_only"},
+    "foreign_markets": {"label": "国外财经/股市", "quota": 10, "window_days": 7.4, "min_tier12_share": 0.6, "region_policy": "foreign_only"},
+    "foreign_tech": {"label": "国外科技", "quota": 10, "window_days": 7.4, "min_tier12_share": 0.6, "region_policy": "foreign_only"},
+    "foreign_ai": {"label": "国外 AI", "quota": 10, "window_days": 7.4, "min_tier12_share": 0.6, "region_policy": "foreign_only"},
+    "cn_markets": {"label": "国内股市", "quota": 10, "window_days": 7.4, "min_tier12_share": 0.6, "region_policy": "any"},
+    "futures": {"label": "期货/大宗商品", "quota": 10, "window_days": 7.4, "min_tier12_share": 0.6, "region_policy": "any"}
+  }
+}
