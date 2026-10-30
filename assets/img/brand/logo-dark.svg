@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" role="img" aria-label="见闻周刊">
+  <title>见闻周刊 · 横版标志（深色底）</title>
+  <g transform="translate(40,45) scale(0.4)">
+    <path fill="#14795a" d="M68 32 H352 L480 160 V444 A36 36 0 0 1 444 480 H68 A36 36 0 0 1 32 444 V68 A36 36 0 0 1 68 32 Z"/>
+    <path fill="#14795a" opacity=".5" d="M352 32 L480 160 H352 Z"/>
+    <path fill="#f2f1ec" d="M92 240 Q256 108 420 240 Q256 372 92 240 Z"/>
+    <circle fill="#14795a" cx="256" cy="240" r="46"/>
+    <rect fill="#f2f1ec" x="172" y="368" width="168" height="20" rx="10" opacity=".9"/>
+  </g>
+
+  <text x="252" y="140" font-family="Songti SC, Source Han Serif SC, Noto Serif SC, Georgia, serif"
+        font-weight="700" font-size="78" fill="#e8e6e1" letter-spacing="6">见闻周刊</text>
+  <line x1="254" y1="176" x2="650" y2="176" stroke="#2a2a28" stroke-width="1.5"/>
+  <text x="254" y="212" font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+        font-size="17" fill="#8d8b85" letter-spacing="5">WEEKLY · HARD SOURCES</text>
+</svg>

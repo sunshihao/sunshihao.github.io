@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="见闻周刊">
+  <title>见闻周刊</title>
+  <!-- App 图标：版连着边铺满画布，iOS/Android 自己切圆角 -->
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f7a58"/>
+      <stop offset="1" stop-color="#07523b"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#g)"/>
+  <path fill="#fbfaf7" opacity=".1" d="M352 0 L512 160 V0 Z"/>
+  <path fill="#fbfaf7" d="M96 250 Q256 122 416 250 Q256 378 96 250 Z"/>
+  <circle cx="256" cy="250" r="52" fill="#076246"/>
+  <rect x="176" y="388" width="160" height="22" rx="11" fill="#fbfaf7" opacity=".9"/>
+</svg>

@@ -134,3 +134,8 @@ footer .wrap{padding-top:0;padding-bottom:0}
 .comment-note p{margin:0 0 .6em}
 .comment-note p:last-child{margin-bottom:0}
 .giscus,.giscus-frame{width:100%}
+
+/* 品牌图标 */
+.brand{display:inline-flex;align-items:center;gap:.5rem}
+.brand-mark{width:22px;height:22px;border-radius:5px;flex:none}
+footer .brand-mark{width:18px;height:18px}
