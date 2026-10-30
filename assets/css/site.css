@@ -114,3 +114,8 @@ footer .wrap{padding-top:0;padding-bottom:0}
   .wrap{padding:1.6rem 1rem 3.5rem}
   .hero img{height:240px}
 }
+
+/* 只有一期时，卡片铺满一行，别留半屏空白 */
+.cards:has(.card:only-child){grid-template-columns:1fr}
+.cards .card:only-child .thumb{aspect-ratio:21/7}
+@media(max-width:640px){.cards .card:only-child .thumb{aspect-ratio:16/9}}
