@@ -125,3 +125,12 @@ footer .wrap{padding-top:0;padding-bottom:0}
 .cards.gallery .thumb{aspect-ratio:4/3}
 .cards.gallery .body{padding:.55rem .65rem .7rem;gap:.2rem}
 .cards.gallery .sub{font-size:.74rem;line-height:1.5}
+
+/* 评论区 */
+.comments{margin:3.4rem 0 0;padding-top:1.2rem;border-top:1px solid var(--line)}
+.comments .hint{color:var(--muted);font-size:.86rem;margin:0 0 1.2rem}
+.comment-note{background:var(--card);border:1px dashed var(--line-strong);border-radius:12px;
+  padding:1.1rem 1.2rem;font-size:.9rem;color:var(--fg-soft)}
+.comment-note p{margin:0 0 .6em}
+.comment-note p:last-child{margin-bottom:0}
+.giscus,.giscus-frame{width:100%}

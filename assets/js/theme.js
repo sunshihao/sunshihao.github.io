@@ -25,6 +25,7 @@
     var next = current() === 'dark' ? 'light' : 'dark';
     try { localStorage.setItem(KEY, next); } catch (e) {}
     paint(next);
+    window.dispatchEvent(new CustomEvent('sw-theme-change', { detail: next }));
   };
   document.addEventListener('DOMContentLoaded', function () { paint(current()); });
   if (window.matchMedia) {
