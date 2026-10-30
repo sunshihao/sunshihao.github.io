@@ -53,11 +53,19 @@
       f.contentWindow.postMessage({ giscus: { setConfig: { theme: e.detail === 'dark' ? 'dark' : 'light' } } },
         'https://giscus.app');
     });
+    // giscus 只有真正跑起来才会给父页面发 resize 消息；收不到就说明应用没装/仓库没开 Discussions
+    var alive = false;
+    window.addEventListener('message', function (e) {
+      if (e.origin === 'https://giscus.app') alive = true;
+    });
     setTimeout(function () {
-      if (!document.querySelector('iframe.giscus-frame')) {
-        installHint('如果评论区一直空白，通常是没有在仓库上安装 <a href="https://github.com/apps/giscus" target="_blank" rel="noopener">giscus App</a>（装的时候勾选本仓库即可）。');
+      var f = document.querySelector('iframe.giscus-frame');
+      if (!alive) {
+        if (f) f.style.display = 'none';
+        installHint('评论区还不能用：需要在仓库上安装一次 <a href="https://github.com/apps/giscus" target="_blank" rel="noopener">giscus App</a>（勾选 sunshihao/sunshihao.github.io）。' +
+                    '装完不用改任何代码——页面上的 repoId / categoryId 已经配好。');
       }
-    }, 4000);
+    }, 6000);
     return;
   }
 
