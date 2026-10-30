@@ -119,3 +119,9 @@ footer .wrap{padding-top:0;padding-bottom:0}
 .cards:has(.card:only-child){grid-template-columns:1fr}
 .cards .card:only-child .thumb{aspect-ratio:21/7}
 @media(max-width:640px){.cards .card:only-child .thumb{aspect-ratio:16/9}}
+
+/* 正文里的图片墙：小卡片、密排 */
+.cards.gallery{grid-template-columns:repeat(auto-fill,minmax(min(100%,210px),1fr));gap:.7rem}
+.cards.gallery .thumb{aspect-ratio:4/3}
+.cards.gallery .body{padding:.55rem .65rem .7rem;gap:.2rem}
+.cards.gallery .sub{font-size:.74rem;line-height:1.5}
