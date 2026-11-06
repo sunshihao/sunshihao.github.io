@@ -1,0 +1,212 @@
+![Hugging Face's logo](/front/assets/huggingface_logo-noborder.svg)
+
+# [moonshotai](/moonshotai) / [Kimi-K3.1-Pro](/moonshotai/Kimi-K3.1-Pro) Like 4 Follow Moonshot AI 20.4k
+
+![](https://cdn-avatars.huggingface.co/v1/production/uploads/641c1e77c3983aa9490f8121/X1yT2rsaIbR9cdYGEVu0X.jpeg)
+![](https://cdn-avatars.huggingface.co/v1/production/uploads/641c1e77c3983aa9490f8121/X1yT2rsaIbR9cdYGEVu0X.jpeg)
+
+### Instructions to use moonshotai/Kimi-K3.1-Pro with libraries, inference providers, notebooks, and local apps. Follow these links to get started.
+
+How to use moonshotai/Kimi-K3.1-Pro with Transformers:
+
+How to use moonshotai/Kimi-K3.1-Pro with vLLM:
+
+##### Install from pip and serve model
+
+##### Use Docker
+
+How to use moonshotai/Kimi-K3.1-Pro with SGLang:
+
+##### Install from pip and serve model
+
+##### Use Docker images
+
+How to use moonshotai/Kimi-K3.1-Pro with Docker Model Runner:
+
+![Kimi K3.1 Pro](/moonshotai/Kimi-K3.1-Pro/resolve/main/assets/kimi-logo.png)
+![Chat](https://img.shields.io/badge/Chat-Kimi%20K3.1%20Pro-1783ff)
+![Homepage](https://img.shields.io/badge/Homepage-Moonshot%20AI-white?logo=Kimi&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Moonshot%20AI-ffc107)
+![X](https://img.shields.io/badge/X-Kimi.ai-white?logo=x&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-Kimi.ai-white?logo=discord&logoColor=white)
+![ModelScope](https://img.shields.io/badge/ModelScope-Moonshot%20AI-white?labelColor=rgb(99%2C%2074%2C%255))
+![License](https://img.shields.io/badge/License-Kimi_K3.1_Pro-f5de53?&color=f5de53)
+
+📰  [Tech Blog](https://www.kimi.ai/blog/kimi-k3-1-pro) |     **🚀  [API Quickstart](https://platform.kimi.ai/docs/guide/kimi-k3-1-pro-quickstart)**
+
+## 1. Model Introduction
+
+Kimi K3.1 Pro is an open-weight, natively multimodal agentic model, and our most capable 3T-class model to date. Post-trained from Kimi K3 with large-scale joint reinforcement learning across hundreds of downstream domains, it is the first model in the K3.1 series. With a 1-million-token context window, Kimi K3.1 Pro delivers substantial improvements in coding, 3D creation, financial research, factual accuracy, and other agentic capabilities.
+
+## 2. Model Summary
+
+|  |  |
+| --- | --- |
+| **Architecture** | Mixture-of-Experts (MoE) |
+| **Total Parameters** | 2.8T |
+| **Activated Parameters** | 104B |
+| **Number of Layers** | 93 |
+| **Number of Dense Layers** | 1 |
+| **Attention-Layer Composition** | 69 KDA + 24 Gated DSA\* |
+| **Attention Hidden Dimension** | 7168 |
+| **Number of Attention Heads** | 96 |
+| **DSA Index Head Dimension** | 128 |
+| **DSA Index Number of Heads** | 32 |
+| **DSA Index Top-K** | 2048 |
+| **Latent MoE Dimension** | 3584 |
+| **MoE Hidden Dimension** (per Expert) | 3072 |
+| **Number of Experts** | 896 |
+| **Selected Experts per Token** | 16 |
+| **Number of Shared Experts** | 2 |
+| **Vocabulary Size** | 160K |
+| **Context Length** | 1048576 |
+| **Attention Mechanism** | KDA & Gated DSA |
+| **Activation Function** | SiTU-GLU |
+| **Vision Encoder** | MoonViT-V2 |
+| **Parameters of Vision Encoder** | 401M |
+| **Quantization** | MXFP4 weights / MXFP8 activations (quantization-aware training) |
+| **Modality** | Text, Image |
+
+\* Compared with Kimi K3, we replace the full-attention Gated MLA layers with Gated DeepSeek Sparse Attention (Gated DSA) layers for more efficient long-context modeling.
+
+## 3. Evaluation Results
+
+Unless otherwise specified, all Kimi K3.1 Pro results use reasoning effort `max`, `temperature = 1.0`, and `top-p = 0.95`. A dash (`—`) means that the source table does not report a score. Higher scores are better except where the benchmark name explicitly states `lower is better`; Elo scores and other benchmark-specific metrics are not directly comparable with accuracy or pass-rate scores.
+
+`max`
+`temperature = 1.0`
+`top-p = 0.95`
+`—`
+`lower is better`
+
+| Benchmark | Kimi K3.1 Pro (max) | Claude Fable 5.1 (max, w/ fallback) | GPT-6 Astra (max, w/ fallback) | Claude Opus 5.5 (max, w/ fallback) | DeepSeek-V4.1-Flash-1017 (max) | GLM-5.3 (max) |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Coding** | | | | | | |
+| Terminal-Bench 4.0 | 65.7 | 57.9 | 58.2 | 66.4 | 42.3 | 41.8 |
+| Terminal-Bench-Science 0.1 | 38.1 | 40.0 | 68.1 | 63.3 | 15.7 | 8.1 |
+| SWE Marathon v1.1 | 51.7 | 45.6 | 42.5 | 46.3 | 40.0 | 42.5 |
+| BenchCAD w/o tools | 72.8 | 60.6 | — | 73.0 | 41.2 | — |
+| BenchCAD w/ tools | 92.7 | 92.6 | 95.9 | 96.2 | 81.6 | — |
+| Program Bench | 31.5 | 53.5 | 50.0 | 65.0 | 29.1 | 19.0 |
+| DeepSWE v1.1 | 75.5 | 67.4 | 74.1 | 74.2 | 77.0 | 66.9 |
+| PostTrain Bench v1.2 | 36.5 | 44.6 | 41.9 | 43.8 | 30.5 | 34.5 |
+| Kimi Code Bench 2.0 (Internal) | 77.1 | — | — | — | 76.1 | 61.7 |
+| Kimi Code Bench 3.0 Long-horizon (Internal) | 61.2 | 58.8 | 66.5 | 58.5 | 51.5 | 45.5 |
+| **Agentic** | | | | | | |
+| HLE-Full w/ tools | 70.0 | 65.6 | 57.2 | 67.7 | 58.8 | 62.5 |
+| BrowseComp | 92.1 | — | 91.5 | 90.8 | — | — |
+| BioMysteryBench | 80.6 | 81.6 | 78.9 | 81.9 | 80.0 | 79.6 |
+| CharXiv (RQ) w/ python | 93.4 | 92.7 | 92.8 | 93.8 | 85.6 | — |
+| MMMU-Pro w/ python | 90.0 | 88.4 | 87.8 | 89.8 | 82.5 | — |
+| GDP.pdf w/ python | 85.7 | 83.8 | 85.5 | 83.9 | 73.0 | — |
+| ChartoGraphy w/ python | 90.2 | 88.4 | 91.0 | 89.0 | 83.0 | — |
+| BabyVision w/ python | 95.4 | 95.1 | 96.6 | 97.7 | 92.5 | — |
+| ZeroBench\_main w/ python (pass@5) | 63.0 | 59.0 | 58.0 | 61.0 | 51.0 | — |
+| Agents' Last Exam (ALL) | 43.2 | — | 41.8 | 42.6 | 37.7 | 26.2 |
+| Agents' Last Exam (CLI) | 44.2 | — | 44.2 | 40.7 | 36.0 | 29.4 |
+| Automation Bench-AA | 73.3 | 59.4 | 68.5 | 69.5 | 66.6 | 62.2 |
+| GDPval-AA v2.1 (Elo-score) | 1846 | 1754 | 1573 | 1866 | 1746 | 1650 |
+| AA-Briefcase v1.1 (Elo-score) | 1678 | 1672 | 1569 | 1803 | 1570 | 1507 |
+| APEX-Agents | 69.4 | 68.6 | 64.7 | 73.5 | 69.8 | 56.6 |
+| OfficeQA Pro v2 | 64.4 | 54.5 | 54.4 | 62.2 | 40.4 | 31.1 |
+| OfficeQA Pro | 67.4 | 68.6 | 66.2 | — | 62.4 | 58.6 |
+| Frontier Finance | 58.6 | 60.8 | 45.0 | 56.7 | 54.5 | 57.5 |
+| Harvey Legal Agent | 23.7 | 19.1 | — | — | 21.0 | — |
+| HANDBOOK.md | 44.6 | 38.8 | — | 41.5 | 28.9 | 20.8 |
+| OSWorld V2.1 | 79.6 | 80.7 | 75.8 | 81.8 | 69.3 | — |
+| Business Operation (Internal) | 37.8 | 30.7 | 32.3 | — | 8.9 | 18.6 |
+| DECK-Arena (Internal, Elo-score) | 1456 | — | 1423 | 1253 | 1231 | 1119 |
+| Design Bench (Internal, Elo-score) | 957 | — | 1076 | 927 | 863 | 718 |
+| Kimi Hallu Bench Hard w/ tools (Internal, lower is better) | 8.3 | 23.3 | 5.5 | 15.0 | 23.3 | 22.6 |
+| **Reasoning & Knowledge & Multimodal** | | | | | | |
+| GDP.pdf | 34.6 | 27.6 | 34.2 | 30.6 | 17.2 | 11.2 |
+| HLE-Full | 51.1 | 57.6 | 53.6 | 59.8 | 42.6 | 43.0\* |
+| HLE-Diamond | 39.4 | 55.1 | 65.8 | 60.9 | 21.6 | 25.1\* |
+| GPQA-Diamond | 94.2 | 93.7 | 96.1 | 93.9 | 92.2 | 91.7 |
+| CharXiv (RQ) | 89.0 | 88.8 | 90.0 | 92.1 | 77.0 | — |
+| MMMU-Pro | 84.1 | 86.3 | 86.9 | 87.7 | 80.6 | — |
+| ZeroBench\_main (avg@5 / pass@5) | 29.8 / 39.0 | 23.0 / 35.0 | 43.2 / 52.0 | 35.0 / 43.0 | 11.8 / 23.0 | — |
+| PerceptionBench | 68.3 | 63.0 | 77.6 | 72.1 | 47.7 | — |
+| Kimi Hallu Bench w/o tools (Internal, lower is better) | 5.4 | 11.4 | 4.2 | 6.8 | 13.1 | 14.8 |
+| **Cyber Security** | | | | | | |
+| ExploitBench | 74.7 | 83.0 | 100 | 91.0 | — | 54.4 |
+| ExploitGym | 20.7 | 30.4 | 42.4 | 34.5 | — | 15.0 |
+| xdev-bench-hard (Internal) | 81.0 | — | — | — | 85.7 | 57.1 |
+
+#### Coding benchmarks
+
+#### Agentic benchmarks
+
+`temperature = 1.0`
+`top-p = 1.0`
+
+#### Reasoning, knowledge, and multimodal benchmarks
+
+`*`
+
+#### Cybersecurity benchmarks
+
+## 4. Deployment and Availability
+
+You can access Kimi K3.1 Pro's API on <https://platform.kimi.ai> by selecting `kimi-k3.1-pro`, and we provide OpenAI/Anthropic-compatible API for you.
+Currently, Kimi K3.1 Pro is recommended to run on the following inference engines:
+
+`kimi-k3.1-pro`
+
+## 5. Model Usage
+
+The thinking effort of Kimi K3.1 Pro is configured with the top-level `reasoning_effort` request field, which supports `"low"`, `"high"`, and `"max"` (default `"max"`).
+
+`reasoning_effort`
+`"low"`
+`"high"`
+`"max"`
+`"max"`
+
+For multi-turn conversations and tool calls, Kimi K3.1 Pro requires the complete assistant message returned by the API to be passed back to `messages` as-is — including `reasoning_content` and `tool_calls`, not just `content`:
+
+`messages`
+`reasoning_content`
+`tool_calls`
+`content`
+`import openai
+def chat_with_preserved_thinking(client: openai.OpenAI, model_name: str):
+messages = [
+{
+"role": "user",
+"content": "Tell me three random numbers."
+},
+{
+"role": "assistant",
+"reasoning_content": "I'll start by listing five numbers: 473, 921, 235, 215, 222, and I'll tell you the first three.",
+"content": "473, 921, 235"
+},
+{
+"role": "user",
+"content": "What are the other two numbers you have in mind?"
+}
+]
+response = client.chat.completions.create(
+model=model_name,
+messages=messages,
+stream=False,
+max_tokens=4096,
+reasoning_effort="max",
+)
+# the assistant should mention 215 and 222 that appear in the prior reasoning content
+print(f"response: {response.choices[0].message.reasoning}")
+return response.choices[0].message.content`
+
+For full guides and examples (vision input, structured output, partial mode, tool choice, dynamic tool loading, context caching), see the [Kimi K3.1 Pro Quickstart](https://platform.kimi.ai/docs/guide/kimi-k3-1-pro-quickstart) and [Thinking Effort](https://platform.kimi.ai/docs/guide/use-thinking-effort).
+
+## 6. License
+
+Kimi K3.1 Pro is released under the [Kimi K3.1 Pro License](https://huggingface.co/moonshotai/Kimi-K3.1-Pro/blob/main/LICENSE).
+
+## 7. Contact Us
+
+If you have any questions, please reach out at [support@moonshot.ai](mailto:support@moonshot.ai).
+
+Files info
+
+## Model tree for moonshotai/Kimi-K3.1-Pro

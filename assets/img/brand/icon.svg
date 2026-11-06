@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="见闻周刊">
+  <title>见闻周刊</title>
+  <style>
+    .plate { fill:#0b6e4f; }
+    .fold  { fill:#0b6e4f; opacity:.5; }
+    .paper { fill:#fbfaf7; }
+    .dot   { fill:#0b6e4f; }
+    @media (prefers-color-scheme: dark){
+      .plate { fill:#14795a; }
+      .fold  { fill:#14795a; }
+      .dot   { fill:#14795a; }
+    }
+  </style>
+
+  <!-- 刊物：圆角方版，右上折角 -->
+  <path class="plate"
+        d="M68 32 H352 L480 160 V444 A36 36 0 0 1 444 480 H68 A36 36 0 0 1 32 444 V68 A36 36 0 0 1 68 32 Z"/>
+  <path class="fold" d="M352 32 L480 160 H352 Z"/>
+
+  <!-- 见：一只眼的留白 -->
+  <path class="paper" d="M92 240 Q256 108 420 240 Q256 372 92 240 Z"/>
+  <circle class="dot" cx="256" cy="240" r="46"/>
+
+  <!-- 闻：一行正文 -->
+  <rect class="paper" x="172" y="368" width="168" height="20" rx="10" opacity=".9"/>
+</svg>

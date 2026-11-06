@@ -1,0 +1,31 @@
+[?subject=OpenAI-backed+Thrive+Holdings+acquires+ADT&body=Article%3A+https%3A%2F%2Ftechcrunch.com%2F2026%2F10%2F29%2Fopenai-backed-thrive-holdings-acquires-adt%2F](mailto:?subject=OpenAI-backed+Thrive+Holdings+acquires+ADT&%23038;body=Article%3A+https%3A%2F%2Ftechcrunch.com%2F2026%2F10%2F29%2Fopenai-backed-thrive-holdings-acquires-adt%2F) [](https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/)
+In Brief
+Posted:
+12:56 PM PDT · October 29, 2026
+**Image Credits:** Timon Schneider/SOPA Images/LightRocket / Getty Images
+* Julie Bort
+* [Julie Bort](https://techcrunch.com/author/julie-bort/)
+
+# OpenAI-backed Thrive Holdings acquires ADT
+Thrive Holdings has acquired physical security company ADT for $10 per share or about $7.6 billion in equity, the companies [announced](https://investor.adt.com/News--Events/news/news-details/2026/ADT-to-be-Acquired-by-Thrive-Holdings-in-15-3-Billion-Transaction/default.aspx) on Thursday. Beyond equity, the total enterprise value of the deal is $15.3 billion, ADT said.
+Thrive Holdings is the holding company spinout from Josh Kushner’s powerhouse VC firm Thrive Capital. It also counts OpenAI [as its partner](https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/) , as well as an investor. The firm’s mission is to hold other companies long-term, revitalizing them with AI. Currently, Thrive Holdings holds over 75 companies, it says.
+As a partner, OpenAI supplies AI models and tech as well as people, otherwise known as forward-deployed engineers, to Thrive’s companies.
+Neither ADT nor Thrive announced what new AI-powered security products they will be releasing, but they did tease that the plan was to invest and release new products. “ADT will form the foundation of Thrive Holdings’ smart home security business,” the press release said.
+
+...
+
+Amazon updated its smart home line, including [new AI-powered home cameras](https://www.aboutamazon.com/news/devices/new-alexa-devices-2026) . ADT already partners with Apple and Google and is expected to continue to do so. And who knows what the future might bring? Some [startups are offering AI dog robots as roving security guards](https://techcrunch.com/2025/07/22/robot-guard-dogs-help-asylon-raise-a-26m-series-b/) .
+_Note: This story was updated to include ADT’s current partnerships and to describe Thrive Holdings as a holding company._
+Topics
+
+...
+
+## Newsletters
+[See More](https://techcrunch.com/newsletters/)
+Subscribe for the industry’s biggest tech news
+
+### TechCrunch Daily News
+Every weekday and Sunday, you can get the best of TechCrunch’s coverage.
+
+### TechCrunch Mobility
+TechCrunch Mobility is your destination for transportation news and insight.

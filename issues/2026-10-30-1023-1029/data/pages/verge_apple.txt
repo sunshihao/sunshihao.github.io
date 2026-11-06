@@ -1,0 +1,67 @@
+The Verge The Verge logo. Tech Reviews Science Entertainment AI Policy Notifications Notifications Hamburger Navigation Button The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The Verge The Verge logo. Login / Sign Up close Close Search Light System Dark Tech Expand Amazon Apple Facebook Google Microsoft Samsung Business See all tech Reviews Expand Smart Home Reviews Phone Reviews Tablet Reviews Headphone Reviews See all reviews Science Expand Space Energy Environment Health See all science Entertainment Expand TV Shows Movies Audio See all entertainment AI Expand OpenAI Anthropic See all AI Policy Expand Antitrust Politics Law Security See all policy Gadgets Expand Laptops Phones TVs Headphones Speakers Wearables See all gadgets Verge Shopping Expand Buying Guides Deals Gift Guides See all shopping Gaming Expand Xbox PlayStation Nintendo See all gaming Streaming Expand Disney HBO Netflix YouTube Creators See all streaming Transportation Expand Electric Cars Autonomous Cars Ride-sharing Scooters See all transportation Features Verge Video Expand TikTok YouTube Instagram Podcasts Expand Decoder The Vergecast Version History Newsletters Archives Store Verge Product Updates Subscribe Facebook Threads Instagram Youtube RSS The Verge The Verge logo. All the news from Apple’s ‘Pro and tell’ event Notifications Notifications Comments Drawer Notifications Comments Loading comments Getting the conversation ready... Tech Updated Oct 29, 2026, 5:48 PM UTC All the news from Apple’s ‘Pro and tell’ event by Stevie Bonifield Link Share RSS Gift Apple announced its first touchscreen MacBook at its “Pro and tell” event on October 28th. It’s the latest first from Apple, arriving just a couple of weeks after Apple debuted the HomeView , its first smart display, and a little over a month after it announced the iPhone Duo , its first foldable.
+
+The Verge got a hands-on look at the touchscreen MacBook Pro following the event. It features Apple’s new “PROLED” XDR tandem OLED display, paired with an M5 Pro or M5 Max chip. It’s available in 14-inch and 16-inch sizes, starting at $2,899.
+
+During the October 28th event, The Verge ’s Antonio Di Benedetto also got a hands-on look at the updated iPad Mini with a larger OLED display Apple announced on October 26th . In the lead-up to the event, Apple also refreshed the iMac and entry-level MacBook Pro with M6 chips. The company’s been on a streak of product launches since John Ternus took over as its CEO on September 1st. So far, the flurry of new devices has also included the iPhone 18 Pro , new Apple Watches , the AirPods 5 , and the HomePod Mini 2 .
+
+Follow along here for all the latest news and updates.
+
+The new MacBook Pro brings with it a bunch of firsts for Apple laptops, the two flashiest being an OLED display and touchscreen functionality. But as an image-accuracy enthusiast, trained calibrator, and resident display expert, what excites me most about the MacBook Pro with PROLED XDR Display is the technology it uses to display an accurate picture. It’s the first laptop, and only the second product overall, to support Apple CMF 2026 color modes. It could be the future for displays.
+
+CMFs, or color-matching functions, mathematically represent how we perceive color, and there are a few different variations. The specification that’s been the standard for years is CIE 1931 (CIE stands for Commission Internationale de l’Éclairage, or International Commission on Illumination). For nearly a century, CIE 1931 has been a reliable calibration target, and most of the reference modes on the new MacBook use it.
+
+The new touchscreen OLED MacBook Pro’s redesigned chassis is only slightly thinner than the Mini LED model — especially comparing the 14-inchers, shown here. It’s when you pick them up that you really notice and can appreciate the lighter weight.
+
+Next 1 / 3 The 14-inch MacBook Pro with PROLED Display (left) is 0.02 inches / 0.5mm thinner than the 14-inch MacBook Pro with M6 (right). Photo: Antonio G. Di Benedetto / The Verge Oct 28 Richard Lawler
+
+Now that Apple’s touchscreen MBP is here, let’s roll back to what Steve Jobs had to say about touch on laptops.
+
+Antonio walks us through Apple’s PROLED laptop; check out our full first impressions right here .
+
+The new MacBook Pro with PROLED XDR Display has a section in System Settings for Touch Display controls. Much of it is for toggling similar gestures to the trackpad: Mission Control, Show Apps, Show Desktop, etc. You can turn off touchscreen funcions entirely, but that’s buried in Accessibility settings.
+
+With an OLED display and touchscreen capabilities , it’s no surprise that the new MacBook Pro Apple announced today is more expensive than the MacBook Pro announced earlier this year . But upgrading the base models — starting at $2,899 for the 14-inch and $3,399 for the 16-inch — with every premium hardware option that Apple offers pushes those prices to an eye-watering $14,249 and $14,549, respectively.
+
+Both of those premium configurations include the M5 Max chip with an 18-core CPU and 40-core GPU, $150 worth of nano-texture glass, 128GB of memory that adds an extra $2,000, and 16TB of storage which is the real budget breaker here, thanks to the ongoing memory shortage .
+
+Apple announced a new iPad Mini with a larger OLED display this week, and we’ve just gotten to try it out at Apple’s “Pro and tell” event.
+
+It’s an iPad for sure, but the new OLED on the Mini looks exceptional, and the optional nano-texture matte finish is awesome. The “Pro and tell” event venue has soft lighting that’s not the most conducive to blinding glare on displays, but the matte finish pretty much squashes it entirely.
+
+First X , now Apple’s website ? That’s enough hands on my internet today, thank you.
+
+Now that pixel-pushers, editors, musicians, and artists will have their fingers all over the new MacBook Pro’s screen , Apple has updated the listing for its $9 polishing cloth to include support for eradicating fingerprints from that PROLED XDR display.
+
+Touchscreen laptops are nothing new in the Windows world , but Apple has only just announced its first MacBook with a touchscreen. Apple isn’t rushing to change a bunch of things in macOS to optimize for touch, though: Most of the touch action will be in the apps themselves, it seems.
+
+As far as major macOS changes go, iOS’s Dynamic Island will debut on the new MacBook Pro, and Apple touts the added touch controls as particularly useful for interacting with the interface to accept AirDrops and pause music playback.
+
+Apple closed out its week of product announcements with its “Pro and tell” event on Wednesday, where it took the wraps off its long-rumored touchscreen MacBook Pro. Though Apple may have saved its biggest and most exciting update for last, it revealed a few other device upgrades and updates in the days leading up to its big reveal. We’ve rounded them all up here.
+
+Apple CEO John Ternus revealed the company’s first MacBook Pro with a touchscreen, allowing you to perform gestures on your screen like scrolling, swiping, and pinching. The company says the touch sensor is “built directly into the display panel,” not on top of it, which helps to reduce latency.
+
+Apple just announced its first touchscreen MacBook at its “Pro and tell” event on Wednesday. It showed off the long-awaited touchscreen in a video of the new MacBook Pro during the event that you can watch right here to see the new display in action.
+
+The new MacBook Pro’s PROLED XDR touch display is a tandem OLED panel with up to 2,000 nits of brightness and a 120Hz refresh rate. It features a hole punch for the webcam, rather than a notch. Apple says the new laptop weighs as little as 3 pounds. It also brings back the glowing Apple logo on its lid, which Apple CEO John Ternus teased in a video on X .
+
+Steve Jobs famously called touchscreen laptops “ergonomically terrible,” and for over a decade, Apple stridently refused to make one. Today that all changes with the MacBook Pro — the company’s first laptop to embrace a touch interface. While it’s unlikely that Apple can fix all the “terrible” ergonomics of having to lift your arm up and touch a laptop screen, the company has put some effort into making macOS more touch-friendly.
+
+The new 14-inch MacBook Pro with PROLED XDR display weighs just 3 pounds, which is noticeably lighter than the current generation of non-touch MacBook Pros, which start at 3.4 pounds for the newly introduced M6 models . The difference is even bigger when you jump to the 16-inch model, which clocks in at 4 pounds, while the M5 Pro version without a touchscreen is 4.7. When picking up the 16-inch, you immediately notice the newfound lightness. It still has heft, but it feels better balanced when picking it up from a corner with one hand. Putting it side by side with a current 16-inch MacBook Pro, you see that it’s slightly thinner and has a footprint a smidge smaller. Aside from that, the feel of the materials is just like the MacBook Pros we’ve had for several years now.
+
+Apple announced an all-new MacBook Pro laptop with an OLED touchscreen at its “Pro and tell” event on Wednesday. It starts at $2,899 for the 14-inch model or $3,399 for the 16-inch version, and it’s available to preorder today ahead of its release on November 6th.
+
+The new MacBook Pro has what Apple calls a “PROLED XDR” display, which is a tandem OLED screen. It offers up to 2,000 nits of peak SDR brightness, up to a 120Hz refresh rate, and a 10,000,000:1 contrast ratio. It’s equipped with M5 Pro or M5 Max chips — not the M6 chip on the other MacBook Pros announced this week. There’s a Dynamic Island on the screen that can show you things like Live Activities, similar to what’s available on iPhones. And the glowing Apple logo on the lid has returned.
+
+Apple has already had a busy week. On Monday, it announced a new iPad Mini with an upgraded OLED display , and on Tuesday, we got M6 chip upgrades for the MacBook Pro and iMac . The Macs are the definition of iterative updates — they’re quiet refreshes that look just like their direct predecessors. But today should be a whole lot more interesting.
+
+At an event in Los Angeles, Apple is expected to debut a revamped MacBook Pro with a touchscreen display . This would be the first touchscreen on a Mac (not counting the beleaguered Touch Bar ). Touchscreen laptops are something Apple executives have criticized for about as long as the iPad has existed. But after all this time, Apple is expected to give in to the growing demand to let people tap and swipe at a MacBook screen.
+
+Apple is updating the iMac with M6 chips. The new iMac generation was introduced today, giving Apple’s all-in-one desktop computer a performance boost via the same chipset Apple launched with the Mac Mini in August . Prices start from $1,499, and the design otherwise appears largely unchanged. The update was announced ahead of Apple’s “Pro and Tell” event that’s scheduled to take place on Wednesday.
+
+This refresh comes two years after Apple gave the iMac an overhaul with M4 chips , meaning we’re skipping the M5 series entirely on this hardware. That should make this upgrade more meaningful. The M6 is Apple’s first 2nm chip and includes a dual 16-core Neural Engine that can boost performance when running on-device AI tasks. According to Apple’s press release, the M6-powered iMac “delivers up to 5x faster on-device AI performance” compared with the M4 model.
+
+Apple is giving its entry-level MacBook Pro a spec bump. After upgrading the entry-level MacBook Pro with its M5 chip a year ago, Apple is refreshing the laptop today with the M6 chip, which the company launched in August as part of recent upgrades to the new Mac Mini.
+
+Last year’s entry-level MacBook Pro update brought minimal changes from the M4 model that debuted a year prior, including the same design, port layout, webcam, and speakers. The most notable updates, aside from the then-new M5 processor, was faster storage and the option to upgrade its capacity to a hefty 4TB for an extra $1,200.
+
+Ahead of the company’s “Pro and tell” event scheduled for October 28th at 1PM ET in Los Angeles, Apple’s SVP of Marketing, Greg Joswiak, teased an “exciting week” ahead on X which started with the debut of the new iPad Mini today featuring an OLED display and a thinner design. Rumors suggest Apple could also announce its first touchscreen MacBook Pro this week.

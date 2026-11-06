@@ -1,0 +1,157 @@
+* [Fortune 500](/section/fortune-500/)
+
+
+
+
+* [Multimedia](/multimedia/)
+
+# Trendingnow
+
+# 1
+
+[Joanna Gaines is rediscovering the businesswoman she was before 'Fixer Upper'](https://fortune.com/2026/11/02/joanna-gaines-interview-women-midlife-magnolia-fixer-upper-reinvention/?itm_source=parsely-api)
+
+# 2
+
+[Current price of oil as of November 3, 2026](https://fortune.com/article/price-of-oil-11-03-2026/?itm_source=parsely-api)
+
+# 3
+
+[North Korea used LinkedIn, fake job interviews to trick Binance engineer in $6.3 billion hack](https://fortune.com/2026/11/03/binance-hack-details-linkedin/?itm_source=parsely-api)
+
+# 1
+
+[Joanna Gaines is rediscovering the businesswoman she was before 'Fixer Upper'](https://fortune.com/2026/11/02/joanna-gaines-interview-women-midlife-magnolia-fixer-upper-reinvention/?itm_source=parsely-api)
+
+# 2
+
+[Current price of oil as of November 3, 2026](https://fortune.com/article/price-of-oil-11-03-2026/?itm_source=parsely-api)
+
+# 3
+
+[North Korea used LinkedIn, fake job interviews to trick Binance engineer in $6.3 billion hack](https://fortune.com/2026/11/03/binance-hack-details-linkedin/?itm_source=parsely-api)
+
+[Politics](/section/politics/)[Elections](/tag/elections/)
+
+# Ohio already has 125 local data center moratoriums. Early results from its 21 ballot measures on AI infrastructure have determined there will be more
+
+![Sasha Rogelberg](https://fortune.com/img-assets/wp-content/uploads/2024/01/Unknown_52c650.jpeg?format=webp&w=1440&quality=75)
+
+By 
+
+[Sasha Rogelberg](/author/sasha-rogelberg/)
+
+Sasha Rogelberg
+
+Reporter
+
+![Sasha Rogelberg](https://fortune.com/img-assets/wp-content/uploads/2024/01/Unknown_52c650.jpeg?format=webp&w=1440&quality=75)
+
+By 
+
+[Sasha Rogelberg](/author/sasha-rogelberg/)
+
+Sasha Rogelberg
+
+Reporter
+
+November 4, 2026, 1:35 AM ET
+
+![A women holds a protest sign reading ](https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-2203451830-e1793747290492.jpg?format=webp&w=1440&quality=75)
+
+Ohioans will vote on 21 ballot measures regarding AI data centers on Nov. 3.Jim West/UCG/Universal Images Group—Getty Images
+
+Add Fortune on Google for similar content.
+
+Ohio voters rejected the AI buildout almost everywhere it was on the ballot Tuesday, with at least 14 municipalities [passing](https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html) bans or other restrictions on data centers. The Buckeye State is on its way to becoming the prototype for how American voters respond in the face of mass AI infrastructure expansion.
+
+Recommended Video
+
+---
+
+Ohio residents across 18 municipalities voted on 21 ballot measures on data centers on Tuesday—more than half of the 41 [data center-related ballot measures](https://fortune.com/2026/11/03/ai-is-on-the-ballot-data-centers-are-a-major-political-issue-in-the-midterms-but-the-implications-of-todays-vote-for-ai-go-much-further/) across the country.
+
+With [more than 200 operational data centers](https://www.occ.ohio.gov/factsheet/quick-facts-data-centers-ohio), Ohio ranks No. 5 among U.S. states in number of data center projects. According to state data, companies plan to invest up to $40 billion in AI infrastructure in the state by 2030.
+
+Plans for AI infrastructure expansion across the country face strong national opposition—including in the form of [125 local data center moratoriums](https://ohiocapitaljournal.com/2026/09/18/ohio-now-has-over-125-active-moratoriums-on-data-centers-see-where-they-are/) already in place in Ohio. Ohio voters’ decisive stance against the buildout could foreshadow not just future election results, but how stakeholders in the private sector and government respond.
+
+“With over 100 Ohio townships adopting moratoria or restrictions, strong voter turnout against expansion would signal to statehouses nationwide that ratepayer protections, transparency, and grid safeguards should dominate policy agendas,” Keith Durkin, a sociology professor and director of the Ohio Northern University Institute for Civics and Public Policy (ICAPP), told *Fortune*.
+
+## **How did Ohio vote?**
+
+In central Ohio, [all five communities](https://www.nbc4i.com/news/your-local-election-hq/columbus-area-communities-vote-on-data-center-issues-live-results/) with data center measures on the ballot voted against data centers. In Sunbury, residents appear to have passed a charter amendment banning data centers that use 25 megawatts or more, with 100% of the unofficial vote counted. The measure was aimed at a possible hyperscale [Amazon](https://fortune.com/company/amazon-com/) project, though the project’s fate remains unclear, NBC4 reported. Pataskala voters also approved a charter ban on large data centers.
+
+In Trenton, a ban [passed 80% to 20%](https://journal-news.com/local/elections/early-voting-shows-trenton-data-center-measure-passing/article_63a9951a-54e1-5dcc-86b3-e70ed7887ce2.html). Organizers hope it will keep an 18-building Amazon Web Services data center out of the city, though it likely won’t affect a four-building AWS campus already under construction nearby, the Journal-[News](https://fortune.com/company/news-corp/) reported.
+
+In Perry, [more than 87% of voters](https://www.yahoo.com/news/politics/articles/ohioans-overwhelmingly-pass-data-center-051528805.html) approved a measure requiring developers seeking tax breaks to offer the village financial guarantees. In Wilmington, around 80% of voters rejected rezoning across four separate referendums meant to accommodate a data center project. Results in Oregon weren’t yet available as of midnight.
+
+Ashville residents voted in favor of entirely blocking a data center campus that is already under construction.
+
+The bulk of the ballot measures came from 13 municipalities voting on measures to ban or heavily restrict data centers, including “high impact” campuses using more than 25 megawatts of power. Those measures were on the ballot in the municipalities of Conneaut, Defiance, Granville, Grove City, Hubbard, Monroeville, Oregon, Pataskala, Piqua, Sunbury, Trenton, Upper Sandusky, and Urbana.
+
+Two measures in Monroe and Sprigg townships, respectively, decided whether zoning restrictions on large data center developments should be implemented as a means to preserve agricultural land. Wilmington voters also decided on four separate referendums on whether to uphold the rezoning of four rural residential sites to light industrial sites to accommodate data center construction.
+
+Ashville residents voted on a measure to entirely block a campus that is already under construction, and Perry voters decided on a resolution to require data center developers to implement noise limits and make financial commitments to the village before receiving local tax breaks.
+
+## **What do polls say about Ohio’s sentiment toward AI expansion?**
+
+A [Gallup poll](https://news.gallup.com/poll/709772/americans-oppose-data-centers-area.aspx) published in May found about 70% of Americans opposed the construction of data centers in their local areas, and Ohio appears to largely mirror the national sentiment. ICAPP, in partnership with SurveyUSA, found in a [poll](https://www.onu.edu/news/ohioans-strongly-oppose-data-center-expansion-and-tax-breaks-express-deep-patriotism-amid) of 1,650 Ohio adults published last month, that 55% opposed data center construction in the state compared to 22% in support, while 65% opposed tax breaks for data center developments compared to 15% in support, and 57% said they would vote in favor of a [proposed state constitutional amendment](https://ballotpedia.org/Ohio_Prohibition_of_Data_Center_Construction_Amendment_(2027)) banning new large-scale data centers exceeding 25 megawatts in power demands. About 20% of respondents said they’d vote against the amendment, and 21% were undecided.
+
+Durkin attributes the negative sentiment toward data centers to a confluence of factors, primarily fear of the environmental and economic risks associated with the AI boom that has emerged as a result of little knowledge about data centers.
+
+“I’ve never seen any pro-data center advertising. I’ve never seen any op-eds from the industry,” he said. “Everything we know is that humans don’t like uncertainty from social behavioral science, and there’s uncertainty around data centers.”
+
+This skepticism is bipartisan across both Ohio and the country, and it’s allowed Democrats to make data center construction a wedge issue this election, Tatishe Nteta, a professor of political science at the University of Massachusetts Amherst, [previously told *Fortune*](https://fortune.com/2026/10/11/rural-pennsylvania-northpoint-development-amazon-data-center-backlash-bipartisan-opposition/)*.* Ben Green, assistant professor of public policy at the University of Michigan’s Ford School, similarly argued data centers have become bipartisan because it has struck ideological chords in both parties. Democrats may oppose the campuses because of climate change concerns, but Republicans similarly value environmentalism through the preservation of land.
+
+“Democrats and Republicans might talk about that differently, but massive corporations coming in and forcing a community to deal with some type of project and not really giving a community any voice and operating in secrecy—no one’s really a fan of that,” Green told *Fortune*.
+
+Indeed, in Ohio, the environment was the top reason for negative data center sentiment, with quality of life and the economy representing the second and third most common reason for opposition, respectively, according to the ICAPP poll.
+
+## **How much money has been spent on AI messaging in Ohio?**
+
+Despite Durkin’s assessment about a lack of pro-AI messaging in the state, one pro-AI group has poured cash into television advertisements lauding the benefits of the technology. An [investigation](https://www.desmog.com/2026/11/02/revealed-pro-ai-data-center-group-spending-at-least-2-54m-on-tv-ads-to-influence-ohio-election/) from investigative environmental journalism outlet DeSmog published on Tuesday found that Build American AI spent at least $2.54 million on television ads that recently ran in Ohio. Build American AI is linked with Leading the Future, a tech industry super PAC [funded by](https://www.fec.gov/data/receipts/?data_type=processed&committee_id=C00916114&two_year_transaction_period=2026&min_date=01%2F01%2F2025&max_date=12%2F31%2F2026) a16z’s Marc Andreessen and Ben Horowitz, as well as OpenAI cofounder Greg Brockman.
+
+The ads, [which ran between Sept. 7 and Oct. 21 across 16 channels](https://publicfiles.fcc.gov/findfiles/%2522Build%2520American%2520AI%2522/page-offset-0/order-best-match/filter-none/), claimed data centers brought $40 billion in investments into the state and created more than 95,000 jobs. They did not endorce any political candidates.
+
+Democrat Sherrod Brown, who defeated Republican Sen. Jon Husted on Tuesday, argued in favor of eliminating tax breaks for data center companies and requiring them to pay for the utilities required by the campuses. Husted conversely supported tax breaks and extolled the potential economic benefits of data center construction in Ohio.
+
+***Fortune Daily*** breaks the traditional barrier between audience and newsroom. The show transforms *Fortune*’s trusted reporting into actionable, conversational, and entertaining insights for an emerging class of business leaders. [**Watch here.**](https://fortune.com/topic/fortune-daily/?&itm_source=fortune&itm_medium=article_tout&itm_campaign=fortune_daily)
+
+About the Author
+
+[![Sasha Rogelberg](https://fortune.com/img-assets/wp-content/uploads/2024/01/Unknown_52c650.jpeg?format=webp&w=1440&quality=75)](/author/sasha-rogelberg/)
+
+By [Sasha Rogelberg](/author/sasha-rogelberg/)Reporter
+
+Sasha Rogelberg is a reporter and former editorial fellow on the news desk at *Fortune*, covering retail and the intersection of business and popular culture.
+
+[See full bio](/author/sasha-rogelberg/)
+
+Add Fortune on Google for similar content.
+
+---
+
+Latest in Politics
+
+---
+
+---
+
+---
+
+Most Popular
+
+---
+
+---
+
+---
+
+Recommended For You
+
+---
+
+---
+
+© 2026 Fortune Media IP Limited. All Rights Reserved. Use of this site constitutes acceptance of our [Terms of Use](https://fortune.com/terms-of-use/) and [Privacy Policy](https://fortune.com/privacy-policy/) | [CA Notice at Collection and Privacy Notice](/california-privacy-policy/#notice) | [Do Not Sell/Share My Personal Information](#)  
+ FORTUNE is a trademark of Fortune Media IP Limited, registered in the U.S. and other countries. FORTUNE may receive compensation for some links to products and services on this website. Offers may be subject to change without notice.

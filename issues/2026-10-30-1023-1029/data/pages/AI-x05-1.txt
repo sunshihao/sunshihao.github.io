@@ -1,0 +1,145 @@
+NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth | NVIDIA Newsroom
+ PLATFORMS
+ Autonomous Machines
+ Cloud & Data Center
+ Deep Learning & Ai
+ Design & Pro Visualization
+ Healthcare
+ High Performance Computing
+ Self-Driving Cars
+ Gaming & Entertainment
+ other links
+Developers
+Industries
+Shop
+Drivers
+Support
+About NVIDIA
+View All Products
+GPU TECHNOLOGY CONFERENCE
+NVIDIA Blog
+Community
+Careers
+TECHNOLOGIES
+ Newsroom
+ NVIDIA in Brief
+ Exec Bios
+ NVIDIA Blog
+ Podcast
+ Media Assets
+ In the News
+ Press Contacts
+ Online Press Kits
+ NVIDIA in Brief
+ Exec Bios
+ NVIDIA Blog
+ Podcast
+ Media Assets
+ In the News
+ Press Contacts
+ Online Press Kits
+Press Release
+ Share
+ Tweet
+ Twitter
+ Share
+ LinkedIn
+ Share
+ Facebook
+ Email
+NVIDIA and Meta to Expand Collaboration on Muse and Muse Family of Models Amid Robust Growth
+ October 26, 2026
+News Summary:
+NVIDIA and Meta will expand their partnership on Muse and the Muse family of models, reflecting popular demand for AI agents.
+The companies are also considering other technological collaborations, including NVIDIA OpenShell Reference Architecture to strengthen agency security and NVIDIA Sentry for monitoring, structured, unstructured and graph data processing.
+Meta to expand NVIDIA Vera Rubin and Vera CPU deployment to boost performance and scale workloads with NVIDIA Spectrum-X Ethernet networking and BlueField-4.
+NVIDIA and Meta today announced they will partner to expand their work on Muse and the Muse family of models to improve inference and training performance, reflecting popular demand for useful AI agents.
+Meta’s Muse models and agents, which leverage NVIDIA’s infrastructure, have delivered frontier-level benchmark performance and surging consumer downloads since launch. Meta and NVIDIA intend to further deepen their collaboration by partnering on optimizations across workflows to maximize performance and improve total cost of ownership. Meta and NVIDIA will also consider additional collaboration opportunities with NVIDIA on its NVIDIA OpenShell Reference Architecture, including NVIDIA OpenShell™ for safe deployment and NVIDIA Sentry for monitoring agent behavior.
+This announcement reinforces Meta and NVIDIA’s strong long-term partnership to support Meta’s AI infrastructure ambitions. Meta intends to expand the deployment of NVIDIA infrastructure, including Vera Rubin and Vera CPUs for next-generation AI agents to deliver maximum performance per watt. Meta will also deploy NVIDIA Spectrum-X™ Ethernet networking and BlueField-4® to support network efficiency and throughput.
+In addition, NVIDIA will invest $3 billion in Meta’s equity offering.
+“AI agents represent a new computing paradigm — software that understands our goals, reasons, uses tools and gets work done on our behalf,” said Jensen Huang, founder and CEO of NVIDIA. “This changes how we use computers, from operating applications to working with intelligent agents. NVIDIA and Meta are expanding our partnership to optimize the computing infrastructure end to end for capable, efficient and secure AI agents, so Muse can empower billions of people to achieve more and pursue greater ambitions.”
+“Muse is how we bring personal superintelligence to everyone. We’re excited to keep working with NVIDIA to deliver the best personal agents and frontier models for billions of people,” said Mark Zuckerberg, founder and CEO of Meta.
+About NVIDIA
+NVIDIA (NASDAQ: NVDA) is the world leader in AI and accelerated computing.
+NVIDIA Forward-Looking Statements
+Certain statements in this press release including, but not limited to, statements as to: expectations with respect to NVIDIA’s proposed investment in Meta, including its anticipated completion and any applicable closing conditions; expectations with respect to growth, performance, availability, and benefits of NVIDIA’s products, services and technologies, and related trends and drivers; expectations with respect to NVIDIA’s third party arrangements, including with its collaborators and partners; expectations with respect to technology developments, and related trends and drivers; projected market growth and trends; expectations with respect to AI and related industries; and other statements that are not historical facts are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the “safe harbor” created by those sections based on management’s beliefs and assumptions and on information currently available to management and are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that could cause actual results to differ materially include: global economic and political conditions; NVIDIA’s reliance on third parties to manufacture, assemble, package and test NVIDIA’s products; the impact of technological development and competition; development of new products and technologies or enhancements to NVIDIA’s existing products and technologies; market acceptance of NVIDIA’s products or NVIDIA’s partners’ products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of NVIDIA’s products or technologies when integrated into systems; NVIDIA’s ability to realize the potential benefits of business investments or acquisitions; and changes in applicable laws and regulations, as well as other factors detailed from time to time in the most recent reports NVIDIA files with the Securities and Exchange Commission, or SEC, including, but not limited to, its Annual Report on Form 10-K and Quarterly Reports on Form 10-Q. Copies of reports filed with the SEC are posted on NVIDIA’s website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances.
+© 2026 NVIDIA Corporation. All rights reserved. NVIDIA, the NVIDIA logo, and other NVIDIA product and service names are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries and regions. Other company, product, and service names may be trademarks of the respective companies with which they are associated.
+ Media Contacts
+Mylene Mangalindan
+Corporate Communications
+NVIDIA Corporation 
+press@nvidia.com
+Toshiya Hari
+Investor Relations
+NVIDIA Corporation
+ir@nvidia.com
+ Downloads
+ Download Press Release
+ Download Attachments
+ More Images
+Meta and NVIDIA
+Download / File Link
+ More News
+ NVIDIA Sets Conference Call for Third-Quarter Financial Results
+ October 28, 2026
+ NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Oracle Cloud Infrastructure
+ October 27, 2026
+ NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout
+ October 21, 2026
+ NVIDIA Advances Isaac Platform for General-Purpose Robotics With New Reference Humanoid, Frameworks, Simulation Pipelines and Data
+ October 21, 2026
+ European Mobility Leaders Build Safe Vehicles and Robotaxi Fleets on NVIDIA Hyperion
+ October 21, 2026
+About NVIDIA
+NVIDIA (NASDAQ: NVDA) is the world leader in AI and accelerated computing.
+NVIDIA Forward-Looking Statements
+Certain statements in this press release including, but not limited to, statements as to: expectations with respect to NVIDIA’s proposed investment in Meta, including its anticipated completion and any applicable closing conditions; expectations with respect to growth, performance, availability, and benefits of NVIDIA’s products, services and technologies, and related trends and drivers; expectations with respect to NVIDIA’s third party arrangements, including with its collaborators and partners; expectations with respect to technology developments, and related trends and drivers; projected market growth and trends; expectations with respect to AI and related industries; and other statements that are not historical facts are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended, which are subject to the “safe harbor” created by those sections based on management’s beliefs and assumptions and on information currently available to management and are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that could cause actual results to differ materially include: global economic and political conditions; NVIDIA’s reliance on third parties to manufacture, assemble, package and test NVIDIA’s products; the impact of technological development and competition; development of new products and technologies or enhancements to NVIDIA’s existing products and technologies; market acceptance of NVIDIA’s products or NVIDIA’s partners’ products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; unexpected loss of performance of NVIDIA’s products or technologies when integrated into systems; NVIDIA’s ability to realize the potential benefits of business investments or acquisitions; and changes in applicable laws and regulations, as well as other factors detailed from time to time in the most recent reports NVIDIA files with the Securities and Exchange Commission, or SEC, including, but not limited to, its Annual Report on Form 10-K and Quarterly Reports on Form 10-Q. Copies of reports filed with the SEC are posted on NVIDIA’s website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances.
+© 2026 NVIDIA Corporation. All rights reserved. NVIDIA, the NVIDIA logo, and other NVIDIA product and service names are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries and regions. Other company, product, and service names may be trademarks of the respective companies with which they are associated.
+ Media Contacts
+Global contacts for media inquiries.
+ All Contacts
+ Stay Informed
+Newsroom updates delivered to your inbox.
+ Subscribe
+Corporate Information
+About NVIDIA
+Corporate Overview
+Technologies
+NVIDIA Research
+Investors
+Social Responsibility
+NVIDIA Foundation
+Get Involved
+Forums
+Careers
+Developer Home
+Join the Developer Program
+NVIDIA Partner Network
+NVIDIA Inception
+Resources for Venture Capitalists
+Venture Capital (NVentures)
+Technical Training
+Training for IT Professionals
+Professional Services for Data Science
+News & Events
+Newsroom
+NVIDIA Blog
+NVIDIA Technical Blog
+Webinars
+Stay Informed
+Events Calendar
+NVIDIA GTC
+NVIDIA On-Demand
+ Sign Up for NVIDIA News 
+Subscribe
+Follow NVIDIA
+ USA - United States
+ Privacy Policy
+ Your Privacy Choices
+ Manage Cookie Settings
+ Terms of Service
+ Accessibility
+ Corporate Policies
+ Product Security
+ Contact
+Copyright © 2026 NVIDIA Corporation

@@ -1,0 +1,25 @@
+SpaceX announced a deal with chipmaker Qualcomm to provide key network technology for Elon Musk's Starlink Mobile service, a challenger to Verizon, AT&T and T-Mobile.
+
+Qualcomm said on Wednesday that the terrestrial network it will help SpaceX build will "complement Starlink's satellite capabilities," with a planned rollout to begin next year. Financial terms of the multiyear deal weren't disclosed.
+
+"Together with SpaceX, we are building world-leading cellular infrastructure in the United States, advancing 5G today, with an opportunity to lay the foundation for AI-native 6G in the years ahead," Durga Malladi, an executive vice president at Qualcomm, said in the statement.
+
+Starlink is a critical piece of SpaceX's business, accounting for 36% of the company's revenue in the third quarter and 85% of its operating profit. But to date, the company's consumer business has been limited when it comes to mobile direct-to-device services as its satellite network can't provide all the voice, video and data coverage that competitors offer on popular smartphones.
+
+Now SpaceX is snapping up spectrum and forging partnerships to take on the major mobile carriers. Last month, the company announced an agreement to purchase a nationwide spectrum portfolio in the 800 MHz band. The news sent shares of U.S. carriers reeling. Earlier this week, the Washington Post reported that SpaceX is in talks to acquire EchoStar's Boost Mobile.
+
+SpaceX went public in June in the largest IPO on record and is now valued at close to $2 trillion.
+
+With Qualcomm, SpaceX will be using the chipmaker's Dragonwing cellular infrastructure hardware and software in base stations to enable high-capacity coverage for Starlink Mobile.
+
+Qualcomm has a long history of making chips for cellular networks, but is best known for making the modems and radios that go inside devices, not base stations for running a wireless network. The company has targeted carriers and other infrastructure companies since it made a bigger push into the 5G infrastructure market in 2020.
+
+SpaceX represents one of Qualcomm's highest-profile customers or partners in 5G infrastructure, following earlier deals with Verizon, Dish, and Europe's Vodafone.
+
+While SpaceX plans to use Qualcomm's technology to establish tens of thousands of new cell sites, it hasn't announced partners among cell tower companies or said how many new towers may be required.
+
+Mobile carriers generally lease space from companies such as American Tower and Crown Castle, which commonly host multiple carriers from one site.
+
+SpaceX did not respond to CNBC's request for additional information.
+
+-- CNBC's Kif Leswing contributed reporting.

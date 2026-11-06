@@ -1,0 +1,208 @@
+[Advertise](https://scoopnewsgroup.com/oursolutions/)
+
+[![FedScoop](https://fedscoop.com/wp-content/themes/scoopnewsgroup/dist/svg/logo-fed.svg)](https://fedscoop.com)
+
+ [Subscribe](https://fedscoop.com/subscribe/)
+
+
+
+Advertisement
+
+Subscribe to our daily newsletter.
+
+[Subscribe](/subscribe)
+
+* Quantum
+
+# Oak Ridge teams up with IBM, AMD to launch quantum error correction platform
+
+The entities aim to increase the speed and efficiency of running applications, which is part of what’s needed to reach the Energy Department’s Quantum Genesis Mission goal.
+
+**By** [Lindsey Wilkinson](https://fedscoop.com/author/lindsey-wilkinson/ "Lindsey Wilkinson")
+
+Listen to this article
+
+0:00
+
+Learn more.  This feature uses an automated voice, which may result in occasional errors in pronunciation, tone, or sentiment.
+
+![](https://fedscoop.com/wp-content/uploads/sites/5/2026/11/2026-11-IBM-ORNL-AMD-co-design-platform-QPUs-GPUs-CPUs.jpg?w=900) 
+
+IBM, ORNL, and AMD's new co-design platform for quantum error correction co-locates IBM quantum computers with ORNL's Umbra High- Performance Computing system (right, nearest black rack). Umbra is composed of AMD Instinct MI355X GPUs and 5th Gen AMD EPYC CPUs. (Credit: IBM)
+
+Oak Ridge National Laboratory, IBM and AMD unveiled a co-design platform for quantum error correction Thursday with the Department of Energy’s Quantum Genesis Mission in mind.
+
+The [Quantum Genesis Mission](https://fedscoop.com/trump-quantum-executive-order-energy-department-genesis-mission/) is an initiative that launched in June and is designed to accelerate quantum system development, advance high-impact, scientific use cases and build a supercomputing facility for engineers to access emerging capabilities.
+
+DOE kickstarted what it’s calling [the Q competition](https://fedscoop.com/quantum-genesis-q-competition-energy-department/) to reach those goals, inviting proposals for deploying quantum computers that have at least 100 logical qubits and can perform hundreds of millions of fault-tolerant operations. It’s a roughly 230-fold increase in hard operation count compared to experiments being conducted currently, per the joint announcement this week.
+
+The co-design platform “will help us build those systems sooner,” Scott Crowder, VP of IBM’s quantum adoption and business development, told FedScoop. “This doesn’t solve everything, but it’s a really important first step in terms of trying to accelerate quantum error correction research.”
+
+Advertisement
+
+The platform will live in a rack of AMD’s GPU and CPU systems sitting in the same computation center as IBM’s quantum computers in Poughkeepsie, N.Y. The codesign platform will connect to the Oak Ridge Leadership Computing Facility in Tennessee.
+
+Teams will use the platform to compare different methods and techniques — and then test ways to scale.
+
+“Solving the challenges of quantum error correction is essential to making quantum computing a practical tool for scientific discovery, which is a priority for Oak Ridge National Laboratory,” Travis Humble, director of the Quantum Science Center at ORNL, said in a statement. “ORNL’s strength in high-performance computing, combined with the expertise of our QSC partners — like IBM and AMD — creates an opportunity to push the boundaries of what is possible.”
+
+Once execution begins, the learnings will be used by the companies to improve future generations of how compute, networking, and software can be codesigned with quantum computers.
+
+The [collaboration with industry](https://fedscoop.com/genesis-mission-investment-nvidia-google-anthropic-openai/) has been a key foundational layer of the Energy Department’s [Genesis Mission](https://fedscoop.com/tag/genesis-mission/) and the related quantum initiative.
+
+Advertisement
+
+“In order for us to pull this off, it really is a collaboration with government, academia, etc.,” Crowder said. “It’s not just about building a quantum computer. It’s really to unlock the ability to do these kinds of computations.”
+
+The platform is the latest illustration of the partnership between IBM and ORNL. The two groups, alongside the Cleveland Clinic, said they achieved the first-known computations of fusion materials on a quantum computer [earlier this year](https://www.ornl.gov/news/oak-ridge-national-lab-cleveland-clinic-and-ibm-achieve-first-known-computations-fusion/).
+
+Share
+
+* [Facebook](https://www.facebook.com/sharer/sharer.php?u=https://fedscoop.com/oak-ridge-national-lab-ibm-amd-launch-quantum-error-correction-platform/)
+* [LinkedIn](https://www.linkedin.com/cws/share?url=https://fedscoop.com/oak-ridge-national-lab-ibm-amd-launch-quantum-error-correction-platform/)
+* [Twitter](https://twitter.com/intent/tweet?url=https://fedscoop.com/oak-ridge-national-lab-ibm-amd-launch-quantum-error-correction-platform/)
+
+Advertisement
+
+Advertisement
+
+## More Like This
+
+1. ### [Meet the physicists making NIST the epicenter of quantum advancement](https://fedscoop.com/nist-quantum-physicists-flemming-awards/)
+
+   By   [Matt Bracken](https://fedscoop.com/author/matt-bracken/)
+2. ### [Work needed to fortify systems against quantum threats, watchdog says](https://fedscoop.com/agencies-behind-fortifying-systems-against-quantum-threats-watchdog-says/)
+
+   By   [Madison Alder](https://fedscoop.com/author/madison-alder/)
+3. ### [Tech sector pours $2.4B in AI tools, compute credits for Genesis Mission Consortium](https://fedscoop.com/genesis-mission-investment-nvidia-google-anthropic-openai/)
+
+   By   [Lindsey Wilkinson](https://fedscoop.com/author/lindsey-wilkinson/)
+
+Advertisement
+
+## Top Stories
+
+1. ### [FedRAMP 20x picks up steam with first full ‘Class C’ certification to AI company](https://fedscoop.com/fedramp-20x-first-full-class-c-certification-ai-company/)
+
+   By   [K. Sophie Will](https://fedscoop.com/author/k-sophie-will/)
+2. ### [GSA appoints former banking exec as new government contracting head](https://fedscoop.com/gsa-appoints-jennifer-hill-new-fas-commissioner/)
+
+   By   [K. Sophie Will](https://fedscoop.com/author/k-sophie-will/)
+3. ### [When the storm hits, the private sector must show up](https://fedscoop.com/fema-storm-response-private-sector-assistance/)
+
+   By   [Deanne Criswell](https://fedscoop.com/author/deanne-criswell/)
+4. ### [Another bipartisan push to reboot Congress’ tech expertise office is underway](https://fedscoop.com/congress-office-of-technology-assessment-bill/)
+
+   By   [K. Sophie Will](https://fedscoop.com/author/k-sophie-will/)
+5. ### [Could Nick Andersen’s leadership outlast the clock on his acting role?](https://cyberscoop.com/nick-andersen-cisa-acting-director-nomination/)
+
+   By   [Tim Starks](https://fedscoop.com/author/tim-starks/)
+6. ### [Fed watchdog pushes central bank toward more streamlined IT operations](https://fedscoop.com/federal-reserve-cybersecurity-watchdog-report/)
+
+   By   [Matt Bracken](https://fedscoop.com/author/matt-bracken/)
+7. ### [Trump’s AI use to inform military operations questioned by House duo](https://fedscoop.com/trump-ai-use-military-operations-house-letter/)
+
+   By   [Lindsey Wilkinson](https://fedscoop.com/author/lindsey-wilkinson/)
+
+Advertisement
+
+## More Scoops
+
+[![](https://fedscoop.com/wp-content/uploads/sites/5/2026/06/GettyImages-2282283097.jpg?w=506)](https://fedscoop.com/trump-quantum-executive-order-energy-department-genesis-mission/)  
+
+US President Donald Trump (C) speaks before signing executive orders in the Oval Office of the White House in Washington, DC, on June 22, 2026. President Trump signed two orders on quantum computing with Energy Secretary Chris Wright and Genesis Mission Lead Darío Gil among those in attendance. (Photo by Mandel NGAN / AFP via Getty Images)
+
+ 
+
+
+### [Energy Department launches Quantum Genesis initiative following Trump orders](https://fedscoop.com/trump-quantum-executive-order-energy-department-genesis-mission/)
+
+The three main priorities of the project include a competition to develop systems, a supercomputing facility for engineers and targeted research to advance scientific use cases.
+
+By   [Lindsey Wilkinson](https://fedscoop.com/author/lindsey-wilkinson/)
+
+[![](https://fedscoop.com/wp-content/uploads/sites/5/2026/03/GettyImages-2262844551.jpg?w=252)](https://fedscoop.com/doe-national-labs-ai-infrastructure-data-center/)  
+
+From left, Paige Lambermont, research fellow at the Competitive Enterprise Institute, Marsden Hanna, head of energy and sustainability policy for Google, and Eric Masanet, UC Santa Barbara professor testify during the House Science and Technology Committee Investigations and Oversight Subcomittee hearing on “Powering America’s AI Future: Assessing Policy Options to Increase Data Center Infrastructure” in the Rayburn House Office Building on Tuesday, Feb. 24, 2026. (Bill Clark/CQ-Roll Call, Inc via Getty Images)
+
+ 
+
+
+### [National labs work to optimize AI infrastructure amid Genesis Mission](https://fedscoop.com/doe-national-labs-ai-infrastructure-data-center/)
+
+By   [Lindsey Wilkinson](https://fedscoop.com/author/lindsey-wilkinson/)
+
+[![](https://fedscoop.com/wp-content/uploads/sites/5/2025/10/3554773086_8e8b390f57_b_0.jpg?w=300)](https://fedscoop.com/energy-partnership-amd-hpe-supercomputers-oak-ridge/)  
+
+(Handout photo courtesy of Oak Ridge National Laboratory)
+
+ 
+
+
+### [Energy reveals plans for two new AI supercomputers at Oak Ridge](https://fedscoop.com/energy-partnership-amd-hpe-supercomputers-oak-ridge/)
+
+By   [Matt Bracken](https://fedscoop.com/author/matt-bracken/)
+
+### [IBM, NASA, Oak Ridge National Lab announce open-source AI model for weather, climate](https://fedscoop.com/ibm-nasa-oak-ridge-open-source-ai-model-weather-climate/)
+
+By   [Madison Alder](https://fedscoop.com/author/madison-alder/)
+
+### [Oak Ridge National Lab director to retire in December](https://fedscoop.com/ornl-director-zacharia-retiring/)
+
+By   [Dave Nyczepir](https://fedscoop.com/author/dave-nyczepir/)
+
+### [Quantum industry partnerships key to power grid optimization: DOE official](https://fedscoop.com/doe-quantum-public-private-partnerships/)
+
+By   [Dave Nyczepir](https://fedscoop.com/author/dave-nyczepir/)
+
+### [Energy Department to build two new supercomputers, further exascale computing research](https://fedscoop.com/energy-department-supercomputers/)
+
+## Latest Podcasts
+
+![](https://fedscoop.com/wp-content/uploads/sites/5/2026/11/DailyScoop_thumbnail-2026-11-03T120337.807.png?w=300)
+
+#### [A new push to relaunch Congress’ expert tech office](https://fedscoop.com/radio/the-office-would-report-on-emerging-science-and-tech-trends-of-national-importance/)
+
+![](https://fedscoop.com/wp-content/uploads/sites/5/2026/11/DailyScoop_thumbnail-2026-11-02T135139.876.png?w=300)
+
+#### [Did Trump use AI to inform military operations?](https://fedscoop.com/radio/the-president-allegedly-used-grok-to-seek-advice-on-carrying-out-presidential-duties/)
+
+![](https://fedscoop.com/wp-content/uploads/sites/5/2026/10/DailyScoop_thumbnail-2026-10-28T144511.485-1.png?w=300)
+
+#### [Inside DOGE’s involvement in National Science Foundation grant terminations last year](https://fedscoop.com/radio/inside-doges-involvement-in-national-science-foundation-grant-terminations-last-year/)
+
+![](https://fedscoop.com/wp-content/uploads/sites/5/2026/10/Broadcom_Thumbnail_Lewis.png?w=300)
+
+#### [How federal agencies are adapting to AI hardware acceleration](https://fedscoop.com/video/how-federal-agencies-are-adapting-to-ai-hardware-acceleration/)
+
+### Tech
+
+* [GSA exposed sensitive information to all agency users on Google Drive, OIG finds](https://fedscoop.com/gsa-exposed-sensitive-information-on-google-drive-watchdog/)
+* [DHS sunsets its Acquisition Planning Forecast System](https://fedscoop.com/dhs-apfs-shut-down-4site-acquisition-planning-forecast-system/)
+* [DHS consolidates software purchasing under $2.7B Carahsoft contract](https://fedscoop.com/dhs-consolidate-procurement-carahsoft/)
+* [Keeping a human in the AI loop is ‘untenable’ due to cuts, USDA IT official says](https://fedscoop.com/ai-human-in-the-loop-agency-workforces/)
+
+### Defense
+
+* [Google launches Gemini for government services as new ‘agentic solution’](https://fedscoop.com/google-launches-gemini-for-government-services/)
+* [EHR modernization effort lacks cyber performance measures, GAO finds](https://fedscoop.com/ehr-modernation-va-dod-cybersecurity/)
+* [Starlink outage impacted Starshield, its defense communications service](https://fedscoop.com/starlink-outage-impacted-starshield-its-defense-communications-service/)
+* [MPEs gain momentum for sharing information with allied partners](https://defensescoop.com/2024/02/14/mpes-gain-momentum-for-sharing-information-with-allied-partners/)
+
+### Cyber
+
+* [Treasury, IRS use of third-party ID verification under fire from top Senate Finance, Banking Dems](https://fedscoop.com/treasury-direct-irs-id-me-login-gov/)
+* [Understaffed CFPB’s security program has foundational ‘weaknesses,’ OIG says](https://fedscoop.com/cfpb-cybersecurity-program-watchdog-report/)
+* [Leak site publishes data on more than 41,000 DHS employees obtained by hacktivists](https://cyberscoop.com/dhs-employee-data-leak-ddosecrets/)
+* [Financial agency rule changes leave banks open to cyber threats, Elizabeth Warren warns](https://fedscoop.com/fed-fdic-occ-banking-cyber-threats-elizabeth-warren/)
+
+### FedScoop TV
+
+* [Energy Department has cyber threats to infrastructure in mind with $70 million funding offer](https://fedscoop.com/energy-department-cybersecurity-infrastructure-funding/)
+* [How NIWC Atlantic is approaching zero trust and trusted user policies](https://www.cyberscoop.com/video/how-niwc-atlantic-is-approaching-zero-trust-trusted-user-policies/)
+
+Advertisement
+
+[![FedScoop](https://fedscoop.com/wp-content/themes/scoopnewsgroup/dist/svg/logo-fed.svg)](https://fedscoop.com)
+
+ 

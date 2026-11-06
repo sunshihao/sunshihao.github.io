@@ -1,0 +1,27 @@
+In this article
+
+Qualcomm reported quarterly results on Wednesday that topped Wall Street estimates, but the chipmaker's earnings came in lighter than expected. The stock slid in extended trading.
+
+Here's how the chipmaker did versus LSEG consensus estimates:
+
+For the current quarter, Qualcomm said it sees earnings per share of between $2.15 and $2.35 on revenue of $10.4 billion to $11.2 billion. Analysts expected earnings per share of $2.27 on revenue of $10.48 billion.
+
+Most of Qualcomm's chip sales come from system-on-chips and modems for smartphones. It's a market that's currently in turmoil as rising memory costs force handset makers to raise prices, hurting demand. Overall company revenue fell 8% during from a year earlier.
+
+Qualcomm raised prices in September. Still, handset chip sales during the quarter fell 26% to $5.14 billion, trailing a StreetAccount estimate of $5.21 billion. Qualcomm said it's starting to see sequential growth in the category, and that Android shipments in China have bottomed, even though the company predicts the handset market will be flat in 2027.
+
+Under CEO Cristiano Amon, Qualcomm has tried to turn investor attention to other kinds of chips. The company is looking to enter the fast-growing market for AI data center infrastructure. It had $650 million in data center revenue during the quarter, mostly from customizing and connectivity work, Amon said.
+
+Amon said Qualcomm expects $5 billion in data center revenue in fiscal 2027. He said the company recently signed a customer for optical connectivity and had engaged a global hyperscaler.
+
+"We don't have a demand issue; it's a supply issue," Amon said. "If I had more supply, I would probably be doing better."
+
+Qualcomm also sells chips for cars and other automotive uses. Revenue in that division soared 89% on an annual basis to $1.99 billion, beating StreetAccount expectations of $1.66 billion.
+
+Internet of things revenue includes low-power chips, smart glasses SoCs, laptop chips, as well as the company's bid to provide cellular infrastructure. Earlier on Wednesday, Qualcomm announced a deal to provide technology to SpaceX's cellular buidlout. IoT revenue increased 4% from a year earlier to $1.88 billion, slightly higher than estimates.
+
+Qualcomm's QTL division includes revenue from licensing its intellectual property for 5G and other technologies to other companies. Qualcomm said during the quarter that it had renewed licensing agreements with Apple, Huawei, and Transsion.
+
+"QTL will maintain its scale going forward," Amon said.
+
+QTL revenue sank 7% to $1.3 billion, in line with a StreetAccount estimate.

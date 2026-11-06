@@ -1,0 +1,40 @@
+{
+ "issue": "20261030-20261105",
+ "credits": {
+  "hero.jpg": {
+   "credit": "CNBC / Getty Images",
+   "link": "https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html",
+   "caption": "停火预期升温，WTI 十二月合约结算 88.12 美元/桶，单日跌 8.29%"
+  },
+  "card-politics.svg": {
+   "credit": "见闻周刊自产 SVG",
+   "link": "https://apnews.com/article/midterm-election-house-senate-democrats-republicans-trump-f126e12e05b579a327b98481c0ae2226",
+   "caption": "两院易手：51 席与 218 席两条门槛同时越过"
+  },
+  "card-fm.svg": {
+   "credit": "见闻周刊自产 SVG",
+   "link": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+   "caption": "道指单日 +1,569.40 点，2025 年 4 月以来最佳"
+  },
+  "card-ai.svg": {
+   "credit": "见闻周刊自产 SVG",
+   "link": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm",
+   "caption": "招股书里的算力账单：8,954 亿美元承诺支出"
+  },
+  "card-cn.svg": {
+   "credit": "见闻周刊自产 SVG",
+   "link": "https://english.news.cn/20261104/30f81d49652c4a9eb3b9e5cbb9b71a40/c.html",
+   "caption": "沪指 3,686.17 点，科创 50 +9.92%"
+  },
+  "card-tech.svg": {
+   "credit": "见闻周刊自产 SVG",
+   "link": "https://www.reuters.com/legal/transactional/marvell-buy-lumentum-115-billion-deal-ai-data-center-bet-2026-11-02",
+   "caption": "Marvell 以 1,150 亿美元全股票收购 Lumentum"
+  },
+  "card-futures.svg": {
+   "credit": "见闻周刊自产 SVG",
+   "link": "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q3-2026/central-banks",
+   "caption": "央行仍在买：321 吨，高于五年季度均值"
+  }
+ }
+}

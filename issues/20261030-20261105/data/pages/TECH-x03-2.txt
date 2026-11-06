@@ -1,0 +1,265 @@
+[Enable accessibility](https://www.qualcomm.com/news/releases/2026/11/spacex-selects-qualcomm-to-accelerate-starlink-mobile-s-nationwi#)
+
+[](https://www.qualcomm.com/)
+
+Products
+
+Applications
+
+Developer
+
+Support
+
+Company
+
+Workspace
+
+[Newsroom](https://www.qualcomm.com/news)
+
+[Newsroom](https://www.qualcomm.com/news)
+
+[Back to All](https://www.qualcomm.com/news/releases)
+
+Press Release
+
+# SpaceX Selects Qualcomm to Accelerate Starlink Mobile’s Nationwide 5G Network
+
+Starlink Mobile’s base station architecture – powered by Qualcomm Dragonwing Solutions – is designed to improve coverage, capacity and spectral efficiency, helping the network serve more traffic efficiently 
+
+Nov 4, 2026
+
+SAN DIEGO
+
+[](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.qualcomm.com%2Fnews%2Freleases%2F2026%2F11%2Fspacex-selects-qualcomm-to-accelerate-starlink-mobile-s-nationwi "facebook")[](https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.qualcomm.com%2Fnews%2Freleases%2F2026%2F11%2Fspacex-selects-qualcomm-to-accelerate-starlink-mobile-s-nationwi&amp;title=SpaceX%20Selects%20Qualcomm%20to%20Accelerate%20Starlink%20Mobile%E2%80%99s%20Nationwide%205G%20Network%20%7C%20Qualcomm "linkedin")[](https://twitter.com/share?url=https%3A%2F%2Fwww.qualcomm.com%2Fnews%2Freleases%2F2026%2F11%2Fspacex-selects-qualcomm-to-accelerate-starlink-mobile-s-nationwi&text=SpaceX%20Selects%20Qualcomm%20to%20Accelerate%20Starlink%20Mobile%E2%80%99s%20Nationwide%205G%20Network%20%7C%20Qualcomm "twitter")
+
+![Image 1: Qualcomm-image](https://s7d1.scene7.com/is/image/dmqualcommprod/SpaceXAnnouncement?$QC_Responsive$&fmt=png-alpha&wid=814)
+
+**Highlights:**
+
+*   Qualcomm Technologies is supplying its Dragonwing Cellular Infrastructure platforms to support Starlink Mobile’s terrestrial base stations, enabling high-capacity U.S. nationwide coverage.
+*   Featuring Massive MIMO, power-efficient processing, and commercial-grade Layer 1 software, Dragonwing QRU100 and QDU100 platforms support Starlink’s nationwide network deployment.
+*   SpaceX plans for U.S. nationwide deployment rollout to begin in 2027, with tens of thousands of sites deployed over the multi-year agreement.
+
+Qualcomm Technologies, Inc. today announced that SpaceX has selected Qualcomm Dragonwing™ Cellular Infrastructure platforms for its Starlink Mobile U.S. nationwide terrestrial 5G network. Powered by the Qualcomm Dragonwing™ QRU100 and QDU100 platforms and commercial-grade Layer 1 software, the network will combine high-capacity Massive MIMO radio and baseband technology and power-efficient processing to support cellular base station deployment at scale. The collaboration represents a commercial step toward SpaceX and Qualcomm Technologies’ broader vision for AI-native 6G infrastructure.
+
+“Building a nationwide network demands high performance and power efficiency at every site. Dragonwing Cellular Infrastructure platforms bring together advanced Massive MIMO, purpose-built processing and commercial-grade Layer 1 software to help Starlink deliver an exceptional nationwide network,” said Durga Malladi, EVP & GM, Technology Planning, Edge Solutions, and Data Center, Qualcomm Technologies, Inc. “Together with SpaceX, we are building world-leading cellular infrastructure in the United States, advancing 5G today, with an opportunity to lay the foundation for AI-native 6G in the years ahead.”
+
+“We shouldn’t live in a time where phone calls are still dropping whether you’re at home or on-the-go. Starlink is building the first fully-integrated nationwide satellite and terrestrial network that will keep people connected no matter where they are. We’re excited to collaborate with Qualcomm Technologies and leverage their industry expertise and platform to accelerate our timeline to develop our base station end-to-end architecture,” said Michael Nicolls, Senior Vice President of Starlink.
+
+**High-Capacity 5G Built for Scale**
+
+Starlink Mobile will use Massive MIMO radio units with 64 transmit and 64 receive paths (64T64R), bringing advanced antenna capabilities to its terrestrial network. This architecture is designed to improve coverage, capacity and spectral efficiency, helping the network serve more traffic efficiently.
+
+The Dragonwing QRU100 platform provides highly integrated processing for Massive MIMO radio units, supporting the radio functions behind the 64T64R architecture. The Dragonwing QDU100 platform provides high-performance, efficient, latency-sensitive Layer 1 processing. Together, the platforms are designed to improve performance per watt across radio and distributed-unit processing, translating energy efficiency into improved network deployment economics at scale.
+
+**A Strong Foundation for Network Evolution**
+
+Dragonwing-powered radio unit and distributed unit building blocks will help provide Starlink with a flexible foundation for a multi-band network deployed across multiple rollout waves. While this deployment is focused on terrestrial 5G, its energy-efficient processing and open, evolvable architecture establishes a foundation for future connectivity and intelligence.
+
+**About Qualcomm**
+
+Qualcomm is a global computing leader at the center of the AI era, enabling intelligence to scale from the most personal devices to large‑scale infrastructure. Building on more than four decades of innovation, we develop platforms and solutions that bring together advanced AI, high‑performance, low-power computing and industry‑leading connectivity—powering products and services used around the world. At Qualcomm, we are engineering human progress.
+
+Qualcomm Incorporated includes our licensing business, QTL, and the vast majority of our patent portfolio. Qualcomm Technologies, Inc., a subsidiary of Qualcomm Incorporated, operates, along with its subsidiaries, substantially all of our engineering and research and development functions and substantially all of our products and services businesses, including our QCT semiconductor business. Snapdragon and Qualcomm branded products are products of Qualcomm Technologies, Inc. and/or its subsidiaries. Qualcomm patents are licensed by Qualcomm Incorporated. Qualcomm, Snapdragon, Qualcomm Dragonwing and Qualcomm Dragonfly are trademarks or registered trademarks of Qualcomm Incorporated.
+
+[5G](https://www.qualcomm.com/news/releases?tags=5G)[Dragonwing](https://www.qualcomm.com/news/releases?tags=Dragonwing)
+
+Snapdragon and Qualcomm branded products are products of Qualcomm Technologies, Inc. and/or its subsidiaries.  
+  
+ Qualcomm, Qualcomm Dragonwing and Snapdragon are trademarks or registered trademarks of Qualcomm Incorporated.
+
+Contact Information
+
+Brett Simpson
+
+Investor Relations
+
+1-858-658-4813
+
+[ir@qualcomm.com](mailto:ir@qualcomm.com)
+
+Clare Conley
+
+Media Relations
+
+1-858-845-5959
+
+[corpcomm@qualcomm.com](mailto:corpcomm@qualcomm.com)
+
+Related Press Releases
+
+Press Release
+
+[Qualcomm Schedules Fourth Quarter and Fiscal 2026 Earnings Release and Conference Call](https://www.qualcomm.com/news/releases/2026/10/qualcomm-schedules-fourth-quarter-and-fiscal-2026-earnings-relea)
+
+Oct 22, 2026
+
+Press Release
+
+[Qualcomm Announces Quarterly Cash Dividend](https://www.qualcomm.com/news/releases/2026/10/qualcomm-announces-quarterly-cash-dividend-)
+
+Oct 21, 2026
+
+[](https://www.qualcomm.com/news/releases/2026/10/qualcomm-statement-on-trial-verdict-win)
+
+Press Release
+
+[Qualcomm Statement on Trial Verdict Win](https://www.qualcomm.com/news/releases/2026/10/qualcomm-statement-on-trial-verdict-win)
+
+Oct 13, 2026
+
+[Company](https://www.qualcomm.com/news/releases?tags=Company)
+
+[](https://www.qualcomm.com/news/releases/2026/10/gfiber--qualcomm--and-gemtek-unveil-an-ai-native-wi-fi-8-broadba)
+
+Press Note
+
+[gFiber, Qualcomm, and Gemtek Unveil an AI-Native Wi-Fi 8 Broadband Gateway at Network X 2026](https://www.qualcomm.com/news/releases/2026/10/gfiber--qualcomm--and-gemtek-unveil-an-ai-native-wi-fi-8-broadba)
+
+Oct 12, 2026
+
+[Dragonwing](https://www.qualcomm.com/news/releases?tags=Dragonwing)[AI](https://www.qualcomm.com/news/releases?tags=AI)[Wi-Fi](https://www.qualcomm.com/news/releases?tags=Wi-Fi)
+
+[](https://www.qualcomm.com/news/releases/2026/10/qualcomm-unveils-ai-native-broadband-innovations-across-fiber--w)
+
+Press Note
+
+[Qualcomm Unveils AI-Native Broadband Innovations Across Fiber, Wi-Fi 8, Fixed Wireless, and Network Infrastructure and Security at Network X 2026](https://www.qualcomm.com/news/releases/2026/10/qualcomm-unveils-ai-native-broadband-innovations-across-fiber--w)
+
+Oct 12, 2026
+
+[Dragonwing](https://www.qualcomm.com/news/releases?tags=Dragonwing)[AI](https://www.qualcomm.com/news/releases?tags=AI)[Broadband](https://www.qualcomm.com/news/releases?tags=Broadband)
+
+Developer Workspace
+
+Please login with your Qualcomm ID to access Workspace
+
+[](https://www.qualcomm.com/)
+
+Qualcomm relentlessly innovates to deliver intelligent computing everywhere, helping the world tackle some of its most important challenges. Our leading-edge AI, high performance, low-power computing, and unrivaled connectivity deliver proven solutions that transform major industries. At Qualcomm, we are engineering human progress.
+
+[](https://www.linkedin.com/company/qualcomm/)[](https://x.com/qualcomm)[](https://www.youtube.com/qualcomm)[](http://www.instagram.com/qualcomm/)
+
+Quick links
+
+*   [Products](https://www.qualcomm.com/products)
+*   [Support](https://www.qualcomm.com/support)
+*   [Partners](https://www.qualcomm.com/support/partner)
+*   [Contact us](https://www.qualcomm.com/support/contact)
+*   [Developer](https://www.qualcomm.com/developer)
+
+Company info
+
+*   [About us](https://www.qualcomm.com/company)
+*   [Careers](https://www.qualcomm.com/company/careers)
+*   [Investors](https://investor.qualcomm.com/)
+*   [News & media](https://www.qualcomm.com/news)
+*   [Our businesses](https://www.qualcomm.com/our-businesses)
+*   [Email Subscriptions](https://assets.qualcomm.com/subscription-center-sign-up.html)
+
+Stay connected
+
+Get the latest Qualcomm and industry information delivered to your inbox.
+
+[Subscribe](https://assets.qualcomm.com/subscription-center-sign-up.html)[Manage your subscription](https://myaccount.qualcomm.com/profile)
+
+Also of Interest
+
+*   [Unified Software Stack for the New Era of AI](https://www.qualcomm.com/developer/artificial-intelligence)
+*   [AI Development Company Products and Platforms](https://www.qualcomm.com/products)
+*   [X Elite Laptops and PCs](https://www.qualcomm.com/snapdragon/laptops)
+
+*   [Terms of Use](https://www.qualcomm.com/site/terms-of-use)
+*   [Privacy](https://www.qualcomm.com/site/privacy)
+*   [Cookie Policy](https://www.qualcomm.com/site/privacy/cookies)
+*   [Accessibility Statement](https://www.qualcomm.com/accessibility)
+*   [Responsible AI Policy](https://www.qualcomm.com/site/responsible-ai-license)
+*   Cookie Settings 
+
+Language: English (US)
+
+Languages
+
+*   [English ( United States )](https://www.qualcomm.com/)
+*   [简体中文 ( China )](http://www.qualcomm.cn/)
+
+© Qualcomm Technologies, Inc. and/or its affiliated companies.
+
+Snapdragon and Qualcomm branded products are products of Qualcomm Technologies, Inc. and/or its subsidiaries. Qualcomm patents are licensed by Qualcomm Incorporated.
+
+Note: Certain services and materials may require you to accept additional terms and conditions before accessing or using those items.
+
+References to "Qualcomm" may mean Qualcomm Incorporated, or subsidiaries or business units within the Qualcomm corporate structure, as applicable.
+
+Qualcomm Incorporated includes our licensing business, QTL, and the vast majority of our patent portfolio. Qualcomm Technologies, Inc., a subsidiary of Qualcomm Incorporated, operates, along with its subsidiaries, substantially all of our engineering, research and development functions, and substantially all of our products and services businesses, including our QCT semiconductor business.
+
+Materials that are as of a specific date, including but not limited to press releases, presentations, blog posts and webcasts, may have been superseded by subsequent events or disclosures.
+
+Nothing in these materials is an offer to sell or license any of the services or materials referenced herein.
+
+This website processes personal data through our and third parties’ online tracking technologies, including analytics and advertising cookies. To learn more about how we and our affiliates within the Qualcomm Group may use your personal data and cookies, please review the Privacy Policy linked at the bottom of this website and Qualcomm's [Cookie Policy](https://www.qualcomm.com/site/privacy/cookies). If you don’t want to share your website activities, including browsing behavior, with our third-party partners via these tracking technologies, click on “Cookie Settings" button below to update your preferences. You can also update your cookie preferences at any time by clicking the "Cookie Settings" link at the bottom of this website.
+By browsing or navigating the site or by clicking “I Understand,” you agree to our [TERMS OF USE](https://www.qualcomm.com/site/terms-of-use), PRIVACY POLICY (linked at the bottom of this website), and [COOKIE POLICY](https://www.qualcomm.com/site/privacy/cookies).
+
+IMPORTANT: Our Terms of Use contain dispute resolution provisions, including binding arbitration and class action waiver clauses, that could affect your legal rights.
+
+Cookies Settings
+
+I Understand
+
+![Image 2: Company Logo](https://cdn.cookielaw.org/logos/b0a5f2cc-0b29-4907-89bf-3f6b380a03c8/019b2956-bc55-75aa-8570-6d773b2bae4b/5e4f142a-c83a-4c87-9ff6-54a22a735113/1280px-Qualcomm-Logo.svg.png)
+
+Opt-Out Request Honored
+
+Privacy Preference Center
+
+We respect your privacy right and preference. Please select and accept your preference as described below. You can click on the different category headings to learn more about each option. Blocking some types of cookies may impact your experience of this website and the services we may be able to offer. For more details, please visit the Privacy Policy at the bottom of this website.
+
+Allow All
+Manage Consent Preferences
+
+Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work.
+
+Analytics Cookies
+
+- [x] Analytics Cookies 
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+Personalization Cookies
+
+- [x] Personalization Cookies 
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+Targeting Cookies
+
+- [x] Targeting Cookies 
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. If you do not allow these cookies, you will experience less targeted advertising.
+
+Cookie List
+
+Clear
+*   - [x] checkbox label label 
+
+Apply Cancel
+
+Consent Leg.Interest
+
+- [x] checkbox label label
+
+- [x] checkbox label label
+
+- [x] checkbox label label
+
+Confirm My Choices
+
+[![Image 3: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/solutions/consent-and-preferences/)
+
+Feedback
+
+![Image 4: Close](https://siteintercept.qualtrics.com/WRQualtricsShared/Graphics/siteintercept/wr-dialog-close-btn-black.png)

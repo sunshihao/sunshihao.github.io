@@ -1,0 +1,42 @@
+EX-99.1 2 googexhibit991q32026.htm EX-99.1 Document
+Exhibit 99.1
+Alphabet Announces Third Quarter 2026 Results
+MOUNTAIN VIEW, Calif. – October 28, 2026 – Alphabet Inc. (NASDAQ: GOOG, GOOGL) today announced financial results for the quarter ended September 30, 2026.
+
+...
+
+• Consolidated Alphabet operating income increased 30% and operating margin was 31.8%.
+• Net income available to common stockholders was $26.2 billion and EPS was $2.12.
+Sundar Pichai, CEO of Google and Alphabet, said:
+“We had a strong quarter and are now on a half-trillion dollar revenue run rate. Our deep full stack approach is driving momentum across the business, with Alphabet revenues growing 25% year-over year.
+Our AI investments are driving overall Search query growth, including commercial queries. In fact, our year-over-year query growth rate is the highest it’s been in the last five years.
+Google Cloud revenues grew 103%, powered by huge demand for our AI infrastructure and AI solutions. We’re also seeing strong demand for our TPU systems across a wide range of customers.
+Gemini 4 Argon and Carbon are now leading at the frontier. Overall, our first-party model APIs are now processing nearly 32 billion tokens per minute, more than four times what we processed a year ago.
+
+...
+
+We also provide announcements regarding our financial performance, including SEC filings, investor events, press and earnings releases, and blogs, on our investor relations website (http://abc.xyz/investor).
+We also share Google news and product updates on Google's Keyword blog at https://www.blog.google/ and News From Google page on X at x.com/NewsFromGoogle, and our executive officers may also use certain social media channels, such as X and LinkedIn, to communicate information about earnings results and company updates, which may be of interest or material to our investors.
+
+...
+
+4
+Alphabet Inc.
+CONSOLIDATED STATEMENTS OF INCOME
+(In millions, except per share amounts, unaudited)
+
+...
+
+5
+Alphabet Inc.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In millions, unaudited)
+
+...
+
+• Google Services includes products and services such as ads, Android, Chrome, consumer devices, Google Maps, Google Play, Search, and YouTube. Google Services generates revenues primarily from advertising; fees received for consumer subscription-based products such as YouTube TV, YouTube Music and Premium, and NFL Sunday Ticket, as well as Google One; the sale of apps and in-app purchases; and consumer devices.
+
+...
+
+(1) Total constant currency revenues of $127.8 billion for the quarter ended September 30, 2026 increased $8.1 billion compared to $119.7 billion in revenues, excluding hedging effect, for the quarter e nded June 30, 2026.
+Total Revenues — Prior Year Comparative Periods

@@ -1,0 +1,371 @@
+Stocks ripped higher on Wednesday as a decisive victory by Democrats in the U.S. midterm elections — and President Donald Trump's acceptance of the results — removed political uncertainty risk hanging over Wall Street.
+
+Democrats won majorities in both the House of Representatives and Senate, and scored victories in key gubernatorial races like Texas. The Democrats will now be a check on the policies of Trump, who's enacted business-friendly tax cuts, while also pursuing tariffs and a war in Iran that's boosted inflation.
+
+The Dow Jones Industrial Average jumped 1,569.40 points, or 3.03%, to close at 53,356.12. The 30-stock index moved back above 53,000 for the first time since Sept. 8 and posted its best day since April 9, 2025, when Trump announced a pause on his so-called reciprocal tariffs. The S&P 500 gained 1.58% to end at 7,688.62, while the Nasdaq Composite jumped 1.44% to 25,736.51.
+
+Stocks extended their gains after U.S. crude oil fell more than 8% as Vice President JD Vance blamed the Iran war for the election losses the Republican party suffered Tuesday. Brent futures traded more than 8% lower as well.
+
+"There's just going to be even more pressure to end the war," said Peter Boockvar, chief investment officer at One Point BFG Wealth Partners. "The American people have obviously expressed their displeasure with inflation and the price of gasoline, amongst other things, and maybe this just pushes for an end to it. We'll have to see."
+
+Trump told The New York Times he was "absolutely willing" to accept the results and told The Wall Street Journal that he and Republicans would work with Democrats.
+
+The rebound "was in part due to the president's initial tone and reaction to the results," said Jay Woods, chief market strategist at Freedom Capital Markets. "Still more uncertainty looms, but one thing is certain, there will be gridlock and historically this is good for the market."
+
+Shares linked to the economy that could benefit from a more stable environment led the gains. Walmart added 3%, while Bank of America rose about 4% as investors looked for stocks outside of technology.
+
+Heading into the election investors worried a Democratic sweep could weigh on some areas of the market, especially stocks related to the artificial intelligence build-out. Investors feared a big Democratic win could mean more restrictions on data centers nationwide. The Texas governor win by Gina Hinojosa, who's pledged an immediate moratorium in the key data center hub, added to the fears Wednesday.
+
+Shares of CoreWeave were lower Wednesday, along with Elon Musk's SpaceX, which is headquartered in Texas. Nvidia also dropped in the session by 3%.
+
+Another reason for the bullish sentiment Wednesday morning was that history shows the market does well under a divided government, where fewer policies and regulations are able to interfere with the business outlook.
+
+Andrew Slimmon of Morgan Stanley Investment Management said the markets "like gridlock — they don't like a party with too much power."
+
+The three leading U.S. indexes surged on Wednesday.
+
+The Dow Jones Industrial Average jumped 1,569.40 points, or 3.03%, to end the day at 53,356.12, while the S&P 500 added 1.58% to 7,688.62. The Nasdaq Composite gained 1.44% to 25,736.51.
+
+— Sean Conlon
+
+Bitcoin has rebounded after briefly falling to the $75,000 level in the aftermath of the U.S. midterm elections, but the recovery has yet to attract meaningful support from new buyers, according to Bitfinex. It was last trading at about $80,000.
+
+Analysts at the crypto exchange say gains since Oct. 30 have largely been fueled by short sellers closing their positions, while investors who recently entered the market continue to sell as prices return to their purchase levels. At the same time, outflows from bitcoin ETFs have pushed cumulative net flows for the year into slightly into negative territory, further weakening demand.
+
+"Sustaining this bounce requires actual spot demand," the report says. "Aggregate bitcoin futures open interest in BTC-notional terms rose to 701,548 BTC on Nov. 3, its highest since Sept. 22. Perpetual funding rates have held close to 11 percent annualized over the past two weeks despite the price correction, while spot buyers have shown little aggression. Together, these readings suggest the bid under $77,000 is primarily underpinned by perpetual futures positions, rather than spot demand."
+
+— Tanaya Macheel
+
+Helen of Troy shares jumped about 26% in intraday trading after Empower Brands publicly disclosed its $37-a-share cash takeover proposal. Empower, jointly owned by Spectrum Brands and Oaktree Capital Management, said the proposal implies an enterprise value of approximately $1.6 billion.
+
+Empower initially offered $34 a share on August 19, which Helen of Troy rejected on September 3. It increased the proposal to $37 on October 12. Helen of Troy's board unanimously rejected the revised proposal on October 20, determining that it significantly undervalued the company, according to the company's investor presentation.
+
+The rejection was publicly confirmed today.
+
+Helen of Troy, whose brands include OXO, Hydro Flask and Osprey, says its standalone strategy offers greater long-term value. It also said Empower declined a nondisclosure agreement that would have allowed access to additional information. Empower characterized the proposed agreement as overly restrictive.
+
+"The Company and Board actively engaged with and were responsive to Empower Brands and its advisors, including offering a customary non-disclosure agreement that would allow them to receive information," the company said in a statement. "Empower Brands refused the offer, highlighting the opportunistic nature of the approach and lack of diligence in determining the value of Helen of Troy."
+
+No deal has been agreed.
+
+Helen of Troy maintains that the proposal undervalues its business, but says its board remains open to opportunities that benefit shareholders.
+
+"The Helen of Troy Board, after comprehensive review alongside its financial and legal advisors, has unanimously determined that Empower Brands' proposal substantially undervalues Helen of Troy and its prospects for continued growth and value creation, and is not in the best interest of Helen of Troy or its shareholders," the Company said in a statement.
+
+— Deena Zaidi
+
+Apple shares rose 6%, reaching an all-time high of $354.33 on Wednesday, pushing the company's market capitalization above $5.12 trillion. The iPhone maker stands to benefit from the sweeping Democratic win, which means slowing data center construction and easing pressure on memory chip prices. Apple has been considered an anti-AI play, with its cautious approach leaving it less exposed to the industry's enormous infrastructure spending.
+
+The company recently posted disappointing margin forecast late Monday and its iPad sales in the fiscal fourth-quarter missed the Street's estimates. Apple had blamed higher memory prices and some costs related to Siri AI for the shrinking margins.
+
+But the stock could now be an early winner from the Democratic mid term victory.
+
+— Deena Zaidi
+
+The most important policy implication of a Democratic landslide in the U.S. midterm election is a prospective slowdown of data-center construction, according to Thierry Wizman, Global FX & Rates Strategist at Macquarie Group.
+
+He said that because AI infrastructure investment has supported U.S. growth, "any politically driven slowdown would be adverse for the U.S. dollar."
+
+Wizman identified this as one of the three most important medium-term dollar drivers, alongside oil/war and European debt sustainability. The ICE U.S. Dollar Index dropped Wednesday after Democrats flipped Senate and House in stunning victory, removing uncertainty for markets.
+
+— Deena Zaidi
+
+Democrats strong showing Tuesday night could create a challenging regulatory environment for the financial services and crypto industries.
+
+Investors should expect Elizabeth Warren to chair the Senate Banking Committee, where her opposition to crypto is likely to stall supportive crypto legislation, including the Clarity Act, Compass Point analyst Ed Groshans said in a note Wednesday. Instead, Cryptoasset adoption will largely depend on SEC and CFTC regulatory actions.
+
+"Warren is opposed to cryptoassets," he said." She has sought amendments to limit tokenization … does not support the regulatory approval of perpetual futures. We do not expect the SBC to act on any legislative efforts, such as the Clarity Act, to broaden cryptoasset adoption with Warren as Chair.
+
+Groshans also said the banking sector should anticipate increased political and headline risk, particularly around Basel III revisions. He sees the greatest opportunities for financial services legislation are capping consumer interest rates at 36% and addressing credit card interchange.
+
+— Tanaya Macheel
+
+Spreads on CoreWeave's five-year credit default swaps moved 3% higher on Wednesday to 1,139.7 after the election created more hurdles for data center plays.
+
+Credit default swaps are contracts where buyers pay for protection in case the borrower can't repay its debt. The spread widening in CoreWeave's CDS means investors view the debt as riskier. The yield on its 9.75% bond due in 2031 also ticked 3 basis points higher to 15.919%. One basis point is equal to 0.01%, and yields and prices move in opposite directions.
+
+Democrats, seen as friendlier to data center restrictions, had resounding wins across the country, including in Texas -- where the newly elected governor has said she wants an immediate moratorium on data centers in the state. Ballot measures on their development were also shot down in various states.
+
+CoreWeave has been trading above 1,000 in recent weeks as investors became more concerned about the debt being taken on to fund artificial intelligence infrastructure. That level is generally seen as signaling distress.
+
+— Michelle Fox
+
+McDonald's shares rising modestly after better-than-expected third quarter earnings. The rally is also a reflection that "less bad" is outweighing "less good" on the sales front.
+
+Although U.S. same-store sales fell for the first time in 6 quarters, but the 0.2% decline was less than the 0.5% that Wall Street expected. Although traffic was down in July and August, trends improved in September, providing some optimism going forward.
+
+It was a very different story abroad though. International restaurants saw positive sales growth, more than offsetting the domestic sales decline. Same-store sales for International Operated Markets rose 1.4%, driving the rather mundane 1.5% growth across the entire company. But despite that strength in overseas sales, the rise was a disappointment since it was less than the 2.1% projected by analysts.
+
+— Robert Hum
+
+Shares of the State Street Communication Services Select Sector SPDR ETF (XLC) were up nearly 4% on Wednesday, pacing for its best day since April 2025.
+
+Top holdings of the XLC were higher across the board. Alphabet was up nearly 5%, as was the Walt Disney Company, and Meta Platforms was higher by almost 2%.
+
+— Davis Giangiulio
+
+Magnificent Seven stocks rallied Wednesday morning, breaking away from the broader artificial intelligence trade that was in a downturn.
+
+The two exceptions were Elon Musk's Tesla, which slid 2%, and Nvidia, which was lower by 1%.
+
+The AI trade more broadly was selling off, as investors dumped shares of the companies most likely to get hurt by greater scrutiny from a left-leaning Congress. Semiconductors fell 1%, as shown by the iShares Semiconductor ETF (SOXX). And, neocloud stocks dropped 6%, according to the Roundhill Neocloud ETF (NCLD).
+
+Shares of Coreweave dropped more than 7%, while Nebius fell more than 4%.
+
+— Sarah Min
+
+The State Street Consumer Staples Select Sector SPDR ETF (XLP) hit a fresh all-time record on Wednesday morning.
+
+The fund, which was last up more than 2%, was led higher by gains in Dollar Tree, Constellation Brands, Estee Lauder, Doller General and Conagra Brands, among others.
+
+XLP is on pace to finish the year with solid gains, having risen about 17% in the period.
+
+— Gina Francolla and Sean Conlon
+
+U.S. equities jumped at the beginning of Wednesday trading.
+
+The Dow Jones Industrial Average rocketed higher by 1,022 points, or 2%, just after the opening bell, while the S&P 500 and Nasdaq Composite each added 1.3%.
+
+— Sean Conlon
+
+Here are some of the names moving before the opening bell:
+
+To see the full list of movers, click here.
+
+— Michelle Fox and Paulina Likos
+
+Private-sector job growth held steady in October, with gains spread across sectors, as the labor market showed fresh signs of stabilization, ADP reported Wednesday.
+
+The payrolls processing firm said companies added 86,000 jobs during the month, the same as the downwardly revised total for September and slightly ahead of the Dow Jones estimate for 75,000.
+
+Read the full story here.
+
+— Jeff Cox
+
+Nasdaq-100 futures are up 929.75 points off their overnight lows, based on the current price of 28,545.50. Futures contracts tied to the benchmark hit a low of 27,615.75, their lowest since July 30.
+
+— Gina Francolla
+
+Precious metals saw strong gains on Wednesday morning as the Democrats scored a clean sweep in the midterm elections, flipping both the House and Senate.
+
+Spot gold was 2.93% higher at $4,043.45 an ounce by 5:05 a.m. ET, while spot silver jumped 4.44% to trade at $51.98 per ounce, as traders reacted to the U.S. midterm election results.
+
+Front-month gold futures added 2.9% to trade at $4,054.60, while silver futures were up 4.64% at $52.09.
+
+Other metals seeing notable gains on Wednesday morning included platinum, which jumped 2.47% to trade at $1,465.30, and palladium, which was 5.93% higher at $989.
+
+— Chloe Taylor
+
+Renewables and healthcare shares are among the biggest premarket movers, trading higher after Democrats took control of the House and Senate. Meanwhile, neocloud stocks, as well as prison operators and defense names, lag the broader market.
+
+U.S. renewable energy stocks climbed on expectations of a policy shift. First Solar advanced 8.5%, Bloom Energy gained 5.8%, Plug Power rose 10.6%, Sunrun notched an 8.64% gain, FuelCell Energy was up 6.24% and SolarEdge Technologies moved 4% higher.
+
+Healthcare stocks also rose. UnitedHealth gained 1.8%, Molina Healthcare added 6.3%, Centene climbed 5% and HCA Healthcare advanced 7.16%.
+
+Neocloud stocks, in contrast, turned lower, with CoreWeave down 3.6% and Nebius off 1%. Shares of prison operators and defense names also fell.
+
+— Hugh Leask
+
+European renewable energy stocks moved sharply higher in early trade as prospects of a decisive Democrat victory in the U.S. midterm elections sparked hopes of a U.S. policy shift on renewables.
+
+Copenhagen-listed Oersted surged 7.3% while Danish peer Vestas advanced 5.2%. The two companies have grappled with uncertainty in their U.S. businesses in recent years, partly as a result of fierce opposition from the Trump administration toward the renewable energy sector.
+
+— Hugh Leask
+
+The pan-European Stoxx 600 added 0.44% in early trading, as the continent's stocks and major bourses moved higher on the Democrats' clean sweep of the U.S. midterms.
+
+Banks advanced 1.83%, leading gains, with basic resources up 1.71% and utilities rising 0.68%. Food and beverage stocks lost 0.57%, and industrial goods fell 0.37%.
+
+The Italian FTSE MIB was up 0.88%, leading regional bourses. The U.K.'s FTSE 100 added 0.22%, while the French CAC 40 rose 0.24% and Germany's DAX gained 0.28%.
+
+— Hugh Leask
+
+Novo posted quarterly earnings ahead of expectations early Wednesday as sales of its Wegovy pill blew past estimates amid continued GLP-1 volume growth globally, sending shares up as much as 6% in early trading.
+
+The company updated its outlook to now see adjusted revenue and operating profit growth between negative 2% and 2% at constant exchange rates. It previously saw full-year sales and operating profits, which it hiked in August, at negative 6% to flat for both metrics.
+
+Sales in the third quarter came in at 79.2 billion Danish kroner ($11.9 billion), up 4% year-on-year at constant exchange rates and ahead of FactSet estimates of 73.6 billion kroner. Adjusted operating profit (EBIT) was 31.7 billion kroner, compared with the expected 28.6 billion kroner.
+
+It comes as the Danish weight-loss drug maker is looking to regain momentum following a tumultuous year in which it fell behind rival Eli Lilly.
+
+Read more here.
+
+— Elsa Ohlen
+
+Asia-Pacific markets closed mixed Wednesday, as investors assessed a projected Democratic takeover of the U.S. Senate and House, while President Donald Trump appeared to not challenge the results.
+
+"We'll work with the Democrats, and we'll get along very well with them," Trump told the Wall Street Journal.
+
+South Korea's Kospi rose 0.62% to end at 5,683.8, while the small-cap, tech-focused Kosdaq added 1.5% to 714.95 in choppy trading.
+
+Japan's Nikkei 225 pared some losses to close 1.42% lower at 62,188.63, and the broad-based Topix declined 0.89% to 3,895.38.
+
+Mainland China's CSI 300 gained 2.31% to 4,101.34, while Hong Kong's Hang Seng Index was 1.43% higher in its last hour of trade.
+
+Australia's S&P/ASX 200 fell 0.59% to 8,834.5.
+
+— Lee Ying Shan and Lim Hui Jie
+
+The dollar moved lower against most major currencies as the Democrats took control of Congress after the U.S. midterm elections.
+
+The euro was last seen 0.39% higher against the dollar at $1.1235, while the British pound also strengthened against the greenback, rising 0.48% to $1.3476.
+
+The dollar index, which tracks the greenback's strength against a basket of six major currencies, was down 0.39% at $101.32.
+
+— Hugh Leask
+
+Treasury yields moved lower on Wednesday as investors sought shelter from a sell-off in equity futures sparked by potential big victories from Democrats in the U.S. midterm elections.
+
+The benchmark 10-year Treasury note yield was last seen 1 basis point lower at 4.9311%. The 30-year bond yield slipped 1 basis point to 5.3136%, and the shorter-term 2-year note yield pulled back 1 basis point to 4.6017%.
+
+— Hugh Leask
+
+European stock markets are set to open negative as investors respond to overnight projections of a major Democratic victory in the U.S. midterms.
+
+The Democrats are projected to win both chambers of Congress, according to The Associated Press.
+
+Stoxx 50 futures were lower by 0.35% ahead of Wednesday's market open.
+
+Futures tied to the U.K.'s FTSE 100 were 0.64% lower, with Germany's DAX off by 0.46%. France's CAC 40 is set to start the session 0.28% lower, while Italy's FTSE MIB is down 0.21%.
+
+— Hugh Leask
+
+Asian semiconductor stocks tumbled Wednesday as Democrats are projected to win both the House and the Senate in the U.S. midterm elections.
+
+That has stoked worries over curbs on AI infrastructure buildout at a time when AI-linked stocks have been declining on concerns about weaker spending.
+
+Japan's Softbank Group plunged over 8%, while chipmaking equipment company Disco fell 10.19%. Advantest shed over 8% and Renesas Electronics declined 7.64%. Tokyo Electron was down 7.04%.
+
+South Korean chip heavyweights also came under pressure, with SK Hynix dropping 5.08% and Samsung Electronics declining 3.87%. Seoul Semiconductor shed 4.37%.
+
+Taiwanese chipmaking giant TSMC slipped 1.09%.
+
+— Lee Ying Shan
+
+Shares of Trump Media & Technology declined more than 7% in overnight trading on Robinhood as the 2026 midterm elections appear poised to conclude with a blue wave.
+
+The stock moved lower after CNBC's Election Desk projected that Democrats are going to win the House. The party was also on track to take Senate control from Republicans.
+
+President Donald Trump said in a Truth Social post late Tuesday, "I wasn't on the Ballot and if I was, we would have won IN A LANDSLIDE!"
+
+— Sean Conlon
+
+Japan's Nikkei 225 plunged more than 4% on Wednesday, leading losses across Asia-Pacific markets as renewed jitters over artificial intelligence stocks weighed on investor sentiment amid uncertainty surrounding the U.S. midterm elections.
+
+The benchmark declined 4.45% to its lowest since May. Technology and energy stocks led declines in the benchmark, according to data from LSEG, while the broader Topix index tumbled more than 3%.
+
+The sell-off came as investors weighed the prospect of tighter restrictions on data-center development under a potential Democratic-controlled Congress, adding to concerns over the outlook for AI-related spending.
+
+— Lee Ying Shan
+
+Treasury yields fell as investors sought shelter from a sell-off in equity futures sparked by potential big victories from Democrats in the U.S. midterm elections.
+
+The benchmark 10-year Treasury note yield dropped nearly 5 basis points to 4.902%. The 30-year bond yield slid 5.29%, and the shorter-term 2-year note yield pulled back 6 basis points to 4.55%. Read more.
+
+— Fred Imbert
+
+Shares of SpaceX fell more than 6% on Robinhood overnight trading as Democratic candidate Gina Hinojosa continued her lead over Republican incumbent Greg Abbott in the Texas gubernatorial race.
+
+"Let's watch SpaceX. Let's watch Tesla. This is Elon Musk-land now. There are a lot of California companies that moved to Texas, thinking, 'All right, we're going to get out of this blue state and go somewhere safe,' and now it's proven that it isn't," Jay Woods, Freedom Capital Markets' chief market strategist, said in an interview with CNBC.
+
+"You want to watch a lot of these Texas companies that moved there," he stressed.
+
+Musk said that he was going to move the headquarters of both companies to Texas from California back in 2024. Tesla shares were down more than 4% on Robinhood.
+
+— Sean Conlon
+
+Investors were focusing on the results of the Texas gubernatorial race for clues about the AI trade because the state represents an outsized portion of data center capacity. Democratic candidate Gina Hinojosa has an early lead over Republican incumbent Greg Abbott. Hinojosa is calling for an immediate moratorium on data centers in the state and an end any tax incentives for the build-out.
+
+"The one thing that could really end up moving stuff though would be if Abbott were to lose Texas," said Scott Ladner, chief investment officer of Horizon Investments. "Because there is a legitimate question about, where do you build these data centers?"
+
+"Texas is a fertile ground for that. And if he were to lose, I think that fertile ground is largely barren. So, that's going to be a challenge. And so the AI trade — at least for next couple days — does hinge on does Abbott win or not," Ladner added.
+
+Texas represents about 27% of U.S. data center gigawatts, estimates Wells Fargo.
+
+— John Melloy and Sarah Min
+
+Any big surprises out of the 2026 midterm elections could mean buying opportunities for investors, according to Angelo Kourkafas, senior strategist at Edward Jones.
+
+"The results could act as a clearing event removing some uncertainty, though developments around the AI theme and geopolitics are the primary forces driving markets heading into the final two months of the year," he said.
+
+However, he added: "If we do see election-driven volatility it may present an opportunity for long-term investors to lean into it."
+
+— Sean Conlon
+
+HSBC said on Wednesday it had issued $4.25 billion in senior unsecured debt in two tranches, including $1.75 billion in notes due in 2032 at 5.819% fixed-rate/floating-rate and another $2.5 billion in notes maturing in 2037 at 6.262%.
+
+Europe's largest bank, which plans to list the securities on the New York Stock Exchange, did not specify how the funds raised would be deployed.
+
+— Lee Ying Shan
+
+Cboe Volatility Index (VIX) futures moved higher on Tuesday evening as U.S. equity futures came under pressure amid results from the midterm elections.
+
+Futures tied to the VIX, otherwise referred to as Wall Street's "fear gauge," were last seen trading at 20.90.
+
+A move above 20 tends to be a key level signaling heightened angst among investors in the market.
+
+— Sean Conlon
+
+Investors are on edge as polls across the U.S. begin closing in an election that could bring gridlock to government. But if history is any indication, they may have little to worry about.
+
+A CNBC analysis of S&P 500 returns after elections from 1980 through 2024 shows the benchmark rose an average of 0.2% one day after the election and 1.1% in the month following. One year out, the benchmark averages a 13.8% return and rose in 91% of cases. That's including general elections.
+
+Looking at just post-midterm returns, the record is even stronger. The S&P 500 has risen after each of the last 11 midterm elections between 1982 and 2022. One year out, the index returns 13.7% on average.
+
+Read the full story here.
+
+— Deena Zaidi and Nick Wells
+
+The Invesco Solar ETF (TAN) rose by 1.3% in after hours trading on Tuesday, extending gains from the regular session when the ETF rallied 3% as traders bet on stocks most likely to benefit from Democrat leadership.
+
+Options trading in solar companies surged Tuesday, following a five-month selloff for the group. Volume in the Invesco Solar ETF (TAN) surged to 40 times higher than usual, according to Cboe LiveVol data. The fund, which typically trades fewer than 500 contracts a day the past month, traded more than 20,000 contracts by midday, and 99% of them were calls.
+
+— Sarah Min and Oliver Renick
+
+Shares of key chipmakers gave up their initial gains on Tuesday evening, moving into negative territory.
+
+Intel fell more than 1%, while Micron Technology dropped around 1%. Nvidia also fell nearly 1%.
+
+The VanEck Semiconductor ETF (SMH) and the iShares Semiconductor ETF (SOXX) each dropped almost 1% as well.
+
+— Sean Conlon
+
+Asia-Pacific markets started the trading day mixed.
+
+South Korea's Kospi jumped 2.95%, while the small-cap Kosdaq added 1.85%.
+
+Japan's Nikkei 225 opened flat, while the Topix added 0.43%.
+
+Australia's S&P/ASX 200 was down 0.45%.
+
+— Lee Ying Shan
+
+Shares of CVS Health advanced in extended trading on the back of a report in The Wall Street Journal that the company will separate its retail pharmacy business.
+
+The split will turn CVS into two separate companies, people familiar with the matter told the Journal. Both entities will be publicly traded, with the division expected to take place in the first half of 2028.
+
+Shares of CVS were last up around 1% in after hours.
+
+— Darla Mercado
+
+Asia-Pacific markets were set for a mixed open Wednesday, as investors assessed a rebound in Wall Street technology stocks while awaiting the results of the U.S. midterm elections.
+
+Futures for Japan's Nikkei 225 in Chicago were at 63,410, while in Osaka they were last at 63,090 compared with the index's previous close of 63,081.86.
+
+Futures for Hong Kong's Hang Seng index last traded at 23,400 compared with the index's last close of 23,525.97.
+
+Australia's S&P/ASX 200 was down 0.5% in early trading.
+
+— Lee Ying Shan
+
+A slate of stocks moved sharply in extended trading, largely driven by the latest earnings reports:
+
+Read more about Tuesday's movers in extended trading here.
+
+— Darla Mercado
+
+Futures tied to the S&P 500 and Nasdaq-100 opened higher on Tuesday evening.
+
+S&P 500 futures rose 0.2%, while Nasdaq-100 futures gained 0.5%. However, Dow Jones Industrial Average futures lost 60 points, or 0.1%.
+
+— Sean Conlon

@@ -1,0 +1,67 @@
+INTC$91.805-3.7253:49 PM EDT
+
+# Intel to Acquire Classiq to Create a Full-stack Quantum Computing Platform
+
+[Download as PDF](https://d1io3yog0oux5.cloudfront.net/_ffd99f3df5abba36043370ca56d23144/intel/news/2026-10-26_Intel_to_Acquire_Classiq_to_Create_a_Full_stack_1784.pdf "PDF: Intel to Acquire Classiq to Create a Full-stack Quantum Computing Platform")
+Oct 26, 2026 • 4:30 PM EDT
+
+SANTA CLARA, Calif. & TEL AVIV, Israel--(BUSINESS WIRE)--
+Intel Corporation today announced that it has entered into a definitive agreement to acquire Classiq, a leading provider of quantum computing software. The combination of Classiq’s synthesis platform with Intel’s spin-qubit manufacturing and existing software would create a user-friendly full-stack quantum computing platform, enabling the promising technology to mature into a mainstream computing business.
+
+More than forty years ago, the invention of Electronic Design Automation (EDA) and Computer‑Aided Design (CAD) software transformed silicon chip design and classical computing by providing a common software platform that could abstract the ability to design chips from the complexity of the underlying hardware. Classiq plays a similar role in quantum computing, providing a unifying software platform that is agnostic to the underlying qubit modality and hardware. Providing this high-level abstraction enables quantum computing to scale beyond custom hand-crafted circuits and applications to become a mainstream computing platform.
+
+Classiq’s synthesis platform brings complementary assets to Intel’s already strong quantum hardware and software capabilities developed over the last decade. Since 2015, Intel has been investing in the development of quantum computing, and today it is the only company capable of producing qubit chips and complex cryogenic control electronics at-scale, using equipment and processes common to conventional silicon-based semiconductor manufacturing.
+
+The proposed acquisition of Classiq would combine Intel’s quantum software platform, scalable silicon spin-qubit technology and advanced semiconductor manufacturing expertise with Classiq’s automated quantum algorithm synthesis platform. The combination would enable Intel to become a full-stack quantum solutions provider, while also allowing the company to add Quantum Processing Units (QPUs) to its already diverse compute platform portfolio spanning Central Processing Units (CPUs), Graphical Processing Units (GPUs) and application-specific integrated circuit (ASICs).
+
+“I am delighted to have Nir, Yehuda, Amir and the entire Classiq team join Intel,” said Lip-Bu Tan, chief executive officer, Intel. “For more than a decade, Intel has made remarkable progress in quantum computing by applying its semiconductor innovation, advanced manufacturing prowess and systems engineering expertise to the development of scalable silicon spin-qubit technology. Joining forces with Classiq transforms Intel’s Quantum Computing Group into a full-stack quantum computing business.”
+
+“Since our founding, Classiq has focused on making quantum computing practical and accessible by enabling developers, researchers and enterprises to create scalable quantum applications without requiring deep expertise in quantum circuit design,” said Nir Minerbi, co-founder and chief executive officer, Classiq. “Together, Intel and Classiq can help unlock the benefits of quantum computing and accelerate its adoption sooner.”
+
+Following the close of the transaction, Intel intends to continue to support Classiq’s existing multi-platform integrations and ensure a modality- and hardware-agnostic software solution that continues to enable an open and collaborative quantum software ecosystem. The transaction is subject to regulatory approvals and other customary closing conditions and is expected to close in the first half of 2027. Until closing, Intel and Classiq will continue to operate as separate, independent companies.
+
+**Forward-Looking Statements**
+
+This release contains forward-looking statements that involve a number of risks and uncertainties, including with respect to the terms and anticipated timing of closing the agreed upon acquisition and the potential benefits of such acquisition. Such statements involve risks and uncertainties that could cause actual results to differ materially from those expressed or implied, including: the risk that the transaction may not be completed in a timely manner or at all, including as a result of a failure to receive regulatory approvals; the occurrence of any event, change or other circumstance that could give rise to the termination of the transaction; the risk that the expected benefits of the transaction may not be realized; disputes or potential litigation related to the transaction; risks as to the retention of key Classiq personnel and customers; risks related to the diversion of management’s attention during the pendency of the transaction; risks related to the technological and commercial challenges and uncertainties associated with the development and viability of quantum computing solutions, including uncertainty regarding the timing and extent of commercial adoption and the ability to realize the anticipated technological and commercial benefits of the transaction; the high level of competition and rapid technological change in the semiconductor industry; and other risks and uncertainties described in Intel’s 2025 Form 10-K and other filings with the SEC.
+
+Given these risks and uncertainties, readers are cautioned not to place undue reliance on such forward-looking statements. Readers are urged to carefully review and consider the various disclosures made in this release and in other documents Intel files from time to time with the SEC that disclose risks and uncertainties that may affect its business.
+
+All information in this press release reflects Intel management’s views as of the date hereof unless an earlier date is specified. Intel does not undertake, and expressly disclaims any duty, to update such statements, whether as a result of new information, new developments, or otherwise, except to the extent that disclosure may be required by law.
+
+**About Intel**
+
+Intel (Nasdaq: INTC) is an industry leader, creating world-changing technology that enables global progress and enriches lives. Inspired by Moore’s Law, we continuously work to advance the design and manufacturing of semiconductors to help address our customers’ greatest challenges. By embedding intelligence in the cloud, network, edge, and every kind of computing device, we unleash the potential of data to transform business and society for the better. To learn more about Intel’s innovations, visit [newsroom.intel.com](https://www.intel.com/content/www/us/en/newsroom/home.html) and [intel.com](https://www.intel.com/).
+
+**About Classiq**
+
+Classiq, a leading quantum computing software company, provides enterprise-grade technology that makes it practical to develop scalable, efficient quantum applications. Used by dozens of global enterprises, the Classiq platform combines AI agents, a high-level quantum modeling language and design automation to accelerate the development of optimized, hardware-ready quantum software. The platform also supports hardware benchmarking, cost and performance optimization, and execution across quantum hardware platforms.
+
+© Intel Corporation. Intel, the Intel logo and other Intel marks are trademarks of Intel Corporation or its subsidiaries. Other names and brands may be claimed as the property of others.
+
+View source version on businesswire.com: [https://www.businesswire.com/news/home/20261026100882/en/](https://www.businesswire.com/news/home/20261026100882/en/)
+
+Intel Media Relations
+
+[ContactPR@Intel.com](mailto:ContactPR@Intel.com)
+
+Source: Intel Corporation
+
+Released Oct 26, 2026 • 4:30 PM EDT
+
+- [Email Alerts](https://www.intc.com/news-events/email-alerts)
+- [Tear Sheet](https://d1io3yog0oux5.cloudfront.net/_ffd99f3df5abba36043370ca56d23144/intel/files/Tear+Sheet.pdf "Tear Sheet")
+- [Contacts](https://www.intc.com/about-intel/contacts)
+- [RSS News Feed](https://www.intc.com/news-events/press-releases/rss)
+
+hidden text to trigger **early** _load_ of fonts Продукция **Продукция** _Продукция_ Продукция Các sản phẩm **Các sản phẩm** _Các sản phẩm_ Các sản phẩm المنتجات **المنتجات** _المنتجات_ المنتجات מוצרים **מוצרים** _מוצרים_ מוצרים
+
+The browser version you are using is not recommended for this site.
+
+Please consider upgrading to the latest version of your browser by clicking one of the following links.
+
+- [Safari](https://support.apple.com/downloads/safari)
+- [Chrome](https://support.google.com/chrome/answer/95346?hl=en)
+- [Edge](https://www.microsoft.com/en-us/edge)
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+
+Market Data copyright © 2026 [QuoteMedia](http://www.quotemedia.com/). Data delayed 15 minutes unless otherwise indicated (view [delay times](http://www.quotemedia.com/legal/tos/#times) for all exchanges). RT=Real-Time, EOD=End of Day, PD=Previous Day. Market Data powered by [QuoteMedia](http://www.quotemedia.com/). [Terms of Use](http://www.quotemedia.com/legal/tos/).

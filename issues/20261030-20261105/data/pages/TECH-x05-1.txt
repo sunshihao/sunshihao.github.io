@@ -1,0 +1,83 @@
+Delhaize stores hit by 'IT incident' in Belgium and Luxembourg
+
+Sweden's national cybersecurity centre investigating incidents
+
+ICA store in Sweden says refrigerators hit by cyber attack
+
+Belgian SPAR stores, Carrefour supermarkets also affected
+
+Attack comes weeks after similar hack in France last month
+
+STOCKHOLM/BRUSSELS/LONDON, Nov 2 (Reuters) - A hacking attack on European supermarkets spread across the continent on Monday, hitting fridges and ​freezers from Sweden to Belgium and forcing stores to throw away food in an incident that echoed a similar attack in France last month.
+
+The attack, which raised temperatures in refrigerator and ‌freezer units at dozens of stores, hit supermarket groups Ahold Delhaize (AD.AS), opens new tab and Colruyt (COLR.BR), opens new tab in Belgium and Luxembourg, as well as Swedish grocers ICA and Coop. Furniture-to-meatballs retailer IKEA also saw at least one store affected.
+
+The Misinformation Monitor newsletter rounds up international misinformation narratives, with a "Real or Fake?" quiz in every edition. Sign up here.
+
+"Everything is destroyed," Engla Ingwall, sales manager at an ICA franchise store in Stockholm, told Reuters during a visit to the store on Monday, adding the attack occurred at 2 a.m. (0100 GMT) but was only noticed hours later.
+
+"There has been a cyberattack and all our freezers reached 50 degrees (Celsius)."
+
+A spokesperson for privately held ICA said the company ​was aware that a "limited number of stores were affected by an incident overnight, which impacted their refrigeration and freezer systems".
+
+The latest incidents follow an attack in France last month when police said hackers seized control of ​cooling units at hundreds of supermarkets, causing fires and food losses. Ahold also reported a cybersecurity incident to police last month.
+
+While no one has claimed responsibility for either attack, ⁠the incidents have heightened concerns among European authorities about hybrid threats to infrastructure amid growing security tensions since Russia's 2022 invasion of Ukraine.
+
+Moscow has repeatedly denied involvement in sabotage or hybrid warfare operations. Reuters could not establish who was ​behind Monday's attacks or whether they were linked to the incidents in France.
+
+"It is not known who is behind this attack, and it may never be determined," said Katrien Eggers, spokesperson for Belgium's Centre for Cybersecurity, adding she was concerned ​about the growing number of incidents, in part due to AI.
+
+"All IT systems are potentially vulnerable, and AI can now be used to successfully exploit these weaknesses — especially by sophisticated actors," she said.
+
+'RETAIL IS AN EASY TARGET'
+
+From refrigerators and heating systems to security cameras and alarms, an expanding range of devices once largely mechanical can now be monitored and controlled remotely, creating new opportunities for cybercriminals.
+
+At least some of the refrigerator units affected on Monday used temperature control technology from Danish firm Danfoss that was also targeted in the French ​attack. The firm said it had been working with customers to implement fixes.
+
+The European Commission said the latest incidents highlighted how digital threats are becoming increasingly disruptive.
+
+"They are a deliberate attempt to disrupt our food supply chain and undermine ​consumers' confidence in it – a warning that we must take seriously," said EU commissioner for agriculture Christophe Hansen. "The repeated occurrence of these cyberattacks is deeply concerning."
+
+Item 1 of 6 Freezers are emptied, and frozen goods are loaded into shopping carts to be thrown away at ICA Kvantum in Sjobo, Sweden November 2, 2026, after a hacker attack raised the temperature in the freezers to 50 degrees Celcius. Johan Nilsson/TT News Agency/via REUTERS
+
+[1/6]Freezers are emptied, and frozen goods are loaded into shopping carts to be thrown away at ICA Kvantum in Sjobo, Sweden November 2, 2026, after a hacker attack raised the temperature in the freezers to 50 degrees Celcius. Johan Nilsson/TT News Agency/via REUTERS Purchase Licensing Rights, opens new tab
+
+A spokesperson for Colruyt Group, which operates Spar stores in Belgium under a franchise system, said five shops ‌had their ⁠fridge systems attacked.
+
+In Ireland, wholesaler Musgrave said the incident affected systems in 13 of its SuperValu stores, forcing it to remove some chilled and frozen products from sale.
+
+"Our monitoring systems alerted us to the issue and we took immediate action," it said in a statement. "Our investigation is ongoing."
+
+Tom Hegel, a researcher at cybersecurity firm SentinelOne, said such attacks were typically linked to extortion, political motives or nation-state operations, with the absence of financial demands in recent cases pointing instead to sabotage.
+
+"Retail is an easy target because retail chains run enormous estates of refrigeration controllers, building management systems, door access panels and point-of-sale gear," he said, adding it was hard to trace hackers targeting such systems.
+
+"An attacker who logs into ​an exposed control panel leaves almost nothing behind ... A teenager ​and an intelligence service would look much the ⁠same from the defender's side."
+
+'IT'S VERY SCARY'
+
+Carrefour (CARR.PA), opens new tab, which was badly hit in last month's French attack, said 15 of its 700 stores in Belgium were affected. IKEA said one store in Belgium had been impacted and that it could not rule out disruptions at other locations.
+
+Privately held Swedish grocery chain Coop said that 7 of its 800 stores were ​affected by a cyber incident involving unauthorised tampering with its refrigeration systems. It said Danfoss was among its suppliers.
+
+Luc De Laet, founder and owner of Belgian butchery ​chain De Laet & Van Haver, said ⁠he was woken at 3:30 a.m. by an employee telling him there was a problem. He rushed to his store south of Antwerp and found the fridges turned up as high as 18 C.
+
+He estimated the incident ruined about €15,000 ($16,800) worth of meat.
+
+"It's very scary. They are hacking the system that is doing the registration of the temperature, and they can program it at a distance," he told Reuters, adding that it was infuriating to throw away so much food.
+
+De Laet said he believed ⁠the hackers were ​trying to destabilise European economies. He had contacted police but did not know whether an investigation had been launched.
+
+"I only have two words ​for them: wake up, please, because there's something going on," he said.
+
+($1 = 0.8948 euros)
+
+Reporting by Anna Ringstrom, Marie Mannes, Louise Rasmussen and Johan Ahlander in Stockholm, and Helen Reid in London; Additional ​reporting by Padraic Halpin in Dubin, Leo Marchadon, Inti Landauro and Charlotte Van Campenhout in Brussels, Dominique Vidalon in Paris and Terje Solsvik in Oslo; Writing by Adam Jourdan and Josephine Mason; Editing by Kirsten Donovan, Jan Harvey and Mark Potter
+
+Stockholm-based company news correspondent who mainly covers anything to do with retail and industrial companies in Sweden as well as other sectors with Swedish companies. She previously covered the general Nordic stock market from Gdansk, reporting on a range of subjects, from companies exiting Russia to M&As and supply chain concerns. Marie has degrees in journalism and international relations and is keen on finding stories that drive the market and that have unreported elements to it.
+
+London-based reporter covering the European retail sector through a global lens. Focusing on companies including Adidas, H&M, Ikea, and Inditex and analysing corporate strategy, consumer trends, and regulatory changes, Helen also covers major supermarket groups like Ahold Delhaize, Carrefour, and Casino. She has a special interest in sustainability and how investors push for change in companies. Previously based in Johannesburg where she covered the mining industry.
+
+A group representing nearly all major ​automakers on Monday urged US ‌lawmakers to pass a permanent ban on Chinese vehicles ​when they return next ​week for a quick ⁠session after the midterm ​congressional elections.

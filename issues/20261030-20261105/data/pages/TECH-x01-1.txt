@@ -1,0 +1,63 @@
+Nov 2 (Reuters) - Marvell Technology (MRVL.O) is buying optical components maker Lumentum (LITE.O) in a $115 billion all-stock deal, including debt, ​one of the tech industry's largest takeovers and a bold bet that the AI build-out will fuel chip demand for years.
+
+The buyout unveiled on Monday would unite two ‌companies backed by chip giant Nvidia (NVDA.O) and help Marvell compete more aggressively with Broadcom (AVGO.O) for AI spending.
+
+Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up here.
+
+The hefty spending, however, is facing a reality check. Surging cash burn and rising debt at tech giants such as Amazon (AMZN.O) and Alphabet (GOOGL.O) have deepened concerns about the rising costs, fueling a recent selloff in chip stocks.
+
+A likely Democratic sweep in this week's US midterm elections could add to the hurdles for crucial data-center construction, which already faces strong local pushback.
+
+Marvell shares fell more than ​10% on Monday as some analysts doubted if the chipmaker was stretching itself too thin with a deal that has an equity value of $102.5 billion, more than half its market ​capitalization and over 10 times its previous biggest purchase, the $10 billion Inphi buyout in 2021.
+
+Lumentum, vulnerable to swings in Marvell's shares under the deal, ⁠tumbled over 15%. Both the stocks lagged the wider market.
+
+"This is an enormous bet and investors are right to ask if Marvell is paying too much and taking on too much at once," ​said Axel Rudolph, chief technical analyst at IG Group.
+
+## MARVELL'S RISE
+
+By buying Lumentum, Marvell is betting on demand for optical components—a critical but overlooked part of AI infrastructure that prevents bottlenecks by feeding data ​to expensive processors at extreme speeds.
+
+These parts have become vital as data centers link up thousands of chips that share data faster than traditional copper wiring can handle.
+
+"AI infrastructure is undergoing a fundamental architectural shift toward optical connectivity, creating an opportunity that comes along once in a generation," said Marvell CEO Matt Murphy, who will remain chairman and CEO of the combined company.
+
+"We intend to help shape the next era of AI connectivity."
+
+Murphy told CNBC the deal would ​benefit Nvidia, which invested $2 billion each in Marvell and Lumentum earlier this year, as it brings together two of its key suppliers. It is "a double down on supporting Nvidia", Murphy said of the deal.
+
+Nvidia did not ​respond to a request for comment.
+
+Before the AI boom started in 2022, Marvell was a relatively little-known chipmaker. Its market value has since surged to around $170 billion as it helps tech giants such as Amazon build custom ‌AI chips ⁠and data-center networking gear.
+
+Along the way, it got a boost from Nvidia CEO Jensen Huang, who called Marvell the next "trillion-dollar company", sending its shares to a record high in June.
+
+## KEY DEAL TERMS
+
+Marvell will pay $1,132 per share in stock, a 23.9% premium to Lumentum's last unaffected closing price on October 28, before talks were first reported by Bloomberg News.
+
+The deal values Lumentum at about 33 times its projected core operating profitability over the next 12 months, more than double the median of about 16 times for industry peers, according to Reuters calculations based on LSEG data.
+
+Lumentum shareholders will receive 4.5 Marvell shares for each ​share they own, giving them roughly 33% stake ​in the combined company, while Marvell investors ⁠will own the rest.
+
+Marvell will have to pay Lumentum $5.8 billion as break-up fee if its board drops out of the deal or it walks away to accept a takeover offer for itself. Lumentum would owe Marvell $2.9 billion under similar circumstances, a regulatory filing showed.
+
+It would also pay Lumentum $3.2 billion if regulators block the deal, ​which is expected to close in the first half of 2028.
+
+The custom chipmaker said the combined company would generate more than $21 billion in ​annual revenue, with adjusted operating ⁠margins in the low 40% range, based on near-term forecasts.
+
+## LUMENTUM MAY BENEFIT FROM PROPOSED CHINA BAN
+
+Lumentum, which competes with US-listed Coherent (COHR.N) and China's Zhongji Innolight (300308.SZ), stands to benefit from a proposed US ban on new Chinese optical transceivers that could shift demand toward domestic suppliers.
+
+Marvell has been expanding its photonics business and wrapped up a $3.5 billion purchase of Celestial AI in February as AI drives demand for faster links between data-center ⁠chips.
+
+The Lumentum deal ​could also bolster Marvell's challenge to Broadcom, Google's longtime custom-chip partner, which offers a wider range of AI data-center hardware.
+
+Marvell had ​scored a big win in August with a Google chip-supply deal worth up to $120 billion in sales through fiscal 2033, giving the search giant the right to acquire a $12.2 billion stake.
+
+At its Investor Day, Marvell forecast fiscal 2031 revenue of $70 billion ​to $90 billion, including about $37.5 billion from interconnect, a market it expects to grow 65% annually to $65 billion by 2030.
+
+Reporting by Anhata Rooprai and Aditya Soni in Bengaluru; Editing by Sayantani Ghosh and Arun Koyyur
+
+Our Standards: The Thomson Reuters Trust Principles.

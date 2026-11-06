@@ -1,0 +1,41 @@
+In this article
+
+Amazon shares plunged more than 6% in extended trading Thursday after the company reported disappointing third-quarter results and ballooning negative free cash flow, reflecting its swelling AI investments.
+
+Here's how the company did, compared with estimates from analysts polled by LSEG:
+
+Wall Street was also looking at other key revenue numbers:
+
+The company held steady on its capital expenditure forecast for 2026, saying it continues to expect spending will reach $220 billion this year.
+
+Tech's hyperscalers have been on a blistering spending run to meet the surge in demand for artificial intelligence infrastructure, but signs have begun to emerge that the capex splurge is moderating. Earlier this week, Microsoft lowered its capex forecast for the year to $170 billion from $175 billion, while Alphabet maintained its guidance at $195 billion to $205 billion.
+
+CEO Andy Jassy said on a conference call with investors that the company expects to "spend meaningfully more in 2027," and that Amazon has a "clear line of sight to attractive financial returns."
+
+The aggressive AI spending has eaten into Amazon's cash flow. The company posted negative free cash flow for the second consecutive quarter, recording an outflow of $42.4 billion for the trailing twelve month period, a swing of 386% year over year. In the prior quarter, the company reported negative free cash flow of $7.6 billion.
+
+The company said the shortfall was primarily due to an increase in purchases of property and equipment as a result of AI investments.
+
+Capital expenditures reached $77.3 billion during the quarter, ticking up from $35.1 billion one year earlier, and coming in well above analysts' estimated $58.7 billion, according to FactSet.
+
+Amazon said it expects fourth-quarter revenue to be in the range of $240 billion and $247 billion. The midpoint of its guidance was below Wall Street's expectations of $244.5 billion, according to LSEG. The fourth quarter is typically one of Amazon's biggest by revenue, due to the peak holiday shopping season.
+
+Sales in Amazon's cloud segment soared 39% year over year to $45.98 billion. That topped the consensus forecast for $45.29 billion and growth of 38%, according to StreetAccount.
+
+Jassy highlighted AWS acceleration in the earnings release, saying the company expects revenue growth rates of "over 40%" next year and in 2028. He added, "Our AWS investment in functionality and infrastructure is working."
+
+Jassy told investors on the call that he expects AWS will be a $1 trillion revenue business in the next five to 10 years.
+
+Amazon is facing pressure from Wall Street to show that its AI investments are lifting its revenues. The company pointed to growing traction for Bedrock, its AI model marketplace, along with its Trainium and Graviton AI chips.
+
+Jassy said Amazon's chips business "continues to grow triple-digit percentages year over year." He added that the company plans to make its Trainium chips available externally "late in 2027," assigning a timeframe to comments Jassy made earlier this year suggesting such a move.
+
+Third-quarter net income came in at $20.69 billion, or $1.89 per share, vs. $21.19 billion, or $1.95 per share, a year ago. The company said the decrease was driven primarily by a $9.5 billion pre-tax gain from its investment in the AI startup Anthropic, which was recorded in the 2025 third quarter.
+
+While the AWS segment continues to hum along, results weren't as bright in Amazon's retail business, which remains its largest unit by revenue, or its advertising segment.
+
+Online sales gained 2% year over year to $68.47 billion, which fell short of analysts' projected $69.68 billion, according to StreetAccount. It marked a slowdown from one year ago, when sales increased nearly 10%.
+
+Advertising revenue rose 11% year over year to $19.64 billion. That missed StreetAccount consensus estimates of $20.82 billion.
+
+Both units were impacted in part by Amazon's decision to pull its annual Prime Day sale forward in several countries from its typical third quarter timeframe into the second quarter so as to not conflict with the FIFA World Cup in July.
