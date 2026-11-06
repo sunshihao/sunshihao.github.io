@@ -3,7 +3,8 @@
 # 用法：bash scripts/publish.sh "发布说明"
 set -euo pipefail
 cd "$(dirname "$0")/.."
-ENVF=${ENVF:-/Users/ssh/sites/sunshihao.github.io/.env}
+ENVF=${ENVF:-$(cd "$(dirname "$0")/.." && pwd)/.env}
+[ -f "$ENVF" ] || ENVF=/Users/ssh/sites/sunshihao.github.io/.env
 if [ -f "$ENVF" ]; then set -a; . "$ENVF"; set +a; fi
 : "${GITHUB_TOKEN:?需要 GITHUB_TOKEN（$ENVF）}"
 

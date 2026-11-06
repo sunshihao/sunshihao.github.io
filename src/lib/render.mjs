@@ -27,27 +27,35 @@ export function sectionHead(key, color) {
 }
 
 export function figure(src, caption, credit, link) {
-  const cap = `${esc(caption)}　图：<a href="${esc(link || '#')}" target="_blank" rel="noopener">${esc(credit)}</a>`;
+  const cap = `${esc(caption)}　图：${link ? `<a href="${esc(link)}" target="_blank" rel="noopener">${esc(credit)}</a>` : esc(credit)}`;
   return `<figure><img src="${esc(src)}" alt="${esc(caption)}"><figcaption>${cap}</figcaption></figure>`;
 }
 
-export function numcard(big, unit, label, note, cat, color) {
+export function numcard(big, unit, label, note, cat, color, img) {
   const unitX = 40 + Math.max(String(big).length * 62, 150);
+  const bg = img
+    ? `<image href="/${esc(img)}" x="0" y="0" width="800" height="250" preserveAspectRatio="xMidYMid slice"/>
+  <rect width="800" height="250" fill="var(--bg-soft)" opacity="0.84"/>`
+    : `<rect width="800" height="250" fill="var(--bg-soft)"/>`;
   return `<div class="numcard">
 <svg viewBox="0 0 800 250" role="img" aria-label="${esc(label)}">
-  <rect width="800" height="250" fill="var(--bg-soft)"/>
+  ${bg}
   <text x="40" y="56" font-size="15" letter-spacing="1.5" fill="var(--muted)" font-family="inherit">${esc(cat.toUpperCase())} · ${esc(label)}</text>
   <text x="38" y="168" font-size="92" font-weight="700" fill="var(${color})" font-family="inherit">${esc(big)}</text>
   <text x="${unitX}" y="168" font-size="30" fill="var(--fg-soft)" font-family="inherit">${esc(unit)}</text>
   <text x="40" y="215" font-size="17" fill="var(--fg-soft)" font-family="inherit">${esc(note)}</text>
+  ${img ? '<text x="762" y="238" font-size="12" text-anchor="end" fill="var(--muted)" font-family="inherit">图：AI 生成</text>' : ''}
 </svg></div>`;
 }
 
 export function heroFigure(hero) {
   if (!hero) return '';
+  const credit = hero.link
+    ? `<a href="${esc(hero.link)}" target="_blank" rel="noopener">${esc(hero.credit)}</a>`
+    : esc(hero.credit);
   return `<figure class="hero"><img src="/${esc(hero.src)}" alt="${esc(hero.caption)}"><figcaption>${esc(
     hero.caption
-  )}　图：<a href="${esc(hero.link || '#')}" target="_blank" rel="noopener">${esc(hero.credit)}</a></figcaption></figure>`;
+  )}　图：${credit}</figcaption></figure>`;
 }
 
 export function galleryCards(items = []) {
@@ -84,7 +92,7 @@ export function injectMedia(html, media) {
     if (s) {
       out +=
         s.type === 'numcard'
-          ? numcard(s.big, s.unit || '', s.label || '', s.note || '', key, color)
+          ? numcard(s.big, s.unit || '', s.label || '', s.note || '', key, color, s.img)
           : s.src
             ? figure('/' + s.src, s.caption || '', s.credit || '', s.link)
             : '';
