@@ -13,6 +13,8 @@ src/layouts/Base.astro  全站壳子：head / og / 顶栏 / 页脚 / 评论区
 src/lib/render.mjs      media.json → 封面 / 画廊 / 数字卡 / 章节头
 src/pages/index.astro   总目录
 src/pages/issues/[id]/  一期三页：index（周刊）、brief（审计层）、dashboard 由 public 提供
+src/pages/search.json.js 全站搜索索引（标题 / 正文 / 审计层，构建期生成）
+src/pages/rss.xml.js    RSS 2.0 订阅源
 scripts/sync.mjs        从本地 briefs 目录同步内容与图片
 scripts/finalize.mjs    补齐 .nojekyll / README / STYLE
 public/                 样式、脚本、品牌资产、往期图片
