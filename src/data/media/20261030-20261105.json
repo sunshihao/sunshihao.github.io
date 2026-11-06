@@ -7,8 +7,9 @@
  "storage": "assets/img/20261030-20261105/；命名规则 <条目id小写>.jpg|svg，hero 为 hero.jpg；每张图在此登记 credit / link / caption；HTML 内一律相对路径，禁止热链远程图片。",
  "hero": {
   "src": "assets/img/20261030-20261105/hero.jpg",
-  "credit": "AI 生成 · 商汤日日新 U1.5 Lite",
-  "caption": "一周里所有人都在给同一件事定价：停火、油价、选票与算力"
+  "credit": "CNBC / Getty Images",
+  "link": "https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html",
+  "caption": "停火预期升温，WTI 十二月合约结算 88.12 美元/桶，单日跌 8.29%"
  },
  "gallery": [],
  "sections": {
