@@ -1,0 +1,44 @@
+---
+import fs from 'node:fs';
+import path from 'node:path';
+import { marked } from 'marked';
+import Base from '../../../layouts/Base.astro';
+import manifest from '../../../data/manifest.json';
+import { injectMedia, heroFigure, SITE } from '../../../lib/render.mjs';
+
+export function getStaticPaths() {
+  return manifest.map((issue) => ({ params: { id: issue.id }, props: { issue } }));
+}
+
+const { issue } = Astro.props;
+const mdPath = path.join(process.cwd(), 'src/data/weekly', `${issue.id}.md`);
+const md = fs.readFileSync(mdPath, 'utf8');
+const media = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'src/data/media', `${issue.id}.json`), 'utf8'));
+
+let html = marked.parse(md, { async: false });
+html = html.replace(/<h1[^>]*>[\s\S]*?<\/h1>/, '');
+html = injectMedia(html, media);
+
+const canonical = `/issues/${issue.id}/`;
+const description = issue.summary || '';
+---
+<Base title={issue.title} description={description} ogImage={`/${media.hero?.src || ''}`} canonical={canonical} comments={true}>
+  <div class="wrap narrow">
+    <Fragment set:html={heroFigure(media.hero)} />
+    <h1>{issue.title}</h1>
+    <p class="meta-row"><span>{issue.date}</span><span>{issue.stats}</span><span>60 条 / 正文 18 条</span></p>
+    <div set:html={html} />
+    <p class="meta-row" style="border:0;margin:0;padding:0">
+      <a href={`/issues/${issue.id}/brief.html`}>审计层：60 条全量 + 逐字引用 →</a>
+      <a href={`/issues/${issue.id}/dashboard.html`}>交互总纲：主线卡片 / 时间轴 →</a>
+      <a href="/">← 返回总目录</a>
+    </p>
+  </div>
+  <div class="wrap narrow">
+    <section class="comments" id="comments">
+      <div class="section-head"><span class="dot" style="background:var(--accent)"></span><h2>评论</h2></div>
+      <p class="hint">用 GitHub 账号登录后即可评论；回复会嵌套在同一条讨论里，全部保存在仓库的 <a href="https://github.com/sunshihao/sunshihao.github.io/discussions" target="_blank" rel="noopener">Discussions</a> 里，不经过任何第三方数据库。若显示 “giscus is not installed”，请在仓库安装一次 <a href="https://github.com/apps/giscus" target="_blank" rel="noopener">giscus App</a>（仓库与分类已配好，装完刷新即可）。</p>
+      <div id="comments-slot"></div>
+    </section>
+  </div>
+</Base>

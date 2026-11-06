@@ -1,0 +1,9 @@
+{
+  "_note": "评论区配置。giscus 存 GitHub Discussions（支持嵌套回复），utterances 存 GitHub Issues。",
+  "provider": "giscus",
+  "repo": "sunshihao/sunshihao.github.io",
+  "repoId": "MDEwOlJlcG9zaXRvcnkxMzM3NDM4Njg=",
+  "category": "Announcements",
+  "categoryId": "DIC_kwDOB_jE_M4DJ91k",
+  "mapping": "pathname"
+}

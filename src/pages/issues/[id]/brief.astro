@@ -1,0 +1,29 @@
+---
+import fs from 'node:fs';
+import path from 'node:path';
+import { marked } from 'marked';
+import Base from '../../../layouts/Base.astro';
+import manifest from '../../../data/manifest.json';
+
+export function getStaticPaths() {
+  return manifest
+    .filter((i) => fs.existsSync(path.join(process.cwd(), 'src/data/brief', `${i.id}.md`)))
+    .map((issue) => ({ params: { id: issue.id }, props: { issue } }));
+}
+
+const { issue } = Astro.props;
+const md = fs.readFileSync(path.join(process.cwd(), 'src/data/brief', `${issue.id}.md`), 'utf8');
+const html = marked.parse(md, { async: false }).replace(/<h1[^>]*>[\s\S]*?<\/h1>/, '');
+---
+<Base title={`审计层 · ${issue.title}`} description={issue.summary} canonical={`/issues/${issue.id}/brief.html`}>
+  <div class="wrap narrow">
+    <p class="meta-row">
+      <a href={`/issues/${issue.id}/`}>← 周刊版</a>
+      <a href={`/issues/${issue.id}/dashboard.html`}>交互总纲</a>
+      <a href="/">总目录</a>
+    </p>
+    <h1>审计层：{issue.title.replace(/^见闻周刊（[^）]*）：/, '')}</h1>
+    <p class="lede">六十条全量条目、逐字引用与明文 URL。数字可在原页面核对；缺口与单源条目在正文里标注。</p>
+    <div set:html={html} />
+  </div>
+</Base>

@@ -1,0 +1,14 @@
+{
+  "name": "jianwen-weekly",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "sync": "node scripts/sync.mjs",
+    "build": "node scripts/sync.mjs && astro build && node scripts/finalize.mjs",
+    "dev": "astro dev"
+  },
+  "dependencies": {
+    "astro": "^7.4.5",
+    "marked": "^18.1.3"
+  }
+}

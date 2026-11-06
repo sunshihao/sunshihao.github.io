@@ -1,0 +1,55 @@
+---
+import { cssVersion, SITE } from '../lib/render.mjs';
+import fs from 'node:fs';
+import path from 'node:path';
+
+const {
+  title = '见闻周刊',
+  description = '每周一期的硬来源新闻周刊：60 条，正文 18 条，数字可在原文核对。',
+  ogImage = '',
+  canonical = '/',
+  comments = false,
+  bodyClass = '',
+} = Astro.props;
+
+const siteCfgPath = path.join(process.cwd(), 'public/assets/data/site.json');
+const siteCfg = fs.existsSync(siteCfgPath) ? JSON.parse(fs.readFileSync(siteCfgPath, 'utf8')) : null;
+const og = ogImage.startsWith('http') ? ogImage : SITE + (ogImage || '/assets/img/brand/og.png');
+---
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#fbfaf7">
+<title>{title}</title>
+<link rel="icon" href="/assets/img/brand/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/assets/img/brand/apple-touch-icon.png">
+<link rel="stylesheet" href={`/assets/css/site.css?v=${cssVersion}`}>
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="见闻周刊">
+<meta property="og:title" content={title}>
+<meta property="og:description" content={description}>
+<meta property="og:url" content={SITE + canonical}>
+<meta property="og:image" content={og}>
+<meta name="twitter:card" content="summary_large_image">
+<script is:inline>try{var t=localStorage.getItem('sw-theme');if(t)document.documentElement.setAttribute('data-theme',t);}catch(e){}</script>
+</head>
+<body class={bodyClass}>
+<div class="topbar">
+  <a class="brand" href="/"><img class="brand-mark" src="/assets/img/brand/icon.svg" alt="" width="22" height="22">见闻周刊<span>硬来源 · 每周</span></a>
+  <div class="spacer"></div>
+  <button class="btn" type="button" data-theme-toggle onclick="toggleTheme()">☾ 夜间</button>
+</div>
+<slot />
+<footer><div class="wrap">
+<p><img class="brand-mark" src="/assets/img/brand/icon.svg" alt="" width="18" height="18" style="display:inline-block;vertical-align:-4px;margin-right:.5rem">见闻周刊 · 每条新闻带明文 URL 与逐字引用，数字可在原文核对。</p>
+<p>内容按 <a href="https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh" target="_blank" rel="noopener">CC BY-NC-ND 3.0</a> 授权。新闻图片版权归原机构，仅作摘要引用并给出原链路。</p>
+</div></footer>
+{comments && siteCfg && (
+  <script is:inline set:html={`window.SITE_COMMENTS = ${JSON.stringify(siteCfg)};`} />
+)}
+{comments && <script is:inline src="/assets/js/comments.js"></script>}
+<script is:inline src={`/assets/js/theme.js?v=${cssVersion}`}></script>
+</body>
+</html>
