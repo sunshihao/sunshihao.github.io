@@ -1,0 +1,628 @@
+Anthropic IPO live updates: AI lab's S-1 filing
+Skip Navigation
+Markets
+Pre-Markets
+U.S. Markets
+Europe Markets
+China Markets
+Asia Markets
+World Markets
+Currencies
+Prediction Markets
+Cryptocurrency
+Futures & Commodities
+Bonds
+Funds & ETFs
+Business
+Economy
+Finance
+Health & Science
+Media
+Real Estate
+Energy
+Climate
+Transportation
+Investigations
+Industrials
+Retail
+Wealth
+Sports
+Life
+Small Business
+Investing
+Personal Finance
+Fintech
+Financial Advisors
+Options Action
+ETF Street
+Buffett Archive
+Earnings
+Trader Talk
+Tech
+Cybersecurity
+AI
+Enterprise
+Internet
+Media
+Mobile
+Social Media
+CNBC Disruptor 50
+Tech Guide
+Politics & Policy
+White House
+Policy
+Defense
+Congress
+Expanding Opportunity
+Europe Politics
+China Politics
+Asia Politics
+World Politics
+Video
+Latest Video
+Full Episodes
+Livestream
+Top Video
+Live Audio
+Europe TV
+Asia TV
+CNBC Podcasts
+CEO Interviews
+Digital Originals
+Watchlist
+Investing Club
+Trust Portfolio
+Analysis
+Trade Alerts
+Meeting Videos
+Homestretch
+Jim's Columns
+Education
+Subscribe
+PRO
+Pro News
+Josh Brown
+Mike Santoli
+Calls of the Day
+My Portfolio
+Livestream
+Full Episodes
+Stock Screener
+Market Forecast
+Options Investing
+Chart Investing
+Subscribe
+Livestream
+Menu
+Make It
+select
+USA
+INTL
+Livestream
+Search quotes, news & videos
+Livestream
+Watchlist
+SIGN IN
+Create free account
+Markets
+Business
+Investing
+Tech
+Politics & Policy
+Video
+Watchlist
+Investing Club
+PRO
+Livestream
+Menu
+Updated Mon, Oct 26 20268:27 PM EDT
+ShareShare Article via FacebookShare Article via TwitterShare Article via LinkedInShare Article via Email
+Anthropic's IPO plans: 900% revenue retention, but $80 billion in first-half losses 
+Ashley Capoot
+Jordan Novet
+Annie Palmer
+Lora Kolodny
+Kai Nicol-Schwarz
+Caleigh Keating
+This is CNBC's live coverage of Anthropic's historic IPO filing.
+watch now
+VIDEO3:3703:37
+Wall Street reacts to Anthropic’s IPO filing
+Rapid Recap
+Anthropic is officially headed for the public market in what is expected to be a historic offering for a 5-year-old company that's been at the heart of the generative artificial intelligence boom. 
+In a Form S-1 filing with the Securities and Exchange Commission, Anthropic said it plans to list on the Nasdaq under ticker symbol "ANT."
+The company behind Claude confidentially filed with the SEC in June, giving the agency time to review its financials before they were made available to the public and prospective investors. 
+Anthropic CEO Dario Amodei co-founded the company in 2021 after he and a small group of researchers defected from OpenAI, now its chief rival. Anthropic's Claude model and services have captivated the corporate world, as companies have opened their wallets in an effort to crack new growth opportunities and find internal efficiencies. 
+Expansion has accelerated in 2026, driven largely by the popularity of AI coding tool Claude Code, and powerful models including Claude Fable 5 and Mythos 5. The company has been racing to maintain an edge over competitors like OpenAI and Google, and faced sharp criticism over its positions on safety, regulation and national security, leading to two high-profile disputes with the U.S. government in recent months.
+Anthropic's offering, if it doesn't get derailed, will land just a few months after Elon Musk's SpaceX debuted on the Nasdaq in by far the biggest IPO on record, ultimately raising $85.7 billion. It's been a volatile stretch for SpaceX shares, which finished last week slightly below where they opened in June.
+As it prepares to hit the market, Anthropic has to contend with severe jitters on Wall Street as concerns grow over whether spending on AI services will justify the trillions of dollars in expected infrastructure costs. So-called neoclouds like CoreWeave and Nebius have been hammered of late, losing over 30% of their value in October as credit risk is rising across the data center space. 
+What you need to know about the IPO:
+How much compute will Anthropic need?
+Risk of "material revenue losses" from Trump administration actions
+Amazon is still one of the AI lab's biggest backers
+Alphabet set to be a bigger shareholder
+More than 90 pages of risk factors
+OpenAI and Google listed as the competition
+How Anthropic's "Founder LLC" voting power works
+Here's what Anthropic's top execs get paid
+Billions in commitments with Microsoft
+Anthropic reports $80.7 billion loss in first half of 2026
+Goldman Sachs and Morgan Stanley are the lead underwriters
+CNBC's reporters are covering Anthropic's IPO from bureaus in San Francisco and Englewood Cliffs, New Jersey.
+Mon, Oct 26 20268:24 PM EDT
+Anthropic stands out with 900% revenue retention rate
+watch now
+VIDEO5:3105:31
+Anthropic's profitability is 'far ahead' of expectations: Analyst
+Squawk Box Asia
+When it comes to getting customers to pay more, Anthropic is currently in a class of its own. 
+The company's net revenue retention, or NRR, stood at around 900% as of Sept. 30, according to the prospectus. That means existing customers are increasing their spending by ninefold from one year to the next. 
+"Our customers' journey using Claude often begins with a single use case before expanding across departments, applications, and workflows," Anthropic said. "As our models become more capable, customers often deepen our partnerships — they find more ways to embed Claude into their workflows, increasing the scope of what Claude can accomplish within their enterprises."
+For the median public cloud software company as of January, the number was 108%, according to data from Altimeter Capital partner Jamin Ball.
+Anthropic said new models that it's released have lowered the costs of specific tasks, resulting in customers increasing their adoption.
+"Anthropic net revenue retention is NINE HUNDRED PERCENT," Austin Allred, founder of Gauntlet AI, wrote on X. "What a ridiculous stat." 
+— Jordan Novet and Lora Kolodny
+Mon, Oct 26 20266:53 PM EDT
+Wild six weeks since Amodei called to slow down the pace of AI model development 
+Six weeks ago Amodei rocked the tech sector by publishing an essay that urged AI companies to slow how quickly they improve their most advanced models. Now he's knocking on the door of the Nasdaq, after showing historic growth rates. 
+Amodei proposed a three-step plan aimed at tempering the pace of development without "sacrificing commercial advantage or the United States' lead in AI."
+The call for a slowdown followed stark warnings from industry researchers about AI's growing potential to cause catastrophic harm. Other AI leaders, including OpenAI's Altman and SpaceX's Musk, quickly expressed support for Amodei's proposal. 
+Anthropic is actively working to implement the first step of the plan, which is to embed third-party evaluators within the company to help assess risks and verify safety practices. The company has inked agreements with organizations including Accenture, METR and SecureBio, and it's in discussions with others.
+–Ashley Capoot
+Mon, Oct 26 20265:50 PM EDT
+Jittery IPO market
+watch now
+VIDEO1:1201:12
+SK Hynix shares jump over 4% after early losses as chipmaker scraps Solidigm IPO plans
+Squawk Box
+Anthropic is trying to get to market at a precarious moment for the AI trade. 
+Australian AI data center operator Firmus, which is backed by Nvidia, abruptly withdrew its planned IPO earlier this month, citing market volatility and conditions. Another Australian company, NextDC, plunged 40% on Wednesday after the company slashed its annual earnings forecast. 
+Also last week, South Korea's SK Hynix scrapped plans to take its U.S.-based Solidigm unit public "in light of market conditions and share price trends." And two other data center-related companies, SoftBank's SB Energy and the U.K.'s Nscale, filed to go public last month but haven't provided updates in weeks. 
+"What investors are doing is throwing every baby out with the bathwater and saying anyone who is a neocloud" will be devalued, Roundhill Investments CEO Dave Mazza told CNBC's "Squawk on the Street" on Thursday.
+Anthropic sits at a much different place in the AI market, but tensions are undoubtedly high across the board. 
+—Ari Levy
+Mon, Oct 26 20264:01 PM EDT
+Anthropic's strained relationship with the Trump administration
+US President Donald Trump during an executive order signing in the Oval Office of the White House in Washington, DC, US, on Monday, Aug. 10, 2026.
+Bonnie Cash | Bloomberg | Getty Images
+Anthropic has had two major disputes with the Trump administration this year.
+In June, the company had to temporarily disable access to two of its most advanced models, Claude Fable 5 and Mythos 5, in order to comply with an export control directive from the government that cited "national security authorities." Anthropic restored the models after roughly two weeks of tense negotiations.
+In March, Anthropic was banned by the Pentagon after discussions about how the military could use its AI models spiraled out of control. The company sued the Trump administration to try to reverse the blacklisting. In late August, a San Francisco federal judge ruled that the Pentagon's banning of Anthropic was illegal, and litigation in Washington, D.C., is ongoing.
+—Ashley Capoot
+Mon, Oct 26 20263:54 PM EDT
+Anthropic worries climate change can hurt its bottom line
+Anthropic cautioned investors that climate change poses a risk to its operations and bottom line. 
+"The physical effects of climate change may increase our operating costs over time, as higher average temperatures can increase the power consumption and water usage required to cool equipment at the facilities on which we depend," the filing states.
+Computer processing demands for artificial intelligence are increasing air pollution from power plants, backup diesel generators and methane-gas burning turbines that supply electricity to data centers, according to research by Caltech and UC Riverside.
+Anthropic is the largest single customer of SpaceX's AI division and has agreed to spend $3.1 billion per month on compute capacity from Elon Musk's defense tech conglomerate. 
+SpaceX's Greater Memphis facilities, known as Colossus and Colossus 2, provide the compute capacity to Anthropic and are powered by methane-burning turbines. Those have made SpaceX the subject of multiple lawsuits over alleged Clean Air Act violations and noise pollution. 
+—Lora Kolodny
+Mon, Oct 26 20263:46 PM EDT
+FTC demands Anthropic executives testify as part of safety probe
+Sam Altman, CEO of OpenAI (L), and Dario Amodei, CEO of Anthropic
+Reuters | Getty Images
+The Federal Trade Commission sent demands for Anthropic executives to testify as part of its probe into the company and its chief rival, OpenAI, CNBC confirmed. A spokesperson for the agency did not elaborate further. 
+The FTC is investigating whether the products developed by Anthropic, OpenAI and other AI companies pose potential dangers to consumers. The probe adds to mounting scrutiny that the AI companies have been facing over their safety and security practices, especially after industry researchers warned that advanced models could cause catastrophic harm.
+Axios was first to report the testimony demands.
+—Ashley Capoot
+Mon, Oct 26 20263:28 PM EDT
+Canadian land exploration firm Anteros Metals had 'ANT' ticker before Anthropic
+Anthropic has chosen "ANT" for its Nasdaq listing, but on the Canadian Securities Exchange, that same ticker is used by a six-person pre-revenue company called Anteros Metals, which does land prospecting and buys and sells mineral rights to larger developers. 
+Anteros was founded in 2022, and went public to raise funding on the Canadian Securities Exchange in 2025, Chris Morrison, a director and the company's vice president of investor relations, told CNBC in an interview. Anteros is based in the province of Newfoundland and Labrador, on an island northeast of mainland Canada, with a cash balance of $394,673 in Canadian dollars as of June 30, according to a filing.
+"ANT" was an obvious idea when the time came to pick a ticker symbol at Anteros. It is the first three letters of the company's name.
+"We were a little bit reserved about using 'ANT' because we were thinking, you know, an ant, it's something very small, it's almost like a pest to a lot of people," Morrison said. "But our director and founder Bill [Kennedy], he kept saying ants can carry 10 times their weight." 
+Anteros is an underdog, going up against more powerful rivals including New Found Gold Corp. and Vale Base Metals, Morrison said.
+On Monday, Anteros found out about Anthropic's plans, along with everyone else. 
+"We are all of a sudden very excited because we're thinking that, you know what, at the very least, a lot more people are going to are going to find out that we exist," said Morrison. Anteros did not hear from Anthropic, but he said he has personal and business subscriptions from Anthropic.
+"At least in my household, we are big Claude fans," Morrison said, adding that his wife has been using Anthropic's artificial intelligence assistant too.
+Then again, he said he and other board members also have OpenAI subscriptions.
+— Jordan Novet
+Mon, Oct 26 20262:59 PM EDT
+How the tech industry's youth and safety issues impact Anthropic
+This photograph shows a figurine in front of the logo of the AI assistant "Claude" built by the US artificial intelligence safety and research company Anthropic during a photo session in Paris on February 13, 2026. (Photo by Joel Saget / AFP via Getty Images)
+Joel Saget | Afp | Getty Images
+Anthropic is monitoring the various child-safety-related trials and litigation facing tech companies like Meta, Alphabet and OpenAI.
+The AI lab's S-1 filing explains how companies developing foundation models have come under fire over allegations that their technologies "have been and may in the future be alleged to have played a role in instances of suicide, acts of violence toward others, or serious self-harm, which have resulted and may in the future result in significant public scrutiny, litigation, criminal investigations, regulatory attention, and reputational harm."
+Although Anthropic's terms of service require users to be at least 18 years old, the company said in its filing that "minors have accessed in the past, and may in the future access" its platform, which poses potential child-safety issues.
+The filing notes that lawmakers have won hefty settlements and injunctive relief against other tech companies in cases involving "analogous theories of product-design or algorithmic harm," without mentioning specific firms. Meta said in August that it would pay nearly $17 billion in a settlement with a coalition of state AGs who alleged the design of the company's apps like Facebook and Instagram contributed to various mental-health-related harms on children, which the social media giant underplayed to the public.
+Anthropic's filing also noted that there's "at least one case" involving a state AG's "criminal investigation against another company offering similar services," but the AI lab didn't cite specific details. Florida AG James Uthmeier revealed in April a criminal investigation into OpenAI over the company's ChatGPT service and allegations about its role in a 2025 mass shooting at Florida State University.
+— Jonathan Vanian
+Mon, Oct 26 20262:40 PM EDT
+Redpoint's Brescia: Anthropic is a 'blockbuster' business with 'impressive' profit trends
+watch now
+VIDEO4:5504:55
+Anthropic is an absolutely blockbuster business, says Redpoint Ventures' Erica Brescia
+The Exchange
+Anthropic will be a "fantastic long-term hold" for retail investors looking to invest in the AI buildout, Redpoint Ventures managing director Erica Brescia told CNBC's Kelly Evans on "The Exchange."
+"Look, it's an absolutely blockbuster business. I think the positive trend in profitability is extremely impressive, especially given how early it is in this AI transformation that we're in the middle of," Brescia said.
+"We are seeing increase in profitability, we are seeing a spread in the number of very significant customers that I think will continue to grow," he said.
+Axios Business Editor Dan Primack said Anthropic's S-1 filing marked a shift in the company's language towards using public markets to finance compute spending.
+"I think Anthropic's saying, 'Hey, we've shown you the last six months, kind of forget about that,'" Primack told "The Exchange."
+"It's just a completely different paradigm going forward," he said. "They're looking for scale, they're going to spend an absolute fortune on compute. That's what's going to bring them here."
+— Caleigh Keating
+Mon, Oct 26 20262:29 PM EDT
+Anthropic’s phased-approach to lock-ups
+Anthropic employees and early investors will be able to sell their shares on the first day the AI firm begins trading, followed by several scheduled dates in which IPO lock-ups expire. This phased approach deviates from the traditional IPO process, in which insiders are unable to sell their shares for 180 days following a company's Wall Street debut. 
+Under Anthropic's staggered lock-up schedule, workers and insiders will be able to sell an unspecified number of Class A shares as time passes after the debut. The lock-ups open 27, 48, 62, and 76 days following the IPO, the filing explained.
+SpaceX also implemented a staggered lock-up schedule when it went public in June. 
+— Jonathan Vanian
+Mon, Oct 26 20261:41 PM EDT
+Anthropic highlights risks around securing and forecasting adequate compute capacity 
+Anthropic warned that its ability to develop and train cutting-edge AI models depends on its ability to access "enormous and increasing quantities of specialized compute." 
+"If we fail to secure sufficient compute, or if we fail to effectively direct the limited compute we have across our workloads to develop and deploy models with capabilities at least comparable to those of our competitors, we risk falling behind the technological frontier," the filing says.
+Additionally, the company said that forecasts for future compute usage are "inherently uncertain," which could lead to capacity shortfalls or underutilized capacity. Anthropic said it has underestimated its compute requirements in the past, which impacted its product development and deployment plans.
+— Ashley Capoot
+Mon, Oct 26 20261:29 PM EDT
+Anthropic plans to spend at least $542 billion on data centers, cloud computing 
+watch now
+VIDEO4:3504:35
+'Not here': Majority of voters say no to data centers in their backyard
+Power Lunch
+Anthropic's filing shows the company has future obligations to pay its providers approximately $417 billion for compute, encompassing data centers, the computing equipment inside them and cloud services. The deals start between 2026 and 2027 and last from under one year to up to 20 years. 
+Additionally, Anthropic said in its filing that it has ordered additional compute capacity in deals to be delivered between 2028 and 2031, with pricing not yet finalized, expected to add $125 billion to $150 billion to its payment obligations.
+— Lora Kolodny
+Mon, Oct 26 20261:17 PM EDT
+Anthropic poised to benefit from the massive spending in biotech
+Matteo Della Torre | Nurphoto | Getty Images
+In its Form S-1 filing, Anthropic said Claude's capabilities should facilitate progress in scientific research, particularly drug discovery.
+This could add momentum to the innovation boom happening in the biotech industry.
+Anthropic's AI model Claude is already being used in drug discovery, helping researchers and scientists automate workloads and analyze large data sets. 
+That suggests the AI lab could benefit from the $2 trillion in expected annual global spending by pharmaceutical companies in 2026.
+In the filing, Anthropic explained that Claude could enable AI agents to operate lab and manufacturing equipment like microscopes, liquid handlers and off-the-shelf robotic arms.
+— Paulina Likos
+Mon, Oct 26 20261:03 PM EDT
+Big week for tech earnings
+Satya Nadella, chief executive officer of Microsoft Corp., during an event in San Francisco, California, US, on Wednesday, Oct. 7, 2026. 
+David Paul Morris | Bloomberg | Getty Images
+Anthropic's filing lands at the start of a big week for tech on Wall Street. 
+Microsoft and Alphabet are scheduled to report quarterly results on Wednesday, followed a day later by Amazon. The other hyperscaler, Meta, reported third-quarter results last week. Revenue topped estimates and Meta issued a strong forecast, but the stock dropped on concerns about costs as the company turned cash flow negative. 
+Anthropic needs investors to stay confident in the cloud giants so they can continue investing in the AI infrastructure required for the development of new models and services. 
+— Ari Levy
+Mon, Oct 26 202612:58 PM EDT
+Pentagon clash may cause Anthropic 'material revenue losses'
+U.S. Secretary of War Pete Hegseth gives a State of the Force address at Marine Corps Base Quantico on Sept. 30, 2026 in Quantico, Virginia.
+Alex Wong | Getty Images
+In its IPO filing, Anthropic warned investors that ongoing issues with the Trump administration and U.S. Department of Defense could cause "material revenue losses or business disruptions." 
+As CNBC previously reported, the department labeled Anthropic a "supply chain risk to national security," and in February, President Donald Trump also ordered the U.S. government to stop using the company's models. 
+In March, Anthropic filed a complaint in a federal court in the Northern District of California challenging that label as illegal, and at the same time, filed a petition for review in the U.S. Court of Appeals for the D.C. Circuit.
+The California federal court ruled in Anthropic's favor, finding that the Pentagon's actions were "retaliatory acts meant to punish" the company. The court also found the actions violated the company's First Amendment rights, and had violated the AI company's Fifth Amendment rights to due process, the company noted in its IPO filing.
+But the D.C. Circuit Court of Appeals ruled in favor of the DOD, saying the supply chain risk designation was allowed under the Federal Acquisition Supply Chain Security Act. 
+Anthropic said in its filing that it is "evaluating its next steps" with respect to the D.C. appeals court decision. The company has asked the full D.C. Circuit to rehear its appeal.
+Today, the U.S. filed a notice of appeal to try to invalidate the decision from the Northern California district court.
+— Lora Kolodny
+Mon, Oct 26 202612:38 PM EDT
+Anthropic investor Matt Witheiler says emphasis on enterprise key to lab's success
+watch now
+VIDEO4:1104:11
+Anthropic investor Matt Witheiler: Company's enterprise pivot was 'absolutely' important
+Squawk on the Street
+Matt Witheiler, head of late-stage growth for private markets at Wellington Management, said the AI lab's focus on enterprise was 'absolutely' important in making it stand out. 
+"The scale at which they've been able to capitalize on the enterprise opportunity is really something that's been impressive," Witheiler told CNBC's "Squawk on the Street."
+"I think what Dario [Amodei] and team are trying to build is really the next generation of great enterprise company," with products like Claude Code and Claude Science, Witheiler added. 
+—Caleigh Keating
+Mon, Oct 26 202612:20 PM EDT
+Anthropic uses AI chips from Nvidia, AMD, Amazon and Google 
+Jensen Huang, chief executive officer of Nvidia Corp., shows Vera Rubin computer modules during the keynote address at the Nvidia GTC in Berlin, Germany, on Wednesday, Oct. 21, 2026. 
+Alex Kraus | Bloomberg | Getty Images
+Anthropic said its pool of computing power includes Nvidia's GPUs, AMD's GPUs, AWS Tranium, and Google TPUs.
+Anthropic treats all AI chips as a "single fungible pool" and it has developed technology that routes its AI models to whatever chip is the most efficient at the time. 
+It's a sign that Anthropic won't tie itself to any one chip provider. OpenAI, which mostly uses Nvidia compute, has made similar moves to diversify the AI chips it uses. 
+"Our multi-chip compute approach provides us with substantially greater chip access than relying on one platform and enables us to opportunistically capture the price-performance benefits of each chip family and generation," Anthropic said in its filing. 
+All four of Anthropic's primary chip designers have large stakes or options to buy stakes in Anthropic, highlighting the strategic ties between chipmakers or hyperscalers and the AI labs. 
+Anthropic's filing left the amount of total money it has committed to spending on compute blank, but the frontier lab signaled it will spend heavily. 
+Separately, Anthropic detailed long-term commitments with SpaceXAI, Nscale, and Lambda to secure access to Nvidia chips. The company also said it could buy more than $20 billion in AMD chips. It said it was committed to spending on Amazon's Trainium chips at $110 billion through 2036, and $114.5 billion on Google TPUs through 2033. 
+"We anticipate making significant investments for the foreseeable future, including in compute and infrastructure, to ensure we have the technological resources to maintain and expand our position at the frontier of AI," Anthropic said in the filing. 
+— Kif Leswing
+Mon, Oct 26 202612:12 PM EDT
+Anthropic's implied gross margins have exploded, but cost of compute may change that
+Anthropic reported its cost of revenue as $2.38 billion as of June 30, 2026, booking $16.29 billion in revenue during the same period and implying a gross margin of 85%. 
+That's an explosion from the implied 12% gross margin the company generated during the same period last year, on just over $1 billion in cost of revenue and $1.16 billion in revenue booked. 
+However, Anthropic's S-1 states that operating margin and adjusted operating margin are expected to "fluctuate over time, particularly in periods when substantial incremental compute is delivered to us and we incur the associated expenses."
+The prospectus also reveals that "substantially all of cost of revenue" is associated with compute and infrastructure costs, adding that smaller personnel and overhead-related costs are also factored in.
+— Isabel O'Brien
+Mon, Oct 26 202612:06 PM EDT
+Amazon's deepening ties to Anthropic
+Amazon's largest AI data center has seven completed buildings, with 30 total buildings planned on 1,200 acres in New Carlisle, Indiana, shown here on October 8, 2025.
+Erin Black
+Amazon remains one of Anthropic's biggest backers and strategic partners. The company has poured $13 billion into Anthropic since 2023, with the potential to invest $20 billion more. 
+According to the filing, Amazon has separately agreed to provide up to $15 billion in financing, which will become available to Anthropic in $5 billion tranches. Each draw is tied to Anthropic hitting certain compute capacity milestones. 
+Amazon holds $6.2 billion in outstanding notes that could convert into as many as 1.84 billion shares. Amazon's stake is capped at 12% of the company, the filing states. 
+Amazon holds nonvoting shares and it doesn't have a board or observer seat at the startup. 
+The companies have continued to deepen their partnership, with Anthropic becoming a key customer of Amazon's cloud computing and chips businesses. Amazon last year opened an $11 billion AI data center campus dedicated to training and running models from Anthropic, called Rainier. 
+In April, Anthropic said it committed to spend at least $110 billion with Amazon for cloud services through April 2036, "regardless of actual usage." 
+The agreement is "non-cancelable," except for in the event of a "material breach" by Amazon, the filing says. If Anthropic's actual spend falls short, it's required to pay Amazon the difference as a true-up. 
+The filing doesn't state how much Anthropic has spent on Amazon's cloud services and Trainium AI chips to date.
+— Annie Palmer
+Mon, Oct 26 202611:54 AM EDT
+Anthropic H1 2026 overseas revenue tops $4.5 billion amid global expansion
+Dario Amodei, chief executive officer of Anthropic, at the AI Impact Summit in New Delhi, India, on Thursday, Feb. 19, 2026. 
+Ruhani Kaur | Bloomberg | Getty Images
+Anthropic made $4.5 billion in international revenue during the first half of 2026, more than 13 times the $343 million recorded during the same period a year earlier. That's 27.8% of the company's total revenue.
+The company said it was expanding its ability to serve international customers through the growth of regional offices and partnerships in key markets. It added that it expects "international expansion to be a meaningful driver of revenue growth as global demand for AI accelerates."
+Anthropic is also expanding its computing infrastructure outside of the U.S. The filing states that the company has entered into leases for data center capacity in Australia and Canada and that it is "pursuing" data center capacity in additional jurisdictions outside the U.S.
+Those moves are part of Anthropic's efforts to reduce "concentration risks associated with operating a significant portion of our compute infrastructure in the United States," the filing says, alongside supporting its international growth strategy.
+Anthropic has sounded out data center deals for small deployments of 20-30 megawatts across the U.K. and the Nordics, CNBC reported in September, citing sources. Deals to secure smaller allocations of compute allow companies to deploy workloads faster.
+— Kai Nicol-Schwarz
+Mon, Oct 26 202611:46 AM EDT
+'Channel partners' drive 2,540% increase in sales and marketing costs
+People walk by the exhibit for Amazon Web Services (AWS) at National Retail Federation (NRF) 2026: Retail's Big Show, in New York City, U.S., Jan. 12, 2026. 
+Kylie Cooper | Reuters
+Anthropic's sales, marketing and partnership costs increased 2,540% in the first six months of this year to $3.17 billion, the second-biggest expense behind compute and infrastructure. 
+The vast majority — $2.7 billion — of those outlays are "fees paid to channel partners." In the first half of last year, Anthropic's entire sales and marketing costs were $120 million. 
+Anthropic sells Claude through the leading cloud service providers, Amazon Web Services, Google Cloud and Microsoft Azure. The company said 48% of its revenue in the first six months of 2026 came from those relationships.
+"These platforms bill end customers, collect payments on our behalf, and remit such amounts to us, net of applicable platform and other fees," Anthropic said in the filing. "Any change to, or termination of, one of our significant distribution relationships could adversely affect our business by disrupting customer access to our models, reducing usage, or increasing customer acquisition, onboarding, and migration costs."
+— Ari Levy
+Mon, Oct 26 202611:35 AM EDT
+Anthropic warns of 'legal liabilities' if models used to develop weapons
+The Anthropic logo is displayed on a smartphone screen placed on a reflective surface onto which a stock market chart is projected, in Creteil, France, on June 2, 2026. 
+Samuel Boivin | Nurphoto | Getty Images
+Anthropic warned of potential "legal liabilities" if its models are used to develop weapons, including chemical and biological.
+The company said its most capable models had demonstrated, and were expected to continue to demonstrate, the ability to help "malicious actors" develop weapons. While the company deploys safeguards, they are "incomplete," the filing states. It added that safeguards have previously been "circumvented" and may be in the future.
+"Any actual or perceived use of our models to contribute to the development of such weapons could result in harm, legal liability, regulatory or enforcement action, loss of government and enterprise relationships," alongside damage to Anthropic's brand, the filing reads.
+Legal liability related to the misuse of AI models is under increasing scrutiny amid capability gains from frontier systems over the past year.
+— Kai Nicol-Schwarz
+Mon, Oct 26 202611:30 AM EDT
+Menlo's Matt Murphy is optimistic about Anthropic's growth trajectory
+watch now
+VIDEO2:4202:42
+Anthropic investment will be 'by far the biggest return' in Menlo's history, says partner Matt Murphy
+Squawk on the Street
+Matt Murphy, partner at Menlo Ventures and early Anthropic investor, expressed optimism about Anthropic's growth, saying the AI lab is "the place to invest" for those wanting to get into the AI space. 
+Murphy said Menlo's stake in Anthropic is the biggest investment ever for the firm and "by far the biggest return." Menlo invested in Anthropic when the AI lab was valued at only $4 billion.
+"You wait your entire 25-year career to find a technology wave like this," Murphy told CNBC's "Squawk on the Street."
+"It's an exceptional story. It's not the kind of growth, nor scale, you see in the 25 years I've been in the venture business," he said.
+— Caleigh Keating
+Mon, Oct 26 202611:18 AM EDT
+Alphabet stands to become a larger Anthropic shareholder through IPO
+Google CEO Sundar Pichai speaks during the 2026 Google I/O technology developer conference in Mountain View, California, on May 19, 2026.
+Karl Mondon | AFP | Getty Images
+Google parent Alphabet will have the option to become a more significant Anthropic shareholder.
+In March, Anthropic agreed to give Google an option to buy up to $10 billion in Class N common stock in a private placement concurrent with the offering at the IPO price, according to the filing. 
+If Google exercises the option, that would lower by up to $10 billion the total in notes that are available for issuance to Google, which currently stands at $20 billion, the filing states.
+— Jordan Novet
+Mon, Oct 26 202611:09 AM EDT
+Anthropic's asset-light model in numbers
+Numbers have finally been put to Anthropic's asset-light model. 
+The company stated $1.19 billion in net property and equipment on June 30, 2026, up from $19 million at year-end 2024 and $146 million at year-end 2025. That $1.19 billion includes $432 million of net property and equipment associated with finance leases.
+It's a sharp increase, but not as sharp as its off-balance-sheet obligations. The company's active operating leases sat at $117 million at the end of 2025, but that number has sharply risen to $1.079 billion. The company also added an additional $443 million in financing leases during that time period.
+Anthropic's off-balance-sheet obligations are similarly large. At year-end 2025, the company had signed up for just $54.6 billion in noncancelable purchase commitments. By June 30, 2026, that number has ballooned to $265.6 billion. Similarly, at year-end 2025, Anthropic's future undiscounted lease obligations were just $50.2 billion — halfway through 2026, that number sat at $321.4 billion.
+The leases "will commence between 2026 and 2028, with lease terms ranging from less than one year to 20 years," according to the S-1. 
+— Isabel O'Brien
+Mon, Oct 26 202610:58 AM EDT
+Anthropic has $6.2 billion in debt, mainly tied to Amazon
+At the end of June, Anthropic was sitting on $6.2 billion in debt, a small sum considering its nearly $81 billion in losses during the first half of this year.
+The debt reflects the principal amount outstanding under convertible notes Anthropic issued to Amazon starting in 2023, according to the lab's prospectus.
+— Jordan Novet
+Mon, Oct 26 202610:53 AM EDT
+Bessemer's Byron Deeter says stake in Anthropic is largest investment in firm's history
+watch now
+VIDEO2:2502:25
+Anthropic is Bessemer's largest investment in its 116-year history, says early investor Byron Deeter
+Squawk on the Street
+Byron Deeter of Bessemer Venture Partners said the firm's stake in Anthropic is the largest investment by cost basis in Bessemer's 100-plus-year history.
+Deeter said the venture capital firm invested in Anthropic in a funding round "many years back," calling Anthropic "close partners."
+"We were fortunate to partner early and aggressively," Deeter said on CNBC's "Squawk on the Street."
+— Caleigh Keating
+Mon, Oct 26 202610:33 AM EDT
+Anthropic sees U.S. data center moratoriums as a key risk
+watch now
+VIDEO29:0129:01
+How Elon Musk's AI empire in Memphis became a cautionary tale
+Tech
+In its lengthy risk factors statement, Anthropic called out existing and proposed "moratoriums on new data center construction" by jurisdictions across the U.S., which it said pose a risk to its growth and operations. 
+As of last month, 16 states had formally weighed such moratoriums according to bills tracked by the National Conference of State Legislatures.
+These moratoriums, ranging from narrow and temporary pauses to more sweeping bans, are meant to stop rapid construction of large data centers from causing pollution and other problems for neighbors, including higher electricity costs due to grid strain.
+Anthropic wrote that moratoriums "could delay or prevent the construction or expansion of facilities on which we depend for compute." It cautioned investors, "The loss of, or a significant disruption at, any major facility may not be readily absorbed by our remaining or future infrastructure." 
+The company is seeking to build data centers overseas in order to diversify its "infrastructure footprint," and "reduce concentration risks associated with operating a significant portion of our compute infrastructure in the United States."
+— Lora Kolodny
+Mon, Oct 26 202610:27 AM EDT
+Anthropic's S-1 includes more than 90 pages of risk factors
+watch now
+VIDEO2:2402:24
+Anthropic discloses risk factors in new S-1: Here's what you need to know
+Squawk on the Street
+Anthropic's S-1 includes more than 90 pages of risk factors, including its effort to balance safety and commercial objectives. 
+The company said that if it is unable to manage risks related to AI safety, its "brand, business, financial condition, and results of operations could be adversely affected."
+Anthropic said it regularly makes "judgement calls" about when it determines a model is safe enough to release. However, it said there can be "no assurance" that its safeguards will prove adequate, or that the company will correctly identify which capabilities should be restricted. 
+"These judgments are particularly consequential because, as AI systems become more capable, the potential severity of harm from misaligned or misused models increases correspondingly, and a wide range of stakeholders, including researchers and policymakers, have raised concerns that sufficiently advanced AI systems could pose catastrophic or existential risks to society if not developed and deployed responsibly," the filing says.
+"Our safety-focused approach is designed in part to mitigate such risks, but there can be no assurance that our efforts will be successful or that the broader AI industry will adopt similar safeguards," Anthropic said.
+— Ashley Capoot
+Mon, Oct 26 202610:25 AM EDT
+Political risks are all over the filing
+watch now
+VIDEO3:2703:27
+Growing data center backlash hitting midterms
+Closing Bell: Overtime
+Across Anthropic's growth plans, potential political headwinds stand in the way. 
+Access to critical supplies like memory can be affected by tensions between China and Taiwan. Getting the requisite power and water is subject to "shifting public and political views regarding climate change." AI policies and regulations can and will change. 
+"The development, deployment, and use of AI technologies are subject to rapidly evolving and increasingly complex laws, regulations, and governmental scrutiny across multiple jurisdictions," the filing said.
+Anthropic also said that "war, terrorist attacks, and other acts of political violence" can impact operations. 
+"Further, we may experience backlash from customers, government entities, advocacy groups, employees, or other stakeholders who disagree with our actual or perceived positions, or with our lack of position on social, environmental, governance, political, public policy, economic, geopolitical, or other sensitive issues," the filing said. 
+— Ari Levy
+Mon, Oct 26 202610:21 AM EDT
+Anthropic co-founder Daniela Amodei's husband, Holden Karnofsky, works at the AI lab
+Daniela Amodei, president and co-founder of Anthropic, during the Bloomberg Tech conference in San Francisco, California, US, on Thursday, June 4, 2026. 
+David Paul Morris | Bloomberg | Getty Images
+At Anthropic, business is all in the family. 
+Co-founders Dario Amodei and Daniela Amodei are siblings. Holden Karnofsky, the spouse of Daniela Amodei, has worked at Anthropic since January 2025, receiving just over $430,000 in total compensation, excluding options and restricted stock units.
+Earlier in his career, Karnofsky was co-founder of GiveWell, a nonprofit "dedicated to helping people in need as much as we can by researching the most cost‑effective ways to save and improve lives."
+More recently, Karnofsky was co-CEO of Open Philanthropy, which has since rebranded to Coefficient Giving. The nonprofit serves as an advisor to Good Ventures, a charity established by Facebook co-founder Dustin Moskovitz and his wife, Cari Tuna. 
+Both GiveWell and Coefficient Giving have been closely associated with the effective altruism movement, which seeks to achieve the greatest good through the use of capital and other resources. Sam Bankman-Fried of bankrupt cryptocurrency exchange operator FTX contributed to effective altruism causes.
+— Jordan Novet
+Mon, Oct 26 202610:12 AM EDT
+Anthropic breaks down its enterprise customer base
+Leon Neal | Getty Images
+Anthropic said that as of Sept. 30, its enterprise customer base includes more than 11,900 customers with $100,000 or more of revenue during the trailing twelve-month, or TTM, period.
+It also includes more than 1,900 customers with $1 million or more of revenue on a TTM basis, and roughly 250 customers with $10 million or more of revenue on a TTM basis.
+"The speed and depth of our enterprise customer adoption are powerful evidence of Claude's position at the frontier of AI," the filing says.
+Anthropic said a growing number of its enterprise customers agree to "non-cancelable annual or multi-year contracts," which primarily result in consumption-based revenue.
+Consumption-based revenue made up $13.1 billion, or 80% of total revenue, for the six months ended June 30, 2026, according to the filing. Anthropic reported subscription-based revenue of $3.2 billion, or 20% of total revenue, over the same period.
+"We expect consumption-based revenue to continue to represent the substantial majority of total revenue for the foreseeable future," the filing says.
+— Ashley Capoot 
+Mon, Oct 26 202610:06 AM EDT
+Anthropic has 5,300 employees, referred to internally as 'Ants'
+An Anthropic logo is displayed at Moscone Center during the Dreamforce 2026 technology summit in San Francisco, California, US, September 17, 2026.
+Carlos Barria | Reuters
+Anthropic said it had 5,300 employees as of Sept. 30, compared with 940 staffers as of Dec. 31, 2024. 
+The company said it logged $6.6 million in revenue per employee for the trailing 12 months, which it said is a "reflection of what we believe is the deepest concentration of AI research talent in the world." 
+The filing also touches on Anthropic's corporate culture. The company said it refers to its employees internally as "Ants," a nickname that "captures the collaborative, ego-light culture of the team." 
+"Claude compounds that impact further: Ants use Claude across every function to take on work that would otherwise require substantially larger teams — allowing us to remain remarkably lean relative to our output," according to the filing. 
+Anthropic said it's "one of the most intensive users of our own technology." More than 90% of contributions to its codebase in September "were written by Claude," the company said. 
+— Annie Palmer
+Mon, Oct 26 20269:56 AM EDT
+OpenAI and Google only named competitors
+Alphabet CEO Sundar Pichai, left, and OpenAI CEO Sam Altman arrive to the White House for a meeting with Vice President Kamala Harris on artificial intelligence, Thursday, May 4, 2023, in Washington.
+Evan Vucci | AP
+The only two companies Anthropic named as competitors in its prospectus are OpenAI and Google. 
+"We face direct competition from companies building frontier models for third-party software developers and enterprises, including OpenAI and Google, and large, well-capitalized technology companies investing to reach the frontier," Anthropic said.
+Additionally, the company said it faces competition from a "broader set of model providers," including open-weight or open-source models. 
+— Ari Levy
+Mon, Oct 26 20269:51 AM EDT
+Anthropic says dependence on TSMC for chip manufacturing is a risk 
+A motorcycle is seen near a building of the Taiwan Semiconductor Manufacturing Company (TSMC), which is a Taiwanese multinational semiconductor contract manufacturing and design company, in Hsinchu, Taiwan, on April 16, 2025. 
+Daniel Ceng | Anadolu | Getty Images
+Anthropic said the geographic concentration of advanced chip manufacturing in Taiwan, particularly at Taiwan Semiconductor Manufacturing Co., is a risk to its business. 
+The company said it could be impacted by natural disasters in Taiwan, potential disruption from geopolitical tensions with China, disruptions to its power grid or other critical infrastructure as well as trade regulations or restrictions. 
+"Accordingly, any restrictions or delays on the supply of advanced chips out of Taiwan or TSMC would adversely affect our business, financial condition, and results of operations."
+— Ashley Capoot
+Mon, Oct 26 20269:42 AM EDT
+What is Founder LLC?
+The Amodei siblings — Dario and Daniela — along with Anthropic's five other co-founders will be the "sole members of" Founder LLC, which will hold 50.1% of the voting power of outstanding shares, the filing said. 
+The other members of the LLC are:
+Tom Brown, chief compute officer 
+Jack Clark, head of Anthropic Institute
+Jared Kaplan, chief science officer
+Sam McCandlish, chief architect
+Christopher Olah, head of interpretability research efforts
+The group owns in total about 1.7 billion Class A shares.
+— Ari Levy
+Correction: Sam McCandlish is chief architect of Anthropic. An earlier version misspelled his name.
+Mon, Oct 26 20269:38 AM EDT
+Anthropic agreed to pay SpaceX $3.1 billion per month for compute
+Cheng Xin | Getty Images
+Anthropic will pay SpaceX around $3.1 billion per month to "access compute powered by NVIDIA GPUs," once all promised capacity is delivered, the filing said. The company has agreed to spend up to $120.5 billion over a period extending into 2029.
+Anthropic's filing said the company has other agreements with Microsoft, Nscale, Lambda and other cloud providers to provide "compute capacity powered by Nvidia GPUS." 
+SpaceX said in its third-quarter financial filing last week that a customer, which is Anthropic, paid the company just over $5 billion, or 34.5% of its total $14.58 billion in revenue for the quarter. 
+SpaceX previously said Anthropic would spend up to $1.25 billion per month on cloud compute capacity at the company's Colossus data centers in the area around Memphis, Tennessee. 
+— Lora Kolodny
+Mon, Oct 26 20269:37 AM EDT
+Anthropic could use net proceeds to 'acquire or invest in businesses, products, services, or technologies' 
+Anthropic said it intends to use the net proceeds from the offering for "general corporate purposes," including capital expenditures, working capital, operating expenses, and hiring and retention of "highly skilled personnel."
+The company said it may also use a portion of the net proceeds to "acquire or invest in businesses, products, services, or technologies." 
+"However, we do not have agreements or commitments for any material acquisitions or investments at this time," the filing says. 
+— Ashley Capoot
+Mon, Oct 26 20269:36 AM EDT
+How much Anthropic's top brass gets paid
+According to Monday's filing, Amodei's compensation totaled $17.96 million in 2025, with the vast majority coming from stock and options awards. His base salary was $654,167. 
+His sister, Daniela Amodei, was the second-highest paid executive at $16.4 million for 2025. Her base salary is the same as her brother's. 
+Both Dario Amodei and Daniela Amodei received raises in 2025 and two pay bumps this year. Both executives' base salary was increased to $1.38 million, effective July 1, according to the release. 
+Anthropic CFO Krishna Rao earned a base salary of $706,250 in 2025, and following several salary increases, his base salary now reaches $1.25 million, effective July 1. 
+— Annie Palmer
+Mon, Oct 26 20269:35 AM EDT
+Anthropic has nearly $45 billion in commitments with Microsoft, which is also a rival
+Microsoft CEO Satya Nadella speaks at a Microsoft Frontier Tour event in the CNIT building at La Defense business district in Puteaux, near Paris, on October 20, 2026.
+Dimitar Dilkoff | Afp | Getty Images
+Microsoft announced plans to invest $5 billion in Anthropic last November in a funding round valuing the lab in the range of $350 billion. In May, Anthropic said it had raised funds at a $965 billion valuation, and weeks later, Microsoft disclosed a $3.2 billion gain on its stake.
+At the time of its investment announcement last year, Microsoft said Anthropic would bring its Claude large language models to the Microsoft Azure cloud, widening access to software developers. Plus, Anthropic signed on to spend $30 billion on Azure and contracting as much as a gigawatt worth of additional computing power.
+Anthropic and Microsoft have modified the November 2025 agreement such that Anthropic now intends to spend with Microsoft at least $44.9 billion between November 2026 and May 2033. The deal can't be canceled unless Microsoft has an uncured material breach or an undelivered tranche.
+Anthropic said in Monday's prospectus that it pays fees to Microsoft — plus Amazon and Google — in a joint go-to-market arrangement to gain a direct relationship with customers.
+Plus, Anthropic counts on Microsoft, as well as Amazon, Google and Broadcom, for computing power in relationships that "create dependencies and potential vulnerabilities." 
+Microsoft has integrated Claude models into the GitHub Copilot coding tool, the Foundry model garden and Copilot Cowork, a product that takes on complex productivity tasks. At the same time, Microsoft has been advertising the capabilities of models it has built in house, at times touting advantages over Anthropic alternatives.
+"Amazon, Google, and Microsoft each offer AI services and develop and deploy competing AI models through their respective cloud platforms," Anthropic said.
+Additionally, Christopher Liddell, a former Microsoft finance chief, joined Anthropic's board in February, according to the filing.
+"To the extent these CSPs promote, integrate, prioritize, or provide customer access to our models, platform, and applications on terms that are less favorable than those applicable to their own competing offerings or to the offerings of other companies, including with respect to pricing, commercial terms, product placement, integration, or access to compute or sales incentives, our competitive position, customer adoption, and business results could be adversely affected," Anthropic said.
+— Jordan Novet
+Mon, Oct 26 20269:28 AM EDT
+Anthropic says its capital and governance structure has 'no direct public company precedent'
+Dario Amodei, co-founder and chief executive officer of Anthropic, during the World Economic Forum (WEF) in Davos, Switzerland, on Tuesday, Jan. 20, 2026. 
+Krisztian Bocsi | Bloomberg | Getty Images
+Anthropic said it has a novel capital and corporate governance structure that "has no direct public company precedent." 
+"Our governance structure is likely to have the effect of limiting the likelihood of an unsolicited merger proposal, unsolicited tender offer, or proxy contest for the removal of directors," the filing said. "As a result, our governance structure may make it more difficult to replace our directors and management and may have the effect of depriving our stockholders of an opportunity to sell their shares at a premium over prevailing market prices."
+— Ashley Capoot
+Mon, Oct 26 20269:22 AM EDT
+MIT professor Sinan Aral says enterprise is key to Anthropic's success in the market
+watch now
+VIDEO5:5105:51
+MIT's Sinan Aral on Anthropic IPO: Enterprise is key to its market success
+Squawk Box
+Sinan Aral, MIT Sloan professor and AI investor, said on CNBC's "Squawk Box" that Anthropic's ability to be profitable in the enterprise space will determine whether it's an attractive prospect for investors.
+"If you think about the $1.5 to $2 trillion valuation, that's approximately from the low to high end a 22 times to 30 times revenue multiple. So the future growth and the profit of this company are being priced in that kind of valuation," Aral said.
+"The question is, where is the enduring value? And I think the enduring value is going to come from companies that can demonstrate enterprise profitability, productivity, and actual value add, rather than just providing intelligence. I think Anthropic is on the way to doing that ... and I think that is where it will succeed and fail."
+— Caleigh Keating
+Mon, Oct 26 20269:18 AM EDT
+No single customer represents more than a tenth of Anthropic's revenue
+Anthropic logo and a keyboard in this illustration taken October 19, 2026. 
+Dado Ruvic | Reuters
+With so many firms relying on Anthropic, the company can say that its business has greater diversification than top artificial intelligence chipmaker Nvidia. 
+"No single customer represented more than 10% of our revenue for the nine months ended September 30, 2026," Anthropic said in its IPO prospectus.
+Nvidia, by comparison, had five clients that were contributing at least 10% of accounts receivable as of July, according to a filing.
+Anthropic, for its part, reported that five customers accounted for about a quarter of its revenue for the first nine months of 2026.
+"We anticipate that we will continue to derive a significant portion of our revenue from a limited number of customers for the foreseeable future, and in some cases, the portion of our revenue attributable to certain customers may increase in the future," the AI lab said in the prospectus.
+At the end of 2025, revenue from customers that buy through cloud marketplaces represented 48% of revenue, the filing shows.
+— Jordan Novet
+Mon, Oct 26 20269:16 AM EDT
+Anthropic lost $80.7 billion in the first half of this year
+Anthropic said it lost a staggering $80.7 billion in the first six months of this year, after losing $12.9 billion over the same stretch in 2025. 
+The vast majority of its net loss in the first half of the year, about $72 billion, comes from accounting charges related to changes in the value of convertible notes, "resulting from an increase in our enterprise valuation during each of the respective periods," Anthropic said.
+For all of 2025, the company lost about $41.9 billion, widening from a loss of $8.3 billion in 2024. 
+— Annie Palmer
+Mon, Oct 26 20269:14 AM EDT
+Anthropic reported $16.29 billion in revenue for first half of the year
+Anthropic said revenue increased 1,304% to $16.29 billion in the six months ended June 30, up from $1.16 billion during the same period a year earlier. Revenue for all of last year jumped 1,089% to $4.59 billion.
+— Ashley Capoot
+Mon, Oct 26 20269:10 AM EDT
+Goldman Sachs and Morgan Stanley are Anthropic's top IPO underwriters
+Morgan Stanley and Goldman Sachs signage on the floor of the New York Stock Exchange (NYSE) in New York, US, on Friday, April 10, 2026. 
+Michael Nagle | Bloomberg | Getty Images
+At the top of the prospectus for Anthropic's historic initial public offering, the two biggest investment banks for technology IPOs receive the largest billing. The lead left, as the term is called for the underwriter listed first, is Goldman Sachs. On the right is Morgan Stanley.
+Others banks participating in the share float include JPMorgan, Citigroup, Barclays, Wells Fargo, Bank of America, Deutsche Bank, RBC Capital Markets, UBS Investment Bank, BMO Capital Markets, BNP Paribas, Credit Agricole CIB, Jefferies, Mizuho, MUFG, Societe Generale, TD Securities, BTIG, Cantor, Capital One Securities and Macquarie Capital.
+— Jordan Novet
+Mon, Oct 26 20269:04 AM EDT
+Who is Anthropic CEO Dario Amodei?
+Dario Amodei, co-founder and chief executive officer of Anthropic, during a Bloomberg Television interview in San Francisco, California, US, on Tuesday, Dec. 9, 2025.
+David Paul Morris | Bloomberg | Getty Images
+Amodei grew up in San Francisco and earned his doctorate degree in biophysics from Princeton University. 
+Before starting Anthropic, Amodei, now 43, worked as a senior research scientist at Google Brain, which is now part of AI unit Google DeepMind. Amodei also spent more than four years at OpenAI, where he led the development of models including GPT-2 and GPT-3.
+His sister, Daniela Amodei, is another Anthropic co-founder and serves as the company's president.
+— Ashley Capoot
+Mon, Oct 26 20269:04 AM EDT
+Anthropic's most recent funding round
+watch now
+VIDEO1:3501:35
+Anthropic raises $65B in latest funding round at $965B valuation
+Power Lunch
+Anthropic closed its last funding round in May, when it raised $65 billion at a $965 billion valuation. The financing was led by Altimeter Capital, Dragoneer, Greenoaks and Sequoia Capital, and nearly tripled Anthropic's valuation from February, when the company was worth $380 billion. 
+The round was particularly notable because it pushed Anthropic's valuation above OpenAI's for the first time. OpenAI was valued at $852 billion in late March after closing a record-breaking $122 billion funding round. 
+— Ashley Capoot
+Subscribe to CNBC PRO
+Subscribe to Investing Club
+Licensing & Reprints
+CNBC Councils
+Join the CNBC Panel
+Digital Products
+News Releases
+Closed Captioning
+Corrections
+About CNBC
+Internships
+Site Map
+Careers
+Help
+Contact
+News Tips
+Got a confidential news tip? We want to hear from you.Get In Touch
+CNBC Newsletters
+Sign up for free newsletters and get more CNBC delivered to your inboxSign Up Now
+Get this delivered to your inbox, and more info about our products and services.
+Advertise With UsPlease Contact Us
+Ad Choices
+Privacy Policy
+Your Privacy Choices
+CA Notice
+Terms of Service
+© 2026 Versant Media, LLC. All Rights Reserved. A Versant Media Company.
+ Data is a real-time snapshot *Data is delayed at least 15 minutes.
+ Global Business and Financial News, Stock Quotes, and Market Data
+ and Analysis.
+ Market Data Terms of Use and Disclaimers
+Data also provided by

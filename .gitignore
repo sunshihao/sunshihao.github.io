@@ -3,7 +3,3 @@ dist/
 .astro/
 .DS_Store
 .env
-
-# 由 scripts/sync.mjs 从 /Users/ssh/briefs 生成，不入库
-src/data/
-public/issues/

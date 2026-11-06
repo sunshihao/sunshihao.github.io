@@ -1,0 +1,243 @@
+* [Products & Solutions](/research/ "Products & Solutions")
+
+  + [Energy and Climate Databases](/expertise/data-science.html "Energy and Climate Databases")
+
+    ![Products & Solutions](https://d1owejb4br3l12.cloudfront.net/sites/default/files/inline-images/menu-products-solutions.jpg)**Energy and Climate Databases**
+
+    - [Global Energy & CO2 Data](/research/energy-market-data-co2-emissions-database.html "Global Energy & CO2 Data")
+
+      The most comprehensive and up-to-date annual energy database.
+    - [Hydrogen Companies Database](/research/h2-database.html "Hydrogen Companies Database")
+
+      Monitoring of technology providers in the H2 supply chain.
+    - [Monthly Energy Database: EnerMonthly](/research/monthly-oil-gas-coal-electricity-data.html "Monthly Energy Database: EnerMonthly")
+
+      Monthly energy data on key energy markets.
+    - [H2 Projects Database](/research/hydrogen-derivates-projects.html "H2 Projects Database")
+
+      Monitoring of Hydrogen and Derivatives Projects
+    - [Power Plant Tracker](/research/power-plant-database.html "Power Plant Tracker")
+
+      The most reliable and up-to-date power generation and storage database.
+    - [World LNG Database](/research/lng-trade-terminals-and-plants-database.html "World LNG Database")
+
+      The essentials of LNG trade at your fingertips.
+    - [World Refinery Database](/research/world-refineries-database.html "World Refinery Database")
+
+      Global monitoring of new and existing refineries.
+    - [World Efficiency & Demand](/research/world-energy-efficiency-demand-database.html "World Efficiency & Demand")
+
+      Analyse energy consumption and efficiency trends at world level. Benchmark countries.
+    - [Custom Database Development](/solutions/database-management.html "Custom Database Development")
+
+      Have your database developed by a recognised expert of both energy and IT.
+  + [Energy - Climate Forecasts](/solutions/projections.html "Energy - Climate Forecasts")
+
+    ![Products & Solutions](https://d1owejb4br3l12.cloudfront.net/sites/default/files/inline-images/menu-products-solutions.jpg)**Energy - Climate Forecasts**
+
+    - [Carbon Price Projections](/research/carbon-price-projections.html "Carbon Price Projections")
+
+      Carbon markets with reliable price forecasts
+    - [Global Energy Forecasts: EnerFuture](/research/forecast-enerfuture.html "Global Energy Forecasts: EnerFuture")
+
+      Instant access to energy and emissions forecasts.
+    - [Power Price Projections](/research/global-forecasting-electricity-prices-tool.html "Power Price Projections")
+
+      Annual projections of wholesale prices up to 2050, based on a 360° approach of the energy markets, enabled by the globally recognised POLES model.
+    - [Future CO2 emissions levers quantification tool](/research/lever-impact-tool-co2-emissions.html "Future CO2 emissions levers quantification tool")
+
+      Wedges module showing a breakdown of the levers enabling to reduce emissions between two scenarios.
+    - [Granular Energy Demand Forecast](/research/country-energy-demand-forecast.html "Granular Energy Demand Forecast")
+
+      Unique, independent projections of consumption by end-use.
+    - [MACC: Marginal Abatement Cost Curves](/research/marginal-abatement-cost-curves-MACCs-forecast.html "MACC: Marginal Abatement Cost Curves")
+
+      GHG Marginal Abatement Cost Curves.
+    - [Forecasting Models](/solutions/forecasting-models.html "Forecasting Models")
+
+      Benefit from proven models to draw your own energy scenarios and anticipate tomorrow’s challenges.
+  + [Market Intelligence](/expertise/energy-market-intelligence.html "Market Intelligence")
+
+    ![Products & Solutions](https://d1owejb4br3l12.cloudfront.net/sites/default/files/inline-images/menu-products-solutions.jpg)**Market Intelligence**
+
+    - [Global Energy Research](/research/global-energy-research.html "Global Energy Research")
+
+      110 Energy and climate country reports.
+    - [Building Renovation Outlook Reports](/research/building-renovation-outlook.html "Building Renovation Outlook Reports")
+
+      Tracking trends, EPCs, and national subsidy schemes for residential buildings.
+    - [Power Generation Watch](/research/daily-power-generation-monitor.html "Power Generation Watch")
+
+      Daily brief covering the entirety of the turbine industry.
+    - [Low Carbon Technologies Watch](/research/low-carbon-technologies-watch.html "Low Carbon Technologies Watch")
+
+      A newsletter to receive the latest updates on evolving technologies and policies.
+    - [Key Energy Intelligence](https://www.enerdata.net/estore/energy-intelligence.html "Key Energy Intelligence")
+
+      Global energy news and analyses curated daily.
+    - [Custom Market, Competitive and Technology Intelligence](/solutions/market-intelligence.html "Custom Market, Competitive and Technology Intelligence")
+
+      Enerdata’s experts bring you the essentials about your market and competitors.
+* [Consulting & Expertise](/consulting/ "Consulting & Expertise")
+
+  + [Market Analysis](/expertise/global-market-analysis.html "Market Analysis")
+
+    ![Consulting & Expertise](https://d1owejb4br3l12.cloudfront.net/sites/default/files/inline-images/menu-consulting-expertise.jpg)**Market Analysis**
+
+    - [Energy Efficiency and Demand Analysis](/consulting/energy-demand-analysis.html "Energy Efficiency and Demand Analysis")
+
+      Understanding key consumption trends and drivers across sectors.
+    - [Market Research / Studies](/consulting/strategy-market-studies.html "Market Research / Studies")
+
+      Granular and exclusive insight to address the most pressing business and strategic issues.
+    - [Power Generation and Renewables](/consulting/energy-renewables-market.html "Power Generation and Renewables")
+
+      Expertise in strategic and business intelligence, with fine-tuning to the market’s specificities.
+  + [Energy - Climate Scenarios](/expertise/energy-modelling-forecasting.html "Energy - Climate Scenarios")
+
+    ![Consulting & Expertise](https://d1owejb4br3l12.cloudfront.net/sites/default/files/inline-images/menu-consulting-expertise.jpg)**Energy - Climate Scenarios**
+
+    - [Energy Market Forecast](/consulting/energy-market-forecasts.html "Energy Market Forecast")
+
+      Providing the outlook of an energy commodity in mid- to long-term time horizons.
+    - [Energy Demand Forecast](/consulting/energy-demand-forecasting.html "Energy Demand Forecast")
+
+      Sector- and driver-specific energy demand forecasting.
+    - [Energy Prices Forecast](/consulting/energy-prices-forecasting-information.html "Energy Prices Forecast")
+
+      Assess the evolution of energy prices on the international and regional markets, as well as end-users prices.
+    - [Energy Transition Scenarios](/consulting/energy-transition-policy-assessment.html "Energy Transition Scenarios")
+
+      Enerdata guides you through pathways to reach climate targets.
+    - [Local Scale Scenarios](/consulting/local-scale-scenarios.html "Local Scale Scenarios")
+
+      Supporting local authorities in their decarbonisation strategies.
+  + [Climate Strategy and Policy Evaluation](/expertise/climate.html "Climate Strategy and Policy Evaluation")
+
+    ![Consulting & Expertise](https://d1owejb4br3l12.cloudfront.net/sites/default/files/inline-images/menu-consulting-expertise.jpg)**Climate Strategy and Policy Evaluation**
+
+    - [Energy Efficiency Evaluation](/consulting/energy-efficiency-evaluation.html "Energy Efficiency Evaluation")
+
+      Cutting-edge quantitative tools and relevant indicators to monitor and evaluate evolutions on worldwide energy markets.
+    - [Emission Reduction Options and Costs](/consulting/emission-reductions-costs.html "Emission Reduction Options and Costs")
+
+      Analysis of the most cost-effective options to reduce emissions.
+    - [NDC Evaluation](/consulting/indc-evaluation.html "NDC Evaluation")
+
+      Quantified simulation and analysis of pledges for climate change negotiations.
+    - [Carbon Market Assessment](/consulting/carbon-market-assessment.html "Carbon Market Assessment")
+
+      Breakdown of carbon markets and evaluation of climate change impacts on the carbon price.
+    - [Energy Transition & Climate Policy Assessment](/consulting/policy-assessment.html "Energy Transition & Climate Policy Assessment")
+
+      Enerdata guides you on the most beneficial policy or investment options.
+    - [Climate Strategy at National and Local Scale](/consulting/climate-strategy.html "Climate Strategy at National and Local Scale")
+
+      Turning climate objectives into concrete action plans.
+  + [Training](/training/ "Training")
+
+    ![Consulting & Expertise](https://d1owejb4br3l12.cloudfront.net/sites/default/files/inline-images/menu-consulting-expertise.jpg)**Training**
+
+    - [Energy Efficiency Policies](/training/efficiency-policies-toolbox.html "Energy Efficiency Policies")
+
+      Understand different policy targets and measures on energy efficiency.
+    - [Energy Efficiency & CO2 Reduction](/training/efficiency-co2-reduction.html "Energy Efficiency & CO2 Reduction")
+
+      How to measure energy savings?
+    - [Initiation to Energy & Climate Modelling](/training/forecasting-design-interpret-modelling.html "Initiation to Energy & Climate Modelling")
+
+      Energy Forecasting is a 2 days training to learn to design and interpret energy forecasts.
+    - [Energy & Climate Statistics](/training/create-manage-energy-statistics.html "Energy & Climate Statistics")
+
+      Energy statistics training allowing to create energy balance with supply, transformation and consumption and understanding the international energy statistics regulations.
+    - [Initiation to EnerMED](/training/energy-demand-model-med-pro.html "Initiation to EnerMED")
+
+      Initiation to EnerMED level 1is the training to approach on the most powerful energy demand forecasting model.
+* [Decarbonisation Pathways](/decarbonisation/ "Decarbonisation Pathways")
+
+  + [Energy Transition](/decarbonisation/energy-transition.html "Energy Transition")
+  + [Energy Efficiency & Demand](/decarbonisation/efficiency-demand.html "Energy Efficiency & Demand")
+  + [Energy Savings & Sufficiency](/decarbonisation/energy-sobriety-sufficiency.html "Energy Savings & Sufficiency")
+  + [Renewable Energies](/decarbonisation/renewables.html "Renewable Energies")
+  + [Power System Flexibility](/decarbonisation/power-system-flexibility.html "Power System Flexibility")
+  + Clean Technologies
+
+    - [Hydrogen Technologies and Markets](/decarbonisation/hydrogen.html "Hydrogen Technologies and Markets")
+    - [Battery Technologies and Markets](/decarbonisation/batteries-technologies-expertise.html "Battery Technologies and Markets")
+    - [Solar Energy Technologies and Markets](/decarbonisation/solar-technologies.html "Solar Energy Technologies and Markets")
+* [Sectors](/sector/ "Sectors")
+
+  + [Energy Companies](/sector/energy-companies.html "Energy Companies")
+  + [Consultancies](/sector/energy-consultancy.html "Consultancies")
+  + [Sustainable Finance](/sector/sustainable-finance.html "Sustainable Finance")
+  + [Energy Equipment](/sector/energy-equipment.html "Energy Equipment")
+  + [Energy Intensive Industries](/sector/energy-intensive-industry.html "Energy Intensive Industries")
+  + [Government Bodies and International Organisations](/sector/governments.html "Government Bodies and International Organisations")
+  + [Research Centres and Academia](/sector/research-centers.html "Research Centres and Academia")
+  + [Smart Energy & Automation](/sector/smart-energy.html "Smart Energy & Automation")
+  + [Transport](/sector/transport-decarbonisation-insights.html "Transport")
+* Resource Centre
+
+  + [Library](/publications/ "Library")
+
+    - [Daily Energy & Climate News](/publications/daily-energy-news/ "Daily Energy & Climate News")
+    - [Executive Briefs](/publications/executive-briefing/ "Executive Briefs")
+    - [Reports & Publications](/publications/reports-presentations/ "Reports & Publications")
+    - [Statistical Yearbook](/publications/world-energy-statistics-supply-and-demand.html "Statistical Yearbook")
+    - [Energy Outlook](/publications/energy-outlook-tool.html "Energy Outlook")
+    - [H2 Intelligence Monthly Newsletter](/publications/hydrogen-news/ "H2 Intelligence Monthly Newsletter")
+  + [eStore](/estore/ "eStore")
+
+    - [Energy Market Reports](/estore/country-profiles/ "Energy Market Reports")
+    - [Global CCS Companies Database](/estore/carbon-capture-storage-ccs-companies-database.html "Global CCS Companies Database")
+    - [Synthetic Fuel Projects Database](/estore/synthetic-fuels-production-database.html "Synthetic Fuel Projects Database")
+    - [Clean Ammonia Report](/estore/clean-ammonia-report.html "Clean Ammonia Report")
+    - [European Battery Market Analysis](/estore/battery-report.html "European Battery Market Analysis")
+    - [Electricity Prices Monitor](/estore/captured-prices-monitor.html "Electricity Prices Monitor")
+    - [Flexibility Tracker Report](/estore/power-system-flexibility-tracker.html "Flexibility Tracker Report")
+    - [Water Electrolyser Report](/estore/water-electrolyser-worldwide-report.html "Water Electrolyser Report")
+    - [Key Energy Intelligence](/estore/energy-intelligence.html "Key Energy Intelligence")
+    - [LNG Trade / Refineries Datasets](/estore/dataset/ "LNG Trade / Refineries Datasets")
+    - [Renewable Energy Report](/estore/renewable.html "Renewable Energy Report")
+    - [World Energy Information](/estore/energy-market/ "World Energy Information")
+* [About Us](/about-us/ "About Us")
+
+  + [Our Expertise](/expertise/ "Our Expertise")
+  + [CSR](/commitments/social-responsibility.html "CSR")
+  + [References](/about-us/references/ "References")
+
+    - [Case studies](/about-us/references/?content_type%5Bcase_study%5D=case_study "Case studies")
+  + [Newsroom](/about-us/newsroom.html "Newsroom")
+
+    - [Company News](/about-us/company-news/ "Company News")
+    - [Events](/about-us/events.html "Events")
+    - [In the Media](/publications/press.html "In the Media")
+  + [Careers](https://jobs.enerdata.net/ "Careers")
+  + [Contact](/about-us/contact.html "Contact")
+  + [Partners](/about-us/partners.html "Partners")
+
+ 
+
+1. [Home](/)
+2. [Library](/publications/)
+3. [Daily Energy & Climate News](/publications/daily-energy-news/)
+
+# OPEC+ maintains crude oil production targets for December 2026
+
+[*mail*](/about-us/contact.html "Contact us")
+
+[*arrow\_upward*](#top "Go to top")
+
+[Bluesky](https://bsky.app/intent/compose?text=OPEC+ maintains crude oil production targets for December 2026%20https://www.enerdata.net/publications/daily-energy-news/opec-maintains-crude-oil-production-targets-december-2026.html) [Linkedin](https://www.linkedin.com/sharing/share-offsite/?url=https://www.enerdata.net/publications/daily-energy-news/opec-maintains-crude-oil-production-targets-december-2026.html) [Facebook](http://www.facebook.com/sharer.php?u=https://www.enerdata.net/publications/daily-energy-news/opec-maintains-crude-oil-production-targets-december-2026.html&p=OPEC+ maintains crude oil production targets for December 2026)
+
+**The seven OPEC+ members** (Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman) have agreed to **maintain their crude oil production targets at current levels for December 2026**, following a virtual meeting held on 1 November 2026 (OPEC+ press release, 01/11/2026).
+
+The **production quotas** remain unchanged at **10.5 mb/d** for Saudi Arabia, **9.9 mb/d** for Russia, **4.4 mb/d** for Iraq, **2.7 mb/d** for Kuwait, **1.6 mb/d** for Kazakhstan, **1 mb/d** for Algeria and **0.8 mb/d** for Oman. This corresponds to **the production levels set for September 2026**, which were also maintained in October and November (KEI, 06/10/2026).
+
+Although Gulf members have been increasing exports, which had been disrupted for several months by the conflict in the Middle East, most are still producing **below their allocated targets**.
+
+## Subscribe to our newsletters
+
+Register now to subscribe to our informative monthly, weekly or daily Newsletters.
+
+ 

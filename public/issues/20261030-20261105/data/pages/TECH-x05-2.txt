@@ -1,0 +1,19 @@
+French blood banks were on Monday affected by the recent wave of cybersecurity attacks on European refrigeration systems, the French Blood Establishment confirmed on Wednesday.
+
+The organization said that while it wasn't the direct target of the attack, cold storage units operated by external providers containing the EFS' blood products were compromised across three of its sites, with hackers cranking up temperatures.
+
+"Specifically, temperature and defrost thresholds were set to excessively high levels," the EFS said in a statement translated from French to English by CNBC.
+
+"These cold storage units—located at EFS preparation and distribution sites—are used to store blood products prior to their delivery to healthcare facilities, as well as samples intended for EFS biobanks."
+
+They also stored frozen plasma used for transfusions the manufacturing of medicinal products.
+
+The EFS said that its surveillance systems were triggered rapidly, and depending on the situation, affected equipment was either brought under control with no impact on the products or samples, or they were taken offline. No samples or blood products were lost during the attack, with samples quickly transferred to other facilities, the EFS added.
+
+The EFS is now coordinating with the French National Cybersecurity Agency (ANSSI) and the Ministry of Health and has increased monitoring of its equipment
+
+Hundreds of supermarkets across France and other European countries, including Belgium, Sweden and Finland, had their fridges remotely hacked and temperatures raised, resulting in potentially millions of euros of spoiled food.
+
+"Several regional facilities of the French Blood ​Establishment (EFS) were affected by a cybersecurity incident ​that impacted certain cold storage room monitoring and control ‌systems,"
+
+The situation is now under control and is being closely monitored, the French Health Ministry said in a statement, according to Reuters. They added that the safety of the blood supplies was ​preserved "thanks ​to the ⁠facilities' monitoring and alarm systems, as well as precautionary measures immediately ​implemented."

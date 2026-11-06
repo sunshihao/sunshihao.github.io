@@ -1,0 +1,349 @@
+[Skip to main content](https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity#mainContent)[Skip to section navigation](https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity#sectionNav)[Skip to footer](https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity#client-footer)
+
+[![Image 1: Marvell Technology, Inc. IR Overview](https://investor.marvell.com/_assets/_4b2ef940d8378f4928a6a90255e70f76/marvell/db/3760/34708/image.png)](https://www.marvell.com/)
+
+*   PRODUCTS
+*   COMPANY
+*   SUPPORT
+
+Language
+
+*   [English](https://www.marvell.com/ "English")
+*   [中文 (Chinese)](https://cn.marvell.com/ "中文 (Chinese)")
+*   [日本語 (Japanese)](https://jp.marvell.com/ "日本語 (Japanese)")
+
+[Login](https://www.marvell.com/portal "Login link")
+
+## Interconnect
+
+*   [PAM DSPs](https://www.marvell.com/products/pam-dsp.html)
+*   [DCI Optical Modules](https://www.marvell.com/products/optical-modules.html)
+*   [Coherent DSPs](https://www.marvell.com/products/coherent-dsp.html)
+*   [Coherent-lite DSPs](https://www.marvell.com/products/coherent-lite-dsp.html)
+*   [AEC DSPs](https://www.marvell.com/products/aec-dsps.html)
+*   [PCIe and Ethernet Retimers](https://www.marvell.com/products/pcie-ethernet-retimers.html)
+*   [Linear Drivers](https://www.marvell.com/products/linear-driver.html)
+*   [Transimpedance Amplifiers](https://www.marvell.com/products/transimpedance-amplifiers.html)
+
+## Data Center Switching
+
+*   [Ethernet Switches](https://www.marvell.com/products/data-center-switches.html)
+*   [PCIe Switches](https://www.marvell.com/products/pcie-switches.html)
+
+## Networking and Security
+
+*   [Enterprise Switches](https://www.marvell.com/products/enterprise-switches.html)
+*   [BASE-T PHY Transceivers](https://www.marvell.com/products/base-t-phy-transceivers.html)
+*   [High-speed PHYs](https://www.marvell.com/products/high-speed-phys.html)
+*   [Ethernet Controllers](https://www.marvell.com/products/ethernet-adapters-and-controllers.html)
+*   [Data Processing Units](https://www.marvell.com/products/data-processing-units.html)
+*   [Hardware Security Modules](https://www.marvell.com/products/hardware-security-modules.html)
+
+## Memory and Storage
+
+*   [CXL](https://www.marvell.com/products/cxl.html)
+*   [Storage Accelerators](https://www.marvell.com/products/system-solutions.html)
+*   [SSD Controllers](https://www.marvell.com/products/ssd-controllers.html)
+*   [HDD](https://www.marvell.com/products/hdd.html)
+*   [Fibre Channel](https://www.marvell.com/products/fibre-channel-adapters-and-controllers.html)
+
+## Custom
+
+*   [AI Accelerators](https://www.marvell.com/products/custom-ai-accelerators.html)
+*   [Network Interfaces](https://www.marvell.com/products/custom-network-interface-solutions.html)
+*   [Memory](https://www.marvell.com/products/custom-memory-solutions.html)
+*   [Co-processors](https://www.marvell.com/products/custom-co-processors.html)
+*   [Security](https://www.marvell.com/products/custom-security-solutions.html)
+
+## Our Company
+
+*   [About](https://www.marvell.com/company.html)
+*   [Careers](https://www.marvell.com/company/careers.html)
+*   [Sustainability](https://www.marvell.com/company/sustainability.html)
+*   [Investors](https://investor.marvell.com/)
+*   [Leadership](https://www.marvell.com/company/leadership/executive-team.html)
+
+## Media
+
+*   [Blog](https://www.marvell.com/blogs.html)
+*   [Events](https://www.marvell.com/company/events.html)
+*   [Media Kit](https://www.marvell.com/company/media-kit.html)
+*   [Newsroom](https://www.marvell.com/company/newsroom.html)
+*   [Videos](https://videos.marvell.com/)
+
+## Contact
+
+*   [Contact Us](https://www.marvell.com/company/contact.html)
+*   [Locations](https://www.marvell.com/company/offices.html)
+*   [Sales](https://www.marvell.com/company/sales.html)
+*   [Support](https://www.marvell.com/support.html)
+
+[Watch the latest **Marvell Essential Technology Videos** WATCH NOW](https://videos.marvell.com/)
+
+## Support by Product
+
+*   [Custom ASIC](https://www.marvell.com/support/custom-asic.html)
+*   [Data Processing Units](https://www.marvell.com/support/data-processing-units.html)
+*   [Ethernet Controllers](https://www.marvell.com/support/ethernet-adapters-and-controllers.html)
+*   [Fibre Channel](https://www.marvell.com/support/fibre-channel-adapters.html)
+
+*   [Ethernet PHYs](https://www.marvell.com/support/phy-transceivers.html)
+*   [Security Solutions](https://www.marvell.com/support/security-solutions.html)
+*   [Storage](https://www.marvell.com/support/storage.html)
+*   [Ethernet Switches](https://www.marvell.com/support/switching.html)
+
+## Tools & Resources
+
+*   [Customer Portal Login](https://www.marvell.com/portal)
+*   [Public Document Library](https://www.marvell.com/support/doc-library.html)
+*   [Public Driver Downloads](https://www.marvell.com/support/downloads.html)
+*   [Product Security Center](https://www.marvell.com/product-security-incident-reporting.html)
+
+[Skip to main content](https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity#mainContent)[Skip to section navigation](https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity#sectionNav)[Skip to footer](https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity#client-footer)
+
+[![Image 2: Marvell Technology, Inc. IR Overview](https://investor.marvell.com/_assets/_4b2ef940d8378f4928a6a90255e70f76/marvell/db/3760/34708/image.png)](https://www.marvell.com/)
+
+*   [Back to Corporate Site](https://www.marvell.com/)
+*   [Overview](https://investor.marvell.com/)
+*   [News & Events](https://investor.marvell.com/news-events)
+    *   [Press Releases](https://investor.marvell.com/news-events/press-releases)
+    *   [IR Calendar](https://investor.marvell.com/news-events/ir-calendar)
+    *   [Email Alerts](https://investor.marvell.com/news-events/email-alerts)
+
+*   [Company Information](https://investor.marvell.com/company-information)
+    *   [Company Profile](https://investor.marvell.com/company-information)
+    *   [Executive Team](https://www.marvell.com/company/leadership/executive-team.html)
+    *   [Contacts](https://investor.marvell.com/company-information/contacts)
+
+*   [Financial Information](https://investor.marvell.com/financial-information)
+    *   [Financial Results](https://investor.marvell.com/financial-information/financial-results)
+    *   [Income Statement](https://investor.marvell.com/financial-information/income-statement)
+    *   [Balance Sheet](https://investor.marvell.com/financial-information/balance-sheet)
+    *   [Cash Flow](https://investor.marvell.com/financial-information/cash-flow)
+    *   [Tax Information](https://investor.marvell.com/financial-information/tax-information)
+
+*   [Stock Data](https://investor.marvell.com/stock-data)
+    *   [Quote & Chart](https://investor.marvell.com/stock-data/quote-chart)
+    *   [Historical Data](https://investor.marvell.com/stock-data/historical-data)
+    *   [Dividends](https://investor.marvell.com/stock-data/dividends)
+
+*   [SEC Filings](https://investor.marvell.com/sec-filings)
+    *   [All SEC Filings](https://investor.marvell.com/sec-filings/all-sec-filings)
+    *   [Annual Reports](https://investor.marvell.com/sec-filings/annual-reports)
+    *   [Quarterly Reports](https://investor.marvell.com/sec-filings/quarterly-reports)
+    *   [Section 16 Filings](https://investor.marvell.com/sec-filings/section-16-filings)
+    *   [Current Reports](https://investor.marvell.com/sec-filings/current-reports)
+    *   [Proxy Statements](https://investor.marvell.com/sec-filings/proxy-statements)
+
+*   [Governance](https://investor.marvell.com/governance)
+    *   [Governance Overview](https://investor.marvell.com/governance)
+    *   [Board of Directors](https://www.marvell.com/company/leadership/board-of-directors.html)
+    *   [Board Committees](https://investor.marvell.com/governance/board-committees)
+    *   [Governance Documents](https://investor.marvell.com/governance/governance-documents)
+    *   [Sustainability](https://www.marvell.com/company/sustainability.html)
+
+Press Releases
+
+[Investors](https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity)
+
+### Investors
+
+*   [Overview](https://investor.marvell.com/)
+*   [News & Events](https://investor.marvell.com/news-events)
+    *   [Press Releases](https://investor.marvell.com/news-events/press-releases)
+    *   [IR Calendar](https://investor.marvell.com/news-events/ir-calendar)
+    *   [Email Alerts](https://investor.marvell.com/news-events/email-alerts)
+
+*   [Company Information](https://investor.marvell.com/company-information)
+    *   [Company Profile](https://investor.marvell.com/company-information)
+    *   [Executive Team](https://www.marvell.com/company/leadership/executive-team.html)
+    *   [Contacts](https://investor.marvell.com/company-information/contacts)
+
+*   [Financial Information](https://investor.marvell.com/financial-information)
+    *   [Financial Results](https://investor.marvell.com/financial-information/financial-results)
+    *   [Income Statement](https://investor.marvell.com/financial-information/income-statement)
+    *   [Balance Sheet](https://investor.marvell.com/financial-information/balance-sheet)
+    *   [Cash Flow](https://investor.marvell.com/financial-information/cash-flow)
+    *   [Tax Information](https://investor.marvell.com/financial-information/tax-information)
+
+*   [Stock Data](https://investor.marvell.com/stock-data)
+    *   [Quote & Chart](https://investor.marvell.com/stock-data/quote-chart)
+    *   [Historical Data](https://investor.marvell.com/stock-data/historical-data)
+    *   [Dividends](https://investor.marvell.com/stock-data/dividends)
+
+*   [SEC Filings](https://investor.marvell.com/sec-filings)
+    *   [All SEC Filings](https://investor.marvell.com/sec-filings/all-sec-filings)
+    *   [Annual Reports](https://investor.marvell.com/sec-filings/annual-reports)
+    *   [Quarterly Reports](https://investor.marvell.com/sec-filings/quarterly-reports)
+    *   [Section 16 Filings](https://investor.marvell.com/sec-filings/section-16-filings)
+    *   [Current Reports](https://investor.marvell.com/sec-filings/current-reports)
+    *   [Proxy Statements](https://investor.marvell.com/sec-filings/proxy-statements)
+
+*   [Governance](https://investor.marvell.com/governance)
+    *   [Governance Overview](https://investor.marvell.com/governance)
+    *   [Board of Directors](https://www.marvell.com/company/leadership/board-of-directors.html)
+    *   [Board Committees](https://investor.marvell.com/governance/board-committees)
+    *   [Governance Documents](https://investor.marvell.com/governance/governance-documents)
+    *   [Sustainability](https://www.marvell.com/company/sustainability.html)
+
+*   ## News & Events
+
+*   [Press Releases](https://investor.marvell.com/news-events/press-releases)
+*   [IR Calendar](https://investor.marvell.com/news-events/ir-calendar)
+*   [Email Alerts](https://investor.marvell.com/news-events/email-alerts)
+
+# Marvell and Lumentum to Combine, Creating a Category Leader in AI Connectivity
+
+ November 02, 2026 [Download as PDF](https://investor.marvell.com/_assets/_4b2ef940d8378f4928a6a90255e70f76/marvell/news/2026-11-02_Marvell_and_Lumentum_to_Combine_Creating_a_1040.pdf "PDF: Marvell and Lumentum to Combine, Creating a Category Leader in AI Connectivity")
+
+*   _Combines two of the fastest-growing enablers of AI, bringing together complementary electrical and optical technologies to address increasingly complex connectivity requirements across next-generation AI infrastructure_
+*   _Expected to create a broad full-stack connectivity portfolio that is intended to enable end-to-end extreme co-design, high-volume production of fully-optimized, pre-validated optical solutions and faster time to market for customers_
+*   _Expected to expand the combined company’s total addressable market to $550 billion_
+*   _The transaction is expected to enhance the combined company’s long-term revenue growth, non-GAAP gross margin and non-GAAP operating margin profile, provide line of sight to more than $1 billion in annual run-rate cost synergies, and is expected to be accretive to Marvell non-GAAP earnings per share in year one post-close_
+
+SANTA CLARA, Calif. & SAN JOSE, Calif.--(BUSINESS WIRE)-- Marvell Technology, Inc. (NASDAQ: MRVL) and Lumentum (NASDAQ: LITE) today announced that they have entered into a definitive agreement for Marvell to acquire Lumentum in an all-stock transaction. Under the terms of the agreement, Lumentum stockholders will receive a fixed exchange ratio of 4.500 shares of Marvell common stock for each share of Lumentum common stock they own. The transaction has an implied enterprise value of $115 billion for Lumentum, representing approximately $1,132 per share of Lumentum common stock and a premium of approximately 23.9% based on each company’s unaffected closing share price as of October 28, 2026, the last trading day before market speculation regarding a potential transaction began. Post-closing, current Marvell stockholders will own approximately 67% of the combined company on a fully diluted basis, while Lumentum stockholders will own approximately 33%.
+
+This press release features multimedia. View the full release here: [https://www.businesswire.com/news/home/20261102374788/en/](https://www.businesswire.com/news/home/20261102374788/en/)
+
+The AI infrastructure industry is at an inflection point. Rapidly growing bandwidth requirements and the physical limitations of copper-based connectivity are accelerating the transition toward optical technologies. As AI infrastructure scales to increasingly complex architectures, particularly scale-up and scale-in, the industry is shifting from discrete, modular components toward highly integrated optical solutions that require much closer co-design of electrical and optical technologies to deliver greater bandwidth, performance and energy efficiency.
+
+The combination brings together best-in-breed technology to meet this need, joining Marvell's strengths in electrical and optical interconnect, network switching, custom XPU and XPU attach and advanced semiconductor technologies with Lumentum's expertise in high-performance lasers, optical transceivers, optical circuit switching (OCS) and specialized compound semiconductor manufacturing. Following closing, the combined company is expected to offer a highly complementary portfolio spanning leading-edge CMOS, silicon photonics, compound semiconductors, advanced packaging and manufacturing capabilities. The combination is intended to enable deeper integration and co-design across the electrical and optical signal chain, positioning Marvell to deliver highly optimized connectivity solutions across a wide range of distances, from distributed data centers to connections within advanced semiconductor packages.
+
+“AI infrastructure is undergoing a fundamental architectural shift toward optical connectivity, creating an opportunity that comes along once in a generation,” said Matt Murphy, Chairman and CEO of Marvell. “The companies that move first and help define this transition will set the standard for decades to come. By bringing together two leaders with highly complementary technologies, exceptional talent and specialized manufacturing capabilities, we intend to help shape the next era of AI connectivity and create exceptional stockholder value.”
+
+“Joining Marvell creates a company uniquely positioned to capitalize on a market opportunity of $550 billion and generate significant, sustainable stockholder value,” said Michael Hurlston, President and CEO of Lumentum. “Surging AI data traffic requires rapid hardware innovation, and this combination enhances our ability to deliver next-generation solutions at scale. Together with Marvell, we will meet our customers' complete interconnect needs, spanning scale-across and scale-out today to scale-up and scale-in domains tomorrow. By offering extreme co-design around our customers' demanding requirements, we will help them achieve faster time to market, accelerated innovation cycles and category-defining performance.”
+
+**Compelling Strategic and Financial Rationale**
+
+The combination is expected to deliver substantial strategic and financial benefits:
+
+*   **Creates a category leader in AI connectivity:** Combining Marvell's electrical and optical interconnect, switching and custom silicon technologies with Lumentum's high-performance lasers, optical transceivers and OCS capabilities will create a comprehensive connectivity portfolio spanning scale-across, scale-out, scale-up and scale-in. Upon closing, the combined company anticipates being positioned to address customer connectivity requirements across a broad range of distances and topologies, from distributed data centers to advanced semiconductor packages. 
+*   **Enables end-to-end extreme co-design and accelerates customer innovation:** As AI infrastructure becomes increasingly complex, customers require higher levels of integration and optimization across digital, analog and optical technologies. By bringing together complementary technologies and engineering expertise across the signal chain, the combined company expects to be positioned to develop highly-optimized, pre-validated optical solutions designed to improve bandwidth, performance and power efficiency, accelerate customer time to market and support high-volume production. 
+*   **Combines highly specialized manufacturing capabilities and enhances R&D resources:** Lumentum brings advanced compound semiconductor manufacturing and process technologies, including indium phosphide (InP), as well as high-speed and high-power laser capabilities. After closing, the combined company plans to bring together leading-edge semiconductor design, advanced packaging and specialized manufacturing capabilities to enable deeper heterogeneous integration, strengthen strategic supply and accelerate the development of next-generation optical technologies. 
+*   **Creates significant long-term stockholder value:** The combination brings together two of the fastest-growing companies enabling AI infrastructure and expands the combined company’s total addressable market to $550 billion and enhances the combined company’s ability to serve customers in emerging scale-up and scale-in markets. The transaction is expected to enhance the combined company’s long-term revenue growth, non-GAAP gross margin and non-GAAP operating margin profile, provide line of sight to more than $1 billion in annual run-rate cost synergies and is expected to be accretive to Marvell non-GAAP earnings per share in year one post-close. 
+
+**Transaction Structure and Terms**
+
+Under the terms of the agreement, which has been unanimously approved by the boards of directors of both companies, Lumentum stockholders will receive a fixed exchange ratio of 4.500 shares of Marvell common stock for each share of Lumentum common stock held at the time of closing, implying pro forma ownership of approximately 33% of the combined company for Lumentum stockholders on a fully diluted basis.
+
+Following closing, Matt Murphy will continue as Chairman and CEO of the combined company. As part of the transaction, three members of Lumentum's Board of Directors, including Lumentum CEO Michael Hurlston, will join Marvell's Board, which currently consists of seven directors.
+
+The transaction is expected to close in the first half of calendar year 2028, subject to approval by Marvell and Lumentum stockholders, receipt of regulatory approvals and other customary closing conditions.
+
+**Marvell Reports Preliminary Revenue for the Fiscal Third Quarter 2027 and Lumentum Issues Fiscal First Quarter 2027 Results**
+
+In connection with today's announcement, Marvell today reported preliminary revenue for the third quarter of fiscal 2027 consistent with previously provided guidance, maintaining the midpoint of its prior guidance while narrowing the expected range to plus or minus 2%, compared with the original range of plus or minus 5%.
+
+Lumentum today separately reported financial results for its first fiscal quarter of 2027. Lumentum's financial results can be found on the Investors section of the Lumentum website at [http://investor.Lumentum.com](http://investor.lumentum.com/).
+
+**Conference Call Information**
+
+Marvell and Lumentum will host a joint conference call today at 5:00 a.m. Pacific Time (8:00 a.m. Eastern Time) to discuss the transaction. To participate, dial 800-579-2543 (U.S.) or 785-424-1789 (international) and reference conference ID 5554083. The call will be webcast on Marvell's [Investor Relations website](https://investor.marvell.com/), where an accompanying investor presentation will also be posted shortly.
+
+**Advisors**
+
+Qatalyst Partners is serving as lead financial advisor and J.P. Morgan Securities LLC and Goldman Sachs & Co. LLC are serving as financial advisors to Marvell. Wilson Sonsini Goodrich & Rosati is serving as legal advisor to Marvell, and FGS Global is serving as strategic communications advisor. Citigroup Global Markets Inc. and Evercore are serving as financial advisors to Lumentum, Davis Polk & Wardwell LLP is serving as legal advisor and Joele Frank, Wilkinson Brimmer Katcher is serving as strategic communications advisor.
+
+**About Marvell**
+
+To deliver the data infrastructure technology that connects the world, we're building solutions on the most powerful foundation: our partnerships with our customers. Trusted by the world's leading technology companies for over 30 years, we move, store, process and secure the world's data with semiconductor solutions designed for our customers' current needs and future ambitions. Through a process of deep collaboration and transparency, we're ultimately changing the way tomorrow's enterprise, cloud and carrier architectures transform—for the better.
+
+**About Lumentum**
+
+Lumentum is a global leader in optical and photonic technologies that power the networks and infrastructure behind AI, cloud computing and next-generation communications. Built on decades of photonics innovation, Lumentum delivers high-performance lasers, modules and optical subsystems that enable scalable, energy-efficient data center connectivity, advanced telecom networks, industrial manufacturing and sensing applications. Headquartered in San Jose, California, the company operates R&D, manufacturing and sales facilities worldwide. Learn more at [www.lumentum.com](http://www.lumentum.com/).
+
+**Additional Information About the Transaction and Where to Find It**
+
+This communication relates to a proposed transaction between Marvell Technology, Inc. (“Marvell”) and Lumentum Holdings Inc. (“Lumentum”) (the “Transaction”). In connection with the Transaction, Marvell intends to file with the SEC a registration statement on Form S-4 (the “Form S-4”) that will include a joint proxy statement for Marvell’s and Lumentum’s respective stockholders and that will also constitute a prospectus with respect to the shares of Marvell’s common stock to be issued in the Transaction (the “Joint Proxy Statement/Prospectus”). The definitive Joint Proxy Statement/Prospectus (if and when available) will be mailed to stockholders of Marvell and Lumentum after the Form S-4 is declared effective by the SEC. This communication is not a substitute for the Joint Proxy Statement/Prospectus or registration statement. INVESTORS AND SECURITY HOLDERS ARE URGED TO READ THE FORM S-4, JOINT PROXY STATEMENT/PROSPECTUS AND ANY OTHER RELEVANT DOCUMENTS THAT MAY BE FILED WITH THE SEC IN CONNECTION WITH THE TRANSACTION OR INCORPORATED BY REFERENCE INTO THE FORM S-4 AND THE JOINT PROXY STATEMENT/PROSPECTUS (AS WELL AS ANY AMENDMENTS OR SUPPLEMENTS THERETO), CAREFULLY AND IN THEIR ENTIRETY WHEN THEY BECOME AVAILABLE BECAUSE THEY WILL CONTAIN IMPORTANT INFORMATION ABOUT MARVELL, LUMENTUM, THE TRANSACTION AND RELATED MATTERS. Investors and security holders will be able to obtain free copies of the Form S-4 and Joint Proxy Statement/Prospectus and other documents containing important information about Marvell, Lumentum and the Transaction, once such documents are filed with the SEC through the website maintained by the SEC at _[https://www.sec.gov](https://www.sec.gov/)_. Copies of the documents filed with the SEC by Marvell will be available online free of charge on Marvell’s website at _[https://investor.marvell.com](https://investor.marvell.com/)_ or by contacting Marvell’s Investor Relations department at [ir@marvell.com](mailto:ir@marvell.com). Copies of the documents filed with the SEC by Lumentum will be available online free of charge on Lumentum’s website at _[https://investor.lumentum.com](https://investor.lumentum.com/)_ or by contacting Lumentum’s Investor Relations department at [investor.relations@lumentum.com](mailto:investor.relations@lumentum.com).
+
+**Participants in the Merger Solicitation**
+
+Marvell, Lumentum and certain of their respective directors and executive officers may be deemed to be participants in the solicitation of proxies in respect of the Transaction. Information about the directors and executive officers of Marvell, including a description of their direct or indirect interests, by security holdings or otherwise, is set forth in Marvell’s proxy statement for its 2026 Annual Meeting of Stockholders, which was filed with the SEC on May 13, 2026 and is available online at _[https://www.sec.gov/Archives/edgar/data/0001835632/000110465926060253/tm261486-1\_def14a.htm](https://www.sec.gov/Archives/edgar/data/0001835632/000110465926060253/tm261486-1\_def14a.htm)_, under the headings “Proposal No. 1 Election of Directors”, “Executive Officers of the Company”, “Security Ownership of Certain Beneficial Owners and Management”, “Executive Compensation” and “Certain Relationships and Related Party Transactions” and Marvell’s Annual Report on Form 10-K for the fiscal year ended January 31, 2026, which was filed with the SEC on March 11, 2026 and is available online at _[https://www.sec.gov/Archives/edgar/data/0001835632/000183563226000011/mrvl-20260131.htm](https://www.sec.gov/Archives/edgar/data/0001835632/000183563226000011/mrvl-20260131.htm)_, under the heading “Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters”. To the extent holdings of Marvell’s securities by its directors or executive officers have changed since the amounts set forth in Marvell’s definitive proxy statement for its 2026 Annual Meeting of Stockholders, such changes have been or will be reflected on Initial Statement of Beneficial Ownership of Securities on Form 3, Statement of Changes in Beneficial Ownership on Form 4 or Annual Statement of Changes in Beneficial Ownership on Form 5 filed with the SEC, which are available online at _[https://www.sec.gov/edgar/browse/?CIK=0001835632&owner=exclude](https://www.sec.gov/edgar/browse/?CIK=0001835632&owner=exclude)_. Information about the directors and executive officers of Lumentum, including a description of their direct or indirect interests, by security holdings or otherwise, is set forth in Lumentum’s proxy statement for its 2026 Annual Meeting of Stockholders, which was filed with the SEC on October 6, 2026 and is available online at _[https://www.sec.gov/Archives/edgar/data/0001633978/000130817926000420/lite2026-def14a.htm](https://www.sec.gov/Archives/edgar/data/0001633978/000130817926000420/lite2026-def14a.htm),_ under the headings “Proposal No. 1 Election of Directors”, “Executive Officers”, “Compensation Discussion and Analysis”, “Security Ownership of Certain Beneficial Owners and Management” and “Related Person Transactions”. To the extent holdings of Lumentum’s securities by its directors or executive officers have changed since the amounts set forth in Lumentum’s definitive proxy statement for its 2026 Annual Meeting of Stockholders, such changes have been or will be reflected on Initial Statement of Beneficial Ownership of Securities on Form 3, Statement of Changes in Beneficial Ownership on Form 4, or Annual Statement of Changes in Beneficial Ownership on Form 5 filed with the SEC, which are available online at _[https://www.sec.gov/edgar/browse/?CIK=0001633978&owner=exclude](https://www.sec.gov/edgar/browse/?CIK=0001633978&owner=exclude)_. Other information regarding the participants in the proxy solicitations and a description of their direct and indirect interests, by security holdings or otherwise, will be contained in the Joint Proxy Statement/Prospectus and other relevant materials to be filed with the SEC regarding the Transaction when such materials become available. You may obtain free copies of these documents using the sources indicated above.
+
+**Cautionary Note Regarding Forward-Looking Statements**
+
+This communication contains “forward-looking statements” within the meaning of the federal securities laws, including Section 27A of the U.S. Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Any statements contained in this communication that are not statements of historical facts may be deemed to be forward-looking statements. In some cases, you can identify forward-looking statements by terms such as: “accelerate,” “anticipate,” “believe,” “can,” “continue,” “could,” “demand,” “design,” “estimate,” “expand,” “expect,” “intend,” “may,” “might,” “mission,” “need,” “objective,” “ongoing,” “outlook,” “plan,” “potential,” “predict,” “project,” “should,” “target,” “will,” “would,” or the negative of these terms, or other comparable terminology intended to identify statements about the future. All forward-looking statements by their nature address matters that involve risks and uncertainties, many of which are beyond our control and are not guarantees of future results, such as statements about the consummation of the proposed transaction and the anticipated benefits thereof. These forward-looking statements include, but are not limited to, statements regarding expected timing and benefits of the Transaction and the outlook for Marvell’s and Lumentum’s results of operations and financial condition, including potential synergies following the Transaction. It is uncertain whether any of the events anticipated by the forward-looking statements will transpire or occur, or if any of them do, what impact they will have on the results of operations and financial condition of the companies or the price of Marvell or Lumentum stock. These forward-looking statements involve known and unknown risks, uncertainties and other factors that may cause actual results, levels of activity, performance, benefits or achievements to be materially different from the information expressed or implied by these forward-looking statements. These risks and uncertainties include, but are not limited to, the following: general economic, market or business conditions, including competition and risks related to the semiconductor and optical networking industries generally; ongoing changes in the semiconductor and optical networking industries, including future growth rates, pricing trends in end-markets, or changes in customer capital spending patterns; risks related to the Transaction, including the effect of the announcement of the Transaction on the ability of Marvell or Lumentum to retain and hire key personnel and maintain relationships with customers, vendors and others with whom Marvell or Lumentum do business, or on Marvell’s or Lumentum’s operating results and business generally; risks that the Transaction disrupts current plans and operations and the potential difficulties in attracting and retaining qualified personnel as a result of the Transaction; the outcome of any legal proceedings related to the Transaction; the anticipated tax treatment of the transaction; the possible diversion of management’s time and attention from ongoing business operations and opportunities; the ability of the parties to consummate the Transaction on a timely basis or at all; the satisfaction of the conditions precedent to consummation of the Transaction, including the ability to secure stockholder and regulatory approvals on the terms expected, at all or in a timely manner; the occurrence of any event, change or other circumstance that could give rise to a right to terminate the Transaction; the ability to successfully integrate Marvell’s and Lumentum’s operations and business on a timely basis or otherwise; Marvell’s ability to implement the combined company’s plans, forecasts and other expectations with respect to its business after the completion of the Transaction and realize expected synergies and other benefits of the Transaction within the expected timeframe or at all; the amount of the costs, fees, expenses and charges related to the Transaction; the cash needs and availability of financing for Marvell and Lumentum in connection with, or following the completion of, the Transaction; fluctuations in the prices of Marvell or Lumentum stock; and potential business disruptions following the Transaction. These risks, as well as other risks related to the Transaction, will be included in the registration statement on Form S-4 and Joint Proxy Statement/Prospectus that will be filed with the SEC in connection with the Transaction. For additional information about other factors that could cause actual results to differ materially from those described in the forward-looking statements, please refer to Marvell’s and Lumentum’s respective periodic reports and other filings with the SEC, including the risk factors identified in Marvell’s and Lumentum’s most recent Quarterly Reports on Form 10-Q, Marvell’s most recent Annual Report on Form 10-K, which is available online at _[https://www.sec.gov/Archives/edgar/data/1835632/000183563226000011/mrvl-20260131.htm](https://www.sec.gov/Archives/edgar/data/1835632/000183563226000011/mrvl-20260131.htm)_ and Lumentum’s most recent Annual Report on Form 10-K. which is available online at _[https://www.sec.gov/Archives/edgar/data/0001633978/000162828026057358/lite-20260627.htm](https://www.sec.gov/Archives/edgar/data/0001633978/000162828026057358/lite-20260627.htm)_, under the headings “Forward-Looking Statements” and “Risk Factors” in Part I, Item 1A (Annual Report) and in Part I, Item 2 and Part II, Item 1A (Quarterly Reports), all of which are available online free of charge on the SEC’s website at _[https://www.sec.gov](https://www.sec.gov/)_. The forward-looking statements included in this communication are made only as of the date hereof and are based on the current beliefs of Marvell and Lumentum as well as assumptions made by and information currently available to them, which are subject to inherent uncertainties, risks and changes in circumstances that are difficult to predict. Neither Marvell nor Lumentum undertakes any obligation to update any forward-looking statements to reflect subsequent events or circumstances, except to the extent required by law. The information that can be accessed through hyperlinks or website addresses included in this communication is deemed not to be incorporated in or part of this communication. Marvell’s preliminary financial results presented in this press release are unaudited, represent management’s estimates based on information available as of the date of this release, and are subject to completion of Marvell’s quarter-end financial closing procedures and review by its independent registered public accounting firm. As a result, Marvell’s actual results for the quarter ended October 31, 2026 may differ materially from these preliminary estimates, including as a result of adjustments or changes in accounting estimates identified in the course of completing those procedures. Marvell undertakes no obligation to update or revise these preliminary results except as required by law. Complete results will be reported in Marvell’s Quarterly Report on Form 10-Q.
+
+**No Offer or Solicitation**
+
+This communication is not a proxy statement or solicitation of a proxy, consent or authorization with respect to any securities or in respect of the Transaction and does not constitute an offer to sell or the solicitation of an offer to buy any securities or a solicitation of any vote of approval, and there will not be any sale of securities in any jurisdiction in which such offer, solicitation or sale would be unlawful prior to registration or qualification under the securities laws of any such jurisdiction. No offering of securities will be made except by means of a prospectus meeting the requirements of Section 10 of the U.S. Securities Act of 1933, as amended, and otherwise in accordance with applicable law.
+
+Category: Financial
+
+View source version on businesswire.com: [https://www.businesswire.com/news/home/20261102374788/en/](https://www.businesswire.com/news/home/20261102374788/en/)
+
+**Marvell Investor Relations**  
+Ross Seymore   
+Senior Vice President, Investor Relations   
+408-222-0777   
+[ir@Marvell.com](mailto:ir@Marvell.com)
+
+**Marvell Media**  
+FGS Global   
+[Marvell@fgsglobal.com](mailto:Marvell@fgsglobal.com)
+
+**Lumentum Investor Relations**  
+Kathy Ta   
+Vice President, Investor Relations   
+408-750-3853   
+[investor.relations@Lumentum.com](mailto:investor.relations@Lumentum.com)
+
+**Lumentum Media**  
+Victoria McDonald   
+408-404-0636   
+[media@lumentum.com](mailto:media@lumentum.com)
+
+Joele Frank, Wilkinson Brimmer Katcher   
+Eric Brielmann / Barrett Golden   
+(212) 355-4449   
+[Lumentum-JF@joelefrank.com](mailto:Lumentum-JF@joelefrank.com)
+
+Source: Marvell Technology, Inc.
+
+Released November 2, 2026
+
+*   [email Email Alerts](https://investor.marvell.com/news-events/email-alerts)
+*   [location_city Company Profile](https://investor.marvell.com/company-information)
+*   [contact_page Contacts](https://investor.marvell.com/company-information/contacts)
+*   [rss_feed RSS News Feed](https://investor.marvell.com/rss-news-feed)
+*   [account_tree Sitemap](https://investor.marvell.com/sitemap)
+*   [accessibility Accessibility Statement](https://investor.marvell.com/accessibility-statement)
+
+## Company
+
+*   [Awards](https://www.marvell.com/company/awards.html)
+*   [Industry Associations](https://www.marvell.com/company/industry_associations.html)
+*   [Trade Compliance](https://www.marvell.com/company/trade-compliance.html)
+*   [Trademarks](https://www.marvell.com/company/trademarks.html)
+*   [The Marvell Code](https://www.marvell.com/code-of-business-conduct-and-ethics.html)
+
+## Support
+
+*   [Driver Downloads](https://www.marvell.com/support/downloads.html)
+*   [Customer Portal Login](https://www.marvell.com/portal)
+*   [Support by Product](https://www.marvell.com/support.html)
+*   [Marvell Concern Line](https://secure.ethicspoint.com/domain/media/en/gui/20485/index.html)
+*   [FAQs](https://www.marvell.com/support/faq.html)
+
+## Careers
+
+*   [University Recruiting](https://www.marvell.com/company/careers/university-recruiting.html)
+*   [Jobs at Marvell](https://www.marvell.com/company/careers.html)
+
+## Worldwide
+
+*   [English](https://www.marvell.com/)
+*   [中文 (Chinese)](https://cn.marvell.com/)
+*   [日本語 (Japanese)](https://jp.marvell.com/)
+
+*   [![Image 3: social-facebook](https://investor.marvell.com/_assets/_4b2ef940d8378f4928a6a90255e70f76/marvell/files/theme/site-files/20250828/www.marvell.com/content/dam/marvell/en/global/icon-social-facebook.svg)](https://www.facebook.com/MarvellTechnology) 
+*   [![Image 4: social-twitter](https://investor.marvell.com/_assets/_4b2ef940d8378f4928a6a90255e70f76/marvell/files/theme/site-files/20250828/www.marvell.com/content/dam/marvell/en/global/icon-social-twitter.svg)](https://twitter.com/MarvellTech) 
+*   [![Image 5: social-youtube](https://investor.marvell.com/_assets/_4b2ef940d8378f4928a6a90255e70f76/marvell/files/theme/site-files/20250828/www.marvell.com/content/dam/marvell/en/global/icon-social-youtube.svg)](https://www.youtube.com/c/MarvellTechnology) 
+*   [![Image 6: social-instagram](https://investor.marvell.com/_assets/_4b2ef940d8378f4928a6a90255e70f76/marvell/files/theme/site-files/20250828/www.marvell.com/content/dam/marvell/en/global/icon-social-instagram-black-20x20-1.svg)](https://www.instagram.com/marvelltechnology/?hl=en "social-instagram") 
+*   [![Image 7: social-linkedin](https://investor.marvell.com/_assets/_4b2ef940d8378f4928a6a90255e70f76/marvell/files/theme/site-files/20250828/www.marvell.com/content/dam/marvell/en/global/icon-social-linkedin.svg)](https://www.linkedin.com/company/marvell/ "social-linkedin") 
+
+*   Copyright © 2026 Marvell, All rights reserved.
+
+*   [Terms of Use](https://www.marvell.com/terms-of-use.html)
+*   [Privacy Policy](https://www.marvell.com/privacy-statement.html)
+*   [Contact](https://www.marvell.com/company/contact.html)

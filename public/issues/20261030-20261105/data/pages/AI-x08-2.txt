@@ -1,0 +1,221 @@
+### SECURITYWEEK NETWORK:
+
+* [Cybersecurity News](https://www.securityweek.com "Cybersecurity news and information")
+* [Webcasts](https://gateway.on24.com/wcc/eh/1220486/securityweek-webcast-library "SecurityWeek cybersecurity webcast library on demand")
+* [Virtual Events](https://www.securitysummits.com/ "Virtual Cybersecurity Events")
+* [Podcast](https://podcast.securityweek.com/)
+
+### ICS:
+
+* [ICS Cybersecurity Conference](https://www.icscybersecurityconference.com/)
+
+[![SecurityWeek](https://www.securityweek.com/wp-content/uploads/2022/04/SecurityWeek-Small-Dark.png)](https://www.securityweek.com/)
+
+Connect with us
+
+Hi, what are you looking for?
+
+[![SecurityWeek](https://www.securityweek.com/wp-content/uploads/2022/01/SecurityWeek_Dark_News.png)![SecurityWeek](https://www.securityweek.com/wp-content/uploads/2022/01/SecurityWeek_Dark_News.png)](https://www.securityweek.com/)
+
+* [Malware & Threats](https://www.securityweek.com/category/malware-cyber-threats/)
+  + [Cyberwarfare](https://www.securityweek.com/category/cyberwarfare/)
+  + [Cybercrime](https://www.securityweek.com/category/cybercrime/)
+  + [Data Breaches](https://www.securityweek.com/category/data-breaches/)
+  + [Fraud & Identity Theft](https://www.securityweek.com/category/fraud-identity-theft/)
+  + [Nation-State](https://www.securityweek.com/category/nation-state/)
+  + [Ransomware](https://www.securityweek.com/category/ransomware/)
+  + [Vulnerabilities](https://www.securityweek.com/category/vulnerabilities/)
+* Security Operations
+  + [Threat Intelligence](https://www.securityweek.com/category/threat-intelligence/)
+  + [Incident Response](https://www.securityweek.com/category/incident-response/)
+  + [Tracking & Law Enforcement](https://www.securityweek.com/category/tracking-law-enforcement/)
+* [Security Architecture](https://www.securityweek.com/category/security-architecture/)
+  + [Application Security](https://www.securityweek.com/category/application-security/)
+  + [Cloud Security](https://www.securityweek.com/category/cloud-security/)
+  + [Endpoint Security](https://www.securityweek.com/category/endpoint-security/)
+  + [Identity & Access](https://www.securityweek.com/category/identity-access/)
+  + [IoT Security](https://www.securityweek.com/category/iot-security/)
+  + [Mobile & Wireless](https://www.securityweek.com/category/mobile-wireless/)
+  + [Network Security](https://www.securityweek.com/category/network-security/)
+* [Risk Management](https://www.securityweek.com/category/risk-management/)
+  + [Cyber Insurance](https://www.securityweek.com/category/cyber-insurance/)
+  + [Data Protection](https://www.securityweek.com/category/data-protection/)
+  + [Privacy & Compliance](https://www.securityweek.com/category/privacy-compliance/)
+  + [Supply Chain Security](https://www.securityweek.com/category/supply-chain-security/)
+* [CISO Strategy](https://www.securityweek.com/category/ciso-strategy/)
+  + [Cyber Insurance](https://www.securityweek.com/category/cyber-insurance/)
+  + [CISO Conversations](https://www.securityweek.com/category/ciso-conversations/)
+  + [CISO Forum](https://www.cisoforum.com/)
+* [ICS/OT](https://www.securityweek.com/category/ics-ot/)
+  + [Industrial Cybersecurity](https://www.securityweek.com/category/ics-ot/)
+  + [ICS Cybersecurity Conference](https://www.icscybersecurityconference.com/)
+* [Funding/M&A](https://www.securityweek.com/category/cybersecurity-funding-news/)
+  + [Cybersecurity Funding](https://www.securityweek.com/category/cybersecurity-funding-news/cybersecurity-funding-reports/)
+  + [M&A Tracker](https://www.securityweek.com/category/cybersecurity-funding-news/ma/)
+* [Securing AI](https://www.securityweek.com/category/artificial-intelligence/)
+
+### [Artificial Intelligence](https://www.securityweek.com/category/artificial-intelligence/)
+
+# OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks
+
+OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently.
+
+![](https://www.securityweek.com/wp-content/uploads/2023/11/Ed-Kovacs.jpg)
+
+By
+
+[Eduard Kovacs](https://www.securityweek.com/contributors/eduard-kovacs/)
+
+|
+
+* [+ Flipboard](# "Share on Flipboard") [+ Reddit](# "Share on Reddit") [+ Whatsapp](https://web.whatsapp.com/send?text=OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/) [+ Whatsapp](whatsapp://send?text=OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/) [+ Email](/cdn-cgi/l/email-protection#67581412050d0204135a28170209262e47210e090314472037334a514726141315064736120e02130b1e472f080b030e0900472506040c470809472e0913021509060b473502034a3302060a0e09004b47221f170b080e13473306140c1441060a175c2528233e5a2e47010812090347130f0e14470615130e040b02470e091302150214130e09004706090347130f0812000f1347080147140f06150e0900470e1347100e130f471e08124947240f02040c470e13470812135d470f131317145d48481010104914020412150e131e1002020c4904080a4808170209060e4a010e0903144a0017134a514a06141315064a16120e02130b1e4a0f080b030e09004a0506040c4a08094a0e0913021509060b4a1502034a1302060a0e09004a021f170b080e134a1306140c1448)
+
+![OpenAI](https://www.securityweek.com/wp-content/uploads/2025/11/OpenAI.jpeg)
+
+**OpenAI says GPT-6 Astra quietly did less than it was asked on AI safety research, including red-teaming and exploit work, and in most cases its misalignment monitors did not catch it.**
+
+[Astra](https://www.securityweek.com/openais-upcoming-astra-model-raises-autonomous-cyberattack-concerns/) launched in early September as the first [OpenAI](https://www.securityweek.com/topics/openai/) model rated Critical for cybersecurity under the company’s Preparedness Framework. OpenAI says that, with suitable tools and access, it can uncover previously unknown flaws across many hardened systems and work out how to exploit them, with no human directing each step.
+
+Trouble surfaced in August, soon after OpenAI began using Astra internally. On safety and alignment tasks, researchers saw it claim to be blocked by problems that were imaginary or self-inflicted, set requirements nobody needed, and walk away from solutions that worked.
+
+Red-teaming done as part of internal AI safety research drew the most explicit refusals and silent withholding, with more cases in monitoring and safety evaluation work. Examples released by OpenAI show Astra scaling back an exploit development task to avoid weaponizing a known CVE. In another, it limited an analysis of exploit strategies while deliberately avoiding an open refusal.
+
+When Astra did explain itself, it often argued that holding back was the safer choice. OpenAI acknowledged that for many of these tasks an outright refusal could arguably have been justified.
+
+“Instead of making these scruples clear, however, Astra decided to covertly underperform—withholding assistance without informing the user,” the company said.
+
+Advertisement. Scroll to continue reading.
+
+In a controlled test, OpenAI gave Astra pairs of coding tasks that differed only in naming, comments and documentation, framing one as safety research and the other as capabilities research. Astra met roughly 10% of the hidden grading criteria on the safety versions and roughly 16% on the capabilities versions. OpenAI’s earlier GPT-5.6 Sol model scored about the same whichever way the tasks were framed.
+
+Refusals and stated intent explained little of the gap. Excluding runs where Astra openly refused or its chain of thought (CoT) showed a decision to withhold help still left a gap of 4.7 percentage points.
+
+The gap fell to 0.75 points only after OpenAI also removed every run in which Astra’s reasoning voiced even brief ethical doubt about the task. The company says this suggests the drop is associated with ethical concerns.
+
+In OpenAI employees’ day-to-day Codex use, Astra’s reasoning revealed a silent decision to hold back on 0.25% of safety-related requests, versus 0.11% of capabilities requests. Even those openly stated cases were not rated serious enough by monitoring to be sent for human review.
+
+OpenAI has not determined the cause. The gap was barely measurable when Astra’s reinforcement learning phase began and reached 6 percentage points by the end.
+
+Scans of Astra’s reasoning found no evidence of a strategic effort to make researchers underestimate its capabilities or sway deployment decisions. Where it gave reasons, it objected to the research itself, and telling it to be careful raised its underperformance on safety tasks by 50%.
+
+“This points toward an overly cautious response to safety research as the simplest current explanation, although we cannot rule out strategic motives that Astra did not externalize in CoT,” [OpenAI said](https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/).
+
+The company warned the behavior can make some evaluations harder to interpret. “A model that finds monitor evasion suspicious may underperform on monitor-evasion evaluations while leaving little evidence in its CoT or outputs,” it said, adding that it is building evaluations and monitors to catch it.
+
+**Related**: [Stolen AI Reasoning Could Help China Build Cheaper Rivals](https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/)
+
+**Related**: [OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor](https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/)
+
+**Related**: [Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia](https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/)
+
+![](https://www.securityweek.com/wp-content/uploads/2023/11/Ed-Kovacs.jpg)
+
+Written By [Eduard Kovacs](https://www.securityweek.com/contributors/eduard-kovacs/)
+
+Eduard Kovacs (@EduardKovacs) is senior managing editor at SecurityWeek. He worked as a high school IT teacher before starting a career in journalism in 2011. Eduard holds a bachelor’s degree in industrial informatics and a master’s degree in computer techniques applied in electrical engineering.
+
+## Daily Briefing Newsletter
+
+Subscribe to the SecurityWeek Email Briefing for the latest cybersecurity threats, trends, and expert insights.
+
+## More from [Eduard Kovacs](https://www.securityweek.com/contributors/eduard-kovacs/)
+
+* [Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million](https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/)
+* [CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode](https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/)
+* [NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training](https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/)
+* [Over 100 European Stores Hit as Supermarket Fridge Attacks Return](https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/)
+* [Cybersecurity M&A Roundup: 37 Deals Announced in October 2026](https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/)
+* [Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk](https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/)
+* [Polymarket Returns $3.9 Million to Traders as DebugBear Cites DNS Hijack](https://www.securityweek.com/polymarket-returns-3-9-million-to-traders-as-debugbear-cites-dns-hijack/)
+* [FBI Flags Over 600 Addresses Tied to North Korea’s Binance Heist](https://www.securityweek.com/fbi-flags-over-600-addresses-tied-to-north-koreas-binance-heist/)
+
+## Latest News
+
+* [Sysdig Adds Runtime Security and Governance for AI Agents](https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/)
+* [Barracuda ESG Authentication Bypass Flaw Opens Path to Root](https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/)
+* [Agentic Data Security Firm Sentra Raises $150 Million](https://www.securityweek.com/agentic-data-security-firm-sentra-raises-150-million/)
+* [AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks](https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/)
+* [Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers](https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/)
+* [Malicious cPGuard Updates Served in OpsShield Supply Chain Attack](https://www.securityweek.com/malicious-cpguard-updates-served-in-opsshield-supply-chain-attack/)
+* [Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical](https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/)
+* [Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billion Binance Heist](https://www.securityweek.com/rigged-coding-assignment-abused-ai-tool-opened-path-to-6-billion-binance-heist/)
+
+![](https://www.securityweek.com/wp-content/uploads/2022/04/SecurityWeek-Small-Dark.png)
+
+#### Trending
+
+## [enSilo Raises $23 Million in Series B Funding](https://www.securityweek.com/ensilo-raises-23-million-series-b-funding/)
+
+## [Cisco Finds Second Zero-Day as Number of Hacked Devices Apparently Drops](https://www.securityweek.com/cisco-finds-second-zero-day-as-number-of-hacked-devices-drops/)
+
+## [Chinese Gov Hackers Caught Hiding in Cisco Router Firmware](https://www.securityweek.com/chinese-gov-hackers-caught-hiding-in-cisco-router-firmware/)
+
+## [CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode](https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/)
+
+## [Over 100 European Stores Hit as Supermarket Fridge Attacks Return](https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/)
+
+## [Critical Node-RED Flaw Exploited in Attacks](https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/)
+
+## [Frontline Education Data Breach Impacts Over 1.3 Million](https://www.securityweek.com/frontline-education-data-breach-impacts-over-1-3-million/)
+
+## [1.5 Million Impacted by Ransomware Attack at Canadian Dental Service](https://www.securityweek.com/1-5-million-impacted-by-ransomware-attack-at-canadian-dental-service/)
+
+## Daily Briefing Newsletter
+
+Subscribe to the SecurityWeek Email Briefing to stay informed on the latest threats, trends, and technology, along with insightful columns from industry experts.
+
+[## Webinar: Agentic Pentesting for a Stronger CTEM Program](https://event.on24.com/wcc/r/5536178/AAC60CD494B761A00DC73EABF6454675?partnerref=awidget)
+
+November 4, 2026
+
+Close the security gaps between pentests. Join this session to explore agentic pentesting and gain a practical framework for continuous exposure validation in your CTEM program.
+
+[Register](https://event.on24.com/wcc/r/5536178/AAC60CD494B761A00DC73EABF6454675?partnerref=awidget)
+
+[## Virtual Event: CISO Forum 2026 Summit](https://register.securityweek.com/ciso-forum)
+
+November 10 & 11, 2026
+
+Join as we bring together CISOs, senior cybersecurity executives, practitioners, industry experts, and other security leaders to share practical experience and examine the issues shaping enterprise cybersecurity strategy.
+
+[Register](https://register.securityweek.com/ciso-forum)
+
+#### People on the Move
+
+Rob T. Lee has joined Dragos as Chief AI Officer.
+
+Barracuda has appointed Dan Fletcher as CFO.
+
+Artemis Security has appointed Arun Singh as CGO.
+
+[More People On The Move](/industry-moves)
+
+#### Expert Insights
+
+[## Passkeys Are Better Than Passwords. But They Are Not Enough.](https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/)
+
+![](https://www.securityweek.com/wp-content/uploads/2023/01/Torsten-George.jpeg) As organizations eliminate passwords, attackers will adapt. Instead of attacking the authenticator directly, they will look for opportunities around it. [(Torsten George)](https://www.securityweek.com/contributors/torsten-george/)
+
+[## When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis](https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/)
+
+![](https://www.securityweek.com/wp-content/uploads/2025/10/Steve_Durbin-ISF.jpg) Risk managers are trained to spot weak signals, plan for disruption and make hard decisions under uncertainty. But the discipline looks different when the risk is not a system or an enterprise, but you. [(Steve Durbin)](https://www.securityweek.com/contributors/stevedurbin/)
+
+[## Nobody Trusts the Security Questionnaire. We Rely on It Anyway.](https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/)
+
+![](https://www.securityweek.com/wp-content/uploads/2026/08/Sravish-Sridhar_TrustCloud.jpeg) The process that gates nearly every B2B deal is a self-assessment the sender distrusts and the receiver accepts. There is finally a better basis for trust between companies. [(Sravish Sridhar)](https://www.securityweek.com/contributors/sravish-sridhar/)
+
+[## This is Fine: What NetScaler Zero-Days Tell Us About the New Normal](https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/)
+
+![](https://www.securityweek.com/wp-content/uploads/2026/06/Tod_Beardsley.jpeg) Keep your patch management pipelines primed in case another round of Citrix NetScaler patches get released soon. [(Tod Beardsley)](https://www.securityweek.com/contributors/tod-beardsley/)
+
+[## The Key to AI Software Security Isn’t Speed, It’s Maturity](https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/)
+
+![](https://www.securityweek.com/wp-content/uploads/2024/08/Matias_Madou.jpg) Where your developers sit on the AI adoption scale has a real impact on how you are addressing security risk. [(Matias Madou)](https://www.securityweek.com/contributors/matias-madou/)
+
+* [+ Flipboard](# "Share on Flipboard") [+ Reddit](# "Share on Reddit") [+ Whatsapp](https://web.whatsapp.com/send?text=OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/) [+ Whatsapp](whatsapp://send?text=OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/) [+ Email](/cdn-cgi/l/email-protection#516e2224333b3432256c1e21343f10187117383f3522711601057c677110222523307100243834253d2871193e3d35383f36711330323a713e3f71183f2534233f303d710334357c0534303c383f367d711429213d3e3825710530223a2277303c216a131e15086c1871373e243f3571253938227130232538323d3471383f253423342225383f3671303f357125393e24363925713e377122393023383f36713825712638253971283e247f71123934323a713825713e24256b7139252521226b7e7e2626267f22343224233825282634343a7f323e3c7e3e21343f30387c37383f35227c3621257c677c30222523307c20243834253d287c393e3d35383f367c3330323a7c3e3f7c383f2534233f303d7c2334357c2534303c383f367c3429213d3e38257c2530223a227e)
+
+## Daily Briefing Newsletter
+
+Subscribe to the SecurityWeek Email Briefing to stay informed on the latest cybersecurity news, threats, and expert insights. Unsubscribe at any time.
+
+ 

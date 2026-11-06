@@ -1,0 +1,161 @@
+[Skip to content](#start-of-content)   
+ 
+ 
+
+## Navigation Menu
+
+[Sign in](/login?return_to=https%3A%2F%2Fgithub.com%2Fdeepseek-ai%2Fdsh-superagent-prototype)
+
+[Sign in](/login?return_to=https%3A%2F%2Fgithub.com%2Fdeepseek-ai%2Fdsh-superagent-prototype)
+
+[Sign up](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=deepseek-ai%2Fdsh-superagent-prototype)
+
+Appearance settings
+
+You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+{{ message }}
+
+## Repository navigation
+
+ 
+
+**[dsh-superagent-prototype](/deepseek-ai/dsh-superagent-prototype)**
+
+Public
+
+* [Notifications](/login?return_to=%2Fdeepseek-ai%2Fdsh-superagent-prototype)You must be signed in to change notification settings
+* [Fork478 (478)](/login?return_to=%2Fdeepseek-ai%2Fdsh-superagent-prototype)
+* [Star5k (5k)](/login?return_to=%2Fdeepseek-ai%2Fdsh-superagent-prototype)You must be signed in to star a repository
+
+## About
+
+Towards a More Autonomous Agent System
+
+### Resources
+
+[Readme](#readme-ov-file)
+
+[MIT license](#MIT-1-ov-file)
+
+[Activity](/deepseek-ai/dsh-superagent-prototype/activity)
+
+[Custom properties](/deepseek-ai/dsh-superagent-prototype/custom-properties)
+
+### Stars
+
+**5.0k** stars
+
+### Watchers
+
+**29** watching
+
+### Forks
+
+[**478** forks](/deepseek-ai/dsh-superagent-prototype/forks)
+
+[Report repository](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fdeepseek-ai%2Fdsh-superagent-prototype&report=deepseek-ai+%28user%29)
+
+[Branches](/deepseek-ai/dsh-superagent-prototype/branches)[Tags](/deepseek-ai/dsh-superagent-prototype/tags)
+
+Open more actions menu
+
+## Latest commit
+
+## History
+
+[1 Commit](/deepseek-ai/dsh-superagent-prototype/commits/main/)
+
+1 Commit
+
+## Folders and files
+
+| Name | Name | Last commit message | Last commit date |
+| --- | --- | --- | --- |
+| [docs](/deepseek-ai/dsh-superagent-prototype/tree/main/docs "docs") | [docs](/deepseek-ai/dsh-superagent-prototype/tree/main/docs "docs") |  |  |
+| [examples](/deepseek-ai/dsh-superagent-prototype/tree/main/examples "examples") | [examples](/deepseek-ai/dsh-superagent-prototype/tree/main/examples "examples") |  |  |
+| [locale](/deepseek-ai/dsh-superagent-prototype/tree/main/locale "locale") | [locale](/deepseek-ai/dsh-superagent-prototype/tree/main/locale "locale") |  |  |
+| [prompts](/deepseek-ai/dsh-superagent-prototype/tree/main/prompts "prompts") | [prompts](/deepseek-ai/dsh-superagent-prototype/tree/main/prompts "prompts") |  |  |
+| [scripts](/deepseek-ai/dsh-superagent-prototype/tree/main/scripts "scripts") | [scripts](/deepseek-ai/dsh-superagent-prototype/tree/main/scripts "scripts") |  |  |
+| [skills](/deepseek-ai/dsh-superagent-prototype/tree/main/skills "skills") | [skills](/deepseek-ai/dsh-superagent-prototype/tree/main/skills "skills") |  |  |
+| [src](/deepseek-ai/dsh-superagent-prototype/tree/main/src "src") | [src](/deepseek-ai/dsh-superagent-prototype/tree/main/src "src") |  |  |
+| [tests](/deepseek-ai/dsh-superagent-prototype/tree/main/tests "tests") | [tests](/deepseek-ai/dsh-superagent-prototype/tree/main/tests "tests") |  |  |
+| [.gitignore](/deepseek-ai/dsh-superagent-prototype/blob/main/.gitignore ".gitignore") | [.gitignore](/deepseek-ai/dsh-superagent-prototype/blob/main/.gitignore ".gitignore") |  |  |
+| [LICENSE](/deepseek-ai/dsh-superagent-prototype/blob/main/LICENSE "LICENSE") | [LICENSE](/deepseek-ai/dsh-superagent-prototype/blob/main/LICENSE "LICENSE") |  |  |
+| [README.md](/deepseek-ai/dsh-superagent-prototype/blob/main/README.md "README.md") | [README.md](/deepseek-ai/dsh-superagent-prototype/blob/main/README.md "README.md") |  |  |
+| [SETUP.md](/deepseek-ai/dsh-superagent-prototype/blob/main/SETUP.md "SETUP.md") | [SETUP.md](/deepseek-ai/dsh-superagent-prototype/blob/main/SETUP.md "SETUP.md") |  |  |
+| [cordis.patch.yml](/deepseek-ai/dsh-superagent-prototype/blob/main/cordis.patch.yml "cordis.patch.yml") | [cordis.patch.yml](/deepseek-ai/dsh-superagent-prototype/blob/main/cordis.patch.yml "cordis.patch.yml") |  |  |
+| [package.json](/deepseek-ai/dsh-superagent-prototype/blob/main/package.json "package.json") | [package.json](/deepseek-ai/dsh-superagent-prototype/blob/main/package.json "package.json") |  |  |
+| [pnpm-lock.yaml](/deepseek-ai/dsh-superagent-prototype/blob/main/pnpm-lock.yaml "pnpm-lock.yaml") | [pnpm-lock.yaml](/deepseek-ai/dsh-superagent-prototype/blob/main/pnpm-lock.yaml "pnpm-lock.yaml") |  |  |
+| [tsconfig.json](/deepseek-ai/dsh-superagent-prototype/blob/main/tsconfig.json "tsconfig.json") | [tsconfig.json](/deepseek-ai/dsh-superagent-prototype/blob/main/tsconfig.json "tsconfig.json") |  |  |
+| [tsdown.config.ts](/deepseek-ai/dsh-superagent-prototype/blob/main/tsdown.config.ts "tsdown.config.ts") | [tsdown.config.ts](/deepseek-ai/dsh-superagent-prototype/blob/main/tsdown.config.ts "tsdown.config.ts") |  |  |
+| [vitest.config.ts](/deepseek-ai/dsh-superagent-prototype/blob/main/vitest.config.ts "vitest.config.ts") | [vitest.config.ts](/deepseek-ai/dsh-superagent-prototype/blob/main/vitest.config.ts "vitest.config.ts") |  |  |
+|  |
+
+## Repository files navigation
+
+# dsh-superagent
+
+> **Research prototype for reference only, not an official DeepSeek product.** This code grew out of our team's day-to-day development work, with much of the engineering done by coding agents. Treat it as research code, not production-ready software. It may still contain bugs, and its coding style and engineering practices may be inconsistent. Review and adapt it before using it in your own environment.
+>
+> We have adapted it for publication, so it is not identical to our internal version or the implementation described in *Exploring Super-agent Design: Towards a More Autonomous Agent System*. Some designs discussed in the article are directions for future development and are not implemented in this prototype.
+
+dsh-superagent is a proactive coding agent for one GitHub repository, packaged as a bundle for [DeepSeek Harness](https://www.deepseek.com/en/harness/). It listens to GitHub and, optionally, Feishu. When someone allowed asks the agent for work, it opens a work item, works on it in its own agent session and directory, and answers in the original conversation, for example with a pull request. A web panel shows what needs a person.
+
+It is also a way of working with an agent: **take as little human attention as possible, and give as much value as possible.** An agent that can act for a whole team can also waste a whole team's attention, so it acts only when asked or when a rule the team wrote allows it, and speaks only when someone must act or can use a result. [docs/000-philosophy.md](/deepseek-ai/dsh-superagent-prototype/blob/main/docs/000-philosophy.md) explains the principle and what it asks of the operator.
+
+## Setup
+
+Setup has many steps, so an agent does it with you. Ask your coding agent:
+
+> Read SETUP.md in this repository and set up dsh-superagent with me.
+
+It asks one short question at a time, shows the full plan once, and then installs and configures everything. [SETUP.md](/deepseek-ai/dsh-superagent-prototype/blob/main/SETUP.md) is what it follows.
+
+Read the numbered documents in order; each builds only on the ones before it.
+
+* [000 Philosophy](/deepseek-ai/dsh-superagent-prototype/blob/main/docs/000-philosophy.md)
+* [001 Domain model](/deepseek-ai/dsh-superagent-prototype/blob/main/docs/001-domain.md)
+* [002 Authorization](/deepseek-ai/dsh-superagent-prototype/blob/main/docs/002-authorization.md)
+* [003 Execution](/deepseek-ai/dsh-superagent-prototype/blob/main/docs/003-execution.md)
+* [004 Prompts](/deepseek-ai/dsh-superagent-prototype/blob/main/docs/004-prompts.md)
+* [005 Panel](/deepseek-ai/dsh-superagent-prototype/blob/main/docs/005-panel.md)
+* [006 Deployment](/deepseek-ai/dsh-superagent-prototype/blob/main/docs/006-deployment.md): manual setup, configuration, upgrades and troubleshooting
+* [007 Architecture](/deepseek-ai/dsh-superagent-prototype/blob/main/docs/007-architecture.md)
+* [008 Cookbook](/deepseek-ai/dsh-superagent-prototype/blob/main/docs/008-cookbook.md): adding a Source
+
+`pnpm check` runs the typecheck, the tests and the build.
+
+## About
+
+Towards a More Autonomous Agent System
+
+### Resources
+
+[Readme](#readme-ov-file)
+
+[MIT license](#MIT-1-ov-file)
+
+[Activity](/deepseek-ai/dsh-superagent-prototype/activity)
+
+[Custom properties](/deepseek-ai/dsh-superagent-prototype/custom-properties)
+
+### Stars
+
+**5.0k** stars
+
+### Watchers
+
+**29** watching
+
+### Forks
+
+[**478** forks](/deepseek-ai/dsh-superagent-prototype/forks)
+
+[Report repository](/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fdeepseek-ai%2Fdsh-superagent-prototype&report=deepseek-ai+%28user%29)
+
+## Used by
+
+You can’t perform that action at this time.
+
+ 

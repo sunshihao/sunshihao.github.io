@@ -1,0 +1,32 @@
+# Samsung Orders Equipment For 6,000 More 2nm Wafers A Month At Its Taylor, Texas Fab, Putting 20,000 Within Reach By The Second Half Of 2027
+[](https://cdn.wccftech.com/wp-content/uploads/2026/05/Samsung-3nm-GAA.jpg)
+Semiconductor manufacturing giant Samsung is planning to expand its 2-nanometer production capacity at the Taylor, Texas plant to 6,000 wafers per month.
+
+...
+
+## Samsung Starts Placing Orders For Additional Equipment To Scale 2-nanometer Production At Its Taylor, Texas Site
+Both Samsung and [TSMC's 2-nanometer products](https://wccftech.com/tsmc-could-hit-its-2027-2nm-capacity-goals-a-year-early-as-nvidia-amd-and-apple-pile-on-orders-for-latest-chipmaking-tech/) rely on different transistor designs from each other and from their predecessors.
+
+...
+
+[FinFET vs GAAFET vs MBCFET](https://cdn.wccftech.com/wp-content/uploads/2020/09/FINFET-VS-GAAFET-VS-MBCFET.png) Samsung Foundry's diagram showing the evolution of a transistor from FinFET to GAAFET and then MBCFET.
+
+...
+
+Now, a [report](https://zdnet.co.kr/view/?no=20261023110604) from ZDNet Korea suggests that Samsung is interested in expanding its 2-nanometer production capacity at the Taylor plant. According to the details, the firm has placed an equipment order that will enable it to produce 6,000 wafers per month using the advanced chip production technology at the site.
+The facility is expected to become operational by the end of this year, and the report adds that by the second half of 2027, the Taylor site should be capable of producing 20,000 wafers per month. The latest order, for the 6,000 2-nanometer wafers, builds on Samsung's earlier procurement, which had aimed at producing 10,000 wafers per month.
+
+...
+
+Follow [Wccftech on Google](https://profile.google.com/cp/Cg0vZy8xMWM3NDB2MmIyGgA) to get more of our news coverage in your feeds.
+
+...
+
+### Subscribe to get an everyday digest of the latest technology news in your inbox
+* [](https://x.com/wccftech)
+* [](https://www.facebook.com/wccftech)
+* [](https://www.instagram.com/wccftech)
+* [](https://www.threads.com/@wccftech)
+* [](https://www.youtube.com/wccftechtv)
+✕
+[Button](https://profile.google.com/cp/Cg0vZy8xMWM3NDB2MmIyGgA)

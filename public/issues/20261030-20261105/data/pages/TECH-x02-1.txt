@@ -1,0 +1,105 @@
+[IBM Newsroom](index.php)
+
+
+
+# All press releases
+
+# Oak Ridge National Lab, IBM, and AMD Launch New Co-Design Platform for Quantum Error Correction
+
+New initiative combines U.S. leadership in quantum and high-performance computing to align with the Department of Energy’s Quantum Genesis Mission to accelerate a path toward a scientifically relevant quantum computer by 2028
+
+Nov 5, 2026
+
+![](/image/IBM-ORNL-AMD+QEC+Ribbon+Cutting-banner.jpg)
+
+**POUGHKEEPSIE, N.Y.** -- IBM (NYSE: [IBM](http://www.ibm.com/investor)), the U.S. Department of Energy-funded Quantum Science Center (QSC) at Oak Ridge National Laboratory (ORNL), and AMD (NASDAQ: AMD) today unveiled a new co-design platform for quantum error correction, integrating quantum and high-performance computing.
+
+Over the last several years, researchers have made significant advances in the field of quantum error correction, including early demonstrations of protecting quantum information from noise, achieving [quantum advantage](https://newsroom.ibm.com/2026-07-30-ibm-and-the-university-of-chicago-demonstrate-quantum-advantage,-establishing-trusted-quantum-computation-on-logical-circuits) over leading classical methods using techniques with guaranteed correctness, and showing that quantum computers integrated with classical computers can run industry-relevant problems. The research challenge now is to learn how to scale these advances using more classical computing.
+
+To address this challenge, IBM has launched a co-design platform for quantum error correction with the Quantum Science Center at Oak Ridge National Laboratory and AMD as its initial partners. The first deployment co-locates IBM’s quantum computers, including its most powerful quantum processor, the [120-qubit IBM Quantum Nighthawk](https://www.ibm.com/quantum/blog/nighthawk-r2), with ORNL’s Umbra High-Performance Computing (HPC) system, powered by AMD Instinct™ MI355X GPUs and 5th Gen AMD EPYC™ CPUs. The AMD compute provides the classical computing foundation for research into quantum error correction, decoding optimization, and software orchestration.
+
+This co-design platform will allow researchers to evaluate the tight integration of classical and quantum computing to fuel momentum in quantum error correction research. Such work in quantum error correction is a key component in the Department of Energy’s (DOE) Quantum Genesis Mission, which through its recently announced [Q Competition](https://www.energy.gov/science/articles/doe-launches-competition-accelerate-development-worlds-first-fault-tolerant) targets 100 logical qubits running 100,000 hard operations by late 2028. Current progress by IBM in this field has [demonstrated](https://arxiv.org/abs/2607.25941) experiments with up to 70 logical qubits and 438 hard operations, which is active on the [Quantum Advantage Tracker](https://quantum-advantage-tracker.github.io/). Closing that gap means the field needs to achieve a roughly 230-fold increase in hard operation count.
+
+“Solving the challenges of quantum error correction is essential to making quantum computing a practical tool for scientific discovery, which is a priority for Oak Ridge National Laboratory,” said **Travis Humble, director of the Quantum Science Center**. “ORNL’s strength in high-performance computing, combined with the expertise of our QSC partners – like IBM and AMD – creates an opportunity to push the boundaries of what is possible. With Umbra, we will now test new ideas, evaluate approaches at scale, and build the foundation for more reliable quantum computers.”
+
+“The question is no longer if error correction will work on quantum hardware,” said **Jay Gambetta, IBM Fellow and Director of IBM Research**. “Today, the question is how to accelerate and optimize error correction to build systems that scientists can use to tackle meaningful problems. This new co-design platform for quantum error correction allows us to evaluate different approaches and determine the architectures, software, and workflows that will scale.”
+
+“The next era of computing will bring the new quantum paradigm together with decades of innovation across the classical hardware and software ecosystem,” said **Mark Papermaster, executive vice president and chief technology officer, AMD**. “Together with IBM and Oak Ridge National Laboratory, we are advancing a holistic approach that integrates quantum processors, high-performance computing and AI. This co-design platform is an important step toward building the scalable, efficient computing infrastructure needed to make fault-tolerant quantum computing a reality.”
+
+IBM Nighthawk’s square lattice connectivity, industry-leading speed in [maximum circuits per second](https://www.ibm.com/quantum/blog/nighthawk-r2), and real-time pulse control lets researchers test error correction techniques. It allows teams to compare what each method requires in qubits, time, samples, and classical resources to learn where GPU accelerators, such as AMD's nodes in the Umbra system, can help the most. The co-design platform will connect with the Oak Ridge Leadership Computing Facility (OLCF) in Oak Ridge, Tennessee, creating a pathway to explore quantum as a part of a broader AI and scientific computing infrastructure. This will help the teams co-design how quantum, AI, and high-performance computing can evolve together instead of in isolation.
+
+IBM’s Quantum System API gives the researchers deep pulse-level capabilities to quantum computers. On IBM quantum hardware, researchers can measure qubits mid-calculation and act on the results in real time, set the exact timing of the signals that protect qubits from noise, see exactly what the hardware ran, and work directly with raw measurement signals. Error correction research and discovering the next generation of approaches requires these sophisticated capabilities working together on systems large enough to test real codes.
+
+Work conducted with the co-design platform aligns with the Quantum Genesis Mission by developing error correction methods that accelerate progress toward a scientifically relevant quantum computer by 2028. Reaching that goal requires workflows that combine quantum processors with error correction techniques that leverage high-performance classical computing. These workflows include concatenated codes, space-time codes, algorithm-aware decoders, hardware-aware circuit optimization and compilation, and software orchestration all integrated in one stack.
+
+The new co-design platform for quantum error correction builds on IBM’s existing collaborations with ORNL and AMD. IBM and ORNL already work together through the Quantum Science Center, the ORNL-led DOE National Quantum Information Science Research Center established under the National Quantum Initiative. Earlier this year, IBM and ORNL unveiled results showing how workloads running on both quantum computers and the Frontier supercomputer [can simulate real magnetic materials](https://newsroom.ibm.com/2026-03-26-ibm-quantum-computer-accurately-simulates-real-magnetic-materials,-reproducing-national-laboratory-data) and [calculate molecular configurations](https://newsroom.ibm.com/2026-07-06-oak-ridge-national-lab,-cleveland-clinic,-and-ibm-achieve-first-known-computations-of-fusion-materials-on-a-quantum-computer) of a promising material for producing fusion fuel. Separately with AMD, IBM is using AMD GPUs to [accelerate the classical diagonalization step](https://research.ibm.com/blog/accelerating-qpus-with-gpus) in sample-based quantum diagonalization (SQD), a key quantum-centric supercomputing workflow for current quantum computers. Last year, the two companies also [demonstrated an algorithm](https://arxiv.org/abs/2506.01779) that efficiently decodes quantum errors on AMD chips.
+
+This co-design platform lets IBM, ORNL, and AMD start leading that integration. The effort will explore how future generations of AMD compute, networking, and open software can evolve with quantum computers. What the teams learn about error correction and HPC workflows will serve as a steppingstone for the field, which may inform IBM’s path to IBM Quantum Starling, IBM’s first fault-tolerant quantum computer, and future SI (Super Intelligence) + HPC supercomputers — and DOE researchers will be ready to put them to work on day one.
+
+**About IBM**
+
+IBM is a leading global hybrid cloud and AI, and business services provider, helping clients in more than 175 countries capitalize on insights from their data, streamline business processes, reduce costs and gain the competitive edge in their industries. Thousands of governments and corporate entities in critical infrastructure areas such as financial services, telecommunications and healthcare rely on IBM's hybrid cloud platform and Red Hat OpenShift to affect their digital transformations quickly, efficiently and securely. IBM's breakthrough innovations in AI, quantum computing, industry-specific cloud solutions and business services deliver open and flexible options to our clients. All of this is backed by IBM's legendary commitment to trust, transparency, responsibility, inclusivity and service.
+
+For more information, visit [https://research.ibm.com](https://research.ibm.com/).
+
+**About AMD**
+
+AMD (NASDAQ: AMD) drives innovation in high-performance and AI computing to solve the world’s most important challenges. Today, AMD technology powers billions of experiences across cloud and AI infrastructure, embedded systems, AI PCs and gaming. With a broad portfolio of AI-optimized CPUs, GPUs, networking and software, AMD delivers full-stack AI solutions that provide the performance and scalability needed for a new era of intelligent computing. Learn more at [www.amd.com](http://www.amd.com/ "Opens in a new window").
+
+AMD, EPYC, Instinct and the AMD Arrow logo and the combination thereof are trademarks of Advanced Micro Devices, Inc. Other names are for informational purposes only and may be trademarks of their respective owners.
+
+**About Oak Ridge National Lab**
+
+The Oak Ridge National Laboratory is supported by the Office of Science of the U.S. Department of Energy. The Office of Science is the single largest supporter of basic research in the physical sciences in the United States and is working to address some of the most pressing challenges of our time.  For more information, please visit science.energy.gov.  
+   
+   
+ **Media contacts:**  
+   
+ Brittany Forgione  
+ IBM  
+ [Brittany.Forgione@ibm.com](mailto:Brittany.Forgione@ibm.com)
+
+Erin Angelini  
+ IBM  
+ [edlehr@us.ibm.com](mailto:edlehr@us.ibm.com)
+
+* [![Download From left to right: Travis Humble, Director of the Quantum Science Center, Oak Ridge National Laboratory; Gina Tourassi, Associate Laboratory Director for Computing and Computational Sciences, Oak Ridge National Laboratory; Stephen Streiffer, Director of Oak Ridge National Laboratory; Jay Gambetta, Director of IBM Research and IBM Fellow; Mark Papermaster, CTO and Executive Vice President, AMD; Ralph Wittig,
+  Corporate Fellow and CVP, Head of Research and Advanced Development, AMD; Jerry Chow, IBM CTO of Quantum-Centric Supercomputing and IBM Fellow.](/image/IBM-ORNL-AMD+Co-design+Platform+for+QEC+Ribbon+Cutting-2.jpg)](/image/IBM-ORNL-AMD+Co-design+Platform+for+QEC+Ribbon+Cutting-2.jpg)
+
+  From left to right: Travis Humble, Director of the Quantum Science Center, Oak Ridge National Laboratory; Gina Tourassi, Associate Laboratory Director for Computing and Computational Sciences, Oak Ridge National Laboratory; Stephen Streiffer, Director of Oak Ridge National Laboratory; Jay Gambetta, Director of IBM Research and IBM Fellow; Mark Papermaster, CTO and Executive Vice President, AMD; Ralph Wittig, Corporate Fellow and CVP, Head of Research and Advanced Development, AMD; Jerry Chow, IBM CTO of Quantum-Centric Supercomputing and IBM Fellow.
+* [![Download IBM, ORNL, and AMD's new co-design platform for quantum error correction co-locates IBM Quantum computers with ORNL's Umbra High-Performance Computing system (right, nearest black rack). Umbra is composed of AMD Instinct MI355X GPUs and AMD Turin CPUs. (Credit: IBM)](/image/2026-11-IBM-ORNL-AMD-co-design-platform-QPUs-GPUs-CPUs.jpg)](/image/2026-11-IBM-ORNL-AMD-co-design-platform-QPUs-GPUs-CPUs.jpg)
+
+  IBM, ORNL, and AMD's new co-design platform for quantum error correction co-locates IBM Quantum computers with ORNL's Umbra High-Performance Computing system (right, nearest black rack). Umbra is composed of AMD Instinct MI355X GPUs and AMD Turin CPUs. (Credit: IBM)
+
+[Subscribe to email](subscribe)
+
+#### Release Categories
+
+* [Research and innovation](https://newsroom.ibm.com/press-releases-research-and-innovation)
+
+more articles
+
+* Research and innovation
+
+| Nov 5, 2026
+
+[Oak Ridge National Lab, IBM, and AMD Launch New Co-Design Platform for Quantum Error Correction](https://newsroom.ibm.com/2026-11-05-oak-ridge-national-lab,-ibm,-and-amd-launch-new-co-design-platform-for-quantum-error-correction)
+
+* Artificial intelligence
+
+| Nov 4, 2026
+
+[Confluent Introduces Its Streamhouse Architecture to Power AI With Real-Time Business Context](https://newsroom.ibm.com/2026-11-04-confluent-introduces-its-streamhouse-architecture-to-power-ai-with-real-time-business-context)
+
+* Artificial intelligence
+* TechXchange 2026
+
+| Oct 28, 2026
+
+[Expanding enterprise data engineering with Apache Flink® stream processing](https://www.ibm.com/new/announcements/expanding-enterprise-data-engineering-with-apache-flink-stream-processing)
+
+[Subscribe to email](subscribe)
+
+(opens in a new window)
+
+ 

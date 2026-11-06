@@ -29,6 +29,11 @@ seed(path.join(SITE_SRC, 'assets/js'), path.join(PUBLIC, 'assets/js'));
 seed(path.join(SITE_SRC, 'assets/data/site.json'), path.join(PUBLIC, 'assets/data/site.json'));
 seed(path.join(SITE_SRC, 'assets/img/brand'), path.join(PUBLIC, 'assets/img/brand'));
 
+if (!fs.existsSync(BRIEFS)) {
+  console.log(`没有 ${BRIEFS}（CI 环境），沿用仓库里已提交的 src/data 与 public/`);
+  process.exit(0);
+}
+
 const issues = [];
 for (const dir of fs.readdirSync(BRIEFS)) {
   const src = path.join(BRIEFS, dir);

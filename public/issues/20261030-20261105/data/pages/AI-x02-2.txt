@@ -1,0 +1,38 @@
+# Datacenters were on the ballot. US voters rejected them | Datacenters – US | The Guardian
+URL: https://www.theguardian.com/us-news/2026/nov/04/datacenters-midterm-elections
+Published: 2026-11-05
+Author: Johana Bhuiyan
+
+Datacenters were on the ballot. US voters rejected them | Datacenters – US | The Guardian
+
+Meta’s Prometheus AI datacenter campus and supercluster project in New Albany, Ohio. Photograph: Jon Cherry/Getty Images
+
+View image in fullscreen
+
+Meta’s Prometheus AI datacenter campus and supercluster project in New Albany, Ohio. Photograph: Jon Cherry/Getty Images
+
+# Datacenters were on the ballot. US voters rejected them
+
+Voters approved nearly every datacenter moratorium that was on the ballot, dozens in total in Tuesday’s elections
+
+Johana Bhuiyan
+
+Wed 4 Nov 2026 20.30 EST
+
+Last modified on Thu 5 Nov 2026 19.03 EST
+
+There were three big losers in Tuesday’s midterm elections in the US: Donald Trump, Elon Musk and datacenters.
+
+Datacenters, the facilities full of semiconductor chips that power artificial intelligence and a host of other online products, were on the ballot in elections in at least 40 jurisdictions across 10 states. Voters responded with a strong rebuke of the giant buildings, which have has become a symbol of the tech industry and AI.
+
+In Ohio alone, at least 14 municipalities passed bans or restrictions on datacenter development, including in Sunbury, where Amazon has proposed a $2bn datacenter project. In Maine, eight municipalities passed temporary datacenter moratoriums. In Emporia, Kansas, where a 1,000-acre gigawatt-scale datacenter was recently proposed, a ban on high-impact datacenters was approved by voters.
+
+Voters approved nearly every datacenter moratorium that was on the ballot, dozens in total, with one notable exception: Hardwood, North Dakota. The small city of a population of less than 1,000 people voted down a bill that would impose restrictions on datacenter development.
+
+Where datacenters were not explicitly on the ballot, officials who have pushed back against their development were elected. In Texas, Democrat Gina Hinojosa, who secured a historic victory as governor on Tuesday night over her Republican opponent, has promised to impose moratoriums on their construction. She has pledged to implement greater restrictions on and community input into whether datacenters can be built. Towards the end of his tenure, Greg Abbott, her Republican opponent, had also tried to capitalize on anti-datacenter sentiment, demanding an end to electricity subsidies for them. He reversed his previous stance that had welcomed datacenters to the state.
+
+Keisha Lance Bottoms, who became governor of Georgia, and Amy Acton, the newly elected governor of Ohio, have also pledged to implement moratoria on the construction of large datacenters.
+
+Anti-datacenter sentiment has grown in the last few months has become a bipartisan issue. In May, the Florida governor, Ron DeSantis, signed a bill imposing strict regulations on large-scale datacenters. Still, last night’s election solidified the overwhelming opposition to these centers of compute that have come to serve as a stand-in for the ultra wealthy and resource extraction by the AI industry.
+
+“

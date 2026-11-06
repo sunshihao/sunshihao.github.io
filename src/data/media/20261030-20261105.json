@@ -1,0 +1,84 @@
+{
+ "issue": "20261030-20261105",
+ "issue_no": 2,
+ "date": "2026-11-06",
+ "stats": "60 条 · 6 类 · T1/T2 93%",
+ "summary": "民主党拿下两院、油价两天跌掉一成、沪指在政策底上反弹——这一周，政治重新变成了定价的主语。",
+ "storage": "assets/img/20261030-20261105/；命名规则 <条目id小写>.jpg|svg，hero 为 hero.jpg；每张图在此登记 credit / link / caption；HTML 内一律相对路径，禁止热链远程图片。",
+ "hero": {
+  "src": "assets/img/20261030-20261105/hero.jpg",
+  "credit": "CNBC / Getty Images",
+  "link": "https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html",
+  "caption": "停火预期升温，WTI 十二月合约结算 88.12 美元/桶，单日跌 8.29%"
+ },
+ "gallery": [
+  {
+   "src": "assets/img/20261030-20261105/card-politics.svg",
+   "credit": "见闻周刊自产 SVG",
+   "link": "https://apnews.com/article/midterm-election-house-senate-democrats-republicans-trump-f126e12e05b579a327b98481c0ae2226",
+   "caption": "两院门槛：51 席与 218 席同时越过"
+  },
+  {
+   "src": "assets/img/20261030-20261105/card-fm.svg",
+   "credit": "见闻周刊自产 SVG",
+   "link": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+   "caption": "道指单日 1,569.40 点，收 53,356.12"
+  },
+  {
+   "src": "assets/img/20261030-20261105/card-tech.svg",
+   "credit": "见闻周刊自产 SVG",
+   "link": "https://www.reuters.com/legal/transactional/marvell-buy-lumentum-115-billion-deal-ai-data-center-bet-2026-11-02",
+   "caption": "Marvell 以 1,150 亿美元收购 Lumentum"
+  },
+  {
+   "src": "assets/img/20261030-20261105/card-ai.svg",
+   "credit": "见闻周刊自产 SVG",
+   "link": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm",
+   "caption": "Anthropic 算力与租赁承诺 8,954 亿美元"
+  }
+ ],
+ "sections": {
+  "政治": {
+   "type": "numcard",
+   "big": "51 / 218",
+   "unit": "",
+   "label": "两院门槛同时越过",
+   "note": "参议院 51 席、众议院 218 席；翻转北卡、南卡、堪萨斯、得州、艾奥瓦"
+  },
+  "财经": {
+   "type": "numcard",
+   "big": "1,569.40",
+   "unit": "点",
+   "label": "道指单日涨幅，2025 年 4 月以来最佳",
+   "note": "+3.03%，收 53,356.12；标普 +1.58%，纳指 +1.44%"
+  },
+  "科技": {
+   "type": "numcard",
+   "big": "1,150",
+   "unit": "亿美元",
+   "label": "Marvell 全股票收购 Lumentum",
+   "note": "股权价值 1,025 亿美元，溢价 23.9%"
+  },
+  "AI": {
+   "type": "numcard",
+   "big": "8,954",
+   "unit": "亿美元",
+   "label": "Anthropic 已签采购承诺与租赁",
+   "note": "其中 4,475 亿美元预计 2030 年底前发生"
+  },
+  "国内股市": {
+   "type": "photo",
+   "src": "assets/img/20261030-20261105/card-cn.svg",
+   "credit": "见闻周刊自产 SVG",
+   "link": "https://english.news.cn/20261104/30f81d49652c4a9eb3b9e5cbb9b71a40/c.html",
+   "caption": "沪指收 3,686.17 点，科创 50 单日涨 9.92%"
+  },
+  "期货与商品": {
+   "type": "numcard",
+   "big": "321",
+   "unit": "吨",
+   "label": "三季度全球央行净购金 · 同比 +42%",
+   "note": "已报告 120 吨中，中国 63 吨、波兰 40 吨"
+  }
+ }
+}

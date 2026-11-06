@@ -1,0 +1,215 @@
+[Discord](https://pxl.to/ivxz41s "Discord")     [Linkedin](https://www.linkedin.com/company/marktechpost/?viewAsMember=true "Linkedin")     [Reddit](https://www.reddit.com/r/machinelearningnews/ "Reddit")     [X](https://twitter.com/Marktechpost "X")
+
+* [Home](https://www.marktechpost.com/)
+* [Open Source/Weights](https://www.marktechpost.com/category/technology/open-source/)
+* [AI Agents](https://www.marktechpost.com/category/editors-pick/ai-agents/)
+* [Tutorials](https://www.marktechpost.com/category/tutorials/)
+* [Voice AI](https://www.marktechpost.com/category/technology/artificial-intelligence/voice-ai/)
+* [Robotics](https://www.marktechpost.com/category/robotics/)
+* [Newsletter](https://www.aidevsignals.com/)
+* [Promote with Us](https://promotions.marktechpost.com/)
+
+[![Logo](https://www.marktechpost.com/wp-content/uploads/2025/09/272x90-300x99.png)NewsHub](https://www.marktechpost.com/)
+
+[![Logo](https://www.marktechpost.com/wp-content/uploads/2025/09/272x90-300x99.png)NewsHub](https://www.marktechpost.com/)
+
+[Premium Content](# "Premium Content")
+
+[Read our exclusive articles](# "Read our exclusive articles")
+
+[X](# "X")
+
+* [Home](https://www.marktechpost.com/)
+* [Open Source/Weights](https://www.marktechpost.com/category/technology/open-source/)
+* [AI Agents](https://www.marktechpost.com/category/editors-pick/ai-agents/)
+* [Tutorials](https://www.marktechpost.com/category/tutorials/)
+* [Voice AI](https://www.marktechpost.com/category/technology/artificial-intelligence/voice-ai/)
+* [Robotics](https://www.marktechpost.com/category/robotics/)
+* [Newsletter](https://www.aidevsignals.com/)
+* [Promote with Us](https://promotions.marktechpost.com/)
+
+[![Logo](https://www.marktechpost.com/wp-content/uploads/2025/09/272x90-300x99.png)MARKTECHPOST](https://www.marktechpost.com/)
+
+* [Home](https://www.marktechpost.com/)
+* [Open Source/Weights](https://www.marktechpost.com/category/technology/open-source/)
+* [AI Agents](https://www.marktechpost.com/category/editors-pick/ai-agents/)
+* [Tutorials](https://www.marktechpost.com/category/tutorials/)
+* [Voice AI](https://www.marktechpost.com/category/technology/artificial-intelligence/voice-ai/)
+* [Robotics](https://www.marktechpost.com/category/robotics/)
+* [Newsletter](https://www.aidevsignals.com/)
+* [Promote with Us](https://promotions.marktechpost.com/)
+
+[Home](https://www.marktechpost.com/) [Editors Pick](https://www.marktechpost.com/category/editors-pick/ "View all posts in Editors Pick") [Agentic AI](https://www.marktechpost.com/category/editors-pick/agentic-ai/ "View all posts in Agentic AI") DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent
+
+* [Editors Pick](https://www.marktechpost.com/category/editors-pick/)
+* [Agentic AI](https://www.marktechpost.com/category/editors-pick/agentic-ai/)
+* [AI Agents](https://www.marktechpost.com/category/editors-pick/ai-agents/)
+* [Artificial Intelligence](https://www.marktechpost.com/category/technology/artificial-intelligence/)
+* [AI Infrastructure](https://www.marktechpost.com/category/technology/artificial-intelligence/ai-infrastructure/)
+* [Technology](https://www.marktechpost.com/category/technology/)
+* [AI Shorts](https://www.marktechpost.com/category/technology/ai-shorts/)
+* [Applications](https://www.marktechpost.com/category/technology/artificial-intelligence/applications/)
+* [For Devs](https://www.marktechpost.com/category/editors-pick/for-devs/)
+* [Harness](https://www.marktechpost.com/category/editors-pick/harness/)
+* [Language Model](https://www.marktechpost.com/category/technology/artificial-intelligence/language-model/)
+* [New Releases](https://www.marktechpost.com/category/editors-pick/new-releases/)
+* [Open Source](https://www.marktechpost.com/category/technology/open-source/)
+* [Tech News](https://www.marktechpost.com/category/tech-news/)
+* [Python](https://www.marktechpost.com/category/tech-news/python/)
+* [Software Engineering](https://www.marktechpost.com/category/editors-pick/software-engineering/)
+* [Staff](https://www.marktechpost.com/category/editors-pick/staff/)
+
+# DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent
+
+By
+
+[Asif Razzaq](https://www.marktechpost.com/author/6flvq/)
+
+-
+
+[![](https://www.gstatic.com/images/branding/googleg/1x/googleg_standard_color_128dp.png)Add as a preferredsource on Google](https://www.google.com/preferences/source?q=marktechpost.com)
+
+The DeepSeek Harness team just released [**dsh-superagent**](https://github.com/deepseek-ai/dsh-superagent-prototype), an MIT-licensed research prototype. DeepSeek dsh-superagent is a proactive coding agent for one GitHub repository. It is packaged as a bundle for [DeepSeek Harness](https://www.deepseek.com/en/harness/). It listens to GitHub and, optionally, Feishu. It turns allowed requests into parallel work items, each in its own agent session. The release shipped alongside a design post, *[Exploring Super-agent Design: Towards a More Autonomous Agent System](https://www.yicai.com/news/103419784.html)*.
+
+## **TL;DaR**
+
+* **What is it?:** A TypeScript bundle, v0.1.0, released as 1 commit under MIT. It uses whatever model the Harness profile is set to.
+* **Runs on:** Your own machine, as a dedicated DeepSeek Harness profile. Needs Node.js 22.19+ or 24+, git 2.32+, Python 3.8+, tmux and GitHub CLI 2.48+.
+* **Performance:** In DeepSeek’s simulation, it finished tasks far faster under a noisy message stream than a single-session agent.
+* **Best:** p95 task completion of 15.7 minutes vs 29.5 minutes for the single-session baseline (about 1.9x faster).
+* **Worst:** Tested only on synthetic messages and simulated tools. Real coding quality was not measured.
+
+## **What is DeepSeek dsh-superagent?**
+
+It is a GitHub agent that waits to be asked. When an allowed person addresses it, it opens a work item, called a Ticket. Each Ticket runs in its own session and directory. Results return to the original conversation, often as a pull request. A local web panel lists only what needs a person.
+
+[***TEXT******TABLE******LAYOUT***Is your PDF parser *actually getting it right?*`omni_parse_bench` · scores text, tables & layout · open sourceStar on GitHub**→**Sponsored](https://aicampaign.live/omnipar)
+
+The [README](https://github.com/deepseek-ai/dsh-superagent-prototype) page states the core rule plainly: take as little human attention as possible, and give as much value as possible. The [philosophy doc](https://github.com/deepseek-ai/dsh-superagent-prototype/blob/main/docs/000-philosophy.md) applies it to behavior. The agent confirms once, stays quiet while working, and writes again only with a result, a question or a failure.
+
+## **Why did DeepSeek build a Super-agent?**
+
+DeepSeek team argues that mainstream agents treat 1 session as the basic unit. According to the report, as [reported by ifeng](https://tech.ifeng.com/c/8xg9tbvWnnf), a person can actively follow only 3 to 5 sessions at once. Human attention, not model capability, becomes the bottleneck for multitasking.
+
+## **How does the Router-Worker architecture work?**
+
+The research team describes 2 layers. A long-running Router handles interaction and dispatch. Isolated Worker sessions do the actual work.
+
+**In the prototype, that flow is concrete, per the [domain model](https://github.com/deepseek-ai/dsh-superagent-prototype/blob/main/docs/001-domain.md):**
+
+* **Source → Trigger:** GitHub or Feishu produces events.
+* **Eval:** decides whether a batch of Triggers asks for new work.
+* **Ticket:** a unit of authorized work, with an immutable Mandate stating why it may proceed.
+* **Subscription:** later comments on a pull request reach the right Worker without a fresh mention.
+
+The main session runs the `dsh-superagent-router` preset with a smaller tool set. Each Worker runs `dsh-superagent-worker`. Shell commands move to the background after 5 seconds, so Workers keep receiving messages, per the [execution doc](https://github.com/deepseek-ai/dsh-superagent-prototype/blob/main/docs/003-execution.md).
+
+Proactive work is gated. The [authorization doc](https://github.com/deepseek-ai/dsh-superagent-prototype/blob/main/docs/002-authorization.md) defines 3 accept modes: `off`, `observe` (default) and `auto`. In `observe`, the agent only records what it would have accepted.
+
+The research team also lists ideas beyond the prototype: an external Watchdog, storage and compute separation, and an asynchronous ReAct loop.
+
+## **How does it perform?**
+
+DeepSeek tested with simulated group chat and GitHub CI streams. Each run had about 300 messages, of which about 20 were real work requests. Each scheme ran 5 times, per [ifeng’s account of the report](https://tech.ifeng.com/c/8xg9tbvWnnf).
+
+* **Super-agent:** p50 of 12.4 minutes, p95 of 15.7 minutes.
+* **Single session plus subagents, neutral prompt:** p95 of 29.5 minutes. No p50 was given.
+* **Why:** under the neutral prompt, the baseline [called a subagent 0 times in 5 runs](https://www.53ai.com/news/LargeLanguageModel/2026103145736.html).
+* **Router load:** as arrivals rose from about 1 to 40 per minute, batch size grew from 1.0 to 2.8. Per-request latency rose from 2.5 to 3.9 seconds.
+
+An ablation removed direct event pass-through. Router decisions rose about 30%, and cache-read tokens rose about 37%, [from 23.23M to 31.77M](https://chinamodelapi.com/news/deepseek-superagent-open-source). All figures are self-reported and come from secondary reports of the report.
+
+## **How does dsh-superagent compare with other GitHub coding agents?**
+
+| Feature | DeepSeek dsh-superagent | [GitHub Copilot cloud agent](https://docs.github.com/en/copilot/using-github-copilot/coding-agent/using-copilot-to-work-on-an-issue) | [Claude Code Action](https://github.com/anthropics/claude-code-action) | [OpenAI Codex](https://openai.com/index/codex-now-generally-available) |
+| --- | --- | --- | --- | --- |
+| Trigger | Mention by allowed person; written rules | Issue assignment, chat, API, Slack and more | `@claude` mention, issue assignment, workflow prompt | `@Codex` in Slack; cloud tasks |
+| Unasked (proactive) work | Yes, rule-gated; `observe` by default | Yes, via automations | Yes, via workflow events | Not disclosed |
+| Parallel isolated sessions | Yes, 1 per Ticket | Not disclosed | Not disclosed | Not disclosed |
+| Where it runs | Your machine (Harness profile) | GitHub, in the background | Your GitHub Actions runner | Codex cloud |
+| Chat source | Feishu (optional) | Slack, Teams | Not disclosed | Slack |
+| License | MIT | Not disclosed | MIT | CLI agent open source |
+| Availability | Research prototype | All paid Copilot plans | Your API key or cloud provider | ChatGPT Plus and above |
+
+## **Key Takeaways**
+
+* DeepSeek released dsh-superagent, an MIT-licensed proactive coding agent prototype.
+* A Router dispatches work; isolated Worker sessions execute each Ticket.
+* Simulated p95 task time: 15.7 minutes vs 29.5 minutes for a single session.
+* Proactive work stays in `observe` mode until a team switches it on.
+* It runs with full OS-user access, so isolate it before use.
+
+---
+
+Check out the [**GitHub repo**](https://github.com/deepseek-ai/dsh-superagent-prototype), the [**setup guide**](https://github.com/deepseek-ai/dsh-superagent-prototype/blob/main/SETUP.md) and the [**design docs**](https://github.com/deepseek-ai/dsh-superagent-prototype/tree/main/docs). Also, feel free to follow us on **[Twitter](https://x.com/intent/follow?screen_name=marktechpost)** and don’t forget to join our **[150k+ML SubReddit](https://www.reddit.com/r/machinelearningnews/)** and Subscribe to **[our Newsletter](https://magic.beehiiv.com/v1/f5e63dd4-5653-4f09-83e2-321a8b1ba526?email={{email}})**. Wait! are you on telegram? **[now you can join us on telegram as well.](https://t.me/machinelearningresearchnews)**
+
+Need to partner with us for promoting your GitHub Repo OR Hugging Face Page OR Product Release OR Webinar etc.? **[Connect with us](https://promotions.marktechpost.com/)**
+
+[![](https://www.marktechpost.com/wp-content/uploads/2019/06/Screen-Shot-2021-09-14-at-9.02.24-AM-150x150.png)](https://www.marktechpost.com)
+
+##### [Asif Razzaq](https://www.marktechpost.com/author/6flvq/)
+
+[Website](https://www.marktechpost.com) | [+ postsBio ⮌](#)
+
+Asif Razzaq is the CEO of Marktechpost AI Media Inc.. As a visionary entrepreneur and engineer, Asif is committed to harnessing the potential of Artificial Intelligence for social good. His most recent endeavor is the launch of an Artificial Intelligence Media Platform, Marktechpost, which stands out for its in-depth coverage of machine learning and deep learning news that is both technically sound and easily understandable by a wide audience. The platform boasts of over 2 million monthly views, illustrating its popularity among audiences.
+
+* Asif Razzaq
+
+  [Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode](https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/)
+* Asif Razzaq
+
+  [Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%](https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/)
+* Asif Razzaq
+
+  [Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost](https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/)
+* Asif Razzaq
+
+  [Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model](https://www.marktechpost.com/2026/10/29/edge0-audio8-tts-realistic-0-6b-voice-cloning/)
+
+[$uv pip install omni-parse-bench**✓**text**✓**tables**✓**layout→ scored per pageStar on GitHub**→**Sponsored](https://aicampaign.live/omnipar)
+
+#### [RELATED ARTICLES](#)[MORE FROM AUTHOR](#)
+
+[![Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode](https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-88881-2-218x150.png "Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode")](https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/ "Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode")
+
+### [Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode](https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/ "Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode")
+
+[![Vercel Labs Open-Sources agent-desktop for Agent Computer Use](https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-88881-1-218x150.png "Vercel Labs Open-Sources agent-desktop for Agent Computer Use")](https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/ "Vercel Labs Open-Sources agent-desktop for Agent Computer Use")
+
+### [Vercel Labs Open-Sources agent-desktop for Agent Computer Use](https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/ "Vercel Labs Open-Sources agent-desktop for Agent Computer Use")
+
+[![Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%](https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-88881-218x150.png "Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%")](https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/ "Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%")
+
+### [Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%](https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/ "Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%")
+
+[![AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare](https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-1898-1-218x150.png "AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare")](https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/ "AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare")
+
+### [AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare](https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/ "AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare")
+
+[![Samaya Sterling Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost](https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-1898-218x150.png "Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost")](https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/ "Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost")
+
+### [Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost](https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/ "Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost")
+
+[![Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model](https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-1209-4-218x150.png "Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model")](https://www.marktechpost.com/2026/10/29/edge0-audio8-tts-realistic-0-6b-voice-cloning/ "Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model")
+
+### [Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model](https://www.marktechpost.com/2026/10/29/edge0-audio8-tts-realistic-0-6b-voice-cloning/ "Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model")
+
+[![](https://www.marktechpost.com/wp-content/uploads/2025/09/272x90-300x99.png)](https://www.marktechpost.com/)
+
+[Discord](https://pxl.to/ivxz41s "Discord")     [Linkedin](https://www.linkedin.com/company/marktechpost/?viewAsMember=true "Linkedin")     [Reddit](https://www.reddit.com/r/machinelearningnews/ "Reddit")     [X](https://twitter.com/Marktechpost "X")
+
+* [miniCON Event 2025](https://pxl.to/hki7r39)
+* [Download](https://www.marktechpost.com/download/)
+  + [AI Magazine/Report](https://www.marktechpost.com/ai-magazine/)
+* [Privacy & TC](https://www.marktechpost.com/privacy-policy/)
+* [Cookie Policy](https://www.marktechpost.com/cookie-policy/)
+* [Newsletter](https://www.aidevsignals.com/)
+* [Promote with Us](https://promotions.marktechpost.com/)
+
+© Copyright Reserved @2025 Marktechpost AI Media Inc
+
+### Get AI Dev Signals
+
+The newsletter 70,000+ AI builders read. Model releases, tools and research, without the hype.
+
+ 

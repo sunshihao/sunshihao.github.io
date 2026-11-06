@@ -1,0 +1,39 @@
+Nov 2 (Reuters) - Anthropic's revenue growth slowed sharply in the third quarter and the AI startup flagged new risks to the computing capacity ‌underpinning its rapid expansion, adding to the concerns investors may need to weigh ahead of its blockbuster IPO.
+
+The disclosure came in an amended S-1 filing on Monday that showed Anthropic's net loss narrowed as revenue surged 47% from a quarter earlier to $16.96 billion, though the pace of growth slowed. Revenue had risen 144% in the second quarter.
+
+The Reuters Daily Briefing newsletter provides all the news you need to start your day. Sign up here.
+
+Anthropic had nearly $900 billion in computing ​commitments with partners including Amazon (AMZN.O) and Alphabet's (GOOGL.O) Google, underscoring how its rapid growth depends on vast amounts of future capacity, some of it reliant on ​financing beyond the company's control.
+
+"Certain of our compute providers and infrastructure partners depend on third-party financing or credit support to ⁠acquire chips and develop capacity, and if such financing or support becomes unavailable or more costly, contracted capacity may be delayed, repriced, reduced, or not ​delivered," Anthropic said in the filing.
+
+Wall Street has become increasingly uneasy about the debt-fueled AI buildout, as record borrowing for data centers, chips and other infrastructure ​has widened technology bond spreads and forced issuers to offer higher premiums to attract investors.
+
+Anthropic is preparing to begin formally marketing shares to prospective investors next week. Some current and prospective investors are weighing a $1.5 trillion valuation, down from roughly $2 trillion, after the startup disclosed financial details at a recent investor event, Reuters has reported.
+
+"We will be looking at when that ​capacity becomes available, when payments begin and how revenue grows against those obligations," said Evan Schlossman and Willy Lee, principals at VC firm Neostellar, referring ​to Anthropic's future purchase and lease commitments.
+
+Anthropic's filing landed as an early rebound on Wall Street petered out, with renewed selling in technology stocks highlighting investor anxiety over the AI ‌boom. Amazon ⁠shares, however, closed higher, while Alphabet ended the session flat.
+
+Anthropic said it was considering tighter human oversight of some research and development decisions as its AI models perform an increasing share of that work.
+
+The company previously warned that advanced models can develop unexpected capabilities, recognize when they are being evaluated and behave in ways that make them harder to monitor. CEO Dario Amodei has called for a slowdown in their development.
+
+## FRESH LOOK AT FINANCES
+
+The company expects to incur nearly half ​the $895.4 billion in spending commitments related ​to AI infrastructure buildouts before December ⁠31, 2030, with about $69.8 billion due in the 12 months following September 30 this year.
+
+Anthropic disclosed that it incurred $5 billion in additional compute costs during the quarter, which weighed on improvements in its efficiency and reduced revenue per dollar of ​compute from the previous quarter.
+
+"I wouldn't say these results are worrisome, but I do expect some of this ​pressure on growth and ⁠margins to be reflected in the ultimate IPO valuation," said Matt Kennedy, senior strategist at Renaissance Capital, a provider of IPO-focused research and ETFs.
+
+Anthropic said it had more than 11,900 customers generating at least $100,000 in revenue on a trailing 12-month basis as of September 30, up from more than 1,500 at the end of 2025.
+
+Net ⁠loss fell ​to $23.29 billion from $66.3 billion a quarter earlier. It reported an operating loss of $567 million in the ​third quarter, compared with operating income of $974 million in the second quarter.
+
+Anthropic's operating loss reflects the cost of running its business, including computing infrastructure and research, while its net loss also includes non-operating ​items related to bonds convertible into its shares.
+
+Reporting by Utkarsh Shetti and Arasu Kannagi Basil in Bengaluru; Editing by Anil D'Silva, Sayantani Ghosh and Leroy Leo
+
+Our Standards: The Thomson Reuters Trust Principles.

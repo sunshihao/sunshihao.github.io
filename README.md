@@ -28,13 +28,21 @@ npm run build      # sync → astro build → finalize，输出 dist/
 `scripts/sync.mjs` 读取 `~/briefs/<期目录>/` 的 `weekly.md`、`brief.md`、`media.json`、`assets/img`、`pages/`、`entries.jsonl`，
 生成本仓库的 `src/data/` 与 `public/`（这两个目录不入库）。
 
-## 发布
+## 发版（两种手动触发方式）
+
+**1）GitHub 网页上点一下**
+
+Actions → **Release site** → *Run workflow*（分支选 `main`，可填发布说明）→ 跑完自动把 `dist/` 推到 `weekly`，Pages 随即重建。
+
+**2）本地命令行**
 
 ```bash
+bash scripts/publish.sh "发布说明"
+# 或带新一期内容：先产出 briefs 目录，再跑
 bash ~/.hermes/skills/research/sourced-news-brief/scripts/deploy_site.sh <期目录>
 ```
 
-脚本会跑校验 → 构建 → 用 REST API 把 `dist/` 推到 `weekly` 分支。
+两条路径都只写 `weekly`（构建产物），不改 `main`。`weekly` 被强制覆盖，历史以 `main` 为准。
 
 ## 样式
 

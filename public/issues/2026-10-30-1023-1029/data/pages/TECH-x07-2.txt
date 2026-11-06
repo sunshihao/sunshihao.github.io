@@ -1,0 +1,23 @@
+# We Analyzed 12,000+ GPUs. Here’s What We Found About the AI Boom
+The world is racing to build AI data centers, but where is all that computing power, how much is being used, and how much can outsiders see? During our security research at Lava, we analyzed publicly exposed NVIDIA GPU monitoring systems and identified **more than 12,000 unique GPUs** across **just over 2,000 unique public IP addresses** , associated with nearly **300 organizations** . Here’s what we found.
+
+...
+
+## **The Infrastructure Around the GPUs Was Exposed Too**
+These findings were possible because monitoring systems intended for internal infrastructure management were publicly accessible. Without authentication, external observers could identify GPU models, hardware configurations, device identifiers, and utilization patterns. For AI data centers operating valuable workloads, this information can provide potential attackers with detailed intelligence about the underlying infrastructure.
+
+...
+
+As AI data centers continue to scale, protecting the systems that manage and monitor their infrastructure becomes increasingly important. GPU monitoring endpoints should be accessible only to authorized systems, with appropriate authentication and network restrictions.
+
+...
+
+## Continue reading
+* [### CVE-2026-47483: How We Could Disrupt Thousands of Exposed GPU Servers Michael Katchinskiy October 8, 2026 We found a high-severity vulnerability in NVIDIA’s GPU exporter that could let attackers crash monitoring and potentially disrupt AI workloads without authentication. We also uncovered 2,100 servers leaking telemetry from 12,000+ GPUs to anyone online.](https://lava.security/blog/cve-2026-47483-nvidia-dcgm-exporter-vulnerability)
+
+...
+
+## See what’s running in the data center
+[Check my neocloud](https://lava.security/neocloud-demo) [Request demo](https://lava.security/request-demo)
+[Privacy Policy](https://lava.security/privacy) | [Terms of Use](https://lava.security/terms)
+ⓒ All Rights Reserved 2026

@@ -1,0 +1,123 @@
+[Global](//www.gold.org)   [中国](//china.gold.org)   [日本](https://www.gold.org/ja/goldhub)
+
+[World Gold Council Gold Industry & Corporate](/)   [Goldhub Professional Investors](/goldhub)   [Invest.gold Individual Investors](https://invest.gold)
+
+      
+
+## [Gold Spot price](https://www.gold.org/goldhub/data#price-and-premium)
+
+Last Updated
+
+ 
+
+## Gold spot price
+
+   [Price and Premium Data](https://www.gold.org/goldhub/data#price-and-premium)
+
+- [Goldhub](/goldhub)
+- [Research](/goldhub/research/library)
+- [Gold Demand Trends](/goldhub/research/gold-demand-trends)
+- [Gold Demand Trends: Q3 2026](/goldhub/research/gold-demand-trends/gold-demand-trends-q3-2026)
+- Central Banks
+
+# Gold Demand Trends: Q3 2026
+
+## Central Banks
+
+3 November, 2026
+
+### Strong Q3 buying pushes y-t-d central bank demand ahead of 2025
+
+* Central bank demand reached 321t in Q3, well above the five-year quarterly average[1](#footnote-1)
+* Reported Q3 buying of 120t remained highly concentrated, led by China and Poland[2](#footnote-2)
+* Y-t-d purchases total 675t, 6% above the same period last year.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| **Tonnes** | **Q3'25** | **Q3'26** | **y/y % change** |
+| Central banks and other institutions | 226.3 | 321.2 | 42 |
+
+Central bank demand remained strong in Q3, with net purchases of 321t – above both the solid Q2 total and the five-year quarterly average (227t). The volume of buying in the second and third quarters more than offset a subdued start to the year, lifting y-t-d demand to 675t, 6% above the same period of 2025.
+
+### Chart 10: Y-t-d central bank buying exceeds 2025 pace
+
+Quarterly central bank net purchases, tonnes\*
+
+## GDT Q3 2026: Central Banks 1
+
+Sources: Metals Focus, Refinitiv GFMS, World Gold Council; [Disclaimer](https://www.gold.org/terms-and-conditions#proprietary-rights)
+
+\*Data to 30 September 2026.
+
+The stronger pace of buying in Q2 and Q3 coincided with an easing in the quarterly average gold price from its Q1 high as well as lower price volatility. Although this moderation may have supported purchases at the margin, prices remained historically elevated, suggesting that longer-term strategic considerations, such as diversification and risk management, have remained the primary driver of demand.
+
+The headline total, however, masks a significant gap between reported purchases and estimated demand. [Reported net buying](https://www.gold.org/goldhub/data/gold-reserves-by-country) amounted to 120t in Q3, compared with total estimated demand of 321t, and was heavily concentrated among a small number of buyers. Unreported activity accounted for around 63% of the quarter’s demand, continuing the pattern evident since 2022.[3](#footnote-3) This means that disclosed country-level purchases provide only a partial picture of the underlying sources of demand.
+
+China and Poland together added 104t, equivalent to around 86% of reported net purchases during the quarter. The People’s Bank of China was the largest buyer, adding 63t, followed by the National Bank of Poland with 40t.[4](#footnote-4) But the pace of accumulation differed between these two leading buyers: China’s Q3 purchases accelerated, accounting for more than half of its y-t-d buying, while Poland’s buying slowed following a particularly strong second quarter (51t).
+
+The National Bank of Kazakhstan and the Central Bank of Uzbekistan both added 14t and were the only other central banks to report increases of more than 5t in the quarter.
+
+Two features stand out in this quarter: first, China, Poland and the Czech Republic continued multi-year accumulation trends despite historically elevated gold prices, reinforcing the importance of strategic reserve diversification. The Czech Republic’s 5t addition was equivalent to 6% of its holdings at the start of the quarter, illustrating the relatively rapid pace of accumulation among some smaller buyers. Second, several purchasers – including Kazakhstan, Uzbekistan, Ghana and Bolivia – are significant gold producers, highlighting the role of [domestic gold markets and local purchasing programmes](/goldhub/research/central-bank-asgm) in shaping reserve activity.
+
+Buying remained dominant across reported activity, while sales were generally limited. Small reductions by Qatar, the Kyrgyz Republic and the United Arab Emirates were modest relative to their respective holdings, while Russia’s 19t decline stood out as the only sizeable reduction reported during the quarter.
+
+### Chart 11: Poland and China continue to drive reported central bank purchases
+
+Y-t-d reported net purchases by region, tonnes\*
+
+## GDT Q3 2026: Central Banks 2
+
+Sources: IMF, respective central banks, World Gold Council; [Disclaimer](https://www.gold.org/terms-and-conditions#proprietary-rights)
+
+\*Data to 30 September 2026 where available. Note: Other includes Turkey and Russia. Chart includes country-level purchases and sales of 0.5t or more.
+
+[<< Previous: Investment](/goldhub/research/gold-demand-trends/gold-demand-trends-q3-2026/investment)
+
+[Next: Technology >>](/goldhub/research/gold-demand-trends/gold-demand-trends-q3-2026/technology)
+
+## Footnotes
+
+1. In this section, 'central banks' is used as shorthand for central banks and other official institutions. Reported data are captured to 30 October 2026; delayed reporting could result in subsequent revisions.
+2. Total country-level gross sales and purchases based on the most recent IMF and respective central bank data available at the time of writing. This may not match the quarterly net central bank demand figures published in this report as Metals Focus uses additional sources of information to obtain its estimates.
+3. Estimated unreported activity captures purchases or sales not reflected in official statistics due to reporting delays or non-disclosure.
+4. Individual figures may not sum to totals due to rounding.
+
+[Important disclaimers and disclosures [+]](#disclaimer)[Important disclaimers and disclosures [-]](#disclaimer)
+
+Disclaimer
+
+**Important information and disclaimers**
+
+© 2026 World Gold Council. All rights reserved. World Gold Council and the Circle device are trademarks of the World Gold Council or its aﬃliates.
+
+All references to LBMA Gold Price are used with the permission of ICE Benchmark Administration Limited and have been provided for informational purposes only. ICE Benchmark Administration Limited accepts no liability or responsibility for the accuracy of the prices or the underlying product to which the prices may be referenced. Other content is the intellectual property of the respective third party and all rights are reserved to them.
+
+Reproduction or redistribution of any of this information is expressly prohibited without the prior written consent of World Gold Council or the appropriate copyright owners, except as speciﬁcally provided below. Information and statistics are copyright © and/or other intellectual property of the World Gold Council or its aﬃliates or third-party providers identiﬁed herein. All rights of the respective owners are reserved.
+
+The use of the statistics in this information is permitted for the purposes of review and commentary (including media commentary) in line with fair industry practice, subject to the following two pre-conditions: (i) only limited extracts of data or analysis be used; and (ii) any and all use of these statistics is accompanied by a citation to World Gold Council and, where appropriate, to Metals Focus or other identiﬁed copyright owners as their source. World Gold Council is aﬃliated with Metals Focus.
+
+The World Gold Council and its aﬃliates do not guarantee the accuracy or completeness of any information nor accept responsibility for any losses or damages arising directly or indirectly from the use of this information.
+
+This information is for educational purposes only and by receiving this information, you agree with its intended purpose. Nothing contained herein is intended to constitute a recommendation, investment advice, or oﬀer for the purchase or sale of gold, any gold-related products or services or any other products, services, securities or ﬁnancial instruments (collectively, “Services”). This information does not take into account any investment objectives, ﬁnancial situation or particular needs of any particular person.
+
+Diversiﬁcation does not guarantee any investment returns and does not eliminate the risk of loss. Past performance is not necessarily indicative of future results. The resulting performance of any investment outcomes that can be generated through allocation to gold are hypothetical in nature, may not reﬂect actual investment results and are not guarantees of future results. The World Gold Council and its aﬃliates do not guarantee or warranty any calculations and models used in any hypothetical portfolios or any outcomes resulting from any such use. Investors should discuss their individual circumstances with their appropriate investment professionals before making any decision regarding any Services or investments.
+
+This information may contain forward-looking statements, such as statements which use the words “believes”, “expects”, “may”, or “suggests”, or similar terminology, which are based on current expectations and are subject to change. Forward-looking statements involve a number of risks and uncertainties. There can be no assurance that any forward-looking statements will be achieved. World Gold Council and its aﬃliates assume no responsibility for updating any forward-looking statements.
+
+**Information regarding the LBMA Gold Price**
+
+The LBMA Gold Price is used by the World Gold Council with permission under license by ICE Benchmark Administration Limited and is subject to the restrictions set forth [here](https://www.gold.org/terms-and-conditions) ([www.gold.org/terms-and-conditions](https://www.gold.org/terms-and-conditions)).
+
+**Information regarding QaurumSM and the Gold Valuation Framework**
+
+Note that the resulting performance of various investment outcomes that can be generated through use of Qaurum, the Gold Valuation Framework and other information are hypothetical in nature, may not reﬂect actual investment results and are not guarantees of future results. Neither World Gold Council (including its aﬃliates) nor Oxford Economics provides any warranty or guarantee regarding the functionality of the tool, including without limitation any projections, estimates or calculations.
+
+**Information from ICRA Analytics Limited**
+
+All information obtained from ICRA Analytics Limited contained in this document is subject to the disclaimer set forth [here](http://www.icraanalytics.com/terms-of-use/disclaimer) ([www.icraanalytics.com/terms-of-use/disclaimer](http://www.icraanalytics.com/terms-of-use/disclaimer)).
+
+使用微信扫一扫登录  
+ [世界黄金协会]  
+ ![](/themes/custom/wgc_v01/img/wechatqr.png)
+
+ 

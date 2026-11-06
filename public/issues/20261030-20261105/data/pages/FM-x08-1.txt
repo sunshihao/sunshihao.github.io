@@ -1,0 +1,352 @@
+[/sitemap.xml](https://www.palantir.com/sitemap.xml)
+
+## Navigation
+
+*   [Sovereign AI](https://www.palantir.com/protect-your-sovereignty/)
+*   [↳ AIP](https://www.palantir.com/platforms/aip/)
+*   [↳ Foundry](https://www.palantir.com/platforms/foundry/)
+*   [↳ Gotham](https://www.palantir.com/platforms/gotham/)
+*   [↳ Ontology](https://www.palantir.com/platforms/ontology/)
+*   [↳ Apollo](https://www.palantir.com/platforms/apollo/)
+*   [Offerings](https://www.palantir.com/offerings/)
+*   [Impact Studies](https://www.palantir.com/impact/)
+*   [Documentation](https://www.palantir.com/docs/)
+*   [Careers](https://www.palantir.com/careers/)
+*   [Newsroom](https://www.palantir.com/newsroom/)
+*   [Palantir Explained](https://www.palantir.com/palantir-explained/)
+
+## Latest News
+
+[Newsroom ↗](https://www.palantir.com/newsroom/)
+
+*   [The Times, June 9, 2026 ![Image 1: Hospital Ops](https://www.palantir.com/assets/xrfr7uokpv1b/p0SnKDNyQWsOTZcggrW99/3d36d692f36dd46e4f80ced02af83302/Screenshot_2023-06-20_at_4.45.51_PM.png?quality=70&width=700&height=467&fit=crop) Palantir software halves sepsis deaths at US hospital The Sepsis Hub, developed with Tampa General Hospital in Florida, detects subtle changes in vital signs so antibiotics are given early ↳Read Here](https://www.thetimes.com/uk/healthcare/article/palantir-software-halves-sepsis-deaths-hospital-tampa-bmbk83pdq?eafs_enabled=false)
+*   [CNBC, July 1, 2026 ![Image 2: Karp on CNBC](https://www.palantir.com/assets/xrfr7uokpv1b/5tH9enETl8YlyupYF6ZSmN/83081fe5ddaf30ea3ef8d496a8fe0df7/53207559-34aa-40b4-a52d-a47c8178b56b.png?quality=70&width=700&height=466&fit=crop) Palantir CEO Alex Karp says 'something has gone completely wrong' with how AI is sold Palantir CEO Alex Karp joins CNBC's 'Squawk Box' to discuss the new Nvidia partnership, frontier AI models, and more. ↳Watch Here](https://www.youtube.com/watch?v=0A3sGymV6kY)
+
+## Offerings
+
+[View All Offerings ↗](https://www.palantir.com/offerings/)
+
+*   [Our platforms are used throughout the public, private, and non-profit sectors to help organizations quickly implement solutions to the hardest problems they face. ↳Learn more about AIP](https://www.palantir.com/platforms/aip/)
+
+## Latest Impact
+
+[View All Impact Studies ↗](https://www.palantir.com/impact/)
+
+*   [Impact Study // Tampa General Hospital ![Image 3: View of empty hospital room](https://www.palantir.com/assets/xrfr7uokpv1b/5KLaClttJ0unTDyyGlUIo5/0b2ed734fdee3484035b5275c9bc521f/TGH_Launchpad.png?quality=70&width=700&height=394&fit=crop) Infusing data throughout the care continuum](https://www.palantir.com/impact/tampa-general-hospital/)
+
+## Quick links
+
+*   [About Palantir](https://www.palantir.com/about/)
+*   [Blog](https://www.palantir.com/blog/)
+*   [Investor Relations](https://investors.palantir.com/)
+*   [Letters from the CEO](https://www.palantir.com/newsroom/letters/)
+*   [Privacy & Civil Liberties](https://www.palantir.com/pcl/)
+*   [Information Security](https://www.palantir.com/information-security/)
+*   [Cloud Partners](https://www.palantir.com/partnerships/cloud/)
+*   [Palantir Learning](https://learn.palantir.com/)
+*   [Customer Success Services](https://www.palantir.com/customer-success-services/)
+*   [Palantir Apparel Store](https://www.palantir.com/store/)
+*   [Contact](https://www.palantir.com/contact/)
+
+Read CEO Alex Karp’s [Letter to Shareholders](https://www.palantir.com/q3-2026-letter)
+
+[Skip to Content](https://www.palantir.com/q3-2026-letter/en/#main)
+
+[](https://www.palantir.com/)
+
+[↖ Get Started](https://www.palantir.com/q3-2026-letter/en/)
+
+## Letter to Shareholders
+
+### _November 2, 2026_
+
+### I.
+
+### It would be an understatement to say that our results this past quarter were extraordinary.
+
+### There has seldom been another enterprise in postwar America that has grown at the scale and speed of our own.
+
+### Our company generated $2.3 billion in revenue in the third quarter of the year, representing an absolutely striking 96% growth rate over the same period the year before.
+
+### We have been at this for more than two decades now, and none of us has ever seen a business at this scale growing at this pace and with this level of sustained ferocity. Indeed, our sequential growth in U.S. commercial of 29% would be an astonishing _annual_ growth rate of any public software company in America.
+
+![Image 4: Total Revenue ($B)](https://www.palantir.com/assets/xrfr7uokpv1b/EAnqvGtrlHj4DmHlILwNx/a44875ad08470edafc7fc404100c5b44/Q3-2026-Total_Revenue-English.png?quality=70&width=1800)
+
+### The underlying math of our financial results is simple, even jarring.
+
+### We have now essentially doubled our entire business since the same quarter last year.
+
+![Image 5: Quarterly Revenue Annual Growth Rate](https://www.palantir.com/assets/xrfr7uokpv1b/77u6cOrmAa3KBoVjqvUkD5/17ae16519ae5cfd4706ac499b3ee7f30/Q3-2026-Quarterly_Revenue-English.png?quality=70&width=1800)
+
+### We have stated our case consistently, quarter after quarter. Such results as ours come as little surprise to those sensitive and curious enough to listen. But the most profound shifts in technology cannot be understood without reflection. Whoever has ears ought to hear.
+
+### II.
+
+### Every industry in the world—from banks to insurers to hospitals and even once-storied law firms—will either be remade or set briskly aside.
+
+### The outcomes will increasingly be binary, with winners and losers, and nothing in between.
+
+### The lonely middle will be little more than a barren wasteland filled with those who were once legacy players who failed to heed the word and paid the ultimate price. The crowded bottom will be occupied by those who long ago lost their chance to build on what might once have been an insight or an edge, now marching inexorably toward irrelevance, their fate sealed, the envelope unopened.
+
+### Our business has been fundamentally transformed.
+
+### For some time, our listeners have heard us point to U.S. commercial as the primary driver of our growth. Now, for the first time, revenue from U.S. commercial has surpassed revenue from our U.S. government business.
+
+### We generated $984 million this past quarter in the U.S. commercial market—a 148% increase from the same period the year before.
+
+### This is not mere growth.
+
+### It is a rate of expansion that represents a degree of intensity and sustained momentum that we believe is unmatched in recent economic history.
+
+![Image 6: US Commercial Revenue - Q3 2026](https://www.palantir.com/assets/xrfr7uokpv1b/736ymAtgUvytgugD2zxE0F/7fdf4e01205fb984aec1510fa58b3895/Q3-2026-US_Commercial_Revenue-English.png?quality=70&width=1800)
+
+### The demand for our sovereign AI solutions that we began building long before the language models arrived has been absolutely ravenous and remains far from sated in the United States; indeed, its lifespan can be measured in quarters, not years. Our advantage has only expanded with this demand.
+
+### A sales cycle that once had been more akin to a long, unproductive, and unsatisfying flirtation has been condensed. What may have taken months and years—a slow, coy, and theatrical dance towards a contract—can now take days and weeks. Consummation happens quickly.
+
+### Some leaders of business and government institutions believed they could delay the future; many simply gambled that they would not be around to reckon with the consequences of their inaction. The revolution is happening so quickly these leaders have been stunned to find that they cannot get out of town.
+
+### And yet a broad swath of leadership across American industry has awakened to the significance of this moment.
+
+### The questions surrounding the adoption of large language models force the world and its leaders to confront both a promise and peril that is totally unlike anything that has come before. In the best case, these models on their own generate limited value. In the far more likely outcome, they become agents of chaos. Lacking a grounding in the means of interfacing with the labyrinth of datasets, people, business units, use cases, and critical safeguards scattered across the modern enterprise, the LLM agent is a virtually unlimited liability, possessing a nearly unbounded destructive potential and a blast radius that tends towards infinity.
+
+### There is simply no means of effectively and reliably connecting the language models to large enterprises without the operating model and capabilities we have pioneered.
+
+### III.
+
+### There was a time not too long ago when many would ask us, with an inquiring and searching tone, whether our business, as compelling and consequential as it seemed, would ever turn a profit.
+
+### The subtext was that our decision to invest for years in building a foundational architecture, while noble perhaps, represented an idiosyncratic diversion at best and foolish misadventure at worst.
+
+### And yet the verdict has now come in.
+
+### We generated another record quarterly profit—$1.13 billion—an amount that dwarfs what we delivered in revenue not long ago.
+
+![Image 7: English GAAP Chart - 2](https://www.palantir.com/assets/xrfr7uokpv1b/1V8iWLQmPxgeESuHb447A1/42b5684bac34307aab00a15293bbb3b8/Q3-2026-GAAP_Net_Income-English_-_11.2.26.png?quality=70&width=1800)
+
+### This moment, remarkable as it is for us, remains the first scene of a first act.
+
+### It is our firm and unwavering intent to take the entire market, the whole thing.
+
+### We think it is more likely than not that our raw concentration of creative and technical talent will continue to define the genre and craft the definitive story of software itself over the coming decades.
+
+### And it is not merely because we have hired the best and brightest, although we have.
+
+### Our outperformance is, at a more structural level, the result of our wild and unruly organizational culture, as well as a radical distaste for the conventional means of marshalling and cultivating human talent.
+
+### We are, it seems, the number one founder factory in the world, ahead of Stanford, MIT, McKinsey, Google, Harvard, Bain, and BCG, among many others, according to one recent tally making the rounds.
+
+### IV.
+
+### There is indeed an alignment problem, and a grave one.
+
+### It is just not the one that society has been sold.
+
+### The real problem is not the challenge of aligning the aims and capabilities of our technological creations with our interests.
+
+### It is rather seeking alignment between the corporations that are constructing those technologies and the interests of the customers who utilize them as well as the greater public interest itself.
+
+### We have no interest in building software that leeches the value and alpha from our partners—migrating what they own and have built and have earned to our systems and our accounts.
+
+### And yet what once disappointed the bankers now seems to enthral them. Venture learned, and now the markets are learning, that the only things that are valuable are the things that they do not understand.
+
+### Our success comes from aligning with our customers’ fundamental interests—in doing right by them. We were founded more than two decades ago and have served our partners across the U.S. military and its allies with pride through five administrations.
+
+### Our unwavering commitment is to the American public and to the institutions and the elected leaders that serve it.
+
+### It is simply our firm belief that if one is inclined to ask someone to risk their life in the defense of our nation, we must always make sure they have what they need to do their jobs and come home alive.
+
+### In this way, we see ourselves as the pioneers of a genuine and viable antiwar movement.
+
+### We are all, in no uncertain terms, living through what John Lewis Gaddis, the professor of naval and military history at Yale, presciently described decades ago as the long peace.
+
+### And we will join anyone who seeks in earnest to advance an even longer one.
+
+### Sincerely,
+
+![Image 8: Alex Karp Signature](https://www.palantir.com/assets/xrfr7uokpv1b/3AeTcrjSQ6br3aPLEkG2kF/64919c219c00a755bfba0d9eeb9bdf59/Alex_Karp_Signature.png?quality=70&width=1800)
+
+### Alex Karp
+
+### Co-Founder & Chief Executive Officer
+
+### Palantir Technologies Inc.
+
+* * *
+
+**_Forward-Looking Statements_**
+
+_This letter contains “forward-looking statements” within the meaning of the “safe harbor” provisions of the Private Securities Litigation Reform Act of 1995, including, but not limited to, statements regarding our financial outlook, product development and related timing, distribution, and pricing, expected benefits of and applications for our software platforms, business strategy, and plans (including strategy and plans relating to our Artificial Intelligence Platform (“AIP”) and Sovereign AI, and the accompanying sales and marketing efforts, sales force, partnerships, and customers), investments in our business, market trends and market size, opportunities (including growth opportunities), our expectations regarding our existing and potential investments in, and commercial contracts with, various entities, our expectations regarding macroeconomic events, and positioning. These forward-looking statements are made as of the date they were first issued and were based on current expectations, estimates, forecasts, and projections as well as the beliefs and assumptions of management. Words such as “guidance,” “expect,” “anticipate,” “should,” “believe,” “hope,” “target,” “project,” “plan,” “goals,” “estimate,” “potential,” “predict,” “may,” “will,” “might,” “could,” “intend,” “shall,” and variations of these terms or the negative of these terms and similar expressions are intended to identify these forward-looking statements. Forward-looking statements are subject to a number of risks and uncertainties, many of which involve factors or circumstances that are beyond our control. Our actual results could differ materially from those stated or implied in forward-looking statements due to a number of factors, including but not limited to risks detailed in our filings with the Securities and Exchange Commission (the “SEC”), including in our annual report on Form 10-K for the fiscal quarter and year ended December 31, 2025 and other filings and reports that we may file from time to time with the SEC, including our current report on Form 8-K furnishing our earnings press release for the fiscal quarter ended September 30, 2026 and our quarterly report on Form 10-Q for the fiscal quarter ended September 30, 2026. In particular, the following factors, among others, could cause our results to differ materially from those expressed or implied by such forward-looking statements: our ability to successfully execute our business and growth strategy; the sufficiency of our available funds to meet our liquidity needs; the demand for our platforms, product offerings, and services in general; our ability to increase our number of new customers and revenue generated from customers; our ability to realize some or all of the total contract value of customer contracts as revenue, including any contractual options available to customers or contractual periods that are subject to termination for convenience provisions; our long and unpredictable sales cycle; our ability to successfully execute our channel sales and other strategic initiatives with third parties; our ability to retain and expand our customer base; the fluctuation of our results of operations and our key business measures on a quarterly basis in future periods; the seasonality of our business; the implementation process for our platforms, which may be complex and lengthy; our ability to successfully develop and deploy new technologies to address the needs of our existing or prospective customers; our ability to make our platforms and product offerings easier to install, consume, and use; our ability to maintain and enhance our brand and reputation; our ability to maintain and enhance our culture as our business grows and as we pursue our business and financial goals; news or social media coverage or other external scrutiny about us or our leadership, including but not limited to coverage that presents, enhances, or relies on, inaccurate, misleading, incomplete, or otherwise damaging information, misconceptions, or falsehoods; the impact of recent, ongoing, or future global macroeconomic and geopolitical events, fluctuating interest rates, monetary policy changes, foreign currency fluctuations, or the potential or actual imposition of tariffs or other impacts on trade relations on the business and operations of our company or of our existing or prospective customers and partners; issues raised by the use of artificial intelligence in our platforms; and any breach or access to our or customer or third-party data._
+
+_The forward-looking statements included in this letter represent our views as of the date of this letter. We anticipate that subsequent events and developments will cause our views to change. We undertake no intention or obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise. These forward-looking statements should not be relied upon as representing our views as of any date subsequent to the date of this letter. Past performance is not necessarily indicative of future results._
+
+**_Other Notes_**
+
+_This letter may contain certain non-GAAP financial measures. Our definitions may differ from the definitions used by other companies and therefore comparability may be limited. In addition, other companies may not publish these or similar metrics. Further, these metrics have certain limitations in that they do not include the impact of certain expenses that are reflected in our consolidated statements of operations. Thus, these non-GAAP financial measures should be considered in addition to, not as a substitute for, or in isolation from, measures prepared in accordance with GAAP. We compensate for these limitations by providing reconciliations of these non-GAAP financial measures to the most comparable GAAP measures, which can be found in our investor presentation and/or earnings release, which are available on our investor relations website (investors.palantir.com). We encourage investors and others to review our business, results of operations, and financial information in its entirety, not to rely on any single financial measure, and to view these non-GAAP financial measures in conjunction with the most directly comparable GAAP financial measures._
+
+_This letter may contain statistical data, estimates, forecasts, and statements that are based on independent industry publications or other publicly available information, as well as other information based on our internal sources. This information involves many assumptions and limitations, and you are cautioned not to give undue weight to these estimates. We have not independently verified the accuracy or completeness of the data contained in these industry publications and other publicly available information. Accordingly, we make no representations as to the accuracy or completeness of that data nor do we undertake to update such data after the date of this letter. This letter may refer to various growth rates when discussing our business. These rates reflect year-over-year comparisons unless otherwise stated._
+
+_By receiving this letter, you acknowledge that you will be solely responsible for your own assessment of the market and our market position and that you will conduct your own analysis and be solely responsible for forming your own view of the information provided, including regarding the potential future performance of our business._
+
+© 2026 Palantir Technologies Inc.
+
+All rights reserved.
+
+Do Not Sell or Share My Personal Information
+
+[US](https://www.palantir.com/)[UK](https://www.palantir.com/uk)[JP](https://www.palantir.com/jp)
+
+[Youtube](https://youtube.com/c/palantirtech)[X](https://twitter.com/PalantirTech)[Linkedin](https://linkedin.com/company/palantir-technologies)[Github](https://github.com/palantir)[Store](https://store.palantir.com/)
+
+Offerings
+
+*   [American Tech Fellowship](https://www.palantir.com/american-tech-fellowship/)
+*   [Anti-Money Laundering](https://www.palantir.com/offerings/anti-money-laundering/)
+*   [Automotive & Mobility](https://www.palantir.com/offerings/automotive-mobility/)
+*   [Construction](https://www.palantir.com/offerings/construction/)
+*   [Data Protection](https://www.palantir.com/offerings/data-protection/)
+*   [Defense](https://www.palantir.com/offerings/defense/)
+*   [Energy](https://www.palantir.com/offerings/energy/)
+*   [Federal Health](https://www.palantir.com/offerings/federal-health)
+*   [FedStart](https://www.palantir.com/offerings/fedstart/)
+*   [Financial Services](https://www.palantir.com/offerings/financial-services)
+*   [Food & Beverage](https://www.palantir.com/offerings/food-and-beverage/)
+*   [Palantir for Builders](https://www.palantir.com/offerings/palantir-for-builders/)
+*   [Govt Financial Management](https://www.palantir.com/offerings/financial-services/government/)
+*   [Hospital Operations](https://www.palantir.com/offerings/palantir-for-hospitals/)
+*   [Insurance](https://www.palantir.com/offerings/insurance/)
+*   [Intelligence](https://www.palantir.com/offerings/intelligence/)
+*   [Life Sciences](https://www.palantir.com/offerings/life-sciences/)
+*   [Mission Manager](https://www.palantir.com/mission-manager/)
+*   [Procurement](https://www.palantir.com/offerings/procurement/)
+*   [Rail](https://www.palantir.com/offerings/palantir-for-rail/)
+*   [Readiness](https://www.palantir.com/offerings/readiness/)
+*   [Retail](https://www.palantir.com/offerings/retail/)
+*   [Secure Collaboration](https://www.palantir.com/offerings/defense/secure-collaboration/)
+*   [Semiconductors](https://www.palantir.com/offerings/semiconductors/)
+*   [Supply Chain](https://www.palantir.com/offerings/supply-chain/)
+*   [Telecommunications](https://www.palantir.com/offerings/telecommunications/)
+*   [Utilities](https://www.palantir.com/offerings/utilities/)
+*   [Veterans](https://www.palantir.com/veterans/)
+
+Impact Studies
+
+*   [Airbus](https://www.palantir.com/impact/airbus/)
+*   [Axel Springer](https://www.palantir.com/impact/axel-springer/)
+*   [Cleveland Clinic](https://www.palantir.com/impact/cleveland-clinic/)
+*   [Concordance](https://www.palantir.com/impact/concordance/)
+*   [Doosan Infracore](https://www.palantir.com/impact/powering-innovation-for-doosan-infracore/)
+*   [Fujitsu](https://www.palantir.com/impact/fujitsu/)
+*   [Jacobs](https://www.palantir.com/impact/jacobs/)
+*   [Kinder Morgan](https://www.palantir.com/impact/kindermorgan/)
+*   [NHS](https://www.palantir.com/uk/healthcare/)
+*   [Noto Peninsula Earthquake](https://www.palantir.com/impact/disaster-response/)
+*   [Ringier](https://www.palantir.com/impact/ringier/)
+*   [Sonnedix](https://www.palantir.com/impact/sonnedix/)
+*   [SOMPO](https://www.palantir.com/impact/sompo/)
+*   [Swiss Re](https://www.palantir.com/impact/swiss-re/)
+*   [Tampa General Hospital](https://www.palantir.com/impact/tampa-general-hospital/)
+*   [World Food Programme](https://www.palantir.com/impact/world-food-programme/)
+
+Capabilities
+
+*   [AI + ML](https://www.palantir.com/platforms/aip/)
+*   [AIP for Developers](https://www.palantir.com/aip/developers/)
+*   [Data Integration](https://www.palantir.com/platforms/foundry/data-integration/)
+*   [Digital Twin](https://www.palantir.com/platforms/foundry/digital-twin/)
+*   [Dynamic Scheduling](https://www.palantir.com/platforms/foundry/dynamic-scheduling/)
+*   [Edge AI](https://www.palantir.com/offerings/edge-ai/)
+*   [Marketplace](https://www.palantir.com/platforms/foundry/marketplace/)
+*   [MetaConstellation](https://www.palantir.com/offerings/metaconstellation/)
+*   [Pipeline Builder](https://www.palantir.com/platforms/foundry/data-integration/pipeline-builder/)
+*   [Process Mining](https://www.palantir.com/platforms/foundry/process-mining/)
+*   [Real-Time Alerting](https://www.palantir.com/platforms/foundry/foundry-rules/)
+*   [Streaming](https://www.palantir.com/platforms/foundry/streaming/)
+*   [Titanium](https://www.palantir.com/titanium/)
+*   [Warp Speed](https://www.palantir.com/warpspeed/)
+
+Documents
+
+*   [Developer Community](https://community.palantir.com/)
+*   [Platform Documentation](https://www.palantir.com/docs/)
+*   [Palantir Developers](https://www.youtube.com/channel/UCQRc3PMlCsoodxbR4IsglKQ)
+*   [Trust Center](https://palantir.safebase.us/)
+*   [Modern Slavery Statement](https://www.palantir.com/modern-slavery-statement/)
+*   [Cookies](https://www.palantir.com/cookie-statement)
+*   [Privacy and Civil Liberties](https://www.palantir.com/pcl/)
+*   [US Public Policy](https://www.palantir.com/us-public-policy-positions/)
+*   [Palantir Explained](https://www.palantir.com/palantir-explained/)
+*   [Sustainability](https://www.palantir.com/responsible-business-and-sustainability/)
+*   [Human Rights Policy](https://www.palantir.com/human-rights/)
+*   [Privacy Statement](https://www.palantir.com/privacy-and-security/)
+*   [Terms of Use](https://www.palantir.com/terms-and-conditions/)
+
+This website uses cookies and other tracking technologies to enhance user experience and to analyze performance and traffic on our website. We also share information about your use of our site with our social media, advertising and analytics partners. If we have detected an opt-out preference signal then it will be honored. Further information is available in our [Cookie Policy](https://www.palantir.com/cookie-statement/)
+
+Accept Cookies Reject All
+
+Do Not Sell or Share My Personal Information
+
+![Image 9: Palantir Logo](https://cdn.cookielaw.org/logos/356f77a2-eb53-4146-ba66-df614f266841/018ec371-84cc-7226-bc6b-40b41ec0280c/1204dd5e-843b-4e03-8e5d-3eaeae33575c/Palantir_Logo_300dpi.png)
+
+## Do Not Sell or Share My Personal Data
+
+Opt-Out Request Honored
+
+## Do Not Sell or Share My Personal Data
+
+*   ### Your Privacy 
+*   ### Strictly Necessary Cookies 
+*   ### Targeting Cookies 
+
+#### Your Privacy
+
+When you visit our website, we store cookies on your browser to collect information. The information collected might relate to you, your preferences or your device, and is mostly used to make the site work as you expect it to and to provide a more personalized web experience. However, you can choose not to allow certain types of cookies, which may impact your experience of the site and the services we are able to offer. Click on the different category headings to find out more and change our default settings according to your preference. You cannot opt-out of our First Party Strictly Necessary Cookies as they are deployed in order to ensure the proper functioning of our website (such as prompting the cookie banner and remembering your settings, to log into your account, to redirect you when you log out, etc.). For more information about the First and Third Party Cookies used please follow this link.   
+[More information](https://www.palantir.com/cookie-statement/)
+
+#### Strictly Necessary Cookies
+
+Always Active
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+Cookies Details
+
+#### Targeting Cookies
+
+- [x] Targeting Cookies 
+
+Under US privacy laws, you have the right to opt-out of the sale or sharing of your personal information to third parties. These cookies collect information for analytics and to personalize your experience with targeted ads. You may exercise your right to opt out of the sale or sharing of personal information by using this toggle switch. If you opt out we will not be able to offer you personalized ads and will not hand over your personal information to any third parties. Additionally, you may contact our legal department for further clarification about your rights as a California consumer by using this Exercise My Rights link.If you have enabled privacy controls on your browser (such as a plugin), we have to take that as a valid request to opt-out. Therefore we would not be able to track your activity through the web. This may affect our ability to personalize ads according to your preferences.
+
+*   ##### Performance Cookies
+
+- [x] Switch Label label  
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.
+
+*   ##### Targeting Cookies
+
+- [x] Switch Label label  
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.
+
+Cookies Details
+
+### Cookie List
+
+Consent Leg.Interest
+
+- [x] checkbox label label
+
+- [x] checkbox label label
+
+- [x] checkbox label label
+
+Clear
+*   - [x] checkbox label label 
+
+Apply Cancel
+
+Confirm My Choices
+
+Reject All Allow All
+
+[![Image 10: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/solutions/consent-and-preferences/?utm_source=cmp&utm_medium=cmpbanner)
