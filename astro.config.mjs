@@ -22,7 +22,7 @@ const briefAsHtml = {
 };
 
 export default defineConfig({
-  site: 'https://sunshihao.github.io',
+  site: 'https://week.dhc.ink',
   trailingSlash: 'ignore',
   build: { format: 'directory' },
   integrations: [briefAsHtml],

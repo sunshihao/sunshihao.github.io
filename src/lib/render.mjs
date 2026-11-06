@@ -8,7 +8,7 @@ export const cssVersion = fs.existsSync(CSS)
   ? crypto.createHash('md5').update(fs.readFileSync(CSS)).digest('hex').slice(0, 8)
   : '0';
 
-export const SITE = 'https://sunshihao.github.io';
+export const SITE = 'https://week.dhc.ink';
 export const CAT_COLOR = {
   政治: '--c-politics',
   财经: '--c-markets',
