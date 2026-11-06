@@ -1,14 +1,17 @@
 #!/usr/bin/env node
-// 把 /Users/ssh/briefs/<期目录>/ 的产物同步进 Astro 项目：md、media、图片、审计数据、dashboard。
-// 一期一个 id：优先用 media.json 的 issue（20261030-20261105），否则用目录名。
+// 把 /Users/ssh/briefs/week/<期号>/ 的产物同步进 Astro 项目：md、media、图片、审计数据、dashboard。
+// 目录名即期号（YYYYMMDD-YYYYMMDD）；历史期号改名用 LEGACY 映射兜底，并生成旧 URL 跳转页。
 import fs from 'node:fs';
 import path from 'node:path';
 
-const BRIEFS = '/Users/ssh/briefs';
+const BRIEFS = '/Users/ssh/briefs/week';
 const ROOT = path.resolve(import.meta.dirname, '..');
 const DATA = path.join(ROOT, 'src/data');
 const PUBLIC = path.join(ROOT, 'public');
 const SITE_SRC = '/Users/ssh/sites/sunshihao.github.io';
+
+// 改名前的旧期号 → 新期号
+const LEGACY = { '2026-10-30-1023-1029': '20261023-20261029' };
 
 const rm = (p) => fs.rmSync(p, { recursive: true, force: true });
 const cp = (a, b) => {
@@ -16,11 +19,7 @@ const cp = (a, b) => {
   fs.cpSync(a, b, { recursive: true });
 };
 
-for (const d of ['weekly', 'brief', 'media']) fs.mkdirSync(path.join(DATA, d), { recursive: true });
-
-// 静态壳子（样式/脚本/品牌/评论配置）以现网站点为准
-// 设计资产（CSS/JS/品牌/评论配置）：只在本地缺失时从旧站点播种一次。
-// 之后以本项目 public/ 为准——否则每次构建都会把这里的改动覆盖掉。
+// 设计资产（CSS/JS/品牌/评论配置）：只在本地缺失时从旧站点播种一次
 const seed = (from, to) => {
   if (!fs.existsSync(to)) cp(from, to);
 };
@@ -34,16 +33,32 @@ if (!fs.existsSync(BRIEFS)) {
   process.exit(0);
 }
 
+// 生成物每次重建，避免改名后的旧目录残留
+for (const d of ['weekly', 'brief', 'media']) rm(path.join(DATA, d));
+rm(path.join(PUBLIC, 'issues'));
+for (const d of ['weekly', 'brief', 'media']) fs.mkdirSync(path.join(DATA, d), { recursive: true });
+fs.mkdirSync(path.join(PUBLIC, 'issues'), { recursive: true });
+
 const issues = [];
+
 for (const dir of fs.readdirSync(BRIEFS)) {
   const src = path.join(BRIEFS, dir);
+  if (!fs.statSync(src).isDirectory()) continue;
   const mediaPath = path.join(src, 'media.json');
   const weeklyPath = path.join(src, 'weekly.md');
   if (!fs.existsSync(mediaPath) || !fs.existsSync(weeklyPath)) continue;
 
-  const media = JSON.parse(fs.readFileSync(mediaPath, 'utf8'));
-  const id = media.issue || dir;
+  const id = dir; // 目录名即期号
+  let media = JSON.parse(fs.readFileSync(mediaPath, 'utf8'));
   const weekly = fs.readFileSync(weeklyPath, 'utf8');
+
+  // 老期号改名后，把 media 里的图片路径改到新期号目录
+  for (const [oldId, newId] of Object.entries(LEGACY)) {
+    if (newId === id) {
+      media = JSON.parse(JSON.stringify(media).replaceAll(`assets/img/${oldId}/`, `assets/img/${newId}/`));
+    }
+  }
+  media.issue = id;
 
   // 正文不放 markdown 图片行（配图由 media.json 注入），并去掉本机路径
   const clean = (s) =>
@@ -61,12 +76,18 @@ for (const dir of fs.readdirSync(BRIEFS)) {
   }
   fs.writeFileSync(path.join(DATA, 'media', `${id}.json`), JSON.stringify(media, null, 1));
 
-  // 图片：media.json 里写的是 assets/img/<id>/，按 id 落盘
-  // 图片：先取期目录，再回落到已发布站点（历史期的图存在站点里）
-  for (const base of [src, SITE_SRC]) {
-    const imgSrc = path.join(base, 'assets/img', id);
-    if (fs.existsSync(imgSrc)) cp(imgSrc, path.join(PUBLIC, 'assets/img', id));
+  // 图片：本期目录 → 旧站点同名目录 → 旧期号目录
+  const imgTargets = [path.join(src, 'assets/img', id), path.join(SITE_SRC, 'assets/img', id)];
+  for (const [oldId, newId] of Object.entries(LEGACY)) {
+    if (newId === id) {
+      imgTargets.push(
+        path.join(src, 'assets/img', oldId),
+        path.join(SITE_SRC, 'assets/img', oldId),
+        path.join(PUBLIC, 'assets/img', oldId) // 旧图可能只在 public 里
+      );
+    }
   }
+  for (const p of imgTargets) if (fs.existsSync(p)) cp(p, path.join(PUBLIC, 'assets/img', id));
 
   // 交互总纲（原 index.html）与审计数据
   if (fs.existsSync(path.join(src, 'index.html'))) {
@@ -89,6 +110,20 @@ for (const dir of fs.readdirSync(BRIEFS)) {
     cover: media.hero?.src ?? '',
     coverCredit: media.hero?.credit ?? '',
   });
+}
+
+// 旧期号 URL → 新期号，留住外链
+for (const [oldId, newId] of Object.entries(LEGACY)) {
+  const dir = path.join(PUBLIC, 'issues', oldId);
+  fs.mkdirSync(dir, { recursive: true });
+  fs.writeFileSync(
+    path.join(dir, 'index.html'),
+    `<!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8">
+<title>已迁移到 ${newId}</title>
+<link rel="canonical" href="/issues/${newId}/">
+<meta http-equiv="refresh" content="0; url=/issues/${newId}/">
+</head><body><p>这一期已迁移到 <a href="/issues/${newId}/">/issues/${newId}/</a>。</p></body></html>`
+  );
 }
 
 issues.sort((a, b) => String(b.id).localeCompare(String(a.id)));

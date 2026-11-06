@@ -25,7 +25,7 @@ pnpm install
 npm run build      # sync → astro build → finalize，输出 dist/
 ```
 
-`scripts/sync.mjs` 读取 `~/briefs/<期目录>/` 的 `weekly.md`、`brief.md`、`media.json`、`assets/img`、`pages/`、`entries.jsonl`，
+`scripts/sync.mjs` 读取 `~/briefs/week/<期号>/`（期号 = `YYYYMMDD-YYYYMMDD`）的 `weekly.md`、`brief.md`、`media.json`、`assets/img`、`pages/`、`entries.jsonl`，
 生成本仓库的 `src/data/` 与 `public/`（这两个目录不入库）。
 
 ## 发版（两种手动触发方式）

@@ -17,6 +17,8 @@ const media = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'src/data/medi
 
 let html = marked.parse(md, { async: false });
 html = html.replace(/<h1[^>]*>[\s\S]*?<\/h1>/, '');
+html = html.replace(/<code>brief\.md<\/code>/g, '<code><a href="brief.html">brief.html</a></code>')
+           .replace(/<code>index\.html<\/code>/g, '<code><a href="dashboard.html">dashboard.html</a></code>');
 html = injectMedia(html, media);
 
 const canonical = `/issues/${issue.id}/`;

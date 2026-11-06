@@ -13,7 +13,9 @@ export function getStaticPaths() {
 
 const { issue } = Astro.props;
 const md = fs.readFileSync(path.join(process.cwd(), 'src/data/brief', `${issue.id}.md`), 'utf8');
-const html = marked.parse(md, { async: false }).replace(/<h1[^>]*>[\s\S]*?<\/h1>/, '');
+let html = marked.parse(md, { async: false }).replace(/<h1[^>]*>[\s\S]*?<\/h1>/, '');
+html = html.replace(/<code>brief\.md<\/code>/g, '<code><a href="brief.html">brief.html</a></code>')
+           .replace(/<code>index\.html<\/code>/g, '<code><a href="dashboard.html">dashboard.html</a></code>');
 ---
 <Base title={`审计层 · ${issue.title}`} description={issue.summary} canonical={`/issues/${issue.id}/brief.html`}>
   <div class="wrap narrow">
