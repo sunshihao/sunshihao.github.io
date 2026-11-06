@@ -215,6 +215,41 @@ th {
     font-size: 1.02rem;
     margin: 0 0 1.4rem;
 }
+.ai-note {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.85rem;
+    margin: 0 0 1.4rem;
+    padding: 0.85rem 1rem;
+    border: 1px solid color-mix(in srgb, var(--accent) 26%, var(--line));
+    border-left: 3px solid var(--accent);
+    border-radius: 0 10px 10px 0;
+    background: var(--accent-soft);
+}
+.ai-mark {
+    flex: none;
+    padding: 0.1rem 0.6rem;
+    border-radius: 999px;
+    background: var(--accent);
+    color: var(--bg);
+    font-size: 0.76rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    line-height: 1.7;
+    white-space: nowrap;
+}
+.ai-note p {
+    margin: 0;
+    color: var(--fg-soft);
+    font-size: 0.9rem;
+    line-height: 1.75;
+}
+@media (max-width: 640px) {
+    .ai-note {
+        flex-direction: column;
+        gap: 0.45rem;
+    }
+}
 .meta-row {
     display: flex;
     flex-wrap: wrap;
