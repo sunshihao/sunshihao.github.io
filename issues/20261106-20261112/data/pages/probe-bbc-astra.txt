@@ -1,0 +1,237 @@
+# OpenAI scraps rollout of new model over safety concerns
+
+![OpenAI chief executive Sam Altman addresses the United Nations Security Council during a session on Artificial Intelligence, at UN Headquarters on 23rd September](https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/bd9e/live/7aa6ef90-bbc8-11f1-a430-4d16ee157c41.jpg)
+
+**OpenAI has announced it will not release its latest AI model due to safety concerns.**
+
+Its GPT-6.1 Astra system, which performs tasks like browsing the web and using apps by itself, "didn't quite meet the bar" of the company's standards, according to Saachi Jain, head of safety systems at OpenAI.
+
+The ChatGPT-maker also issued an update on incidents that occurred in June but were not made public until last week, where its models accessed Australian government websites and systems without authorisation.
+
+It comes as breaches by major AI firms' models intensify the debate about risks posed by the tech - with Anthropic underlining its concerns AI might threaten humanity as it prepares to go public.
+
+Reuters reported on Tuesday that the AI developer - which makes ChatGPT-rival Claude - plans to warn potential investors in its Initial Public Offering (IPO) that the tech may pose "catastrophic or existential risks to humanity", [according to a prospectus it has seen, external](https://www.reuters.com/business/finance/anthropic-warns-ai-may-pose-existential-risks-humanity-ipo-filing-2026-09-29/).
+
+Despite the stark warnings, the company is expected to become one of the most valuable in the world when it goes public.
+
+"I think it's kind of crazy that companies are continuing to push forward with developing these capabilities when we've already seen over the last couple of months of incidents that they're nowhere near safe and controlled enough", said Jess Whittlestone, a senior advisor on AI policy for the Centre for Long-Term Resilience think tank.
+
+Top AI leaders including Anthropic boss Dario Amodei and OpenAI's Sam Altman have urged the industry to [slow the pace of development](/news/articles/c14dpgm0rg4o).
+
+Why are there concerns AI could threaten humanity, and how real are they?
+
+## Growing safety questions
+
+OpenAI's decision, first reported by the Wall Street Journal, is a rare instance of a major AI developer pulling a new release over safety concerns.
+
+The model fell short in terms of "staying within scope and authorisation and how it communicates back to the user about the type of work it's done," Jain said.
+
+"We want to make sure our model development is safe no matter whether that's in the company, or when we ship it to users. But when we ship it to users, we have an extremely high bar in terms of safety and alignment," she added.
+
+The flagship GPT-6 Astra agentic model was released in September and specialises in complex reasoning and executing tasks autonomously. OpenAI said it was the result of "years of research and big bets".
+
+OpenAI is set to hold its annual DevDay developer conference in San Francisco on Tuesday, where it is expected to make several announcements. It is unclear if a new version of Astra will be among them.
+
+The company's security controls have come under intense scrutiny after several [high-profile incidents involving its technology](/news/articles/cw62jje658dlo).
+
+It is not the first time a large AI developer has pulled or held back a new model.
+
+Earlier this year, Anthropic said it would not publicly release a powerful Claude model, Mythos, because it was too good [at finding dormant software bugs](/news/articles/c2ev24yx4rmo).
+
+The company [released a version of that model to the public](/news/articles/ckg701v1dp6o) several months later.
+
+OpenAI meanwhile said in 2019 it would not be "too dangerous" to release one of its GPT models, now used to power its tools like ChatGPT.
+
+The firm's decision to not publicly release the latest version of Astra was "a welcome sign that they are taking safety concerns seriously," said Prof Tony Cohn, foundational models theme lead at the Alan Turing Institute.
+
+But he added that "safety should not be left purely in the hands of the developers: it should also be monitored and verified through independent government-approved regulators".
+
+Prof Gina Neff, of the Minderoo Centre for Technology and Democracy at the University of Cambridge, said OpenAI's announcement showed "how much more the company needs to do to make their AI products safe".
+
+She told the BBC it was "critical" to have independent tests of AI models by labs like the UK's AI Security Institute - which evaluates frontier systems on a voluntary basis - because "these companies have proven that we can't rely solely on them for our safety".
+
+Are we back in big tech's 'move fast and break things' era?
+
+## Australia hacks
+
+Last week, Australian Prime Minister Anthony Albanese announced that [a rogue OpenAI agent had hacked into government websites and systems](/news/articles/c6vgy0333dppo) in June in what experts said was the first known case of its kind in the world.
+
+Albanese criticised OpenAI for notifying the Australian government through a generic email address rather than making direct contact with officials.
+
+OpenAI said in a statement on Tuesday that it was sorry for the incident and that it "should have handled our response better".
+
+Services Australia, the NSW Bureau of Crime Statistics and Research, the Victorian Department of Health and the Australian Institute of Health and Welfare were all affected, OpenAI clarified.
+
+The firm said it launched investigations as soon as it became aware of issues in mid-August and notified the affected organisations between 10 and 24 September.
+
+"Our aim was to give affected agencies a detailed account once our investigation was complete," OpenAI said, adding that it should have shared early findings more promptly and kept Australian authorities updated.
+
+## To play this video you need to enable JavaScript in your browser.
+
+This video can not be played
+
+What you need to know about the OpenAI Australian government hack
+
+OpenAI added that it will develop "practical approaches" to how developers and governments identify and disclose future AI incidents.
+
+The company will fund cyber security measures, offer dedicated support to impacted agencies and set up a taskforce to manage the risks from increasingly advanced AI agents.
+
+It also said a top OpenAI executive would attend a Joint Select Committee hearing on AI in Australia on 6 October.
+
+In July, OpenAI said its AI systems had accessed the internet and hacked into open-source developer hub Hugging Face, prompting researchers and officials to call for tighter controls over the technology.
+
+On Monday, chip giant Nvidia released a set of software safety tools for autonomous AI platforms - called agents - that it said could have prevented the Hugging Face hack.
+
+One of the new tools uses hardware features in Nvidia's chips to contain agents.
+
+Nvidia boss Jensen Huang has largely dismissed calls for tighter AI regulations, arguing that rogue agents are an engineering problem that can be solved.
+
+Nvidia agreed to buy Hugging Face for $12.9bn (£9.74bn) earlier this month.
+
+![Pope Leo XIV in Metz, France on 28 September, 2026.](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/e72d/live/f7d97630-bbd8-11f1-bfea-9d5bb7e7d40b.jpg)
+
+Pope Leo XIV is among figures who have expressed scepticism over Nvidia boss Jensen Huang's views
+
+The pontiff, who said on Monday during a visit to France that AI "should be taken seriously", added he had read that Huang had suggested there could be a way to insert guardrails ‌into certain AI models.
+
+"He's the same one, however, ⁠that says there should ⁠be no limits placed and no government regulation," said the Pope.
+
+Nvidia declined to comment on the record.
+
+US President Donald Trump and House Speaker Mike Johnson are set to host tech executives at the White House later on Tuesday to discuss regulations around AI.
+
+Trump has downplayed concerns about AI's risks as a "hoax", arguing that the US has sufficient laws in place and that the only "guardrails" the technology needs is a "strong and smart" president.
+
+![A thin, grey banner promoting the News Daily newsletter. On the right, there is a graphic of an orange sphere with two concentric crescent shapes around it in a red-orange gradient, like a sound wave. The banner reads: “The latest news in your inbox first thing.”
+
+](https://ichef.bbci.co.uk/ace/standard/1920/cpsprodpb/b212/live/baeb0410-bbcd-11f1-bc1f-3f186ca4140c.png)
+
+Get our flagship newsletter with all the headlines you need to start the day. [Sign up here.](/newsletters/zhp28xs)
+
+## Related topics
+
+## More on this story
+
+Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?
+
+![A hand holds a phone which has the OpenAI logo on its screen.](https://ichef.bbci.co.uk/ace/standard/891/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg)
+
+Trump and Xi come face-to-face as US and China battle to win the AI race
+
+![US President Donald Trump and Chinese leader Xi Jinping exchange smiles as they greet each other before a meeting. ](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/eb15/live/c9e0fd20-b7cd-11f1-9f14-6be29ed37cd7.jpg)
+
+Why Australia chose the world's biggest political stage to reveal OpenAI hack
+
+![Anthony Albanese, wearing a suit and black glasses, speaks while holding his hand up, against a beige and orange background](https://ichef.bbci.co.uk/ace/standard/764/cpsprodpb/50c6/live/2164cc30-b804-11f1-97e1-83bf52ec4acd.jpg)
+
+## The video playlist
+
+Watch our pick of standout clips from across the BBC
+
+![A woman with long brown hair talks into a microphone](https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/ed4c/live/a147abc0-da00-11f1-93e1-3b657b665bcf.jpg)
+![A youth kneels near a burning police vehicle on 5th November in Glasgow.](https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6749/live/a82d2cd0-da14-11f1-b441-2b33b063138f.jpg)
+![A woman sits in a yoga pose with her legs crossed](https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/0b6d/live/32e61270-da00-11f1-b441-2b33b063138f.jpg)
+![A pink fluffy soft-toy, with rabbit ears but a cartoonish human face.](https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/bb22/live/936d6460-d9f9-11f1-93e1-3b657b665bcf.jpg)
+![A video game character fights a skull with spider legs](https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5d5d/live/858b4c70-da00-11f1-93e1-3b657b665bcf.jpg)
+![A woman with glasses and a brown bob cut looks off the camera. She is wearing a black top with a silver-coloured zip.](https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5341/live/1dfe11a0-da1e-11f1-93e1-3b657b665bcf.jpg)
+![A close up of a hand typing on a keyboard in the dark](https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/15bf/live/8b430dd0-da12-11f1-93e1-3b657b665bcf.jpg)
+![A satellite image showing construction work in Iran, highlighted by a neon green circle.](https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/943a/live/bd4ae0a0-da17-11f1-a701-fddedf244c16.jpg)
+![A drone photo shows Prime Data Center, located at 4701 S. Santa Fe Avenue in Vernon, California.](https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4b64/live/d6aeb7b0-da1c-11f1-93e1-3b657b665bcf.jpg)
+![ A man with narrow white sideburns, a bushy beard and moustache. He is wearing a blue jacket and a white shirt with stripes.](https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/b60e/live/e07d1e20-d9ff-11f1-93e1-3b657b665bcf.jpg)
+![A young woman sitting at a desk, holding some white papers in her left hand while using a laptop with her right.](https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5e09/live/fb3a1b90-da0f-11f1-b441-2b33b063138f.jpg)
+![An adult pulling a child on a sledge down a very snowy street.](https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/132a/live/b19e90f0-d90c-11f1-93e1-3b657b665bcf.jpg)
+![Paul Mackenzie is bald. He is wearing black trousers, and a grey polo T-shirt.](https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/968f/live/f3738b80-da0a-11f1-93e1-3b657b665bcf.jpg)
+![A man with short dark hair and glasses talks to someone off-camera](https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9422/live/634e72a0-d9f0-11f1-a701-fddedf244c16.jpg)
+![A graphical composite image showing a plane on the tarmac of an airport next to the BBC Verify logo.](https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/9d71/live/def186d0-d9d8-11f1-b441-2b33b063138f.jpg)
+
+## Top stories
+
+Police investigations continue after British citizen among six killed in Krakow shooting
+
+Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat
+
+Veterans shouldn't sleep rough this Christmas, Burnham says
+
+## More to explore
+
+Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat
+
+![Smoke rises from the Kehlsteinhaus, the former Nazi mountain retreat known as the Eagle's Nest, in Berchtesgaden, Germany, in this screengrab from a webcam video taken on October 24, 2026](https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/5d01/live/81eb37e0-d877-11f1-a701-fddedf244c16.jpg)
+
+My parents chose to die together and I was left to grieve alone
+
+![Els, Jan and Bas. Els has short grey hair and is wearing glasses and a Navy top. Jan has brown, grey hair and a brown moustache which is big and bushy and wears a blue and white stripe polo top. Bas has short brown hair and is wearing a grey t-shirt underneath a navy and white top.](https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/0bdf/live/66ee1fc0-d90d-11f1-b441-2b33b063138f.jpg)
+
+Labubu hype seemed unstoppable, now the fluffy monster mania is dying
+
+![Labubu mega-fan Ensito smiling for a selfie with a lime green Labubu. Ensito is wearing custom-made spiky teeth to mimic a Labubu's smile.](https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/79bc/live/19d4a530-d90b-11f1-93e1-3b657b665bcf.jpg)
+
+The Trump coalition is shattered - what will Republicans do now?
+
+![Donald Trump](https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/fa4b/live/74e0bf70-dae8-11f1-93e1-3b657b665bcf.jpg)
+
+The Papers: 'Briton dies in Krakow shootings' and 'Royals honour the fallen'
+
+![The front pages of the Sunday Times and Sunday Express](https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/f2c8/live/b0f2a080-db30-11f1-b441-2b33b063138f.jpg)
+
+Ambika Mod says the 'glass ceiling is always getting higher' for South Asian actors
+
+![Ambika Mod stands in front of a Black Doves board. She wears a red dress and gold earrings.  ](https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/e970/live/32960de0-d864-11f1-b51e-f15a706e887c.jpg)
+
+The rise of microdramas: The 'snackable' shows made for the scrolling age
+
+![Three photos in a composite showing scenes from a film](https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/7b15/live/9cf3fa20-d9e1-11f1-a701-fddedf244c16.png)
+
+Can the Zelda remake capture the magic of the original?
+
+![A screenshot from the new game. The character Link is dressed in a green outfit with lots of detail like weave and thread. He has parted blonde hair, pointy ears and big blue eyes. He is holding an ocarina - a wind musical instrument with holes to put your fingers on and a mouthpiece to blow in, not dissimilar to a recorder. He is standing in a courtyard with flowers in the background and a white ball of light on the right - we can tell it is a fairy by its wings.](https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/7e2f/live/adc5ae70-d699-11f1-8052-913cc7942a17.jpg)
+
+US Politics Unspun: Cut through the noise with Anthony Zurcher's newsletter
+
+![A cut of of Anthony Zurcher wearing a suit and tie in front of a red, black, grey and blue graphic background featuring the US Capitol Building ](https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/8046/live/757cc4b0-122f-11f1-b048-c9424b2cf5fd.png)
+
+## Elsewhere on the BBC
+
+Let the mind games begin in The Traitors Ireland
+
+![The Traitors Ireland](https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/e285/live/28e38540-d48e-11f1-b441-2b33b063138f.jpg)
+
+Keith Richards recalls how he wrote the iconic 'Satisfaction'
+
+![Desert Island Discs: Postcards](https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/8365/live/618981c0-9fb3-11f1-b109-879e35c24276.jpg)
+
+Stacey Dooley explores the unexpected death of 19-year-old soldier Jaysley Beck
+
+![Stacey Dooley Death in the Barracks](https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/050e/live/3f5551d0-d1e8-11f1-93e1-3b657b665bcf.jpg)
+
+A toast to the formation of the Campaign for Real Ale in 1971
+
+![Witness History: Britain's real ale revolution](https://ichef.bbci.co.uk/ace/standard/480/cpsprodpb/5fc6/live/83919980-d314-11f1-93e1-3b657b665bcf.jpg)
+
+## Most read
+
+Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat
+
+Two seriously injured after M20 crash involving more than 30 vehicles in Kent
+
+My parents chose to die together and I was left to grieve alone
+
+'Briton dies in Krakow shootings' and 'Royals honour the fallen'
+
+Israel's president tasks opposition leader Eisenkot with forming government
+
+Royal Family join veterans and families at Festival of Remembrance
+
+Labubu hype seemed unstoppable, now the fluffy monster mania is dying
+
+Veterans shouldn't sleep rough this Christmas, Burnham says
+
+'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary
+
+Six killed in Krakow 'far-right' shooting, as three more bodies found in suspect's home
+
+## BBC News Services
+
+Copyright © 2026 BBC. The BBC is not responsible for the content of external sites. [Read about our approach to external linking.](https://www.bbc.co.uk/editorialguidelines/guidance/links-and-feeds)
+
+![](https://sb.scorecardresearch.com/p?c1=2&c2=17986528&cs_ucfr=0&cv=2.0&cj=1)

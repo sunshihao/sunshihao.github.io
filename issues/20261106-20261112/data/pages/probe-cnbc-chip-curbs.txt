@@ -1,0 +1,38 @@
+# Nvidia fallout revives push for chip curbs ahead of China summit
+URL: https://www.cnbc.com/2026/11/12/nvidia-trump-jensen-chip-export-controls-china-xi-.html
+Published: 2026-11-12
+Author: Anniek Bao
+
+Nvidia fallout revives push for chip curbs ahead of China summit
+
+# Jensen Huang's affair with alleged spy revives push to tighten China chip curbs ahead of Trump-Xi summit
+
+Published Thu, Nov 12 2026 2:16 AM EST Updated Thu, Nov 12 2026 2:50 AM EST
+
+Anniek Bao@in/anniek-bao-460a48107/@anniekbyx
+
+Key Points
+
+- The scandal engulfing Nvidia CEO Jensen Huang has added ammunition for policymakers to press for further restrictions on China's access to advanced AI chips.
+- The fallout also puts offshore data-center hubs that provide restricted chips to Chinese customers under fresh scrutiny.
+- Developments so far are unlikely to derail the Trump-Xi summit next week, though tougher U.S. chip curbs could still stir irritation in Beijing, analysts say.
+
+(L-R) Dell Techologies CEO Michael Dell and US' CEO Of nvidia Jensen Huang attend the "Golden Age of American Innovation Summit" at the Institute of Peace in Washington, DC, Oct. 8, 2026.
+
+Kent Nishimura | AFP | Getty Images
+
+The scandal engulfing Nvidia Add To Watchlist Corp CEO Jensen Huang is bolstering the case for U.S. lawmakers seeking tighter restrictions on China's access to advanced AI chips, just days before President Donald Trump's planned meeting with Xi Jinping next week.
+
+The U.S. and China are locked in a race to achieve global AI supremacy, with Washington spending years restricting China's access to Nvidia's most advanced chips to slow its technological progress. Huang was among the loudest voices opposing U.S. strict export controls on advanced chips to China, which has irked some China hawks.
+
+The alleged affair with Alice Huang, a Chinese citizen who is not related to him and was reportedly recruited by Chinese intelligence to gather information, has given lawmakers fresh ammunition to push for the inclusion of a series of chip-control measures in this year's National Defense Authorization Act (NDAA). 
+
+The bills include the AI Overwatch Act, the Chip Security Act and the MATCH Act – all of which are aimed at limiting the flow of advanced chips to U.S. adversaries, particularly China. 
+
+Huang had been "the industry's most effective lobbyist against tighter rules," said David Meale, head of Eurasia Group's China practice and an American diplomat who served as deputy chief of mission at the U.S. embassy in Beijing.
+
+But the scandal has weakened Nvidia's "singular ability to slow the progress of those bills" — which were stalled by pushback from corporates and the White House— and made it "politically harder for negotiators to strip chip provisions out of this year's NDAA," Meale said. 
+
+Senate Democratic leader Chuck Schumer on Tuesday called on Congress to pass these bills and urged a full accounting of Trump's defense of Huang. House Select Committee on China Chairman John Moolenaar, R-Mich., also called for inclusion of chip export controls in the annual defense policy bill. 
+
+Trump's weakened grip over congressional Republicans following the midterm defeat has also made it harder for

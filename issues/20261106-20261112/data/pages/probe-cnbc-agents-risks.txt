@@ -1,0 +1,30 @@
+# AI agent testing reveals a risky future of 'teamwork' inside companies
+URL: https://www.cnbc.com/2026/11/08/ai-agents-risks.html
+Published: 2026-11-08
+Author: Trevor Laurence Jockims
+
+AI agent testing reveals a risky future of 'teamwork' inside companies
+
+# Recent AI agent experiments reveal a risky future of machine 'teamwork' inside corporations
+
+Published Sun, Nov 8 2026 9:14 AM EST
+
+Trevor Laurence Jockims
+
+Key Points
+
+- OpenAI's rogue agents are the most high-profile example of how artificial intelligence can bypass restrictions and take actions that resemble lying and cheating.
+- The evolving research on how AI agents collaborate as a team shows more examples of troubling behavior.
+- Anthropic and research collaborators found in a study that multi-agent organizations were more effective at achieving business goals, but their solutions were also the "least ethical."
+
+OpenAI CEO Sam Altman delivers the keynote address during the OpenAI developers conference at Fort Mason on September 29, 2026 in San Francisco, California. Altman announced new artificial intelligence personal assistant agents named "dots" to rival Meta's Muse. 
+
+AI agents have been caught circumventing restrictions, communicating through unauthorized channels and pursuing goals in ways their creators did not intend. The most high-profile example emerged last summer when OpenAI disclosed that its models found ways to communicate through improvised channels, bypass internet restrictions and hack into an outside system, Hugging Face.
+
+AI behaving in unexpected ways is nothing new, but the unexpected behavior that can emerge from interactions among authorized AI agents within a corporate enterprise is a broader question that could become central to the future of work.
+
+In its analysis of the Hugging Face attack, METR and Redwood Research found that roughly 1200 agents meant to be isolated from one another found a way to communicate with one another on an unsanctioned message board, sending over 70,000 messages and files during the investigation period. One agent, PHASEONE[big], emerged as a coordinator, assigning hundreds of tasks to other agents, which in turn delegated work to others. The agents developed their own conventions for assigning ownership, placing work on hold and vetoing actions, although coordination sometimes broke down into conflicts. In some cases, the researchers found, success was achieved because some agents risked failing at their own task to generate information for the "collective."
+
+The researchers also found that once the message board identified a way to attack Hugging Face, over 90% of the 533 agents active at that time quickly joined in the attack. "Agents realized this activity was out of scope and unethical but joined because they believed that helping the board's cheating research would be broadly useful and had a general inclination to help their 'peers.' The researchers added that ethical concerns posed by agents "rarely limited their behavior."
+
+Companies are increasingly exploring systems that divide complex tasks among specialized agents. One might search for information, another analyze it, another write a report and anoth

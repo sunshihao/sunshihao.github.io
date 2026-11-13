@@ -1,0 +1,55 @@
+In this article
+
+Nvidia CEO Jensen Huang's close ties to the U.S. government were already poised to loosen with Democrats winning control of Congress and promising far more oversight of AI development than what the chip giant has experienced under Republican leadership.
+
+That was before Huang admitted on Sunday to having an extramarital affair with a businesswoman who intelligence agencies say is a Chinese spy. The woman, Alice Huang, is affiliated with an Nvidia customer called Megaspeed that's been accused of helping restricted Chinese companies acquire Nvidia's artificial intelligence chips.
+
+Huang apologized to staffers in a note on Sunday for being "unfaithful to my wife," and said the company's board was investigating any related national security concerns. Nvidia's board said it has "confidence in Jensen," who co-founded the company in 1993 and has led it ever since, building a net worth of over $150 billion in the process.
+
+Even prior to last week's midterm elections, which saw Democrats win sweeping majorities in the House and Senate, vocal party leaders wanted answers from Huang about China's access to advanced Nvidia chips and his company's lobbying for favorable legislation. Sen. Elizabeth Warren of Massachusetts said days before the election, when the spy story was first surfacing, that "we must pass bipartisan legislation to keep our advanced AI technology out of China's hands." Months before that, in June, Huang declined an invitation from Warren to testify before the Senate Banking Committee.
+
+With Democrats about to take the gavel, Delaware Sen. Chris Coons, who is in line to chair the Senate Foreign Relations Committee, wrote on X on Saturday that "Congress will investigate and get answers," following the allegations that appeared in a New York Times report Friday.
+
+It's a sharp reversal for Huang, who gained first-name status with President Donald Trump and has been closely allied with the administration in trying to limit AI regulation. Nvidia shares plunged 12% in the two days after the election, pacing a drop in AI-related stocks, on fears that incoming lawmakers, at the federal and state levels, and a host of newly passed ballot measures will slow the buildout and halt the AI boom.
+
+Huang is a singular voice in the AI industry, as his company's technology is used to train nearly all major AI models. He's also turned Nvidia into an essential source of financing for AI startups, and pulled together some of the biggest names on Wall Street into a group that announced plans in August to raise $500 billion for investing in the buildout.
+
+At Nvidia, Huang is the sole public face of the company and has no clear second-in-command. He decides which projects are a strategic priority, and frequently sends short emails to individual engineers about details. Huang has said he has 60 direct reports and reviews every employee's salary. Meanwhile, he packs his calendar with meetings with world leaders and CEOs, alongside keynote speeches at conferences and trade shows.
+
+"Nvidia is not an ordinary company and Jensen is not an ordinary CEO; he IS Nvidia," Bernstein analyst Stacy Rasgon wrote in a note on Sunday, adding that it's not clear who would succeed him.
+
+Patrick Moorhead, CEO at Moor Insights & Strategy, said in an email that "Jensen holding so much power is why Nvidia moves faster than anyone."
+
+Unlike many of his tech peers, Huang is not chairman of the board. Rather, he's one of 11 board members, and there's no designated chair.
+
+One investor close to Huang told CNBC that, depending on what the board's investigation finds, he could foresee Huang taking a leave of absence.
+
+"Today's news will not slow Nvidia," a company spokesperson said in a statement. "Jensen is committed to continuing to lead Nvidia as CEO without interruption."
+
+But scrutiny of Nvidia is set to intensify on Wall Street and in Washington, where Huang's level of influence is almost certain to change.
+
+He has been a major advocate for more chip exports to China, arguing that it's better for AI labs there to build on American technology than to encourage the development of domestic alternatives. Huang joined Trump on Air Force One in May on a China trip that's now raised additional questions about what the administration and Huang knew about Chinese spying at the time.
+
+One question Democrats are likely to probe is whether the Trump administration was aware of Huang's relationship with the alleged Chinese spy, and whether the Nvidia CEO influenced American policy, said Sam Bresnick, a research fellow at the Center for Security and Emerging Technology.
+
+"That is going to be very high up on the Democrats' lists of people to investigate to try to figure out to what extent was the Trump administration aware of what was going on," Bresnick said.
+
+But pressure isn't just coming from Democrats. House Republican leaders have already asked Huang for a closed-door briefing on Chinese spying issues later this month.
+
+Trump has continued to back Huang, telling reporters on Sunday that he's an "honorable guy" and has "done an amazing job for our country."
+
+"I think he probably has an excuse for it," Trump said of the incident.
+
+Amid all the noise about the election results and the spying revelations, Nvidia is facing a crucial stretch on the markets.
+
+Neoclouds CoreWeave and Nebius, which are both backed by Nvidia and are big buyers of its chips, report earnings this week after their stocks lost roughly half their value over the past month. Investors are particularly concerned about their hefty debt loads and how they'll continue to fund their buildouts with interest rates rising and lenders turning skittish.
+
+Nvidia has its own earnings report coming on Nov. 17, when Huang, assuming he sticks with the typical format, will face questions from analysts. And then there's the Anthropic IPO, which is critical for Nvidia as it's both an investor in the Claude creator and counts the AI lab as a significant customer.
+
+A couple of weeks after earnings, Nvidia is hosting a large conference in Washington D.C., where Huang is scheduled to give the keynote on Dec. 1.
+
+Bullish investors and analysts can still point to the insatiable demand for Nvidia's technology. The company recently projected 70% sales growth in its upcoming fiscal year. Analysts polled by FactSet expect nearly $694 billion in fiscal 2028 sales.
+
+"We believe demand for the company's products seems unlikely to be affected," Rasgon wrote. "But it seems plausible to postulate increased risks (regulatory etc.) as AI buildouts become an increasingly political issue."
+
+— CNBC's Seema Mody, Katie Tarasov, Ashley Capoot and MacKenzie Sigalos contributed reporting to this report.

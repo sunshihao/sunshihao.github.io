@@ -1,0 +1,182 @@
+[Skip to main content](https://openai.com/index/introducing-gpt-6-1-terra/#main)
+
+[](https://openai.com/)
+
+*   [Research](https://openai.com/research/index/)
+*   Products
+*   [Business](https://openai.com/business/)
+*   [Developers](https://openai.com/api/)
+*   [Company](https://openai.com/about/)
+*   [Foundation(opens in a new window)](https://openaifoundation.org/)
+
+Log in[Try ChatGPT(opens in a new window)](https://chatgpt.com/?openaicom-did=16c6c1aa-c2a2-46fd-9a67-6a07f33e0993&openaicom_referred=true)
+
+*   Research
+*   Products
+*   Business
+*   Developers
+*   Company
+*   [Foundation(opens in a new window)](https://openaifoundation.org/)
+
+Introducing GPT-6.1 Terra | OpenAI
+
+# GPT-6.1 Terra
+
+From visual understanding to action
+
+*   [From visual understanding to action](https://openai.com/index/introducing-gpt-6-1-terra/#from-visual-understanding-to-action)
+*   [A significant step up on factuality and coding](https://openai.com/index/introducing-gpt-6-1-terra/#a-significant-step-up-on-factuality-and-coding)
+*   [Safety and alignment](https://openai.com/index/introducing-gpt-6-1-terra/#safety-and-alignment)
+*   [Pricing and availability](https://openai.com/index/introducing-gpt-6-1-terra/#pricing-and-availability)
+
+*   [From visual understanding to action](https://openai.com/index/introducing-gpt-6-1-terra/#from-visual-understanding-to-action)
+*   [A significant step up on factuality and coding](https://openai.com/index/introducing-gpt-6-1-terra/#a-significant-step-up-on-factuality-and-coding)
+*   [Safety and alignment](https://openai.com/index/introducing-gpt-6-1-terra/#safety-and-alignment)
+*   [Pricing and availability](https://openai.com/index/introducing-gpt-6-1-terra/#pricing-and-availability)
+
+## Delivering fast and capable computer use at scale
+
+A 30-second introduction to GPT-6.1 Terra.
+
+[Video 1](https://vimeo.com/1238583651)
+
+We’re introducing **GPT-6.1 Terra**, a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting proposals and interpreting technical drawings to filling out forms and editing videos.
+
+Terra continues to advance the cost-intelligence frontier across our model families, providing a new balance of speed, capability, and cost. Its standard API prices are 50% lower than those of GPT-5.6 Terra and GPT-6.1 Sol, making it practical for developers to automate high-volume work, like reading incoming invoices and entering their details into accounting software. In ChatGPT Work and Codex, your plan goes further with GPT-6.1 Terra—the same usage allowance covers more tasks than with GPT‑5.6 Terra and substantially more than with GPT‑6.1 Sol or GPT‑6 Astra.
+
+## From visual understanding to action
+
+We measured GPT-6.1 Terra’s computer-use capabilities on **Agents’ Last Exam,** a benchmark of professional tasks that includes turning architectural drawings into a 3D model and reviewing an animated film shot by shot to create a time-coded log for a restoration team. At medium reasoning effort, GPT-6.1 Terra scores 15 percentage points higher than GPT-5.6 Terra at about one-third the cost. It even performs on par with GPT-6 Astra at only one-tenth its price per token. At max effort, Terra is over three times as token efficient as Claude Opus 5.5, and one-fourth its price per token, resulting in a ~9x lower cost per task. Terra is also much quicker, completing tasks **over three times faster** than both GPT-6 Astra and GPT-6.1 Sol.
+
+Agents’ Last Exam v1
+
+GPT-6.1 Terra
+
+GPT-5.6 Terra
+
+GPT-6.1 Sol
+
+GPT-6 Astra
+
+GPT-6 Luna
+
+Claude Opus 5.5
+
+On **MMMU-Pro**, a benchmark of visual reasoning, GPT-6.1 Terra outperforms GPT-5.6 Terra at every reasoning setting. It even nearly matches the scores of our most capable frontier model, GPT-6 Astra, and GPT-6.1 Sol at much lower cost.
+
+MMMU-Pro (Vision)
+
+GPT-6.1 Terra
+
+GPT-5.6 Terra
+
+GPT-6.1 Sol
+
+GPT-6 Astra
+
+GPT-6 Luna
+
+**OSWorld 2.1** tests how well AI agents use desktop apps to complete multistep tasks, such as building a 3D model from a technical drawing. At medium reasoning effort, GPT-6.1 Terra surpasses GPT-5.6 Terra’s best score at a fraction of the cost per task.
+
+## A significant step up on factuality and coding
+
+This year, we’ve invested heavily in reducing hallucinations and factual errors produced by our models. On our internal benchmark of error-inducing prompts, the error rate at low reasoning effort fell from 53.6% with GPT-5.6 Terra to 16.7% with GPT-6.1 Terra, a drop of nearly 37 percentage points. At maximum effort, the error rate fell by 18 percentage points to 4.3%, nearly matching the rates for GPT-6 Astra and GPT-6.1 Sol.
+
+GPT-6.1 Terra marks a substantial improvement over GPT-5.6 Terra for software engineering. **Terminal-Bench 4.0** tests how well coding agents solve problems from the command line, such as fixing a webpage whose layout shifts as it loads. At maximum reasoning effort, GPT‑6.1 Terra solves 50.3% of tasks, more than double GPT‑5.6 Terra’s published score of 21.5%. For the most complex coding tasks, GPT-6.1 Sol and GPT-6 Astra remain the better choice.
+
+**Terminal-Bench-Science 0.1** tests how well agents use code to carry out scientific research tasks, such as tracking cell divisions in a time-lapse video. At max reasoning, GPT-6.1 Terra surpasses GPT-6.1 Sol at lower cost, coming within five points of Opus 5.5 at less than one-fifth the estimated cost.
+
+## Safety and alignment
+
+As we make powerful AI more efficient and accessible, we continue training, testing, and refining our safeguards. GPT‑6.1 Terra meets the Critical threshold in cybersecurity under our Preparedness Framework, and maintains the protections developed for GPT‑6 Astra.
+
+GPT-6.1 Terra brings with it the alignment improvements of the GPT-6 series. According to our evaluations, GPT-6.1 Terra is more likely to stay within scope and honestly disclose limitations and potential blockers to the user compared to GPT-5.6 Terra. In our prompt-injection tests, GPT-6.1 Terra also showed strong resistance to malicious instructions designed to divert it from the user’s task. More detail is available in the [system card⁠(opens in a new window)](https://deploymentsafety.openai.com/gpt-6-1-terra).
+
+## Pricing and availability
+
+Starting today, GPT-6.1 Terra is available to all Plus, Pro, Enterprise, and Edu users in ChatGPT Work and Codex. Developers can also access it through the OpenAI API as `gpt-6.1-terra`.
+
+Standard API pricing is $1 per million input tokens, $0.05 per million cached input tokens, and $5 per million output tokens.
+
+*   [2026](https://openai.com/news/?tags=2026)
+*   [GPT](https://openai.com/news/?tags=gpt)
+
+## Author
+
+OpenAI
+
+Research
+*   [Research Index](https://openai.com/research/index/)
+*   [Research Overview](https://openai.com/research/)
+*   [Economic Research](https://openai.com/signals/)
+
+Latest Advancements
+*   [GPT-6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol/)
+*   [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
+*   [GPT-5.6](https://openai.com/index/gpt-5-6/)
+*   [GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)
+
+Safety
+*   [Safety Approach](https://openai.com/safety/)
+*   [Deployment Safety(opens in a new window)](https://deploymentsafety.openai.com/)
+*   [Security & Privacy](https://openai.com/security-and-privacy/)
+*   [Trust & Transparency](https://openai.com/trust-and-transparency/)
+
+Products
+*   [ChatGPT(opens in a new window)](https://chatgpt.com/?openaicom-did=16c6c1aa-c2a2-46fd-9a67-6a07f33e0993&openaicom_referred=true)
+*   [ChatGPT Business(opens in a new window)](https://chatgpt.com/business/?openaicom-did=16c6c1aa-c2a2-46fd-9a67-6a07f33e0993&openaicom_referred=true)
+*   [ChatGPT Enterprise(opens in a new window)](https://chatgpt.com/business/enterprise/?openaicom-did=16c6c1aa-c2a2-46fd-9a67-6a07f33e0993&openaicom_referred=true)
+*   [ChatGPT for Education(opens in a new window)](https://chatgpt.com/business/education/?openaicom-did=16c6c1aa-c2a2-46fd-9a67-6a07f33e0993&openaicom_referred=true)
+*   [Codex](https://chatgpt.com/codex/?openaicom-did=16c6c1aa-c2a2-46fd-9a67-6a07f33e0993&openaicom_referred=true)
+*   [Dots(opens in a new window)](https://chatgpt.com/features/dots?openaicom-did=16c6c1aa-c2a2-46fd-9a67-6a07f33e0993&openaicom_referred=true)
+*   [Release Notes](https://openai.com/products/release-notes/)
+
+API Platform
+*   [Overview](https://openai.com/api/)
+*   [API Log In(opens in a new window)](https://platform.openai.com/login)
+*   [Docs(opens in a new window)](https://developers.openai.com/api/docs)
+
+Business
+*   [Overview](https://openai.com/business/)
+*   [Solutions](https://openai.com/solutions/)
+*   [Resources](https://openai.com/business/learn/)
+*   [Plugins](https://openai.com/business/plugins/)
+*   [Customer Stories](https://openai.com/business/customer-stories/)
+*   [Partner Network](https://openai.com/business/partners/)
+*   [Contact Sales](https://openai.com/contact-sales/)
+
+Developers
+*   [Plugins(opens in a new window)](https://developers.openai.com/plugins)
+*   [Models(opens in a new window)](https://developers.openai.com/api/docs/models)
+*   [Docs(opens in a new window)](https://developers.openai.com/)
+*   [Resources(opens in a new window)](https://developers.openai.com/learn)
+*   [Developer Forum(opens in a new window)](https://community.openai.com/)
+
+Company
+*   [About Us](https://openai.com/about/)
+*   [Our Charter](https://openai.com/charter/)
+*   [Careers](https://openai.com/careers/)
+*   [News](https://openai.com/news/)
+
+Support
+*   [Help Center(opens in a new window)](https://help.openai.com/)
+*   [OpenAI Status(opens in a new window)](https://status.openai.com/)
+
+More
+*   [Stories](https://openai.com/stories/)
+*   [Academy](https://openai.com/academy/)
+*   [Supply Co.](https://openai.com/supply/)
+*   [Livestreams](https://openai.com/live/)
+*   [Podcast](https://openai.com/podcast/)
+*   [RSS](https://openai.com/news/rss.xml)
+
+Terms & Policies
+*   [Terms of Use](https://openai.com/policies/terms-of-use/)
+*   [Privacy Policy](https://openai.com/policies/privacy-policy/)
+*   [Other Policies](https://openai.com/policies/)
+
+[(opens in a new window)](https://x.com/OpenAI)[(opens in a new window)](https://www.youtube.com/OpenAI)[(opens in a new window)](https://www.linkedin.com/company/openai)[(opens in a new window)](https://github.com/openai)[(opens in a new window)](https://www.instagram.com/openai/)[(opens in a new window)](https://www.tiktok.com/@openai)[(opens in a new window)](https://discord.gg/openai)
+
+OpenAI © 2015–2026 Your privacy choices
+
+English United States

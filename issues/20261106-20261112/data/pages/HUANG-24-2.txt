@@ -1,0 +1,58 @@
+# Filing Detail
+
+* [SEC Home](/index.htm) »
+* [Company Search](/edgar/searchedgar/companysearch.html) »
+* Current Page
+
+**Form 8-K** - Current report
+
+**SEC Accession No.** 0001045810-26-000082
+
+Filing Date
+
+2026-11-12
+
+Accepted
+
+2026-11-12 08:52:41
+
+Documents
+
+12
+
+Period of Report
+
+2026-11-11
+
+Items
+
+Item 5.02: Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers: Compensatory Arrangements of Certain Officers  
+Item 9.01: Financial Statements and Exhibits
+
+Document Format Files
+
+| Seq | Description | Document | Type | Size |
+| --- | --- | --- | --- | --- |
+| 1 | 8-K | [nvda-20261111.htm iXBRL](/ix?doc=/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm) | 8-K | 23068 |
+| 2 | EX-99.1 | [nvidiaannouncesceotransiti.htm](/Archives/edgar/data/1045810/000104581026000082/nvidiaannouncesceotransiti.htm) | EX-99.1 | 11297 |
+|  | Complete submission text file | [0001045810-26-000082.txt](/Archives/edgar/data/1045810/000104581026000082/0001045810-26-000082.txt) |  | 153008 |
+
+Data Files
+
+| Seq | Description | Document | Type | Size |
+| --- | --- | --- | --- | --- |
+| 3 | XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT | [nvda-20261111.xsd](/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.xsd) | EX-101.SCH | 1876 |
+| 4 | XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT | [nvda-20261111\_lab.xml](/Archives/edgar/data/1045810/000104581026000082/nvda-20261111_lab.xml) | EX-101.LAB | 21885 |
+| 5 | XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT | [nvda-20261111\_pre.xml](/Archives/edgar/data/1045810/000104581026000082/nvda-20261111_pre.xml) | EX-101.PRE | 12599 |
+| 15 | EXTRACTED XBRL INSTANCE DOCUMENT | [nvda-20261111\_htm.xml](/Archives/edgar/data/1045810/000104581026000082/nvda-20261111_htm.xml) | XML | 2711 |
+
+Mailing Address 2788 SAN TOMAS EXPRESSWAY  SANTA CLARA CA 95051
+
+Business Address 2788 SAN TOMAS EXPRESSWAY  SANTA CLARA CA 95051  408-486-2000
+
+NVIDIA CORP (Filer) CIK: [0001045810 (see all company filings)](/cgi-bin/browse-edgar?CIK=0001045810&action=getcompany)
+
+EIN.: **943177549** | State of Incorp.: **DE** | Fiscal Year End: **0131**  
+Type: **8-K** | Act: **34** | File No.: [**000-23985**](/cgi-bin/browse-edgar?filenum=000-23985&action=getcompany) | Film No.: **261543795**  
+SIC: **[3674](/cgi-bin/browse-edgar?action=getcompany&SIC=3674&owner=include)** Semiconductors & Related Devices  
+(CF Office: 04 Manufacturing)

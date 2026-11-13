@@ -1,0 +1,1217 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.reuters.com/world/middle-east/trump-meet-iran-war-mediator-qatar-no-imminent-deal-seen-end-war-2026-11-09",
+      "title": "Reuters: 特朗普会后称对伊战争军事上「基本结束」",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Sheikh Mohammed bin Abdulrahman Al-Thani, who is both prime minister and foreign minister of ​Qatar, will meet Trump and Vice President JD Vance in Washington later on Monday after having visited Tehran last week.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://apnews.com/article/iran-us-war-trump-qatar-c38770b168faf5e094e96c1e1e212cff",
+      "title": "Associated Press: 特朗普会后称对伊战争军事上「基本结束」",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "“Iran militarily is effectively over,” Trump said. “We’re just keeping it the status quo.”",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-congress-testify",
+      "title": "CBS News: 黄仁勋辞职后，众院三委员会协商其闭门作证",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "\"We are in discussions with him right now on a date to come and meet with us,\" said GOP Rep. John Moolenaar of Michigan, the chairman of the House Select Committee on China.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://thehill.com/homenews/senate/6217057-congress-jensen-huang-nvidia-national-security",
+      "title": "The Hill: 黄仁勋辞职后，众院三委员会协商其闭门作证",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Mast, who has long pushed for stricter chip export controls, said the former Nvidia CEO “agreed to come” in for a briefing that will likely be “under oath, transcribed, video recorded,” although negotiations are ongoing on the specifics.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
+      "title": "Associated Press: 俄乌阿布扎比会谈结束，同意大规模换俘",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Russia and Ukraine agreed to a large exchange of prisoners of war, both sides said Wednesday as two days of U.S. mediated talks concluded with no major breakthrough on ending Moscow's nearly 5-year-old full-scale invasion.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "url": "https://apnews.com/article/hegseth-impeachment-briefing-trump-massie-87a78193502f716e6fb8eee5aef06ac0",
+      "title": "Associated Press: 众院以211-204挡下赫格塞斯弹劾案",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "House Democratic leader Hakeem Jeffries, who is expected to become the next speaker when Democrats take charge in January, stood firmly behind the push, saying Hegseth has “abused his power” and “undermined America’s national security.”",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "url": "https://www.politico.com/news/2026/11/10/house-impeachment-hegseth-01160216",
+      "title": "Politico: 众院以211-204挡下赫格塞斯弹劾案",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "The 211-204 procedural vote killed the effort by Rep. Thomas Massie (R-Ky.) and ensured it would not move any further this Congress.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "url": "https://www.politico.com/live-updates/2026/11/10/congress/jim-jordan-house-republican-leader-01159192",
+      "title": "Politico: 乔丹击败斯卡利斯当选众院共和党领袖",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Jordan won the secret ballot vote 106-73, according to two people present for the tally.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "url": "https://www.nbcnews.com/politics/congress/republicans-reeling-election-choose-leadership-congress-rcna608300",
+      "title": "NBC News: 乔丹击败斯卡利斯当选众院共和党领袖",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "The vote was 106-73, the two lawmakers in the room said.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "url": "https://www.politico.com/news/2026/11/09/big-bend-supreme-court-ruling",
+      "title": "Politico: 最高法院8-1放行大弯国家公园边境墙施工",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "The justices ruled, 8-1, Monday in favor of the Trump administration’s emergency appeal seeking to lift a district judge’s order last month halting work in Big Bend National Park and surrounding areas.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
+      "title": "NPR: 最高法院8-1放行大弯国家公园边境墙施工",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "The U.S. Supreme Court on Monday allowed the Trump administration to continue with its plans to construct hundreds of miles of border barrier and security infrastructure in west Texas, while a court hearing over the effort moves forward.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "url": "https://www.cbsnews.com/news/john-eisenberg-justice-department-resigns",
+      "title": "CBS News: 司法部国安司与佛州联邦检察官同日辞职",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "John Eisenberg, the Justice Department's National Security Division assistant attorney general, abruptly resigned on Friday, the department said.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "url": "https://www.politico.com/news/2026/11/06/john-eisenberg-jason-quinones-doj-01153945",
+      "title": "Politico: 司法部国安司与佛州联邦检察官同日辞职",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "John Eisenberg, the assistant attorney general in charge of DOJ’s national security division, resigned Friday, according to two people familiar with the matter who were granted anonymity because they weren’t authorized to speak publicly.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "url": "https://apnews.com/article/schumer-bernie-sanders-senate-democrats-leadership-election-c5a182727397e964b19ad0dec5aeca42",
+      "title": "Associated Press: 桑德斯表态不支持舒默连任参院民主党领袖",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "“The time is now for change,” said Sanders, the independent from Vermont and essentially the father of modern progressivism in the U.S. “And I will not be supporting Chuck to be reelected as the Democratic leader.”",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "url": "https://www.politico.com/live-updates/2026/11/10/congress/sanders-dings-schumer-01159546",
+      "title": "Politico: 桑德斯表态不支持舒默连任参院民主党领袖",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Sanders announced his decision at a news conference with Sen. Elissa Slotkin (D-Mich.) shortly after Democrats huddled in their first full caucus meeting since returning to Washington following sweeping midterm election victories.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "url": "https://www.politico.com/live-updates/2026/11/10/congress/john-thune-reelected-senate-leader-01159523",
+      "title": "Politico: 图恩连任参院共和党领袖，党内否决推迟改选",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Senate Republicans reelected John Thune Tuesday to lead their party as it is thrust out of power in the next Congress.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "url": "https://www.pbs.org/newshour/politics/senate-republicans-vote-to-keep-thune-as-leader-after-election-wipeout",
+      "title": "Associated Press: 图恩连任参院共和党领袖，党内否决推迟改选",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Senate Republicans reelected South Dakota Sen. John Thune as leader of the GOP conference after a tense day of discussions about steep losses in the midterm elections that cost them their majority.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "url": "https://apnews.com/article/midterm-elections-congress-new-lawmakers-231d18d536141d9c19ac7e8cfca66eec",
+      "title": "Associated Press: 国会进入跛脚鸭会期，12月11日拨款大限在前",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "The House and Senate are in session for just six short weeks of a lame-duck sprint to finish up the Republican agenda before the GOP majorities come to an end, making way for the change of power on Jan. 3, 2027.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6030633/congress-is-coming-back-to-washington-heres-what-to-expect",
+      "title": "NPR: 国会进入跛脚鸭会期，12月11日拨款大限在前",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Funding is set to run out on December 11, when a stop-gap measure passed about a month ahead of the midterms expires.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-3f3668a937a11535103e3a5c8d82c9fc",
+      "title": "Associated Press: 英伟达换帅当日美股小幅收跌，纳指跌0.4%",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "The Nasdaq composite fell 100.10 points, or 0.4%, to 25,366.09.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "url": "https://www.cnbc.com/2026/11/11/stock-market-today-live-updates.html",
+      "title": "CNBC: 英伟达换帅当日美股小幅收跌，纳指跌0.4%",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Nvidia shares dipped more than 4% to touch a 52-week low after the company announced that Huang had resigned and named CFO Colette Kress as interim CEO.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "url": "https://apnews.com/article/inflation-gas-federal-reserve-prices-1318a1694472e2926e0a4ab5d8ca6457",
+      "title": "Associated Press: 美联储官员转向更快加息，12月加息概率升至90%",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Wall Street investors now see 90% odds that the Fed will lift borrowing costs at its next meeting Dec. 8-9, according to futures prices tracked by CME Fedwatch.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "url": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
+      "title": "CNBC: 美联储官员转向更快加息，12月加息概率升至90%",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "The report came after Fed Governor Christopher Waller said he would support \"more robust action\" if inflation readings are higher than expected.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "url": "https://www.cnbc.com/2026/11/05/stock-market-selloff-ai-fears.html",
+      "title": "CNBC: AI交易单日崩跌：纳指跌5.5%，七大科技股蒸发1万亿美元",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "The Nasdaq Composite sank 5.5% into correction territory on Thursday, while the S&P 500 fell about 4.4% and the Dow dwindled roughly 1,833 points, or 3.4%.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "url": "https://www.bbc.com/news/articles/cmn04705rd8jo",
+      "title": "BBC News: AI交易单日崩跌：纳指跌5.5%，七大科技股蒸发1万亿美元",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "The sell-off in US stocks meant the so-called magnificent seven tech companies, including Apple, Nvidia and Tesla, shed a trillion dollars in value in a single trading day, with Nvidia shares sliding more than 9%.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "url": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
+      "title": "CNBC: 10年期美债收益率重上5%，报5.125%",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "The yield on the 10-year U.S. Treasury Add To Watchlist note — the benchmark for mortgages, auto loans and credit card debt — rose more than 13 basis points to 5.125%.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "url": "https://www.ftc.gov/news-events/news/press-releases/2026/11/ftc-17-states-secure-63-million-settlement-family-dollar-stores-price-transparency-win-consumers",
+      "title": "U.S. Federal Trade Commission: FTC与17州同Family Dollar达成6300万美元和解",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Family Dollar will pay $63 million to settle Federal Trade Commission and state allegations that the company routinely charged customers more at the register than the prices displayed on shelves, price tags and advertisements, costing consumers millions of dollars.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "url": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
+      "title": "CNBC: 投行集中下调英伟达目标价，Bernstein腰斩至200美元",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Bernstein on Thursday slashed its price target on Nvidia's stock by half from $400 to $200.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "url": "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html",
+      "title": "CNBC: 投行集中下调英伟达目标价，Bernstein腰斩至200美元",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Citi analysts said overnight that they had trimmed their target price for Nvidia to $225, down from $285.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx",
+      "title": "CoreWeave Investor Relations: CoreWeave三季度营收36.6亿美元，上调全年指引",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "This was a breakout quarter for CoreWeave, with revenue increasing by more than $1 billion sequentially and adjusted operating margins reaching double digits a quarter ahead of plan",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "url": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+      "title": "CNBC: CoreWeave三季度营收36.6亿美元，上调全年指引",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "CoreWeave's revenue soared 168% from $1.36 billion a year earlier, according to a statement.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "url": "https://www.cnbc.com/2026/11/09/us-dollar-holds-onto-payrolls-gains-nz-dollar-rises-after-election.html",
+      "title": "CNBC/Reuters: 美元指数涨0.57%至102.26，欧元跌至1.116美元",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "The dollar index, which measures the greenback against a basket of six currencies ,​including the yen and the euro, rose 0.57% ‌to 102.26.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "url": "https://www.bls.gov/news.release/archives/cpi_11102026.htm",
+      "title": "U.S. Bureau of Labor Statistics: 美国10月CPI环比涨0.4%，核心CPI涨0.3%",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "The Consumer Price Index for All Urban Consumers (CPI-U) increased 0.4 percent on a seasonally adjusted basis in October after rising 0.6 percent in September, the U.S. Bureau of Labor Statistics reported today.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "url": "https://www.cnbc.com/2026/11/10/stock-market-today-live-updates.html",
+      "title": "CNBC: 美国10月CPI环比涨0.4%，核心CPI涨0.3%",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "The consumer price index rose 0.4% on a seasonally adjusted basis in October, according to the Bureau of Labor Statistics' Tuesday morning release.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "url": "https://www.sec.gov/Archives/edgar/data/2041610/000204161026000062/ex99_q326.htm",
+      "title": "Skydance Corporation (SEC 8-K Ex. 99): Skydance完成华纳收购后首份财报：季度净利7300万美元",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Paramount Skydance Q3 net earnings was $73 million and adj. EBITDA was $1.0 billion, a 14% margin on revenue of $7.0 billion, which grew 5% year-over-year.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "url": "https://www.skydance.com/news/press/skydance-reports-third-quarter-2026-financial-results-for-paramount-skydance",
+      "title": "Skydance Newsroom: Skydance完成华纳收购后首份财报：季度净利7300万美元",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Results reflect the period prior to the close of the Warner Bros. Discovery acquisition",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+      "title": "NVIDIA Newsroom: 英伟达宣布黄仁勋辞去CEO，CFO Kress任临时CEO",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "NVIDIA (NASDAQ: NVDA) Board of Directors announced today that Jensen Huang has resigned as President, Chief Executive Officer, and a member of the Board, effective immediately.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "url": "https://apnews.com/live/nvidia-ceo-jensen-huang-resignation-news-updates-11-12-2026",
+      "title": "Associated Press: 英伟达宣布黄仁勋辞去CEO，CFO Kress任临时CEO",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Nvidia CEO Jensen Huang resigned Thursday after his affair raised national security concerns.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "url": "https://en.yna.co.kr/view/AEN20261112003500320",
+      "title": "Yonhap News Agency: 三星与SK海力士评估英伟达换帅，供应链忧订单放缓",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "South Korean chipmakers Samsung Electronics Co. and SK hynix Inc. are monitoring leadership uncertainty at Nvidia Corp., one of their biggest clients, company insiders said Thursday.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "url": "https://www.trendforce.com/news/2026/11/10/news-nvidia-order-cuts-reportedly-loom-amid-huang-controversy-amd-asic-rivals-may-gain-tsmc-capacity",
+      "title": "TrendForce: 三星与SK海力士评估英伟达换帅，供应链忧订单放缓",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "According to Commercial Times, supply chain sources suggest that NVIDIA may slow chip orders, potentially affecting upstream suppliers such as TSMC and ASE.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "url": "https://www.koreajoongangdaily.com/business/jensen-huangs-exit-clouds-future-nvidia-demand-for-korean-chipmakers/12970507",
+      "title": "Korea JoongAng Daily: 三星与SK海力士评估英伟达换帅，供应链忧订单放缓",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Long-term agreements (LTA) already signed are unlikely to face significant disruption, but questions remain Nvidia's future purchasing plans and AI investment strategy under new leadership.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "url": "https://newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
+      "title": "IBM Newsroom: IBM发布Nighthawk r3，2027年推千比特双芯片系统",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "IBM (NYSE: [IBM](http://www.ibm.com/investor)) today announced IBM Quantum Nighthawk r3, its next-generation processor, will be built to accurately execute 10,000 quantum operations across 520 qubits to tackle larger, more complex problems while maintaining the speed and quality demonstrated by the current generation Nighthawk available today.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "url": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027",
+      "title": "Ars Technica: IBM发布Nighthawk r3，2027年推千比特双芯片系统",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "The changes greatly expand the scope of its next-generation Nighthawk general-use processors by adding a version with over 500 programmable qubits.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "title": "CNBC: 微软365全球大范围中断，Outlook与Teams受影响",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Microsoft suffered a widespread outage on Thursday that impacted thousands of users in North America, according to outage-tracking website Downdetector.com.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "url": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage",
+      "title": "TechCrunch: 微软365全球大范围中断，Outlook与Teams受影响",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Microsoft said its Outlook email service is currently experiencing an outage, preventing both business and consumer users from accessing their inboxes.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+      "title": "The Verge: 微软365全球大范围中断，Outlook与Teams受影响",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Since just before 1PM ET on Thursday, reports have come in from around the world that people can’t access their Outlook email, either through the web or apps.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "url": "https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness",
+      "title": "Ars Technica: Anduril首颗卫星验证长波红外，可在地影中追踪目标",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "The company’s satellite, named Anduril-216, flies about 590 km (366 mi) above Earth, spending about one-third of each orbit in darkness.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "url": "https://www.satellitetoday.com/technology/2026/11/10/first-anduril-satellite-on-orbit-is-for-space-domain-awareness",
+      "title": "Via Satellite: Anduril首颗卫星验证长波红外，可在地影中追踪目标",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "“You can’t fight in space if you can’t see in space,” Gokul Subramanian, an Anduril senior vice president and head of its space business, told reporters on Monday.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi",
+      "title": "Ars Technica: Grok Build约3.6万应用公开暴露，含SpaceXSI内部资料",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Grok Build, the vibe-coding agent from SpaceXSI, is leaking data—some of it proprietary business information and other sensitive secrets—from thousands of its users, including the very same Elon Musk-owned company that offers the platform, new research shows.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "url": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+      "title": "The Hacker News: Grok Build约3.6万应用公开暴露，含SpaceXSI内部资料",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Most of the open apps were games, landing pages, and calculators, but about 1 in 10 contained internal business or personal data.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "url": "https://pr.tsmc.com/english/news/3349",
+      "title": "TSMC: 台积电10月营收5868.9亿新台币，同比增长59.7%",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "On a consolidated basis, revenue for October 2026 was approximately NT$586.89 billion, an increase of 14.7 percent from September 2026 and an increase of 59.7 percent from October 2025.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-and-governor-hochul-improve-access-affordable-home",
+      "title": "New York Attorney General: T-Mobile与纽约州和解，取消低价宽带数据上限",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "As a result of OAG’s investigation, T-Mobile will end data caps that slowed the internet speeds of customers on ABA internet plans, offer ABA plans to more areas throughout the state, and make it easier for eligible New Yorkers to find and sign up for affordable internet plans.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says",
+      "title": "Ars Technica: T-Mobile与纽约州和解，取消低价宽带数据上限",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "The state law doesn’t specifically mention data caps, but it requires home Internet providers with at least 20,000 customers to offer plans at specific prices and minimum speeds to people who meet income-eligibility requirements.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "url": "https://www.fda.gov/drugs/drug-safety-communications/fda-requires-safety-labeling-changes-glucagon-peptide-1-receptor-agonists-glp-1-ras-due-potential",
+      "title": "U.S. Food and Drug Administration: FDA要求所有GLP-1药物标签加入NAION视力风险警告",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "The agency is requiring application holders for all GLP-1 RA medications to add information to the Warnings and Precautions section of labeling about the potential increased risk of NAION associated with use of these medications.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "url": "https://abcnews.com/GMA/Wellness/fda-orders-new-warning-ozempic-wegovy-glp-1/story?id=137981627",
+      "title": "ABC News: FDA要求所有GLP-1药物标签加入NAION视力风险警告",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "The condition, called nonarteritic anterior ischemic optic neuropathy, or NAION, occurs when blood flow to the optic nerve is reduced, causing sudden, painless vision loss, typically in one eye.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "url": "https://apnews.com/article/cybertruck-cybercab-discontinued-musk-sales-6938a145d365f8e31b26bb9c45264b24",
+      "title": "Associated Press: 马斯克宣布Cybertruck明年年中停产，产能转向Cybercab",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "CEO Elon Musk announced the model’s demise Friday with a curt post on X, his social media site, simply noting production of the vehicle “will be winding down” around the middle of 2027 at its facility outside Austin, Texas.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "url": "https://www.cnn.com/2026/11/06/business/tesla-winding-down-production-of-cybertruck",
+      "title": "CNN: 马斯克宣布Cybertruck明年年中停产，产能转向Cybercab",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Elon Musk said Friday that Tesla will wind down production of the vehicle at its factory in Austin, Texas — the only plant that makes the polarizing truck.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "url": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
+      "title": "CNBC: 英伟达换帅，AI 算力供给与资本开支待重估",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Following two reported extramarital affairs — one with an alleged Chinese spy and another with an employee — Huang is leaving the company he co-founded 33 years ago in crisis, and thrusting the AI market into chaos.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "url": "https://apnews.com/article/nvidia-jensen-huang-resigns-ceo-affairs-314714d463cf578cbb0dbd49de903107",
+      "title": "Associated Press: 英伟达换帅，AI 算力供给与资本开支待重估",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "The scandal marks the most tumultuous chapter yet for Nvidia, whose high-end chips have emerged as the leading building blocks for artificial intelligence.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available",
+      "title": "Google Blog: 谷歌向公众开放 Gemini 4 Carbon，主打长周期 agent",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Two weeks ago, we released Carbon to a set of cybersecurity defenders via our Fairwind Program.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "title": "The Verge: 谷歌向公众开放 Gemini 4 Carbon，主打长周期 agent",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "The model is launching with an introductory price of $2 per million input tokens and $10 per million output tokens, around a fifth the cost of OpenAI’s GPT-6 Astra and a quarter the cost of Anthropic’s Fable 5.2 model, which launched yesterday.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+      "title": "CNBC: Anthropic 设定 IPO 定价区间 70–78 美元",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Anthropic said it will offer 825 million shares in its upcoming IPO at a price range between $70 and $78 per share.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "url": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai",
+      "title": "The Guardian: Anthropic 设定 IPO 定价区间 70–78 美元",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Anthropic is seeking a valuation of up to $1.4tn (£1.1tn) in its imminent stock market flotation, short of the $2tn that had been expected before investors started to question the durability of the AI boom.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "url": "https://apnews.com/article/australia-artificial-intelligence-regulator-openai-agent-breach-a5dfe5379c0f7458e44b72a9073833c6",
+      "title": "Associated Press: 澳大利亚设 AI 安全监管机构，强制事件报告",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Australia plans to create an artificial intelligence safety regulator in response to a breach of an Australian health department website by a rogue OpenAI agent in June, Prime Minister Anthony Albanese said Tuesday.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "url": "https://www.theguardian.com/technology/2026/nov/10/australia-manadatory-reporting-openai-medicare-hack",
+      "title": "The Guardian: 澳大利亚设 AI 安全监管机构，强制事件报告",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "The rapid review came in response to an AI agent, developed by OpenAI, accessing data from Services Australia and three other systems in June.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "title": "Anthropic: Anthropic 发布 Fable 5.2，输入价降至 8 美元",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Testers have found that Fable 5.2 and Mythos 5.2 communicate more clearly than past Fable and Mythos models. They generate outputs up to 30% faster than Claude Fable 5.1 and Claude Mythos 5.1, and they’re available at a lower price: $8 per million input tokens and $40 per million output tokens.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "url": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
+      "title": "CNBC: Anthropic 发布 Fable 5.2，输入价降至 8 美元",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Fable 5.2 and Mythos 5.2 are Anthropic's most advanced offerings, and the company said they generate outputs 30% faster than their predecessors. The models also cost 20% less than the 5.1 generation, and will be available for $8 per million input tokens and $40 per million output tokens, the company said.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns",
+      "title": "TechCrunch: Anthropic 发布 Fable 5.2，输入价降至 8 美元",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Notably, Anthropic is lowering the cost of Fable from $10 to $8 per million input tokens.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect",
+      "title": "TechCrunch: 纽约开放 RAISE Act 登记，前沿模型商须报事故",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "The state opened a registration portal Tuesday, with which large frontier AI developers like Anthropic and OpenAI will be required to register by January 1, 2027.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "url": "https://www.dfs.ny.gov/digit/Frontier-Developers",
+      "title": "NY Department of Financial Services: 纽约开放 RAISE Act 登记，前沿模型商须报事故",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "All frontier developers must publish model transparency reports and report critical safety incidents in the timelines established under the Act.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "url": "https://newsroom.ibm.com/2026-11-10-ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation",
+      "title": "IBM Newsroom: IBM 与微软推出 Imagine Enterprise agent 平台",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "IBM (NYSE: IBM) and Microsoft (NASDAQ: MSFT) today announced Imagine Enterprise, an agentic platform designed to help enterprises build, run, and govern AI agents that help people execute industry-specific processes.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution",
+      "title": "TechCrunch: Meta 发布 Muse Ember，输入价每百万 token 10 美分",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Meta Superintelligence Lab released a new AI model on Monday called Muse Ember, the lab’s lightest and most cost-efficient AI model yet.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "url": "https://www.theverge.com/tech/1029979/meta-is-launching-its-smallest-and-most-efficient-ai-model-muse-ember",
+      "title": "The Verge: Meta 发布 Muse Ember，输入价每百万 token 10 美分",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "The company claims Muse Ember delivers “more intelligence per dollar” than Anthropic’s Claude Haiku 5.5 or OpenAI’s GPT-6 Luna “at any reasoning setting.”",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "url": "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html",
+      "title": "CNBC: 微软收缩 neocloud 合作名单，算力供给现压力",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "The software giant's plans pose another potential challenge for a corner of the artificial intelligence market that's showing signs of strain due to rising borrowing costs, hefty debt loads and concerns about whether the buildout will slow down.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+      "title": "CNBC: OpenAI CFO：中期选举不改数据中心投资节奏",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "OpenAI CFO Sarah Friar on Friday said the company will continue to invest in artificial intelligence infrastructure, even after voters strongly opposed data centers during Tuesday's midterm elections.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "url": "https://www.yicai.com/news/103438573.html",
+      "title": "第一财经: 英伟达罢免传闻叠加砍单消息，A股光模块午后跳水",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "12日上午市场流传台积电下调英伟达30%排产计划的消息，算力链因此承压，出现集中抛售。",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "url": "https://www.jiemian.com/article/15326684.html",
+      "title": "界面新闻: 英伟达罢免传闻叠加砍单消息，A股光模块午后跳水",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "英伟达治理风波击中叙事锚，AI应用端集体杀估值。",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "url": "https://www.sse.com.cn/aboutus/mediacenter/hotandd/c/c_20261112_10837510.shtml",
+      "title": "上海证券交易所（证监会副主席刘浩凌致辞原文）: 证监会：第三批互换便利已操作1000亿元，长钱净买入A股超6000亿",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "用好用足两项结构性货币政策工具，证券、基金公司已开展第三批互换便利操作1000亿元。",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "url": "https://finance.caixin.com/m/2026-11-12/102504124.html",
+      "title": "财新: 证监会：第三批互换便利已操作1000亿元，长钱净买入A股超6000亿",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "社保、年金、保险等中长期资金入市规模和比例稳步提升，年初以来净买入A股超过6000亿元",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "url": "http://www.news.cn/20261112/c508c026158746488b6ba352e4f940a6/c.html",
+      "title": "新华网: 证监会：第三批互换便利已操作1000亿元，长钱净买入A股超6000亿",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "证监会将完善稳市机制，增强股市内在稳定性，会同相关部门协同发力，打好稳市场、稳预期政策组合拳。",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026111116292271519/index.html",
+      "title": "中国人民银行: 央行三季度货币政策执行报告：继续实施适度宽松",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "坚持实施好适度宽松的货币政策，为经济稳定增长、高质量发展和金融市场平稳运行营造适宜的货币金融环境。",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "url": "https://www.cnfin.com/yw-lb/detail/20261112/4494622_1.html",
+      "title": "新华财经: 11月12日A股冲高回落：沪指跌0.67%，科创50逆势收红",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "截至收盘，沪指报3655.83点，跌幅0.67%，成交8795亿元；深证成指报11197.98点，跌幅1.68%，成交10525亿元；创业板指报2509.43点，跌幅2.44%，成交5274亿元。",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "url": "https://www.cnfin.com/yw-lb/detail/20261111/4494072_1.html",
+      "title": "新华财经: 11月11日A股放量反弹：创业板指涨3.11%，算力硬件领涨",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "截至收盘，沪指涨0.46%，收报3680.64点；深证成指涨1.32%，收报11389.74点；创业板指涨3.11%，收报2572.07点。",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "url": "https://www.yicai.com/news/103436240.html",
+      "title": "第一财经: 11月11日A股放量反弹：创业板指涨3.11%，算力硬件领涨",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "具体来看，CPO概念股涨幅明显，源杰科技涨停（20%），新易盛、中际旭创、天孚通信均涨超13%。",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "url": "https://www.csrc.gov.cn/csrc/c100028/c7670135/content.shtml",
+      "title": "中国证监会: 东方通虚假陈述案转入特别代表人诉讼，证监会表态支持",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "11月11日，北京金融法院发布东方通特别代表人诉讼权利登记公告，明确就该案适用特别代表人诉讼程序审理，提示投资者参加本诉讼的方式与法律后果，以及声明退出的权利及期间。",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "url": "https://www.sse.com.cn/disclosure/announcement/listing/ipo/c/c_20261109_10837163.shtml",
+      "title": "上海证券交易所: 钶锐锶科创板上市首日涨184.77%，为四季度首家",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "广东钶锐锶数控技术股份有限公司A股股票将在本所科创板上市交易。该公司A股股本为6851.43万股，其中1287.7616万股于2026年11月10日起上市交易。",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "url": "https://www.cnfin.com/gs-lb/detail/20261110/4493615_1.html",
+      "title": "新华财经: 钶锐锶科创板上市首日涨184.77%，为四季度首家",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "截至收盘，钶锐锶报129.2元/股，涨184.77%，成交额为16.1亿元，全天换手率为81.67%，盘中最高触及188元/股，最低128.22元/股，全天成交均价为153.12元/股。",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "url": "https://www.stats.gov.cn/sj/sjjd/202611/t20261109_1965796.html",
+      "title": "国家统计局: 10月CPI同比涨0.7%、PPI同比涨5.7%，PPI涨幅扩大",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "10月份，居民消费价格指数（CPI）环比持平；同比上涨0.7%，涨幅比上月回落0.2个百分点；扣除食品和能源价格的核心CPI同比上涨0.8%，涨幅比上月回落0.2个百分点。",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "url": "https://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026111208502561107/index.html",
+      "title": "中国人民银行公开市场业务操作室: 央行12日开展3840亿元隔夜逆回购，操作利率1.25%",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "2026年11月12日中国人民银行以固定利率、数量招标方式开展了3840亿元隔夜逆回购操作，全额满足了一级交易商需求。",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "url": "https://www.yicai.com/news/103431587.html",
+      "title": "第一财经: 两市融资余额降至22474.68亿元，单日减少235.09亿元",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "截至11月6日，上交所融资余额报11688.37亿元，较前一交易日减少119.61亿元；深交所融资余额报10786.31亿元，较前一交易日减少115.48亿元；两市合计22474.68亿元，较前一交易日减少235.09亿元。",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "url": "https://www.morningstar.com/news/dow-jones/202611117186/front-month-ice-brent-crude-rose-139-to-settle-at-9276-data-talk",
+      "title": "Dow Jones Newswires（经 Morningstar 发布）: 布伦特1月合约11日结算92.76美元，月内仍跌21%",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Front Month ICE Brent Crude for Jan. delivery gained $1.27 per barrel, or 1.39% to $92.76 today",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "url": "https://www.cnbc.com/2026/11/11/oil-rises-from-two-month-low-as-hormuz-shipping-attacks-offset-iran-truce-hopes.html",
+      "title": "CNBC: 布伦特1月合约11日结算92.76美元，月内仍跌21%",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Brent futures Add To Watchlist were up $1.27, or 1.39%, to settle at $92.76 a barrel.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "url": "https://www.ine.cn/data/tradedata/future/dailydata/kx20261112.dat",
+      "title": "上海国际能源交易中心（INE）每日行情: INE原油SC2701结算595.9元，周内跌5.5%后反弹",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "原油 sc2701 | 结算价 595.9 | 收盘价 599.9 | 前结算价 584.1 | 涨跌1 收盘-前结算 15.8 | 涨跌2 结算-前结算 11.8 | 成交量 77371 | 持仓量 26740",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "url": "https://www.shfe.com.cn/data/tradedata/future/dailydata/kx20261112.dat",
+      "title": "上海期货交易所每日行情: 上期所黄金au2612结算860.46元，周跌1.9%",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "黄金 au2612 | 结算价 860.46 | 收盘价 852.5 | 前结算价 870.5 | 涨跌1 收盘-前结算 -18 | 涨跌2 结算-前结算 -10.04 | 成交量 209762 | 持仓量 129365",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "url": "http://www.czce.com.cn/cn/DFSStaticFiles/Future/2026/20261112/FutureDataDaily.txt",
+      "title": "郑州商品交易所期货每日行情表: 郑商所苹果AP701收6201元，单日涨4.4%",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "AP701 |5,939.00  |5,988.00  |6,230.00  |5,944.00  |6,201.00  |6,111.00  |262.00   |172.00   |433,574   |161,475   |15,554    |2,649,362.83|",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "url": "https://publications.opec.org/momr",
+      "title": "OPEC Secretariat（Monthly Oil Market Report, November 2026）: OPEC下修2026年需求增速至0.2mb/d，WTI结算86.53",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Global oil demand is forecast to grow by 0.2 mb/d in 2026, y-o-y, following a slight downward revision from last month’s assessment.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "url": "https://publications.opec.org/momr/get/163/416",
+      "title": "OPEC Secretariat（Monthly Oil Market Report, November 2026）: OPEC下修2026年需求增速至0.2mb/d，WTI结算86.53",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Organization of the Petroleum Exporting Countries 11 November 2026",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "url": "https://www.usda.gov/oce/commodity/wasde/wasde1126.pdf",
+      "title": "USDA World Agricultural Outlook Board（WASDE-677）: USDA下调美玉米单产至179.6蒲，CBOT玉米收4.49",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Corn production is forecast at 15.9 billion bushels, down 141 million from last month with a 1.6-bushel reduction in yield to 179.6 bushels per acre.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "url": "https://www.profarmer.com/after-bell-soybeans-corn-shrug-u-s-dollar-strength",
+      "title": "Pro Farmer: USDA下调美玉米单产至179.6蒲，CBOT玉米收4.49",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Corn: December corn rose 9 3/4 cents to $4.49, nearer the daily high and hit a two-week high.",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "url": "https://www.morningstar.com/news/dow-jones/202611108909/comex-gold-settles-205-lower-at-402070-data-talk",
+      "title": "Dow Jones Newswires（经 Morningstar 发布）: CPI超预期，COMEX黄金10日结算4020.70跌2.05%",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "Front Month Comex Gold for November delivery lost $84.30 per troy ounce, or 2.05% to $4020.70 today",
+          "added": "2026-11-13"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "url": "https://www.cnbc.com/2026/11/11/gold-edges-higher-after-sharp-selloff-fed-hike-bets-weigh.html",
+      "title": "CNBC: CPI超预期，COMEX黄金10日结算4020.70跌2.05%",
+      "accessed": "2026-11-13",
+      "quotes": [
+        {
+          "text": "U.S. gold futures Add To Watchlist for December delivery fell nearly 1% to $3,991.4 per ounce.",
+          "added": "2026-11-13"
+        }
+      ]
+    }
+  ]
+}

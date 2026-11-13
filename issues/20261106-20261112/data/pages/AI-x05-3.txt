@@ -1,0 +1,32 @@
+# Anthropic releases new Mythos and Fable models amid RSI concerns | TechCrunch
+URL: https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/
+Published: 2026-11-09
+Author: Russell Brandom
+
+Anthropic releases new Mythos and Fable models amid RSI concerns | TechCrunch
+
+Image Credits: bIllustration y Nikolas Kokovlis / NurPhoto / Getty Images
+
+# Anthropic releases new Mythos and Fable models amid RSI concerns
+
+ Russell Brandom 
+
+11:24 AM PST · November 9, 2026
+
+Anthropic released new versions of its most advanced models on Monday, with the launch of Mythos 5.2 and Fable 5.2. The company says the new models “show improvements in areas like coding, reasoning, and vision” and communicate more clearly with users.
+
+Notably, Anthropic is lowering the cost of Fable from $10 to $8 per million input tokens. As a result, Fable 5.2 is now cheaper than its primary competitor GPT-6 Astra. Anthropic says that the new version of Fable will return responses 30% faster across effort levels. Faster inference serving is available for double the price. 
+
+Fable 5.2 is also compatible with zero data retention (ZDR) policies through the Enterprise Frontier Safeguards system, long a sticking point for many enterprise clients.
+
+It’s Anthropic’s first model release since the arrival of a third-party report from the assessment group METR, which suggested the lab might be approaching recursive self-improvement (RSI) — or the ability for AI models to carry on model training independently. The METR report found internal models were speeding up Anthropic’s AI progress by roughly 2x, although many uncertainties remain.
+
+Still, Anthropic’s release notes significant ongoing challenges in accurately testing model capabilities. “Claude Mythos 5.2 and Fable 5.2 each voice suspicion that they are being evaluated more often than any of our recent models, which challenges our ability to assess how they will act in real-world settings. As these settings expand and capabilities increase with future models, we expect this challenge to grow.”
+
+Anthropic maintains that the new version of Mythos does not have the ability to act covertly against its user, a verdict that’s detailed further in Mythos 5.2’s system card.
+
+“Claude Mythos 5.2 shows stronger covert capabilities than prior Claude models on several of our evaluations, particularly when its reasoning is hidden from the monitor,” the system card reads. “That said, we believe that low levels of absolute performance on our new covert evaluations support claims that rely on detection of harmful actions in high-stakes situations.”
+
+Fable 5.2 has been available to select parties in pre-release for some time, and Anthropic says the model has already “solved two open problems in theoretical physics, formalized Fermat’s Last Theorem, and supported numerous other research projects.”
+
+Also on Monday, AI startup Physical Superintelligence announced a new proof of the Aaronson‑Ambainis conjecture, a pivotal step in setting theoretical limits for quantum computing. Notably, the lab said the result was achieved by running “a non-public Anthropic model” within PSI’s own system. Anthropic did not confirm or deny whether Fable 5.2 was the mo

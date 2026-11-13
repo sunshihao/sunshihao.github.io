@@ -1,0 +1,80 @@
+# T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says
+
+Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.
+
+![A large T-Mobile logo and a 5G poster hanging above a conference hall.](https://cdn.arstechnica.net/wp-content/uploads/2024/06/t-mobile-5g-300x200.jpg)
+![A large T-Mobile logo and a 5G poster hanging above a conference hall.](https://cdn.arstechnica.net/wp-content/uploads/2024/06/t-mobile-5g-1152x648-1794428350.jpg)
+
+T-Mobile violated a New York state law by imposing a 50 GB-per-month data cap and reducing speeds to less than a megabit per second on home Internet plans it is required to offer people with low incomes, New York government officials alleged.
+
+T-Mobile agreed to a settlement requiring it to scrap the data and speed limits, to offer the required low-income plans to more parts of the state, and to make it easier for customers to find information about the plans. The settlement requires T-Mobile to eliminate the speed limits and expand availability of the plans within 120 days.
+
+The alleged legal violation and the settlement are related to T-Mobile’s wireless home Internet service, not the company’s mobile plans. Governor Kathy Hochul and New York Attorney General Letitia James [announced the settlement](https://www.governor.ny.gov/news/governor-hochul-and-attorney-general-james-improve-access-affordable-home-internet-vulnerable) on Monday, saying that a state investigation found T-Mobile violated the [New York Affordable Broadband Act](https://www.nysenate.gov/legislation/laws/GBS/399-ZZZZZ) (ABA).
+
+The state law doesn’t specifically mention data caps, but it requires home Internet providers with at least 20,000 customers to offer plans at specific prices and minimum speeds to people who meet income-eligibility requirements. T-Mobile’s policy of reducing speeds after customers exceed a monthly data cap violates the law, New York officials said.
+
+“An investigation by the Office of the Attorney General (OAG) found T-Mobile’s offerings did not meet the ABA’s requirements, which mandate that home Internet providers offer high-speed broadband to income-eligible households for $15 per month at speeds of at least 25 Mbps, or $20 per month for speeds of at least 200 Mbps,” the press release said.
+
+## Speeds reduced from 25 Mbps to 600 Kbps
+
+New York says in the [settlement](https://www.governor.ny.gov/sites/default/files/2026-11/t-mobile-usa-inc-aod-2026.pdf) with T-Mobile that “after the data cap is reached, the customer’s maximum download speed is reduced from 25 Mbps to 600 Kbps.” New York’s press release said “a typical customer could hit the data cap after about four days of usage.”
+
+Data caps and speed limits aren’t the only restrictions. T-Mobile also “only offers ABA Internet plans to customers in homes that are eligible for 5G home Internet,” preventing residents in 4G-only areas from accessing the plans, the settlement says. The company also prevented search engines from indexing the [webpage](https://www.t-mobile.com/home-internet/eligibility/new-york-broadband?icid=HEIS_ISW_U_24HMENET_5E132E168196F61043018) that provides detailed information about eligibility for and enrollment in ABA plans, it says.
+
+“T-Mobile did not fully comply with the New York Affordable Broadband Act,” New York said in the settlement.
+
+T-Mobile’s [ABA webpage](https://www.t-mobile.com/home-internet/eligibility/new-york-broadband?icid=HEIS_ISW_U_24HMENET_5E132E168196F61043018) confirms that customers are provided only 50 GB per month and that speeds after using the allotment are merely “up to 600 Kbps.”
+
+Although the settlement includes a list of the New York AG’s findings, T-Mobile did not admit to any violation. “Respondent neither admits nor denies the OAG’s Finding in paragraph 1-14 above,” the document says.
+
+## New York beat industry attempt to kill law
+
+New York [started enforcing](https://arstechnica.com/tech-policy/2025/01/new-york-starts-enforcing-15-broadband-law-that-isps-tried-to-kill/) the Affordable Broadband Act in January 2025 after winning a nearly four-year court battle against broadband industry lobby groups that tried to kill the law. The groups that sued New York in a failed effort to block the law included CTIA, the wireless industry association that represents T-Mobile and other carriers. The law finally took effect a month after [the Supreme Court rejected](https://arstechnica.com/tech-policy/2024/12/big-loss-for-isps-as-supreme-court-wont-hear-challenge-to-15-broadband-law/) the broadband industry’s challenge.
+
+When contacted by Ars, T-Mobile did not explain why it imposed the restrictions on low-income plans.
+
+“We have a long history of helping customers in New York stay connected through low-cost broadband, and we’re updating our plan to meet the state’s requirements while maintaining the same low price,” T-Mobile said in a statement. “We’ve reached an agreement with the New York attorney general that builds on that commitment, provides greater clarity around our offering and makes the plan available to more eligible customers.”
+
+The settlement with New York applies to T-Mobile’s fixed wireless Internet plans, which can be used for home Internet service as an alternative to wired broadband. The fixed wireless Internet relies on T-Mobile’s cellular network but provides access at a single location, delivering wireless signals to receivers installed at customer homes.
+
+It took almost 18 months for New York to investigate T-Mobile’s compliance and reach a settlement with the company. “In June 2025, the New York Department of Public Service contacted the OAG and relayed concerns about certain features of the plan that T-Mobile was offering to customers eligible for reduced-price Internet service under the ABA,” the settlement said.
+
+## T-Mobile only offered plan in 5G areas
+
+It seems that ISPs have generally offered the required plans, though cable company Optimum failed to comply until [Ars made some inquiries](https://arstechnica.com/tech-policy/2025/01/isp-failed-to-comply-with-new-yorks-15-broadband-law-until-ars-got-involved/) on behalf of a customer who could not obtain the plan he was entitled to shortly after the law took effect. ISPs knew about the law long in advance due to the multiyear court case that they initiated, but Optimum wasn’t ready to comply with the requirement and rejected the low-income man’s request twice.
+
+New York officials said the AG’s office “found that T-Mobile was only offering ABA plans in areas where it had deployed 5G wireless service, even though it offered full-price Internet plans that could deliver 25 Mbps download speeds in areas where it had 4G service. In addition, T-Mobile specifically coded its website to hide its ABA plan information from search engines, making it difficult for New Yorkers searching for low-priced Internet to find their plans.”
+
+The settlement requires T-Mobile to stop intentionally limiting download speeds, and says the “temporary reduction of download speeds due solely to network congestion shall not constitute a violation of this Assurance.” There’s also an exception in the state law, which says ISPs shall provide 25 Mbps “subject to exceptions adopted by the Public Service Commission where such download speed is not reasonably practicable.”
+
+Extending the low-cost service to 4G areas, T-Mobile agreed to provide the low-income plans “at every address at which Respondent offers residential fixed wireless Internet service.” Speeds lower than 25 Mbps would not violate the settlement if T-Mobile “would be unable to provide a minimum download speed of 25 megabits per second to a residential fixed wireless Internet service customer enrolled in a non-ABA Plan at the same address.”
+
+The document says that “T-Mobile offers 5G home Internet to roughly 40 percent of homes in rural areas of upstate New York and 4G (LTE) home Internet to the remainder of homes in the regions where T-Mobile offers fixed wireless service.”
+
+To make its ABA webpage more accessible, the settlement says T-Mobile “shall not include a noindex tag on the webpage, or otherwise prevent search engines from indexing the webpage or presenting a link to the webpage in response to search engine queries.” T-Mobile must also prominently link to the ABA webpage on the part of its website that lists or describes its standard home Internet deals.
+
+New York could sue T-Mobile if it violates the settlement. The ABA’s enforcement mechanism requires the attorney general to sue a broadband provider on behalf of residents. Such lawsuits can recover restitution and civil penalties of up to $1,000 per violation.
+
+ISPs that want to raise another challenge to New York’s law could get help from the Trump administration, which asserts that states must not enforce price regulations or net neutrality laws against any ISP that obtains grants from the $42 billion Broadband Equity, Access, and Deployment (BEAD) program. The grants have not been distributed yet, and [California argues](https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/) that the Trump administration does not have authority to preempt such laws.
+
+## T-Mobile’s violation of price-lock promise
+
+In addition to this week’s settlement, New York struck a deal with T-Mobile last month over the carrier [violating its promise](https://arstechnica.com/tech-policy/2024/10/i-am-still-alive-users-say-t-mobile-must-pay-for-killing-lifetime-price-lock/) to never raise prices on certain mobile plans that came with a lifetime price guarantee.
+
+A state investigation “found that from 2017 to 2019, T-Mobile advertised ‘Price Guarantee Plans’ to its 4G customers, promising to ‘never change the price you pay,’” the New York attorney general’s office [said on October 20](https://ag.ny.gov/press-release/2026/attorney-general-james-secures-reimbursements-t-mobile-customers-whose-rates). “However, in 2024, T-Mobile changed course and began raising the price of these plans by approximately $5 per phone line. New Yorkers enrolled in approximately 252,957 of these Price Guarantee Plans saw their phone bills increase.”
+
+T-Mobile [agreed](https://ag.ny.gov/sites/default/files/settlements-agreements/t-mobile-usa-inc-assurance-of-discontinuance-2026.pdf) to give affected customers several reimbursement options and a price lock until May 2029. The attorney general’s office estimated that the agreement would provide up to $38 million in value to customers affected by the price hikes. T-Mobile also agreed to pay the state a fine of $98,834.75.
+
+T-Mobile provided a statement on the price-hike settlement.
+
+“The $38 million cited in the press release is an estimate of potential benefits that a group of long-standing T-Mobile customers may choose to take advantage of, not the amount in refunds or payments,” T-Mobile said. “The agreement provides for approximately $98,000 paid to the state and a range of optional customer benefits. We’re glad to have this matter resolved and remain focused on delivering value to our customers.”
+
+![Photo of Jon Brodkin](https://cdn.arstechnica.net/wp-content/uploads/2016/05/j.brodkin-11_2.jpg)
+![Loading](https://cdn.arstechnica.net/wp-content/themes/ars-v9/public/images/firework-loader.1aaa7fe5bba8356d.gif)
+![Listing image for first story in Most Read: Ring cameras go mobile as Amazon debuts AI-powered security drone and robot](https://cdn.arstechnica.net/wp-content/uploads/2026/11/Ring-Drone-500x500.jpeg)
+
+Ars Technica has been separating the signal from
+the noise for over 25 years. With our unique combination of
+technical savvy and wide-ranging interest in the technological arts
+and sciences, Ars is the trusted source in a sea of information. After
+all, you don’t need to know everything, only what’s important.

@@ -1,0 +1,15 @@
+Anduril Industries has announced the successful demonstration of a new satellite-based sensor designed to track other spacecraft that may be hiding their maneuvers in Earth’s shadow.
+
+Funded with Anduril’s internal capital, the company’s oven-sized satellite launched on a SpaceX rideshare mission in July with a package of tech demo payloads: an edge-compute processor, a power-management system adaptable to different types of missions, and a long-wave ,infrared space sensor capable of seeing other objects in orbit.
+
+Anduril reported on the success of the tech demo mission Tuesday. The company’s satellite, named Anduril-216, flies about 590 km (366 mi) above Earth, spending about one-third of each orbit in darkness. Anduril-216’s night passes allow its infrared imager to shine.
+
+“This is a unique sensor that allows us to take imagery in long-wave [infrared],” said Gokul Subramanian, Anduril’s senior vice president of engineering. “What’s unique about that is it’s got a huge dynamic range. It has very low solar exclusion, so we’re blocked by the Sun very rarely, and we can see things in full dark.”
+
+## Filling a gap
+
+The US military and a growing number of commercial data providers use a network of radars and optical sensors on the ground and in space to monitor satellite traffic. Anduril acquired one of the commercial satellite-tracking companies, ExoAnalytic Solutions, earlier this year. But there’s a gap in optical tracking as satellites fly in Earth’s shadow, so space traffic monitors could temporarily lose track of a spacecraft if it performs a maneuver in orbital night.
+
+The Space Force is charged with tracking satellites for two primary reasons. First, military commanders want to know if an adversary moves its satellite in a threatening manner. Second, the Space Force issues traffic alerts to global satellite operators if there’s a risk of a collision.
+
+“Right now, we don’t have ground sensors in our adversaries’ sovereign lands, and then in the eclipse period where we are relying heavily on visible sensors, the satellites that are not illuminated by the Sun, we can’t see those,” said Adam Thurn, vice president and general manager of orbital systems at Anduril. “With the long-wave infrared space sensor, we’re looking to close that gap.”

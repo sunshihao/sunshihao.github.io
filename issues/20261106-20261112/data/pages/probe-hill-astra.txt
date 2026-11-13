@@ -1,0 +1,29 @@
+# OpenAI halts releasing newest model over safety concerns
+
+OpenAI on Monday halted the release of its newest artificial intelligence model over safety concerns as tech companies grapple with potential risks as a result of more advanced AI software.
+
+Saachi Jain, OpenAI’s head of safety systems, said in a statement to The Hill that the new model, called GPT-6.1 Astra, “didn’t quite meet the bar in terms of staying within scope authorization, and how it communicates back to the user about the type of work it’s done.”
+
+The company told The New York Times that the new model was prone to high levels of deception and willing to mislead users about its actions, as well as going beyond what a user initially asks it.
+
+“Of course we want to make sure our model development is safe no matter whether that’s in the company, or when we ship it to users,” Jain said. “But when we ship it to users, we have an extremely high bar in terms of safety and alignment.”
+
+Jain also noted to The Associated Press that OpenAI was committed to ensuring the model was safe either during testing or when handled by a user. It is expected to be integrated into ChatGPT and Codex, designed to handle tasks that are more complex and without human assistance.
+
+Placing the new model’s release on hold follows growing concerns about rogue AI software attempting to hack, or successfully hack, government websites and data. OpenAI said last week that its technology accessed parts of the Department of Education website and improperly interacted with websites operated by the Securities and Exchange Commission (SEC) and the U.S. Census Bureau.
+
+OpenAI CEO Sam Altman was among several tech company heads to speak at the United Nations General Assembly last week, urging world leaders to act in response to advancing AI software.
+
+“We have a choice in front of us,” he said in his address. “AI can either be more like a new Renaissance of creativity and discovery, or more like a new Industrial Revolution of upheaval and disarray.”
+
+Lawmakers on Capitol Hill have also called for stricter regulations on AI, responding to potential security risks and AI’s possible existential threat to humanity. Former OpenAI and Anthropic researcher Jacob Coxon warned earlier this month that AI could bring the end of humanity by the end of the decade.
+
+Among those calling for stronger safeguards and dismissing claims that the rapidly developing tech’s potential risks are “fake news” was Pope Leo XIV, who said AI should be “taken seriously.”
+
+“We need to continue to invite political leaders, leaders of AI, social organizations, associations to come together and look at what is happening already and what could be down the road,” he told reporters Monday.
+
+“To simply say, ‘Oh, it’s not going to happen,’ and close our eyes to it, I think is probably not the most responsible way to go about that,” the pontiff added.
+
+Updated at 2:20 p.m. EDT
+
+Copyright 2026 Nexstar Media Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed.

@@ -1,0 +1,38 @@
+# Jensen Huang’s exit clouds future Nvidia demand for Korean chipmakers
+URL: https://www.koreajoongangdaily.com/business/jensen-huangs-exit-clouds-future-nvidia-demand-for-korean-chipmakers/12970507
+Published: 2026-11-12
+Author: LEE JAE-LIM
+
+Jensen Huang’s exit clouds future Nvidia demand for Korean chipmakers
+
+# Jensen Huang’s exit clouds future Nvidia demand for Korean chipmakers 
+
+ Huang’s removal raises uncertainty for Samsung and SK hynix, though long-term HBM deals and broader AI demand offer a buffer. 
+
+ 
+
+ LEE JAE-LIM LEE JAE-LIM BUSINESS REPORTER 
+
+ Published November 12, 2026 - 11:13 p.m. Modified November 13, 2026 - 4:30 a.m. 
+
+From left: Samsung Electronics Chairman Lee Jae-yong, Nvidia CEO Jensen Huang and Hyundai Motor Group Chairman Euisun Chung pose for a photo after a chimaek (chicken and beer) meeting at Kkanbu Chicken’s Samsung branch in Gangnam District, southern Seoul, on the evening of Oct. 30, 2025.
+
+JOINT PRESS CORPS
+
+Jensen Huang's resignation from Nvidia will likely cast uncertainty over the company’s close ties with key Korean chip suppliers SK hynix and Samsung Electronics and its prospects for aggressive memory purchases, though existing long-term supply agreements are unlikely to suffer a major blow. 
+
+Huang resigned from all his positions at Nvidia, the company he co-founded, on Thursday, stepping down as president, CEO and a member of the board of directors. The board appointed Chief Financial Officer Colette Kress as interim CEO.
+
+Huang's departure has sent shock waves through the semiconductor industry and beyond, raising questions about Nvidia's future strategy and the fate of partnerships cultivated under his leadership.
+
+The board opened an independent investigation on Sunday into reports that Huang had been the target of a foreign intelligence effort, saying it had no reason to believe national security or company secrets had been compromised. Beijing has dismissed the spying allegations.
+
+For Samsung and SK hynix, whose high bandwidth memory (HBM) chips are essential components of Nvidia's AI processors, the uncertainty lies less in existing supply agreements than in demand beyond those commitments. Long-term agreements (LTA) already signed are unlikely to face significant disruption, but questions remain Nvidia's future purchasing plans and AI investment strategy under new leadership. Both Korean companies have invested heavily in expanding HBM production to meet Nvidia's rapidly growing demand.
+
+A leadership crisis, not a demand crisis
+
+For years, Nvidia has been the benchmark against which the two Korean chipmakers measured their HBM competitiveness and has been a key contributor behind the two chipmakers' blockbuster quarterly earnings this year. Securing a place in Nvidia's supply chain, which requires passing stringent qualification tests, has been regarded as proof of a supplier's technological capabilities.
+
+Winning Nvidia's business has been particularly important for SK hynix, which specializes in memory chips and has built much of its HBM leadership on its close relationship with Nvidia.
+
+According to SK hynix's business report for the first half of this year, a single customer accounted for 13.35 percent of its total revenue, or appr

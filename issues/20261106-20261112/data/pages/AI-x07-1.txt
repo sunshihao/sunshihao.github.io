@@ -1,0 +1,27 @@
+# IBM and Microsoft Announce a New AI Agent Platform Designed for Industry-Specific Transformation
+URL: https://newsroom.ibm.com/2026-11-10-ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation
+Published: 2026-11-10
+
+IBM and Microsoft Announce a New AI Agent Platform Designed for Industry-Specific Transformation
+
+# IBM and Microsoft Announce a New AI Agent Platform Designed for Industry-Specific Transformation 
+
+- IBM Consulting brings more than 6,000 pre-built AI agents and assets, the experience building them, and industry expertise, while Microsoft provides AI, cloud, and security technologies
+
+- New platform comes with forward-deployed engineering support from both Microsoft and IBM Consulting 
+
+- SEI’s enterprise transformation illustrates the types of business needs that agentic AI can help address
+
+Nov 10, 2026
+
+ARMONK, N.Y. and REDMOND, Wash. – November 10, 2026 – IBM (NYSE: IBM) and Microsoft (NASDAQ: MSFT) today announced Imagine Enterprise, an agentic platform designed to help enterprises build, run, and govern AI agents that help people execute industry-specific processes. IBM Consulting and Microsoft have combined their technologies and expertise with forward-deployed engineering support for qualifying engagements to help enterprises accelerate AI deployment.
+
+Imagine Enterprise aims to help organizations—especially in regulated industries—combine human expertise with AI agents and connect them to unique enterprise data and daily processes. The platform is built to help organizations govern AI agents with controls, observability, and AI-compliance support designed to help secure industry-specific AI deployment.
+
+IBM Consulting brings AI transformation expertise and a fleet of more than 6,000 AI agents and assets built on IBM Consulting Advantage, the company’s AI-powered delivery platform. Microsoft provides the AI, data, cloud, and security foundation that is designed to help the agents operate securely across the enterprise, while forward-deployed engineers from both companies can help customers move from experimentation to production.
+
+Instead of organizations having to start from scratch, replace the platforms they already depend on, or spend months assembling the pieces themselves, Imagine Enterprise is designed around three simple advantages:
+
+- Instant Expertise: More than 6,000 AI agents and assets Starting with pre-built AI agents, assets, and deep industry expertise from day one. Organizations can begin with capabilities already built for their industry and adapt them to the unique needs of their business.
+- Fits the Enterprise: A platform that adapts Imagine Enterprise is designed to connect with an organization’s existing data, processes, systems, and technology environment. Enterprises can start where they are, build on what they already have, and scale over time, with enterprise security, identity, AI governance, and control built into the experience.
+- Intelligence Multiplier: Puts the knowledge of the business behind people and AI agents Imagine Enterprise brings IBM Consulting’s hands-on experience building and running more than 6,000 AI agents together with the Microsoft technologies to connect enterprise knowledge, data, and co

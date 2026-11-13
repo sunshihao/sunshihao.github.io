@@ -1,0 +1,19 @@
+上海期货交易所 黄金期货 每日行情（数据片段）
+来源文件: https://www.shfe.com.cn/data/tradedata/future/dailydata/kx20261109.dat ; https://www.shfe.com.cn/data/tradedata/future/dailydata/kx20261110.dat ; https://www.shfe.com.cn/data/tradedata/future/dailydata/kx20261111.dat ; https://www.shfe.com.cn/data/tradedata/future/dailydata/kx20261112.dat
+说明: 交易所每日行情原始文件中 o_curinstrument 数组的记录。每行由原始 JSON 逐字段转写（数值未改动），下一行为该条原始记录。
+
+交易日 2026-11-09（report_date=20261109，update_date=20261109 15:28:37）
+黄金 au2612 | 结算价 877.06 | 收盘价 882.76 | 前结算价 879.22 | 涨跌1 收盘-前结算 3.54 | 涨跌2 结算-前结算 -2.16 | 成交量 267371 | 持仓量 146417
+原始记录 {"CLOSEPRICE": 882.76, "DELIVERYMONTH": "2612", "HIGHESTPRICE": 888.9, "LOWESTPRICE": 865, "OPENINTEREST": 146417, "OPENINTERESTCHG": -3132, "OPENPRICE": 873.02, "PRESETTLEMENTPRICE": 879.22, "PRODUCTCLASS": "1", "PRODUCTGROUPID": "au", "PRODUCTID": "au_f", "PRODUCTNAME": "黄金", "SETTLEMENTPRICE": 877.06, "TASVOLUME": "", "TURNOVER": 23450115.442, "VOLUME": 267371, "ZD1_CHG": 3.54, "ZD2_CHG": -2.16}
+
+交易日 2026-11-10（report_date=20261110，update_date=20261110 15:29:23）
+黄金 au2612 | 结算价 885.72 | 收盘价 885.12 | 前结算价 877.06 | 涨跌1 收盘-前结算 8.06 | 涨跌2 结算-前结算 8.66 | 成交量 206653 | 持仓量 139021
+原始记录 {"CLOSEPRICE": 885.12, "DELIVERYMONTH": "2612", "HIGHESTPRICE": 889.58, "LOWESTPRICE": 881.22, "OPENINTEREST": 139021, "OPENINTERESTCHG": -7396, "OPENPRICE": 886, "PRESETTLEMENTPRICE": 877.06, "PRODUCTCLASS": "1", "PRODUCTGROUPID": "au", "PRODUCTID": "au_f", "PRODUCTNAME": "黄金", "SETTLEMENTPRICE": 885.72, "TASVOLUME": "", "TURNOVER": 18303841.782, "VOLUME": 206653, "ZD1_CHG": 8.06, "ZD2_CHG": 8.66}
+
+交易日 2026-11-11（report_date=20261111，update_date=20261111 15:29:22）
+黄金 au2612 | 结算价 870.5 | 收盘价 873.3 | 前结算价 885.72 | 涨跌1 收盘-前结算 -12.42 | 涨跌2 结算-前结算 -15.22 | 成交量 262814 | 持仓量 132279
+原始记录 {"CLOSEPRICE": 873.3, "DELIVERYMONTH": "2612", "HIGHESTPRICE": 876.9, "LOWESTPRICE": 863.56, "OPENINTEREST": 132279, "OPENINTERESTCHG": -6742, "OPENPRICE": 876.14, "PRESETTLEMENTPRICE": 885.72, "PRODUCTCLASS": "1", "PRODUCTGROUPID": "au", "PRODUCTID": "au_f", "PRODUCTNAME": "黄金", "SETTLEMENTPRICE": 870.5, "TASVOLUME": "", "TURNOVER": 22878024.778, "VOLUME": 262814, "ZD1_CHG": -12.42, "ZD2_CHG": -15.22}
+
+交易日 2026-11-12（report_date=20261112，update_date=20261112 15:55:22）
+黄金 au2612 | 结算价 860.46 | 收盘价 852.5 | 前结算价 870.5 | 涨跌1 收盘-前结算 -18 | 涨跌2 结算-前结算 -10.04 | 成交量 209762 | 持仓量 129365
+原始记录 {"CLOSEPRICE": 852.5, "DELIVERYMONTH": "2612", "HIGHESTPRICE": 870.12, "LOWESTPRICE": 851.48, "OPENINTEREST": 129365, "OPENINTERESTCHG": -2914, "OPENPRICE": 869.4, "PRESETTLEMENTPRICE": 870.5, "PRODUCTCLASS": "1", "PRODUCTGROUPID": "au", "PRODUCTID": "au_f", "PRODUCTNAME": "黄金", "SETTLEMENTPRICE": 860.46, "TASVOLUME": "", "TURNOVER": 18049436.142, "VOLUME": 209762, "ZD1_CHG": -18, "ZD2_CHG": -10.04}

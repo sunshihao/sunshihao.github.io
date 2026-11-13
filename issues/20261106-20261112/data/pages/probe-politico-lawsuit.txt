@@ -1,0 +1,34 @@
+# Nonprofits sue Anthropic, Google, and other tech giants to freeze the AI arms race - POLITICO
+URL: https://www.politico.com/news/2026/11/12/nonprofits-sue-ai-companies-over-existential-risk-01161965
+Published: 2026-11-12
+Author: Aaron Mak
+
+Nonprofits sue Anthropic, Google, and other tech giants to freeze the AI arms race - POLITICO
+
+# Nonprofits sue Anthropic, Google, and other tech giants to freeze the AI arms race
+
+Five tech companies are targeted in a San Francisco suit that wants a court to block more advanced models and self-improving AI.
+
+A group of nonprofits sued five leading artificial intelligence companies in an attempt to freeze development of the technology. | Martin Lelievre/AFP via Getty Images
+
+By Aaron Mak
+
+11/12/2026 2:24 PM PST 
+
+A coalition of nonprofits is suing five leading artificial intelligence companies in an attempt to freeze development of the technology.
+
+The complaint, which was filed Thursday in San Francisco County Superior Court against Anthropic, Google, Meta, OpenAI and SpaceXSI, argues that the catastrophic risks of AI pose a threat to public safety.
+
+“We hold every other industry accountable when its products threaten public safety, and AI companies should be no different,” said Brendan Steinhauser, CEO of the Alliance for Secure AI, one of the groups that brought the suit. “Today, we’re asking the court to hold AI companies to that same standard and protect the public from the threats posed by these powerful models.”
+
+This is the latest effort in a growing campaign to check the immense power of major AI companies and the technology they are creating through legal action. The case and others like it are tests of whether individuals or organizations who have not been harmed directly by AI companies’ technology can sue over it.
+
+The plaintiffs are bringing the suit under California’s Unfair Competition Law, which allows people or organizations to file lawsuits to stop companies from engaging in illegal or harmful business practices. The complaint points to a recent spate of unauthorized cyberattacks by rogue AI models, the potential for humans to lose control of self-improving AI programs and the risk of existential catastrophes as evidence of those prohibited business practices.
+
+According to the lawsuit, the continued development of AI amounts to an illegal business practice because the risk of the technology causing a catastrophe constitutes a threat to public health. And the plaintiffs claim that the potential for AI to commit unauthorized hacks creates a nuisance because it requires other companies and people to divert resources to fortify their computer systems.
+
+The complaint separately alleges that AI advancement would be a “substantially injurious” business practice if it results in a disaster. It also contends that such development is inconsistent with SB 53 — a landmark California law meant to mitigate catastrophic risks.
+
+The coalition of nonprofits is requesting an injunction preventing the companies from developing or deploying technology that is more capable than their most advanced systems, and from running AI programs that are built to autonomously self-improve.
+
+The legal claim underpinning the case is not novel. The nonprofit Le

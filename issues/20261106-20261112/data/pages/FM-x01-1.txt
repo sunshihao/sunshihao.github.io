@@ -1,0 +1,48 @@
+# Global tech stocks plunge as US midterms add to AI slowdown fears
+URL: https://www.bbc.com/news/articles/cmn04705rd8jo
+Published: 2026-11-05
+Author: Rachel Clun
+
+Global tech stocks plunge as US midterms add to AI slowdown fears
+
+# Global stocks plunge as fears over US AI slowdown spread to Asia and Europe
+
+6 days ago
+
+Rachel Clun,
+
+Osmond Chia and
+
+Nick Edser, Business reporters
+
+Bloomberg via Getty Images
+
+Global stock markets have tumbled after investors sold tech shares on fears that the US midterm elections would slow the development of artificial intelligence (AI).
+
+The sell-off, which started in the US and then spread to Asia and Europe, has seen trillions of dollars wiped off the stock value of major tech firms.
+
+In the US, the tech-heavy Nasdaq share index sank 5.5% on Thursday. Asian markets also saw hefty falls on Friday and European markets opened lower.
+
+Investors are worried about tougher regulation of AI, after Democrat candidates opposed the data centres needed by the technology. The share falls also come on top of concerns about whether the huge amounts being spent on AI will pay off.
+
+The sell-off in US stocks meant the so-called magnificent seven tech companies, including Apple, Nvidia and Tesla, shed a trillion dollars in value in a single trading day, with Nvidia shares sliding more than 9%.
+
+Shares in Elon Musk's companies SpaceX and Tesla also plunged, falling 8% and nearly 11% respectively and shaving more than $300bn off the firms' market value.
+
+Musk had spent nearly $450m backing Republican campaigns, including at least $45m in support of Ken Paxton for the Texas senate seat, but Texas turned blue in the Democratic tsunami on Tuesday.
+
+The sharp fall in the Nasdaq meant it lost an estimated $2.5tn (£1.9tn) in market value. The index is now in what market watchers call correction territory, which is where an index or company value falls at least 10% below its recent high.
+
+However, the huge gains seen by tech stocks in recent times - driven by the enthusiasm for AI - mean that even after Thursday's fall, the Nasdaq is still higher than it was a year ago, and up about 4.6% from where it was at the start of this year.
+
+The US sell-off spread into Asia on Friday. The Nikkei share index in Japan closed down 6% as shares in memory chip makers Kioxia and Tokyo Electron saw big falls.
+
+In South Korea, the Kospi index plunged more than 8% at one point, triggering a so-called circuit breaker, a mechanism that temporarily halts trading to curb panic selling.
+
+The Kospi eventually closed down 6%, with shares in chipmaker SK Hynix falling more than 10%.
+
+European markets fell on Friday, although the declines were not as severe as the indexes contain fewer tech stocks. The UK's FTSE 100 index fell nearly 2% while Germany's Dax index was down 2.4%. 
+
+Dan Coatsworth, head of markets at AJ Bell, said investors were worried about the huge amounts of money being spent on AI with "no clear idea of when, or whether, there will be payback".
+
+"The midterm election result muddied the waters as the Democrats now have more influence and could slow down the pace of data centre roll-outs and look at new way

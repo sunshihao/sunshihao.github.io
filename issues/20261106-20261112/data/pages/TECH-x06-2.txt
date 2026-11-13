@@ -1,0 +1,273 @@
+#1 Trusted Cybersecurity News Platform
+
+Followed by 5.80+ million[**](https://twitter.com/thehackersnews) [**](https://www.linkedin.com/company/thehackernews/) [**](https://www.facebook.com/thehackernews)
+
+[[IMAGE: The Hacker News Logo]](/)
+
+[Get Updates](#email-outer)
+
+[![cybersecurity](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgueiGhtTJ4g8vfPjVOP22mnT6eczZI-CgiOkXQ_Zv0gVno2MkG5UlOExxvSSAylm8NAtCfFkeaPxbyR3vYtpyOVi9ROWrrVZ9FKHFBH1IrQCCR46b2kh7JNKxenqefzCkCUewWhqRlds-IYjwzH7N7iWGpXxzeqhS6vIHDWIohTDx2ZZZReOOwVWv-SAmG/s727-nu-rw-lo-l85-e365/wiz-d.png)](https://thehackernews.uk/ai-infographic-d)
+
+# [Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords](https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html)
+
+**Swati Khandelwal**Nov 11, 2026Artificial Intelligence / Data Security
+
+[[IMAGE]](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh54t26Pk-bNbcIXgu8KrKpT_zN1KxEov16xTFlJ8kiPJ3-btXjGUE1lb0ZpamQU5jUHwmxzxHpYLsAQfiaHQUu3gxCIUw2gsEYNwMjL6nRm_jWm6t_VdHJkz6xj3fAsmTZKP8Bbax1qdT98a_PY4ynv81njiDyPXvIIihl4dqXxxC9pMMf8-Mn9dziy_A/s1700-nu-rw-lo-l85-e365/grokai.jpg)
+
+Of the 37,571 Grok-built apps that security company **Claroc** found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday.
+
+They included 24 apps built by staff at the social network X and at SpaceXSI, the company that makes the Grok AI assistant. Most of the open apps were games, landing pages, and calculators, but about 1 in 10 contained internal business or personal data.
+
+The staff apps included a confidential onboarding plan for a new sales hire, a sales territory map of 594 accounts, and an X advertising proposal to a U.S. federal agency marked confidential. SpaceXSI, formerly known as xAI, has since taken down all 24 staff apps but not other users' apps, the researchers said.
+
+Besides those staff apps, the open apps contained internal data from 30 other organizations the researchers could identify, across fields ranging from construction and energy to healthcare and defense. Of those, 26 have more than 1,000 employees, and 6 are Fortune 500 companies.
+
+According to the researchers' estimate in their [report](https://blog.claroc.io/ghostshares-grok-build-apps/), roughly 2% of the open apps contained material serious enough to rate as high or critical.
+
+The exposed material included a hospital group's searchable list of more than 3,500 employees, an intensive care briefing on a single patient, a fire department's live shift board, and a contractor's timesheet whose code held every employee's password in plain text.
+
+Grok can build a working app from a description typed into its chat, a feature its maker opened to every Grok plan on August 19. This chat builder shares the Grok Build name with a separate terminal coding tool, whose [repository uploads](https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html) were reported on July 14.
+
+Each published app gets its own subdomain of grok.me, and its creator chooses who can open it, according to the company's [launch announcement](https://x.ai/news/grok-build-for-everyone).
+
+[[IMAGE: Cybersecurity]](https://thehackernews.uk/ai-governance-platform-d)
+
+No app goes public until its creator clicks Publish. In the paid account the researchers used, the next step offered 3 access settings: "Anyone with the link", "Invited users" and "Only you". "Anyone with the link" was already selected.
+
+The setting matters because an app's address does not stay secret, the researchers say. Opening an app makes the visitor's computer look up its subdomain in DNS. Passive DNS services record such lookups, and anyone with an account can search those records by pattern.
+
+Grok suggests 4 random words as each app's name, and about half of the names the researchers found followed that pattern. Such names are hard to guess, but that does not protect an app whose name already sits in a searchable list.
+
+ChatGPT's app builder also puts each app on its own subdomain. But when the researchers shared an app there, its access was set to "Only me" until they changed it. A ChatGPT app address found in DNS data would lead to an app that only its owner can open, they say.
+
+[[IMAGE]](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs8WuVb3JYQy34eSV2jwOerQoLd0Ay60Ujyq4mSERCiowUh9O747pKe9_bgmHOwwa3ju39SsC0u1TBPTQC35xH5PWZjnwsCA-_XkGy77wT4HgK8bzcpS9JPSeuWzfPw7ve5VzfOiHj4X_aHf0-lQkCySguCs9IgqdOSEAQJqkH2aJzDeTxa6q7e3-9eDc/s1700-nu-rw-lo-l85-e365/shost2.png)
+
+The researchers found the Grok app names using common subdomain discovery methods and loaded each app's first page once, without signing in.
+
+To see what protection Grok adds on its own, the researchers built 2 test apps with made-up data and published both with the access setting already selected, "Anyone with the link".
+
+The first, a contact list, got a database but no sign-in. Without signing in, the researchers added a row from a private browser window, and the next visitor saw it.
+
+The second, a customer list for a 4-person sales team, got sign-in buttons that Grok added on its own: "Continue with Google" and "Continue with X". But the code Grok wrote added each person who signed in to the team before checking whether they belonged, so the check always passed.
+
+An uninvited Google account belonging to someone other than the owner got in, viewed every customer, edited one record, and deleted another.
+
+The researchers ran these tests only on their own apps. They did not test whether any of the open apps they found would accept such changes.
+
+[[IMAGE]](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDV9oxFVTUXABpaZrmGxN6-eymAQdMX0aYI8L-6Pm72jX74aW2vHuGJpViSM7ffJinGlokuZf5HCVvTN9ip3U_kiYTllQFybc8c7NM-hx6XW2kxSZbBMyQvr0z8swPKRVgFICT4sdPv2qj10XstkCDufNon5P-agRGPVbexznRYNzQwY5iLCIFafYgaks/s1700-nu-rw-lo-l85-e365/shost2data.png)
+
+The researchers reported their findings to SpaceXSI on Sunday through the address in its security.txt file, including 2 of the staff apps. They reported the other 22 on Monday.
+
+By the time the researchers published yesterday, the company had not replied to their report, but it had answered a reporter's questions about the research.
+
+As the researchers describe, the company said Grok apps stay private until their creator shares them. Publishing takes several steps, including choosing between "Only you" and "Anyone with the link," as well as a legal disclaimer. Employee accounts are set to "Only you" by default.
+
+Even so, 24 apps built by staff at the company and at X were open to anyone, the researchers say.
+
+With their report, the researchers had asked the company to make "Only you" the default and to add an option that limits an app to a company's own email domain.
+
+The company's response did not state that it would contact the owners of other open apps, according to the researchers. They have started emailing the affected organizations themselves and had emailed 3 by the time they published. They withheld every app address and title from the report.
+
+[[IMAGE: Cybersecurity]](https://thehackernews.uk/network-defense-dd)
+
+On October 18, the same researchers published [Muse research](https://blog.claroc.io/ghostshares-muse-passive-dns) showing that pages shared from Meta's Muse AI agent could be found through passive DNS. Meta disabled sharing, then announced a [sharing fix](https://x.com/dps/status/2113317986635485559) on October 22 that gave shared items new addresses.
+
+### How to Check Your Organization's Grok Apps
+
+Claroc, which sells tools to find and secure apps built with AI, recommends these checks:
+
+* Find out which AI app builders your staff uses. Builders such as Grok, Lovable, Replit, v0, Bolt, Base44 and Google AI Studio can be used without IT setting them up or a company account.
+* If you have access to passive DNS data, look up the builders' domains and open any results in a private browser window.
+* Make sure any Grok app with internal data is set to "Invited users" or "Only you", and that a stranger gets an error page.
+* Try to sign in with an account from outside your company. If it gets in, the app needs a list of who is allowed.
+* Check the scripts each app loads for names, email addresses and passwords, and unpublish apps that have no owner.
+
+In the researchers' tests, setting an app to "Only you" caused it to return a 401 error to a stranger for both the page and its data, and unpublishing took an app offline within seconds.
+
+Found this article interesting? Follow us on [Google News](https://news.google.com/publications/CAAqLQgKIidDQklTRndnTWFoTUtFWFJvWldoaFkydGxjbTVsZDNNdVkyOXRLQUFQAQ), [Twitter](https://twitter.com/thehackersnews) and [LinkedIn](https://www.linkedin.com/company/thehackernews/) to read more exclusive content we post.
+
+SHARE [**](#link_share) [**](#link_share) [**](#link_share) [**](javascript:void(0))
+
+[**Tweet](#link_share)
+
+[**Share](#link_share)
+
+[**Share](#link_share)
+
+**Share
+
+[SHARE **](javascript:void(0))
+
+[Access Control](https://thehackernews.com/search/label/Access%20Control), [artificial intelligence](https://thehackernews.com/search/label/artificial%20intelligence), [Cloud security](https://thehackernews.com/search/label/Cloud%20security), [Data Exposure](https://thehackernews.com/search/label/Data%20Exposure), [data security](https://thehackernews.com/search/label/data%20security), [Web Security](https://thehackernews.com/search/label/Web%20Security)
+
+⚡ Top Stories This Week
+
+[[IMAGE: The Hacker News]
+
+Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access](https://thehackernews.com/2026/11/google-disrupts-13-million-device.html)
+
+[[IMAGE: The Hacker News]
+
+Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub](https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html)
+
+[[IMAGE: The Hacker News]
+
+Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot](https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html)
+
+[[IMAGE: The Hacker News]
+
+Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It](https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html)
+
+[[IMAGE: The Hacker News]
+
+Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs](https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html)
+
+[[IMAGE: The Hacker News]
+
+OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux](https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html)
+
+[[IMAGE: The Hacker News]
+
+OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run](https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html)
+
+[[IMAGE: The Hacker News]
+
+Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content](https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html)
+
+[[IMAGE: The Hacker News]
+
+Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root](https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html)
+
+[[IMAGE: The Hacker News]
+
+Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads](https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html)
+
+[[IMAGE: The Hacker News]
+
+Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory](https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html)
+
+[[IMAGE: The Hacker News]
+
+Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction](https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html)
+
+[[IMAGE: The Hacker News]
+
+CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades](https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html)
+
+[[IMAGE: The Hacker News]
+
+Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft](https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html)
+
+[[IMAGE: The Hacker News]
+
+Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges](https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html)
+
+[[IMAGE: The Hacker News]
+
+Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing](https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html)
+
+[[IMAGE: The Hacker News]
+
+Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw](https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html)
+
+[[IMAGE: The Hacker News]
+
+New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food](https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html)
+
+[[IMAGE: The Hacker News]
+
+5 Active Cyber Threats That Put US Enterprises at Risk in October 2026](https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html)
+
+[[IMAGE: The Hacker News]
+
+Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out](https://thehackernews.com/2026/11/is-your-exposure-management-platform.html)
+
+[[IMAGE: The Hacker News]
+
+The Flood is Coming And The Pipes Were Already Full](https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html)
+
+[[IMAGE: The Hacker News]
+
+The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers](https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html)
+
+[[IMAGE: The Hacker News]
+
+The Collapsed Patch Window: Why Runtime Protection is Now Your First Line of Defense Against AI-Driven Attacks](https://thehackernews.com/expert-insights/2026/11/the-collapsed-patch-window-why-runtime.html)
+
+[[IMAGE: The Hacker News]
+
+ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories](https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html)
+
+⭐ Featured Resources
+
+[[IMAGE: Articles]
+
+Detect Lateral Movement and Evasive Attacks With Corelight's Open NDR Platform](https://thehackernews.uk/corelight-defense)
+
+[[IMAGE: Articles]
+
+Assess Your Organization's AI Code Sprawl Exposure With This Practical Guide](https://thehackernews.uk/tame-wild-code)
+
+[[IMAGE: Articles]
+
+See How Bitdefender GravityZone Identifies Shadow AI and Prioritizes Endpoint Risks](https://thehackernews.uk/control-visibility)
+
+[[IMAGE: Articles]
+
+Beyond CVE Scanning: Book a Demo of Continuous AI-Powered Web Pentesting](https://thehackernews.uk/continuous-security)
+
+## Cybersecurity Webinars
+
+[SIEM + EDR Aren't Enough
+
+### Your SOC Has an Identity Blind Spot. Here's How to Fix It
+
+Learn how to close critical identity visibility gaps in your SOC, detect hidden threats, and accelerate incident response across human, machine, and AI identities.](https://thehacker.news/fuel-the-soc?source=below)  [Roadmap for AI-Ready Security Operations
+
+### Evaluate Attack Surface Visibility With an AI Threat Readiness Framework
+
+Learn how to assess AI threat readiness, strengthen attack surface visibility, and prepare security operations for emerging threats in this practical webinar.](https://thehacker.news/ai-threat-readiness?source=below)
+
+⚡ Latest News
+
+Cybersecurity Resources
+
+[[IMAGE: Cybersecurity]
+
+11 Real Stories: How Identity Exposure Unlocks Active Attack Paths
+
+Map cross-domain privilege escalation to sever breach routes at key choke points.](https://thehackernews.uk/xmcyber-c)
+
+[[IMAGE: Cybersecurity]
+
+Governance Sets the Ceiling on Your AI Security Program
+
+See the five moves that raise a Stage 2 Govern score to a defensible Stage 3.](https://thehackernews.uk/2026-ai-field)
+
+[[IMAGE: Cybersecurity]
+
+BeyondTrust an 8X Gartner® Magic Quadrant™ Leader for PAM
+
+Gain clarity on the PAM market and understand why BeyondTrust is again a Leader.](https://thehackernews.uk/magic-quadrant-pam)
+
+​
+
+Expert Insights [Articles](https://thehackernews.com/expert-insights/) [Videos](https://thehackernews.com/videos/)
+
+[[IMAGE: Expert Insights]
+
+## The Collapsed Patch Window: Why Runtime Protection is Now Your First Line of Defense Against AI-Driven Attacks
+
+**November 9, 2026 Read ➝](https://thehackernews.com/expert-insights/2026/11/the-collapsed-patch-window-why-runtime.html)  [[IMAGE: Expert Insights]
+
+## Your Attack Surface Is Growing Faster Than Your Team Can Respond
+
+**November 4, 2026 Read ➝](https://thehackernews.com/expert-insights/2026/11/your-attack-surface-is-growing-faster.html)  [[IMAGE: Expert Insights]
+
+## The MSP Margin Math Nobody's Doing: Your Next Technician Might Already be on Payroll
+
+**November 2, 2026 Read ➝](https://thehackernews.com/expert-insights/2026/11/the-msp-margin-math-nobodys-doing-your.html)  [[IMAGE: Expert Insights]
+
+## PEDM vs. Standing Elevated Privileges: Control Access Without Flooding the Helpdesk
+
+**November 2, 2026 Read ➝](https://thehackernews.com/expert-insights/2026/11/pedm-vs-standing-elevated-privileges.html)

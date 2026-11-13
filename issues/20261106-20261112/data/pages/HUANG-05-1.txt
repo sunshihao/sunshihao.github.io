@@ -1,0 +1,27 @@
+This is CNBC's live coverage of Nvidia and CEO Jensen Huang.
+
+Nvidia CEO Jensen Huang is stepping down as CEO of the chipmaker he co-founded 33 years ago and built into a $4 trillion company that powered the artificial intelligence boom, the company announced Thursday.
+
+CFO Colette Kress has been named interim CEO.
+
+After a meteoric rise to fame due to Nvidia's central role in AI, Huang's dramatic fall has been even more rapid, following a series of stinging revelations about his romantic ties to a woman believed by the U.S. intelligence community to be a Chinese spy.
+
+Huang, 63, apologized on Sunday for being "unfaithful to my wife," though he provided no details about the affair with businesswoman Alice Huang, who has worked for a Chinese company and Nvidia customer called Megaspeed. On Thursday, The New York Times reported that the Nvidia CEO also had a separate affair, this one with Kimberly Powell, vice president of health care at the chipmaker. Later that afternoon The Times and other outlets reported that Nvidia's board met to discuss the company's future.
+
+Jensen Huang denied allegations that he had compromised national security or Nvidia secrets after reports of the Alice Huang affair. The news sparked concerns that Nvidia knew companies based in Singapore and Malaysia had been evading U.S. export controls in accessing its technology. The board said on Tuesday that it had hired Wachtell Lipton to investigate the intelligence allegations.
+
+Huang's downfall also puts the spotlight on President Donald Trump, who formed a particularly close relationship with the CEO of what, until recently, was the world's most valuable company. Huang became a key voice on U.S. AI policy while pushing for issues that were in Nvidia's interest, such as preserving access to open-source AI, and lobbying to allow chip exports to China.
+
+In May, Huang joined Trump on a trip to China, and in August, while on stage at the All-In Summit to discuss AI safety and regulation, he took a call from Trump and put him on speakerphone.
+
+"I'm with you all the way," Trump told Huang and the audience.
+
+With Democrats poised to take over both houses of Congress and promising to investigate various matters related to Nvidia, Huang's status in Washington, D.C. was poised to change dramatically even before the affairs became public.
+
+Nvidia's fortunes exploded after OpenAI released ChatGPT in late 2022, leading to soaring demand for the chipmaker's graphics processing units, or GPUs. Nvidia's stock is up about 14-fold since then, even with a recent pullback related to the Huang scandal and the broader selloff in the AI trade.
+
+Beyond its impact on Nvidia, Huang's departure has deep ramifications for the AI industry that has turned Huang into a global spokesperson and celebrity, traversing the globe in his trademark leather jacket, touting the power of the advanced chips, models and agents.
+
+Huang has seeded the market with numerous companies that buy Nvidia GPUs, building his company's influence and establishing a deep roster of customers, beyond the hyperscalers. Nvidia has used its balance sheet to backstop leases and chip sales, and has become the centerpiece of the industry, acting as technology supplier, customer, investor, financier, and partner to scores of AI companies.
+
+"He's Mr. AI. He speaks for the industry," said Jeff Christian, CEO of Christian and Timbers, an executive search firm. "He's connected financially to everybody either through partnerships, or through lending the money to buy chips."

@@ -1,0 +1,41 @@
+# Nvidia and Jensen Huang face shareholder lawsuit alleging investors were misled about spy affair
+
+A shareholder has sued Nvidia and its CEO, Jensen Huang, accusing them of deceiving investors in their responses to media reports about Huang’s affair with a purported Chinese spy that threatens national security.
+
+The complaint comes after President Donald Trump said the FBI is investigating the affair, which Huang has acknowledged and apologized for. Trump said Monday that Huang told him he had no idea the person could be involved in espionage.
+
+The affair, which is also being scrutinized by Nvidia’s board, has raised concerns that Beijing is using nefarious means to gain access to Nvidia ‘s cutting-edge microchips, which power the development of artificial intelligence but face export restrictions to China.
+
+The complaint filed Monday in a California court says the company misled investors about Huang’s relationship with Alice Huang, who news reports said is suspected of working for Chinese intelligence, and the national security implications.
+
+AP correspondent Ben Thomas reports Nvidia’s stock took a tumble Monday amid investigations of an alleged spy plot targeting the company’s founder and CEO.
+
+The news reports said that the Commerce Department was investigating Alice Huang’s company, Singapore-based Megaspeed, on suspicions that it was helping to sidestep U.S. export restrictions blocking Nvidia chips from being sold to China. But Nvidia said then that its compliance team checked and determined that Megaspeed wasn’t doing anything illegal.
+
+But, according to the complaint, the statements were misleading because they were made when Jensen Huang was having an affair with Alice Huang, who is “suspected of seeking to help smuggle Nvidia products into China.”
+
+It accuses Nvidia and Huang of failing to disclose the affair and issuing false statements about Nvidia’s relationship with Megaspeed, which posed a “material risk” to Nvidia’s reputation and business prospects.
+
+Nvidia didn’t immediately respond to a request for comment. Independent members of the company’s board said Tuesday in a statement that they’ve retained the New York-based law firm Wachtell, Lipton, Rosen & Katz to conduct a “thorough and independent investigation” of the incident. Joon H. Kim, a partner at the firm and a former acting U.S. Attorney of the Southern District of New York, will lead the firm’s inquiry.
+
+The complaint, filed by retail investor Mark Kistenmacher, seeks unspecified damages and a jury trial. It seeks to represent in a class-action lawsuit anyone who bought shares of Nvidia from Oct. 9, 2025, when The New York Times first reported about the pair socializing in Taiwan, until Nov. 8 of this year, when the company said it was investigating reports that Huang was the “target of a foreign intelligence effort.”
+
+Shares of Nvidia, one of the world’s most valuable companies, fell $7.97, or 4.3%, on Monday, wiping out about $190 billion in market value. Shares continued falling Tuesday — they were down about 5.5% at market close.
+
+“As a result of Defendants’ wrongful acts and omissions, and the precipitous decline in the market value of the Company’s securities, Plaintiff and other Class members have suffered significant losses and damages,” the complaint said.
+
+Had investors known the truth, they wouldn’t have purchased Nvidia’s shares “at the artificially inflated prices that they did, or at all,” the complaint said.
+
+The New York Times reported that U.S. intelligence determined that Alice Huang, a former executive of Megaspeed International, was gathering information for Beijing. Huang is a common Chinese surname and the two are not related.
+
+Megaspeed bought more than $4.8 billion worth of Nvidia chips over the past two years, according to The Times.
+
+Trump said in a White House briefing that the FBI is “looking into” the affair, but added he doesn’t think Huang needs to worry, saying “he’ll be in good shape.”
+
+The episode is also starting to attract congressional scrutiny, with top Democrats Sen. Mark Warner and Rep. Hakeem Jeffries saying Monday they are interested in investigating it further.
+
+Huang is a singular figure in the technology landscape and one of the world’s wealthiest people thanks to booming demand for his company’s microprocessors, which are in huge demand for cloud computing and data centers that underpin the AI boom.
+
+He apologized to his wife, family and the company for the affair in an open letter posted on Nvidia’s website.
+
+“I support the investigation and will cooperate fully. I love our country and our company. I am committed to protecting NVIDIA and supporting America’s national security,” Huang said in his letter.

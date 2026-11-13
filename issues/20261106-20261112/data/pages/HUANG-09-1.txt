@@ -1,0 +1,55 @@
+In this article
+
+Members of Congress are calling on Nvidia CEO Jensen Huang to resign and momentum is building to subpoena the executive, whose company is a leader in advanced artificial intelligence chips.
+
+Senate banking committee member Kevin Cramer, R-N.D., doubled down Wednesday on his call for Huang to resign, and a key Democratic House oversight panel member and House Republican piled on.
+
+"As a matter of his own conscience, he should resign," Cramer told CNBC, in response to revelations that Huang had an affair with an alleged Chinese spy as the chipmaker he co-founded was given permission from the U.S. government to sell its technology to China.
+
+Huang, who leads a company that's been a chief beneficiary of the artificial intelligence boom, on Sunday admitted to having an affair with a woman whom news outlets have reported U.S. intelligence concluded was a Chinese spy. The revelation is sending shockwaves through Washington, with lawmakers now fearing that U.S. AI dominance could be at risk.
+
+"What bothers me at the end of it is what we don't know is what she knows about him that can be utilized," Cramer said, referring to Alice Huang and Jensen Huang, who are not related. "This is a guy that's right now so vulnerable to extortion, blackmail. I just don't think, as a national security matter, we can run the risk."
+
+Cramer's comments come on the deadline set by a trio of House lawmakers who requested Huang to testify before their committees on Nov. 18.
+
+GOP Reps. Brian Mast, chair of the House Foreign Affairs Committee, John Moolenaar, chair of the Permanent Select Committee on China, and Rick Crawford, who leads the House intelligence panel, called for Huang to appear in a Nov. 4 letter. Congress members in the majority party also have subpoena power, should they choose to use it.
+
+Mast and Moolenaar told reporters on Wednesday afternoon that they had not yet heard from Huang and that they were giving him until the end of the day to respond.
+
+Asked whether the committees were considering subpoenaing Huang if he doesn't agree to appear, Mast said "yes."
+
+Moolenaar, when asked the same question, said "all three committees have subpoena power, and I know all three committees have a very serious interest in getting to the bottom of this and having transparency around this."
+
+"We are going to continue to pursue this," Moolenaar said.
+
+The lawmakers are far from alone in their criticism, concern and outright shock over the affair. And the scrutiny is only expected to intensify with Democrats poised to take over both chambers of Congress in January. Huang has been close with President Donald Trump during the president's second term, traveling on Air Force One to China in May.
+
+"Jensen Huang should resign from Nvidia," Rep. Suhas Subramanyam, D-Va., a member of the House Oversight Committee, told CNBC. Subramanyam is the top Democrat on the panel's Subcommittee on Military and Foreign Affairs.
+
+"I didn't agree with his sentiment that there's no downside to exporting chips to China," he said. "But I never thought that he might be having an affair with a Chinese spy who was helping smuggle chips into China at an alarming rate."
+
+Rep. Don Bacon, R-Neb., who is retiring from Congress after sometimes bucking Trump, also said the CEO should step down.
+
+"From the little I know, yes." Bacon told CNBC in response to whether Huang should resign. "I mean, he allowed himself to get compromised by the Chinese government. Not good."
+
+Huang was notably opposed to strict export controls on AI chips to China, which ruffled feathers with China hawks on Capitol Hill.
+
+Democrats are widely expected to launch myriad investigations into the White House and industry when they assume control of both chambers of Congress in January. Nvidia is now likely to be at the center of those probes.
+
+"There's two parts to this investigation that [need] to happen somewhere immediately," Subramanyam said. "One is what was going on with Nvidia and China, and two is why the administration did nothing about it even though they appeared to have known, and what the administration knew, and what influence the money from Nvidia and Jensen Huang had on this administration, essentially staying silent."
+
+Rep. Jay Obernolte, R-Calif., co-chair of the House AI task force, said Tuesday he hopes that the Huang scandal can avoid becoming a distraction in talks about imposing export controls on advanced AI chips.
+
+The situation may give Congress additional ammunition as it tries to pass a suite of bills in this year's National Defense Authorization Act to tighten export controls on advanced AI chips.
+
+Congress has still not passed the annual defense bill, which is a top priority for lawmakers in the lame duck session.
+
+Those bills include the AI Overwatch Act, the MATCH Act and the Chip Security Act — all of which are aimed at preventing U.S. chip technology from falling into adversarial hands.
+
+Sens. Elizabeth Warren, D-Mass., and Jim Banks, R-Ind., in a statement following the Huang affair revelation, urged their colleagues to include the AI Overwatch Act. Warren, the incoming Senate banking committee chair, sponsored the bill in the Senate with Banks.
+
+"Huang's confirmation of a relationship with a suspected spy for China's intelligence service makes these national security concerns even more urgent and raises important questions NVIDIA must answer about the extent to which these activities were related," the senators said. "It is time for Congress to take decisive action to pass key bills like the AI Overwatch Act in the NDAA that will cut off pathways through which China accesses advanced chips."
+
+And Subramanyam warned that what Nvidia does now — and whether Huang remains atop the company — could affect its relationship with Washington and whether lawmakers crack down.
+
+"If Nvidia finds out that he knew about what was going on and does nothing about it, then Nvidia is making a choice and us as regulators and as watchdogs need to defend the American people," he said.

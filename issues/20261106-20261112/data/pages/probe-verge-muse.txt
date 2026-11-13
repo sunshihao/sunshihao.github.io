@@ -1,0 +1,24 @@
+# Meta is launching its “smallest and most efficient” AI model: Muse Ember. | The Verge
+URL: https://www.theverge.com/tech/1029979/meta-is-launching-its-smallest-and-most-efficient-ai-model-muse-ember
+Published: 2026-11-09
+Author: Jay Peters
+
+Meta is launching its “smallest and most efficient” AI model: Muse Ember. | The Verge
+
+Posted Nov 9, 2026 at 6:00 PM UTC
+
+Jay Peters
+
+Meta is launching its “smallest and most efficient” AI model: Muse Ember.
+
+The new model is “designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing,” Meta says.
+
+The company claims Muse Ember delivers “more intelligence per dollar” than Anthropic’s Claude Haiku 5.5 or OpenAI’s GPT-6 Luna “at any reasoning setting.”
+
+The Jensen Huang scandal is hardly over
+
+Elizabeth Lopatto Nov 12
+
+‘The end of Tesla!’: Cybertruck diehards turn on Elon Musk after he pulls the plug
+
+Andrew J. Hawkins Nov 12

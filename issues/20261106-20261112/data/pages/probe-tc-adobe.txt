@@ -1,0 +1,36 @@
+# Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly | TechCrunch
+URL: https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/
+Published: 2026-11-10
+Author: Ivan Mehta
+
+Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly | TechCrunch
+
+Image Credits: Adobe
+
+# Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly
+
+ Ivan Mehta 
+
+6:05 AM PST · November 10, 2026
+
+Adobe is pouring more AI into its products, including Photoshop, Premiere, Illustrator, and InDesign, in a major product feature announcement at its MAX event in Miami. The company is also expanding AI capabilities in its creative tool, Firefly, and releasing a Model Context Protocol (MCP) that lets other chatbots like ChatGPT, Claude, or Gemini use Adobe features.
+
+Adobe’s Firefly app is moving into Figma’s territory with a new prototyping tool in private beta called Builder, which lets users create designs to show off ideas. There is also a new tool to create on-brand graphs, along with an image-editing tool that lets you change part of an image without changing other objects.
+
+A new AI-powered video tool in Firefly will allow users to assemble a video from clips and other elements like images and sound effects. The company is making its agent proactive and always on so that it can get more context about work and be present for any action. Adobe is also making it easier for people to take quick action, like removing the background or generating a thumbnail for a video.
+
+Image Credits: Adobe
+
+The company has already added a ton of AI features across its apps like Photoshop, Express, Premiere, and Illustrator. At the MAX event, Adobe is continuing the trend. Photoshop is getting a new relighting feature and sliders for prompt-based generative styles; Premiere will have a new color grading system for professionals and an object removal feature for video; and Lightroom has a way to correct blinking eyes and a blemish removal tool.
+
+Adobe already offers a lot of third-party models from companies like Google, Runway, ElevenLabs, Black Forest Labs, OpenAI, Kling, and ByteDance. One of its newer acquisitions, Topaz Labs, is releasing two image models, called Wonder 4 for upscaling and denoising, and ImageHDR, to turn standard images into HDR. 
+
+Image Credits: Adobe
+
+The company already has ChatGPT and Claude integrations to let users access some of its product functions. Now, Adobe is releasing a local MCP to expose more features of its Creative Cloud apps to users.
+
+Adobe vice president Deepa Subramaniam told TechCrunch that the company is still figuring out what capabilities to expose and will rely on user feedback.
+
+“We are still figuring out where and when and how to draw the line. What we’re putting out there is a number of endpoints and capabilities across Illustrator, Photoshop, After Effects, and Premiere. We’re just going to see how people use it, what they’re trying to do, and keep showing more. We don’t have any need or desire to sort of limit what the MCP endpoint can expose. What we really want to do is to support that creative workflow, how you choose to do it,” said Subramaniam.
+
+Last month,

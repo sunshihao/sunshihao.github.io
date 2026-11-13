@@ -1,0 +1,19 @@
+上海期货交易所 燃料油期货 每日行情（数据片段）
+来源文件: https://www.shfe.com.cn/data/tradedata/future/dailydata/kx20261109.dat ; https://www.shfe.com.cn/data/tradedata/future/dailydata/kx20261110.dat ; https://www.shfe.com.cn/data/tradedata/future/dailydata/kx20261111.dat ; https://www.shfe.com.cn/data/tradedata/future/dailydata/kx20261112.dat
+说明: 交易所每日行情原始文件中 o_curinstrument 数组的记录。每行由原始 JSON 逐字段转写（数值未改动），下一行为该条原始记录。
+
+交易日 2026-11-09（report_date=20261109，update_date=20261109 15:28:37）
+燃料油 fu2701 | 结算价 4271 | 收盘价 4140 | 前结算价 4283 | 涨跌1 收盘-前结算 -143 | 涨跌2 结算-前结算 -12 | 成交量 783217 | 持仓量 161915
+原始记录 {"CLOSEPRICE": 4140, "DELIVERYMONTH": "2701", "HIGHESTPRICE": 4375, "LOWESTPRICE": 4123, "OPENINTEREST": 161915, "OPENINTERESTCHG": 3883, "OPENPRICE": 4226, "PRESETTLEMENTPRICE": 4283, "PRODUCTCLASS": "1", "PRODUCTGROUPID": "fu", "PRODUCTID": "fu_f", "PRODUCTNAME": "燃料油", "SETTLEMENTPRICE": 4271, "TASVOLUME": "", "TURNOVER": 3345779.198, "VOLUME": 783217, "ZD1_CHG": -143, "ZD2_CHG": -12}
+
+交易日 2026-11-10（report_date=20261110，update_date=20261110 15:29:23）
+燃料油 fu2701 | 结算价 4033 | 收盘价 3985 | 前结算价 4271 | 涨跌1 收盘-前结算 -286 | 涨跌2 结算-前结算 -238 | 成交量 771431 | 持仓量 168000
+原始记录 {"CLOSEPRICE": 3985, "DELIVERYMONTH": "2701", "HIGHESTPRICE": 4095, "LOWESTPRICE": 3955, "OPENINTEREST": 168000, "OPENINTERESTCHG": 6085, "OPENPRICE": 4001, "PRESETTLEMENTPRICE": 4271, "PRODUCTCLASS": "1", "PRODUCTGROUPID": "fu", "PRODUCTID": "fu_f", "PRODUCTNAME": "燃料油", "SETTLEMENTPRICE": 4033, "TASVOLUME": "", "TURNOVER": 3111935.26, "VOLUME": 771431, "ZD1_CHG": -286, "ZD2_CHG": -238}
+
+交易日 2026-11-11（report_date=20261111，update_date=20261111 15:29:22）
+燃料油 fu2701 | 结算价 3980 | 收盘价 4065 | 前结算价 4033 | 涨跌1 收盘-前结算 32 | 涨跌2 结算-前结算 -53 | 成交量 639948 | 持仓量 157312
+原始记录 {"CLOSEPRICE": 4065, "DELIVERYMONTH": "2701", "HIGHESTPRICE": 4115, "LOWESTPRICE": 3877, "OPENINTEREST": 157312, "OPENINTERESTCHG": -10688, "OPENPRICE": 3930, "PRESETTLEMENTPRICE": 4033, "PRODUCTCLASS": "1", "PRODUCTGROUPID": "fu", "PRODUCTID": "fu_f", "PRODUCTNAME": "燃料油", "SETTLEMENTPRICE": 3980, "TASVOLUME": "", "TURNOVER": 2547049.546, "VOLUME": 639948, "ZD1_CHG": 32, "ZD2_CHG": -53}
+
+交易日 2026-11-12（report_date=20261112，update_date=20261112 15:55:22）
+燃料油 fu2701 | 结算价 4036 | 收盘价 4095 | 前结算价 3980 | 涨跌1 收盘-前结算 115 | 涨跌2 结算-前结算 56 | 成交量 542919 | 持仓量 160969
+原始记录 {"CLOSEPRICE": 4095, "DELIVERYMONTH": "2701", "HIGHESTPRICE": 4121, "LOWESTPRICE": 3962, "OPENINTEREST": 160969, "OPENINTERESTCHG": 3657, "OPENPRICE": 4112, "PRESETTLEMENTPRICE": 3980, "PRODUCTCLASS": "1", "PRODUCTGROUPID": "fu", "PRODUCTID": "fu_f", "PRODUCTNAME": "燃料油", "SETTLEMENTPRICE": 4036, "TASVOLUME": "", "TURNOVER": 2191637.93, "VOLUME": 542919, "ZD1_CHG": 115, "ZD2_CHG": 56}

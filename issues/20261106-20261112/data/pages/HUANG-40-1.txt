@@ -1,0 +1,30 @@
+# EDGAR Search Results
+URL: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001045810&type=DEF+14A&dateb=&owner=include&count=10
+
+EDGAR Search Results
+
+# EDGAR Company Search Results
+
+Mailing Address 2788 SAN TOMAS EXPRESSWAY SANTA CLARA CA 95051 
+
+Business Address 2788 SAN TOMAS EXPRESSWAY SANTA CLARA CA 95051 408-486-2000 
+
+NVIDIA CORP CIK#: 0001045810 (see all company filings)
+
+SIC: 3674 - SEMICONDUCTORS & RELATED DEVICES State location: CA | State of Inc.: DE | Fiscal Year End: 0131 formerly: NVIDIA CORP/CA (filings through 2002-06-04) (CF Office: 04 Manufacturing) Get insider transactions for this issuer. Get insider transactions for this reporting owner. 
+
+| Items 1 - 10 RSS Feed | Next10 |
+| --- | --- |
+
+| Filings | Format | Description | Filing Date | File/Film Number |
+| --- | --- | --- | --- | --- |
+| DEF 14A | Documents Interactive Data | Other definitive proxy statements Acc-no: 0001045810-26-000036 (34 Act) Size: 19 MB | 2026-05-12 | 000-23985 26969353 |
+| DEF 14A | Documents Interactive Data | Other definitive proxy statements Acc-no: 0001045810-25-000095 (34 Act) Size: 8 MB | 2025-05-13 | 000-23985 25940662 |
+| DEF 14A | Documents Interactive Data | Other definitive proxy statements Acc-no: 0001045810-24-000104 (34 Act) Size: 73 MB | 2024-05-14 | 000-23985 24944362 |
+| DEF 14A | Documents Interactive Data | Other definitive proxy statements Acc-no: 0001045810-23-000080 (34 Act) Size: 93 MB | 2023-05-08 | 000-23985 23897781 |
+| DEF 14A | Documents | Other definitive proxy statements Acc-no: 0001045810-22-000068 (34 Act) Size: 1 MB | 2022-04-19 | 000-23985 22835608 |
+| DEF 14A | Documents | Other definitive proxy statements Acc-no: 0001045810-22-000067 (34 Act) Size: 41 MB | 2022-04-19 | 000-23985 22835558 |
+| DEF 14A | Documents | Other definitive proxy statements Acc-no: 0001045810-21-000052 (34 Act) Size: 37 MB | 2021-04-23 | 000-23985 21849887 |
+| DEF 14A | Documents | Other definitive proxy statements Acc-no: 0001045810-20-000055 (34 Act) Size: 40 MB | 2020-04-29 | 000-23985 20830477 |
+| DEF 14A | Documents | Other definitive proxy statements Acc-no: 0001045810-19-000070 (34 Act) Size: 54 MB | 2019-04-12 | 000-23985 19746339 |
+| DEF 14A | Documents | Other definitive proxy statements Acc-no: 0001045810-18-000047 (34 Act) Size: 57 MB | 2018-04-06 | 000-23985 18743356 |

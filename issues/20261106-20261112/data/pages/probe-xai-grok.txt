@@ -1,0 +1,45 @@
+# Introducing Grok Bot 1.0 | SpaceXSI
+URL: https://x.ai/news/grok-bot-1-0
+Published: 2026-11-02
+
+Introducing Grok Bot 1.0 | SpaceXSI
+
+# Introducing Grok Bot 1.0
+
+Bots now work with your whole team, take on work without being asked, and get more done, faster.
+
+Play
+
+Play
+
+0:00 / 0:00
+
+Mute
+
+Fullscreen
+
+Today we’re launching Grok Bot 1.0, a major update to our AI teammates. Since introducing Grok Bot in beta, we’ve made three major improvements:
+
+- Multiplayer teammates. You can share Bots and bring them into Slack, Microsoft Teams, and video calls. Bots learn from everyone they work with and keep improving their understanding of the team’s knowledge and preferences.
+- Proactive teammates. Bots can recognize work that needs to be done and offer to take it on. They can follow up on unfinished tasks, anticipate what a team needs next, and bring people in when a decision requires their judgment.
+- More capable teammates. Bots are faster and more reliable at using the browser and completing complex work, including writing documents and building presentations. We’ve also made them more efficient, reducing the resources required to complete tasks.
+
+Grok Bot began as a way to hand off work to an AI teammate. With 1.0, those teammates understand the work your team is doing and the people doing it, so they can contribute like any other colleague.
+
+## Bots work together alongside your team
+
+With Team Bots, everyone on a team can work with the same AI teammate. Since we launched Team Bots, we’ve made a number of improvements to make them easier to share and manage. As a Bot works with different people, it learns more about the team’s work and how each person contributes, becoming more useful to everyone over time. Sharing is more flexible too. Share a Team Bot with specific people or groups, and work with it in Slack or Microsoft Teams.
+
+In conversations, Bots can follow discussions involving multiple people, understand who’s involved, and contribute relevant information or offer to pick up work. During a product launch, for example, a Bot might notice that new customer research points to a different message than the team is considering. It can bring that into the discussion, then coordinate with another Bot to update campaign materials once the team agrees on a direction.
+
+Bots can also join video calls and participate through the chat, bringing information from earlier conversations into the discussion. They keep track of decisions and learn more about the team’s work, allowing them to become more useful over time.
+
+## Bots take initiative
+
+Grok Bot can spot work before anyone asks. It can monitor ongoing projects, recognize when something needs attention, and suggest next steps based on what it knows about the team’s goals, processes, and priorities.
+
+For example, a Bot helping with a product launch might notice an upcoming deadline and prepare the materials the team needs. It can also follow up on unfinished work, coordinate with other Bots, and bring people in when a decision requires their judgment.
+
+## Bots learn and improve as they work
+
+As peopl

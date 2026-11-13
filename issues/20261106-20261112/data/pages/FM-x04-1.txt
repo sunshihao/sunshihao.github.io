@@ -1,0 +1,391 @@
+[Skip to Content](#startcontent)
+
+![U.S. flag](https://www.dol.gov/themes/opa_theme/img/flag-favicon-57.png)
+
+An official website of the United States government
+
+[![Department of Labor Logo](https://www.dol.gov/themes/opa_theme/img/logo-primary.svg) United States Department of Labor](https://www.dol.gov/)
+
+![Dot gov](https://www.dol.gov/themes/opa_theme/img/icon-dot-gov.svg)
+
+**The .gov means it's official.**   
+ Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.
+
+![Https](https://www.dol.gov/themes/opa_theme/img/icon-https.svg)
+
+**The site is secure.**   
+ The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+[U.S. Bureau of Labor Statistics](/home.htm)
+
+[Release Calendar](/schedule/news_release/) | [Subscribe](javascript:window.open('https://public.govdelivery.com/accounts/USDOLBLS/subscriber/new ','Popup','width=800,height=500,toolbar=no,scrollbars=yes,resizable=yes'); void(''); "Subscribe to BLS E-mail Updates")
+
+[Economic News Release](/bls/newsrels.htm) 
+
+SHARE ON: [![share on facebook](/images/icons/facebook.png "Facebook")](javascript:void(0);) [![share on twitter](/images/icons/twitter.png "Twitter")](javascript:void(0);) [![share on linkedin](/images/icons/linkedin.png "LinkedIn")](javascript:void(0);)
+
+Consumer Price Index
+
+* [CPI Homepage](/cpi/)
+* [CPI Overview](/cpi/overview.htm)
+* [CPI FAQs](/cpi/questions-and-answers.htm)
+* [Contact CPI](/cpi/contact.htm)
+
+# Consumer Price Index News Release
+
+```
+Transmission of material in this release is embargoed until 8:30 a.m. (ET) Tuesday, November 10, 2026 USDL-26-1685 Technical information: (202) 691-7000 * cpi_info@bls.gov * www.bls.gov/cpi Media contact: (202) 691-5902 * PressOffice@bls.gov CONSUMER PRICE INDEX - OCTOBER 2026 The Consumer Price Index for All Urban Consumers (CPI-U) increased 0.4 percent on a seasonally adjusted basis in October after rising 0.6 percent in September, the U.S. Bureau of Labor Statistics reported today. The index for shelter rose 0.3 percent in October, accounting for over thirty percent of the monthly all items increase. The food index increased 0.5 percent in October, as the food at home index rose 0.4 percent and the food away from home index increased 0.5 percent. The index for energy increased 0.7 percent over the month following a 5.2-percent increase in September. The index for all items less food and energy rose 0.3 percent in October, as it did in September and August. Indexes that increased over the month include recreation, medical care, motor vehicle insurance, household furnishings and operations, and education. Conversely, the index for used cars and trucks and the index for communication were among the small number of major indexes that decreased in October. ----------------------------------------------------------------------------------------------------------------- October 2026 12-Month Percent Changes BLS did not collect survey data for October 2025 because of a lapse in appropriations. For most CPI series, BLS could not publish October 2025 indexes. As a result, BLS cannot publish 12-month percent changes for October 2026 for indexes where October 2025 data are unavailable. Information about handling missing data is available online at www.bls.gov/cpi/factsheets/approximating-missing-data.htm ----------------------------------------------------------------------------------------------------------------- 
+```
+
+Table A. Percent changes in CPI for All Urban Consumers (CPI-U): U.S. city average
+
+| Seasonally adjusted changes from preceding month | Un- adjusted 12-mos. ended Oct. 2026 |
+| Apr. 2026 | May 2026 | Jun. 2026 | Jul. 2026 | Aug. 2026 | Sep. 2026 | Oct. 2026 |
+| All items | 0.6 | 0.5 | -0.4 | 0.1 | 0.4 | 0.6 | 0.4 | - |
+|  | 0.5 | 0.2 | 0.2 | 0.1 | 0.1 | 0.0 | 0.5 | - |
+| Food at home | 0.7 | 0.1 | 0.2 | -0.1 | 0.0 | -0.1 | 0.4 | - |
+| Food away from home([1](#cpi_pressa.f.1 "Click to jump to footnotes at bottom of the table")) | 0.2 | 0.3 | 0.2 | 0.3 | 0.3 | 0.2 | 0.5 | - |
+|  | 3.8 | 3.9 | -5.7 | -1.5 | 2.1 | 5.2 | 0.7 | - |
+| Energy commodities | 5.6 | 6.7 | -9.5 | -2.9 | 4.2 | 9.3 | 0.8 | - |
+| Gasoline (all types) | 5.4 | 7.0 | -9.7 | -2.9 | 3.9 | 9.1 | 1.0 | 37.4 |
+| Fuel oil | 5.8 | 3.8 | -9.2 | -1.7 | 10.1 | 15.3 | 2.0 | - |
+| Energy services | 1.6 | 0.4 | -0.7 | 0.3 | -0.4 | 0.1 | 0.6 | - |
+|  | 2.1 | 0.6 | -1.0 | 0.1 | -0.2 | 0.2 | 0.9 | - |
+| Utility (piped) gas service | -0.1 | -0.5 | 0.5 | 0.7 | -1.1 | -0.3 | -0.8 | - |
+| All items less food and energy | 0.4 | 0.2 | 0.0 | 0.2 | 0.3 | 0.3 | 0.3 | - |
+| Commodities less food and energy commodities | 0.0 | -0.1 | -0.1 | 0.2 | 0.1 | 0.3 | 0.2 | - |
+| New vehicles | -0.2 | -0.3 | 0.0 | 0.1 | 0.3 | 0.2 | 0.2 | 0.7 |
+| Used cars and trucks | 0.0 | 0.1 | -0.2 | 0.4 | 0.4 | 0.7 | -1.2 | -3.3 |
+|  | 0.6 | 0.3 | -0.6 | 0.1 | 0.0 | 0.3 | 0.1 | - |
+| Medical care commodities([1](#cpi_pressa.f.1 "Click to jump to footnotes at bottom of the table")) | -0.4 | -0.7 | -0.2 | -0.6 | -0.2 | -0.7 | 0.5 | - |
+| Services less energy services | 0.5 | 0.3 | 0.0 | 0.2 | 0.3 | 0.4 | 0.3 | - |
+|  | 0.6 | 0.3 | 0.1 | 0.1 | 0.3 | 0.4 | 0.3 | - |
+| Transportation services | 0.3 | -0.6 | -0.3 | 0.3 | 0.5 | 0.6 | 0.8 | - |
+| Medical care services | 0.0 | 0.5 | -0.1 | 0.6 | -0.2 | 0.3 | 0.3 | - |
+| Footnotes  (1)Not seasonally adjusted. |
+| NOTE: The Oct 2025 data values are not available due to the 2025 lapse in appropriations. |
+
+```
+Food The index for food rose 0.5 percent in October after being unchanged in September. The food at home index increased 0.4 percent over the month. Four of the six major grocery store food group indexes increased in October, while one index decreased. The index for other food at home increased 0.7 percent in October, as the index for snacks rose 1.0 percent. The meats, poultry, fish, and eggs index increased 0.5 percent over the month, as the beef index rose 0.9 percent. The index for fruits and vegetables and the index for dairy and related products each increased 0.6 percent in October. In contrast, the nonalcoholic beverages index decreased 0.3 percent in October, after rising 0.9 percent in September. The index for cereals and bakery products was unchanged over the month. The food away from home index rose 0.5 percent in October. The index for full service meals rose 0.7 percent, and the index for limited service meals increased 0.4 percent over the month. Energy The index for energy increased 0.7 percent in October after rising 5.2 percent in September. The gasoline index increased 1.0 percent over the month, after advancing 9.1 percent the previous month. (Before seasonal adjustment, gasoline prices decreased 0.7 percent in October.) The index for electricity rose 0.9 percent over the month. In contrast, the natural gas index decreased 0.8 percent in October. All items less food and energy The index for all items less food and energy rose 0.3 percent in October, as it did in September and August. The shelter index increased 0.3 percent over the month after rising 0.4 percent in September. The index for owners' equivalent rent rose 0.3 percent in October, and the index for rent increased 0.2 percent. The lodging away from home index rose 0.6 percent in October after rising 2.0 percent the previous month. The index for recreation increased 0.8 percent over the month after rising 0.5 percent in September. The motor vehicle insurance index rose 0.7 percent in October, and the household furnishings and operations index increased 0.2 percent. The index for education increased 0.3 percent in October, and the index for new vehicles rose 0.2 percent. The personal care index, the airline fares index, and the apparel index also increased over the month. The medical care index increased 0.3 percent in October after rising 0.1 percent in September. The index for hospital services rose 0.8 percent over the month, and the index for physicians' services increased 0.4 percent. The prescription drugs index rose 0.3 percent in October. The index for used cars and trucks declined 1.2 percent in October after rising 0.7 percent in September. The communication index decreased 0.1 percent over the month. Not seasonally adjusted CPI measures The Consumer Price Index for All Urban Consumers (CPI-U) increased to an index level of 337.511 (1982-84=100). For the month, the index rose 0.2 percent prior to seasonal adjustment. The Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) increased to an index level of 331.147 (1982-84=100). For the month, the index increased 0.1 percent prior to seasonal adjustment. For the month, the Chained Consumer Price Index for All Urban Consumers (C-CPI-U) increased 0.2 percent on a not seasonally adjusted basis. Please note that the indexes for the past 10 to 12 months are subject to revision. _______________ The Consumer Price Index news release for November 2026 is scheduled to be published on Thursday, December 10, 2026, at 8:30 a.m. (ET). ----------------------------------------------------------------------------------------------------------------- Upcoming Consumer Price Index Publication Changes With the publication of January 2027 CPI data on February 11, 2027, several index titles will change: "wireless telephone services" will change to "wireless telephone service"; "physicians' services" will change to "physician services"; and "music instruments and accessories" will change to "music instruments and accessories including instrument rentals." More information is available online at www.bls.gov/cpi/additional-resources/series-title-changes.htm ----------------------------------------------------------------------------------------------------------------- Technical Note Brief Explanation of the CPI The Consumer Price Index (CPI) measures the change in prices paid by consumers for goods and services. The CPI reflects spending patterns for each of two population groups: all urban consumers and urban wage earners and clerical workers. The all urban consumer group represents over 90 percent of the total U.S. population. It is based on the expenditures of almost all residents of urban or metropolitan areas, including professionals, the self-employed, the poor, the unemployed, and retired people, as well as urban wage earners and clerical workers. Not included in the CPI are the spending patterns of people living in rural nonmetropolitan areas, farming families, people in the Armed Forces, and those in institutions, such as prisons and mental hospitals. Consumer inflation for all urban consumers is measured by two indexes, namely, the Consumer Price Index for All Urban Consumers (CPI-U) and the Chained Consumer Price Index for All Urban Consumers (C-CPI-U). The Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) is based on the expenditures of households included in the CPI-U definition that meet two requirements: more than one-half of the household's income must come from clerical or wage occupations, and at least one of the household's earners must have been employed for at least 37 weeks during the previous 12 months. The CPI-W population represents approximately 30 percent of the total U.S. population and is a subset of the CPI-U population. The CPIs are based on prices of food, clothing, shelter, fuels, transportation, doctors' and dentists' services, drugs, and other goods and services that people buy for day-to-day living. Prices are collected each month in 75 urban areas across the country from about 6,000 housing units and approximately 22,000 retail establishments (department stores, supermarkets, hospitals, and other types of stores and service establishments). All taxes directly associated with the purchase and use of items are included in the index. Prices of fuels and a few other items are obtained every month in all 75 locations. Prices of most other commodities and services are collected every month in the three largest geographic areas and every other month in other areas. Prices of most goods and services are obtained by personal visit, telephone call, web, or app collection by the Bureau's trained representatives. In calculating the index, price changes for the various items in each location are aggregated using weights, which represent their importance in the spending of the appropriate population group. Local data are then combined to obtain a U.S. city average. For the CPI-U and CPI-W, separate indexes are also published by size of city, by region of the country, for cross-classifications of regions and population-size classes, and for 23 selected local areas. Area indexes do not measure differences in the level of prices among cities; they only measure the average change in prices for each area since the base period. For the C-CPI-U, data are issued only at the national level. The CPI-U and CPI-W are considered final when released, but the C-CPI-U is issued in preliminary form and subject to three subsequent quarterly revisions. The index measures price change from a designed reference date. For most of the CPI-U and the CPI-W, the reference base is 1982-84 equals 100. The reference base for the C-CPI-U is December 1999 equals 100. An increase of 7 percent from the reference base, for example, is shown as 107.000. Alternatively, that relationship can also be expressed as the price of a base period market basket of goods and services rising from $100 to $107. Sampling Error in the CPI The CPI is a statistical estimate that is subject to sampling error because it is based upon a sample of retail prices and not the complete universe of all prices. BLS calculates and publishes estimates of the 1-month, 2-month, 6-month, and 12-month percent change standard errors annually for the CPI-U. These standard error estimates can be used to construct confidence intervals for hypothesis testing. For example, the estimated standard error of the 1-month percent change is 0.04 percent for the U.S. all items CPI. This means that if we repeatedly sample from the universe of all retail prices using the same methodology, and estimate a percentage change for each sample, then 95 percent of these estimates will be within 0.08 percent of the 1-month percentage change based on all retail prices. For example, for a 1-month change of 0.2 percent in the all items CPI-U, we are 95 percent confident that the actual percent change based on all retail prices would fall between 0.12 and 0.28 percent. For the latest data, including information on how to use the estimates of standard error, see www.bls.gov/cpi/tables/variance-estimates/home.htm. Calculating Index Changes Movements of the indexes from 1 month to another are usually expressed as percent changes rather than changes in index points, because index point changes are affected by the level of the index in relation to its base period, while percent changes are not. The following table shows an example of using index values to calculate percent changes: Item A Item B Item C Year I 112.500 225.000 110.000 Year II 121.500 243.000 128.000 Change in index points 9.000 18.000 18.000 Percent change 9.0/112.500 x 100 = 8.0 18.0/225.000 x 100 = 8.0 18.0/110.000 x 100 = 16.4 Use of Seasonally Adjusted and Unadjusted Data The Consumer Price Index (CPI) program produces both unadjusted and seasonally adjusted data. Seasonally adjusted data are computed using seasonal factors derived by the X-13ARIMA-SEATS seasonal adjustment method. These factors are updated each February, and the new factors are used to revise the previous 5 years of seasonally adjusted data. The factors are available at www.bls.gov/web/cpi/cpi-seasonal-factors.xlsx. For more information on data revision scheduling, please see the Seasonal Adjustment questions and answers page at www.bls.gov/cpi/seasonal-adjustment/questions-and-answers.htm and the Timeline of Seasonal Adjustment Methodological Changes at www.bls.gov/cpi/seasonal-adjustment/timeline-seasonal-adjustment-methodology-changes.htm. How to Use Seasonally Adjusted and Unadjusted Data For analyzing short-term price trends in the economy, seasonally adjusted changes are usually preferred since they eliminate the effect of changes that normally occur at the same time and in about the same magnitude every year-such as price movements resulting from weather events, production cycles, model changeovers, holidays, and sales. This allows data users to focus on changes that are not typical for the time of year. The unadjusted data are of primary interest to consumers concerned about the prices they actually pay. Unadjusted data are also used extensively for escalation purposes. Many collective bargaining contract agreements and pension plans, for example, tie compensation changes to the Consumer Price Index before adjustment for seasonal variation. BLS advises against the use of seasonally adjusted data in escalation agreements because seasonally adjusted series are revised annually for five years. Intervention Analysis The Bureau of Labor Statistics uses intervention analysis seasonal adjustment (IASA) for some CPI series. Sometimes extreme values or sharp movements can distort the underlying seasonal pattern of price change. Intervention analysis seasonal adjustment is a process by which the distortions caused by such unusual events are estimated and removed from the data prior to calculation of seasonal factors. The resulting seasonal factors, which more accurately represent the seasonal pattern, are then applied to the unadjusted data. For example, this procedure was used for the motor fuel series to offset the effects of the 2009 return to normal pricing after the worldwide economic downturn in 2008. Retaining this outlier data during seasonal factor calculation would distort the computation of the seasonal portion of the time series data for motor fuel, so it was estimated and removed from the data prior to seasonal adjustment. Following that, seasonal factors were calculated based on this "prior adjusted" data. These seasonal factors represent a clearer picture of the seasonal pattern in the data. The last step is for motor fuel seasonal factors to be applied to the unadjusted data. For the seasonal factors introduced for January 2026, BLS adjusted 57 series using intervention analysis seasonal adjustment, including selected food and beverage items, motor fuels and vehicles. Revision of Seasonally Adjusted Indexes Seasonally adjusted data, including the U.S. city average all items index levels, are subject to revision for up to 5 years after their original release. Every year, economists in the CPI calculate new seasonal factors for seasonally adjusted series and apply them to the last 5 years of data. Seasonally adjusted indexes beyond the last 5 years of data are considered to be final and not subject to revision. For January 2026, revised seasonal factors and seasonally adjusted indexes for 2021 to 2025 were calculated and published. For series which are directly adjusted using the Census X-13ARIMA-SEATS seasonal adjustment software, the seasonal factors for 2025 will be applied to data for 2026 to produce the seasonally adjusted 2026 indexes. Series which are indirectly seasonally adjusted by summing seasonally adjusted component series have seasonal factors which are derived and are therefore not available in advance. Determining Seasonal Status Each year the seasonal status of every series is reevaluated based upon certain statistical criteria. Using these criteria, BLS economists determine whether a series should change its status from "not seasonally adjusted" to "seasonally adjusted", or vice versa. If any of the 81 components of the U.S. city average all items index change their seasonal adjustment status from seasonally adjusted to not seasonally adjusted, not seasonally adjusted data will be used in the aggregation of the dependent series for the last 5 years, but the seasonally adjusted indexes before that period will not be changed. For 2026, 36 of the 81 components of the U.S. city average all items index are not seasonally adjusted. Contact Information For additional information about the CPI visit www.bls.gov/cpi or contact the CPI Information and Analysis Section at 202-691-7000 or cpi_info@bls.gov. For additional information on seasonal adjustment in the CPI visit www.bls.gov/cpi/seasonal-adjustment/home.htm If you are deaf, hard of hearing, or have a speech disability, please dial 7-1-1 to access telecommunications relay services. 
+```
+
+  
+
+Table 1. Consumer Price Index for All Urban Consumers (CPI-U): U.S. city average, by expenditure category, October 2026 [1982-84=100, unless otherwise noted]
+
+| Expenditure category | Relative importance Sep. 2026 | Unadjusted indexes | Unadjusted percent change | Seasonally adjusted percent change |
+| Oct. 2025 | Sep. 2026 | Oct. 2026 | Oct. 2025- Oct. 2026 | Sep. 2026- Oct. 2026 | Jul. 2026- Aug. 2026 | Aug. 2026- Sep. 2026 | Sep. 2026- Oct. 2026 |
+| All items | 100.000 | - | 336.940 | 337.511 | - | 0.2 | 0.4 | 0.6 | 0.4 |
+| Food | 13.447 | - | 350.905 | 352.359 | - | 0.4 | 0.1 | 0.0 | 0.5 |
+| Food at home | 8.162 | - | 321.758 | 322.876 | - | 0.3 | 0.0 | -0.1 | 0.4 |
+| Cereals and bakery products | 1.016 | - | 369.585 | 369.068 | - | -0.1 | 0.0 | 0.1 | 0.0 |
+| Meats, poultry, fish, and eggs | 1.940 | - | 350.696 | 351.844 | - | 0.3 | 0.1 | -0.5 | 0.5 |
+| Dairy and related products([1](#cpipress1.f.1 "Click to jump to footnotes at bottom of the table")) | 0.730 | - | 269.630 | 271.311 | - | 0.6 | 0.3 | -0.9 | 0.6 |
+| Fruits and vegetables | 1.276 | - | 371.317 | 373.930 | - | 0.7 | -0.4 | 0.5 | 0.6 |
+| Nonalcoholic beverages and beverage materials | 0.990 | - | 240.041 | 239.221 | - | -0.3 | 0.2 | 0.9 | -0.3 |
+| Other food at home | 2.208 | - | 282.638 | 284.335 | - | 0.6 | 0.1 | -0.2 | 0.7 |
+| Food away from home([1](#cpipress1.f.1 "Click to jump to footnotes at bottom of the table")) | 5.285 | - | 398.783 | 400.850 | - | 0.5 | 0.3 | 0.2 | 0.5 |
+|
+| Energy | 7.649 | - | 341.573 | 340.061 | - | -0.4 | 2.1 | 5.2 | 0.7 |
+| Energy commodities | 4.403 | - | 395.263 | 393.905 | - | -0.3 | 4.2 | 9.3 | 0.8 |
+| Fuel oil | 0.131 | - | 606.829 | 641.785 | - | 5.8 | 10.1 | 15.3 | 2.0 |
+| Motor fuel | 4.217 | - | 386.707 | 384.431 | - | -0.6 | 4.1 | 9.3 | 0.7 |
+| Gasoline (all types) | 4.080 | 277.021 | 383.182 | 380.510 | 37.4 | -0.7 | 3.9 | 9.1 | 1.0 |
+| Energy services | 3.245 | - | 300.013 | 298.282 | - | -0.6 | -0.4 | 0.1 | 0.6 |
+| Electricity | 2.513 | - | 309.852 | 307.673 | - | -0.7 | -0.2 | 0.2 | 0.9 |
+| Utility (piped) gas service | 0.732 | - | 264.250 | 263.875 | - | -0.1 | -1.1 | -0.3 | -0.8 |
+|
+| All items less food and energy | 78.905 | - | 339.287 | 339.921 | - | 0.2 | 0.3 | 0.3 | 0.3 |
+| Commodities less food and energy commodities | 18.807 | - | 169.319 | 169.011 | - | -0.2 | 0.1 | 0.3 | 0.2 |
+| Apparel | 2.489 | - | 140.043 | 138.437 | - | -1.1 | 0.0 | 0.3 | 0.1 |
+| New vehicles | 3.729 | 178.723 | 179.859 | 180.039 | 0.7 | 0.1 | 0.3 | 0.2 | 0.2 |
+| Used cars and trucks | 2.670 | 186.962 | 184.395 | 180.768 | -3.3 | -2.0 | 0.4 | 0.7 | -1.2 |
+| Medical care commodities([1](#cpipress1.f.1 "Click to jump to footnotes at bottom of the table")) | 1.378 | - | 402.832 | 404.929 | - | 0.5 | -0.2 | -0.7 | 0.5 |
+| Alcoholic beverages([1](#cpipress1.f.1 "Click to jump to footnotes at bottom of the table")) | 0.818 | - | 301.738 | 301.812 | - | 0.0 | 0.1 | 0.0 | 0.0 |
+| Tobacco and smoking products([1](#cpipress1.f.1 "Click to jump to footnotes at bottom of the table"))([2](#cpipress1.f.2 "Click to jump to footnotes at bottom of the table")) | 0.450 | - | 112.108 | 112.425 | - | 0.3 | 0.6 | 0.7 | 0.3 |
+| Services less energy services | 60.098 | - | 448.545 | 449.901 | - | 0.3 | 0.3 | 0.4 | 0.3 |
+| Shelter | 35.238 | - | 432.092 | 432.745 | - | 0.2 | 0.3 | 0.4 | 0.3 |
+| Rent of primary residence | 7.707 | - | 450.402 | 451.486 | - | 0.2 | 0.2 | 0.2 | 0.2 |
+| Owners' equivalent rent of residences([3](#cpipress1.f.3 "Click to jump to footnotes at bottom of the table")) | 25.853 | - | 445.381 | 446.813 | - | 0.3 | 0.2 | 0.3 | 0.3 |
+| Medical care services | 6.813 | - | 655.370 | 657.090 | - | 0.3 | -0.2 | 0.3 | 0.3 |
+| Physicians' services([1](#cpipress1.f.1 "Click to jump to footnotes at bottom of the table")) | 1.648 | - | 439.448 | 441.260 | - | 0.4 | 0.0 | 0.0 | 0.4 |
+| Hospital services([1](#cpipress1.f.1 "Click to jump to footnotes at bottom of the table"))([4](#cpipress1.f.4 "Click to jump to footnotes at bottom of the table")) | 2.163 | - | 462.980 | 466.615 | - | 0.8 | 0.0 | 0.7 | 0.8 |
+| Transportation services | 6.256 | - | 459.562 | 466.366 | - | 1.5 | 0.5 | 0.6 | 0.8 |
+| Motor vehicle maintenance and repair([1](#cpipress1.f.1 "Click to jump to footnotes at bottom of the table")) | 1.065 | - | 468.491 | 471.387 | - | 0.6 | 1.1 | 0.7 | 0.6 |
+| Motor vehicle insurance | 2.510 | - | 846.102 | 854.597 | - | 1.0 | -0.8 | 0.1 | 0.7 |
+| Airline fares | 1.055 | - | 315.948 | 327.822 | - | 3.8 | 2.7 | 1.2 | 0.4 |
+| Footnotes  (1)Not seasonally adjusted.  (2)Indexes on a December 2024=100 base.  (3)Indexes on a December 1982=100 base.  (4)Indexes on a December 1996=100 base. |
+| NOTE: The Oct 2025 data values are not available due to the 2025 lapse in appropriations. |
+
+  
+
+Table 2. Consumer Price Index for All Urban Consumers (CPI-U): U.S. city average, by detailed expenditure category, October 2026 [1982-84=100, unless otherwise noted]
+
+| Expenditure category | Relative importance Sep. 2026 | Unadjusted percent change | Seasonally adjusted percent change |
+| Oct. 2025- Oct. 2026 | Sep. 2026- Oct. 2026 | Jul. 2026- Aug. 2026 | Aug. 2026- Sep. 2026 | Sep. 2026- Oct. 2026 |
+| All items | 100.000 | - | 0.2 | 0.4 | 0.6 | 0.4 |
+| Food | 13.447 | - | 0.4 | 0.1 | 0.0 | 0.5 |
+| Food at home | 8.162 | - | 0.3 | 0.0 | -0.1 | 0.4 |
+| Cereals and bakery products | 1.016 | - | -0.1 | 0.0 | 0.1 | 0.0 |
+| Cereals and cereal products | 0.309 | - | -0.8 | -0.3 | 0.8 | -0.8 |
+| Flour and prepared flour mixes | 0.037 | - | -0.5 | 1.4 | -1.3 | 0.8 |
+| Breakfast cereal([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table")) | 0.132 | - | -1.5 | -1.6 | 0.9 | -1.5 |
+| Rice, pasta, cornmeal | 0.140 | - | -0.2 | -0.2 | 1.2 | 0.1 |
+| Rice([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table"))([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | -1.4 | 0.1 | 1.1 | -1.4 |
+| Bakery products([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table")) | 0.708 | - | 0.2 | 0.1 | 0.0 | 0.2 |
+| Bread([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.171 | - | -0.6 | -0.1 | -0.1 | -0.6 |
+| White bread([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | -0.5 | 0.1 | 0.1 | -0.5 |
+| Bread other than white([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | -0.7 | -0.4 | -0.2 | -0.7 |
+| Fresh biscuits, rolls, muffins([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.116 | - | 1.3 | 0.7 | 0.2 | 1.3 |
+| Cakes, cupcakes, and cookies([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table")) | 0.205 | - | 1.4 | -0.6 | -0.6 | 1.4 |
+| Cookies([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | 1.5 | 1.9 | -1.2 | 1.5 |
+| Fresh cakes and cupcakes([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | 1.7 | -3.5 | -0.6 | 1.7 |
+| Other bakery products | 0.216 | - | -1.0 | 0.8 | 0.5 | -1.0 |
+| Fresh sweetrolls, coffeecakes, doughnuts([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | 3.5 | -1.1 | 1.9 | 3.5 |
+| Crackers, bread, and cracker products([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | -0.9 | 0.6 | -1.9 | -0.5 |
+| Frozen and refrigerated bakery products, pies, tarts, turnovers([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | -3.7 | -0.5 | 4.0 | -4.8 |
+| Meats, poultry, fish, and eggs | 1.940 | - | 0.3 | 0.1 | -0.5 | 0.5 |
+| Meats, poultry, and fish | 1.825 | - | 0.4 | -0.1 | -0.4 | 0.5 |
+|  | 1.154 | - | 0.4 | -0.2 | -0.9 | 0.6 |
+| Beef and veal | 0.624 | - | 0.6 | -1.0 | -1.0 | 0.9 |
+| Uncooked ground beef | 0.234 | - | 0.8 | 0.0 | -0.8 | 1.2 |
+| Uncooked beef roasts([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.084 | - | -1.5 | -1.7 | -3.6 | -0.1 |
+| Uncooked beef steaks([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.233 | - | 1.0 | -1.5 | -1.0 | 1.7 |
+| Uncooked other beef and veal([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.073 | - | 0.9 | 1.1 | 0.0 | 0.9 |
+|  | 0.335 | - | -0.3 | 0.4 | -1.0 | 0.1 |
+| Bacon, breakfast sausage, and related products([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.132 | - | 0.1 | 0.4 | -0.4 | 0.8 |
+| Bacon and related products([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | -0.9 | 0.4 | -0.5 | -0.5 |
+| Breakfast sausage and related products([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table"))([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | 1.2 | -0.1 | 1.0 | 1.3 |
+|  | 0.067 | - | -1.6 | -1.4 | 0.9 | -1.7 |
+| Ham, excluding canned([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | -1.7 | -1.2 | 1.7 | -2.2 |
+| Pork chops([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table")) | 0.044 | - | -1.0 | 0.0 | -0.6 | -1.0 |
+| Other pork including roasts, steaks, and ribs([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.092 | - | 0.4 | 2.6 | -2.3 | 0.4 |
+| Other meats | 0.195 | - | 1.2 | 1.3 | -0.5 | 0.3 |
+| Frankfurters([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | 1.0 | 0.0 | -2.4 | -0.9 |
+| Lunchmeats([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table"))([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | 1.6 | 0.3 | -0.3 | 1.6 |
+|  | 0.355 | - | 0.4 | 0.4 | 0.7 | 0.8 |
+| Chicken([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.279 | - | 0.3 | 0.4 | 1.3 | 0.5 |
+| Fresh whole chicken([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | -0.8 | -0.5 | 3.9 | -0.8 |
+| Fresh and frozen chicken parts([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | 0.5 | 0.3 | 0.3 | 0.8 |
+| Other uncooked poultry including turkey([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.076 | - | 0.7 | 0.8 | -1.2 | 1.9 |
+| Fish and seafood([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table")) | 0.316 | - | 0.1 | 0.0 | 0.1 | 0.1 |
+| Fresh fish and seafood([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.167 | - | -0.7 | -1.1 | 0.1 | -0.7 |
+| Processed fish and seafood([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.149 | - | 1.0 | 0.9 | 0.4 | 1.8 |
+| Shelf stable fish and seafood([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | 1.1 | 0.0 | 0.6 | 1.1 |
+| Frozen fish and seafood([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | 0.5 | 1.7 | 0.0 | 0.6 |
+|  | 0.116 | - | -0.1 | 2.9 | -1.3 | 0.6 |
+| Dairy and related products([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table")) | 0.730 | - | 0.6 | 0.3 | -0.9 | 0.6 |
+| Milk([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.188 | - | -0.3 | -1.2 | -2.0 | -0.3 |
+| Fresh whole milk([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | -1.2 | -1.1 | -2.1 | -1.2 |
+| Fresh milk other than whole([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table"))([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | 0.0 | -1.0 | -1.9 | 0.0 |
+| Cheese and related products([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table")) | 0.247 | - | 1.3 | 0.7 | 0.2 | 1.3 |
+| Ice cream and related products | 0.106 | - | 0.8 | -0.4 | -1.3 | 1.0 |
+| Other dairy and related products([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.189 | - | 0.5 | 1.8 | -0.8 | 1.1 |
+| Fruits and vegetables | 1.276 | - | 0.7 | -0.4 | 0.5 | 0.6 |
+| Fresh fruits and vegetables | 1.010 | - | 1.1 | -0.7 | 0.5 | 0.8 |
+| Fresh fruits | 0.534 | - | 0.1 | -0.5 | 0.8 | -0.4 |
+|  | 0.078 | - | -4.2 | -2.8 | 1.0 | -1.6 |
+| Bananas([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table")) | 0.058 | - | -0.2 | 0.1 | 1.0 | -0.2 |
+| Citrus fruits([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.080 | - | -0.8 | -0.5 | -0.9 | -0.4 |
+| Oranges, including tangerines([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | -0.5 | 1.0 | -1.0 | -0.2 |
+| Other fresh fruits([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.317 | - | 1.5 | 0.3 | 1.0 | -1.4 |
+| Fresh vegetables | 0.476 | - | 2.2 | -0.9 | 0.1 | 2.2 |
+|  | 0.071 | - | -1.9 | 1.2 | 0.6 | 0.9 |
+|  | 0.040 | - | 9.5 | -6.2 | 3.9 | 7.9 |
+|  | 0.065 | - | 1.5 | -3.0 | 1.4 | 1.7 |
+| Other fresh vegetables | 0.301 | - | 2.3 | -0.3 | -0.7 | 2.0 |
+| Processed fruits and vegetables([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.266 | - | -0.7 | 0.5 | 0.5 | -0.3 |
+| Canned fruits and vegetables([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.100 | - | -1.2 | 0.7 | 0.2 | -0.5 |
+| Canned fruits([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table"))([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | 0.1 | -0.3 | -0.3 | 0.1 |
+| Canned vegetables([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table"))([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | -1.8 | 0.9 | 0.5 | -1.2 |
+| Frozen fruits and vegetables([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.085 | - | 0.4 | 0.8 | 1.0 | 0.4 |
+| Frozen vegetables([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | 0.9 | 0.7 | 1.4 | 0.6 |
+| Other processed fruits and vegetables including dried([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.080 | - | -1.5 | -0.3 | 1.0 | -0.9 |
+| Dried beans, peas, and lentils([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table"))([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | -1.5 | -1.0 | 0.3 | -1.5 |
+| Nonalcoholic beverages and beverage materials | 0.990 | - | -0.3 | 0.2 | 0.9 | -0.3 |
+| Juices and nonalcoholic drinks([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.674 | - | 0.7 | 0.2 | 1.1 | 0.8 |
+| Carbonated drinks | 0.333 | - | -0.3 | 1.2 | 1.5 | -0.3 |
+| Frozen noncarbonated juices and drinks([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.004 | - | 2.2 | -0.5 | -1.4 | 2.2 |
+| Nonfrozen noncarbonated juices and drinks([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.337 | - | 1.6 | -0.8 | 1.0 | 1.5 |
+| Beverage materials including coffee and tea([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.316 | - | -2.5 | 0.0 | 0.5 | -2.4 |
+|  | 0.222 | - | -3.7 | -0.6 | 0.9 | -3.6 |
+| Roasted coffee([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | -4.5 | -0.5 | 1.8 | -4.6 |
+| Instant coffee([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | -0.9 | 0.5 | -3.3 | -0.9 |
+| Other beverage materials including tea([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.094 | - | 0.3 | 1.1 | -1.3 | 0.3 |
+| Other food at home | 2.208 | - | 0.6 | 0.1 | -0.2 | 0.7 |
+| Sugar and sweets | 0.326 | - | 0.4 | -0.7 | 0.0 | 0.6 |
+| Sugar and sugar substitutes | 0.032 | - | -0.6 | -0.6 | -0.1 | 0.4 |
+| Candy and chewing gum([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.241 | - | 0.8 | -0.6 | 0.3 | 0.9 |
+| Other sweets([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.054 | - | -0.9 | -0.2 | -0.7 | -0.9 |
+| Fats and oils | 0.220 | - | 0.6 | 1.5 | -0.2 | 0.6 |
+| Butter and margarine([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.061 | - | 1.5 | 0.4 | -2.3 | 2.0 |
+| Butter([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | 1.1 | 0.9 | -2.7 | 1.4 |
+| Margarine([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | 2.5 | 0.0 | -1.7 | 3.2 |
+| Salad dressing([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.051 | - | -1.1 | 5.0 | 1.3 | -1.1 |
+| Other fats and oils including peanut butter([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.107 | - | 0.9 | 1.1 | 0.8 | 0.2 |
+| Peanut butter([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table"))([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | 1.7 | 1.1 | 1.1 | 1.7 |
+| Other foods | 1.662 | - | 0.6 | 0.1 | -0.3 | 0.8 |
+| Soups | 0.086 | - | -2.7 | -0.6 | 1.0 | -1.0 |
+| Frozen and freeze dried prepared foods | 0.288 | - | 1.1 | -0.5 | 0.1 | 1.0 |
+| Snacks | 0.360 | - | 0.8 | 1.1 | -1.6 | 1.0 |
+| Spices, seasonings, condiments, sauces | 0.317 | - | 0.1 | -0.2 | -0.3 | 0.2 |
+| Salt and other seasonings and spices([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table"))([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | -1.0 | 0.2 | -0.9 | -1.0 |
+| Olives, pickles, relishes([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table"))([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | 2.4 | 3.3 | -1.6 | 2.5 |
+| Sauces and gravies([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table"))([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | 1.9 | -0.8 | -0.2 | 2.6 |
+| Other condiments([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | - | -3.3 | -1.9 | 1.0 | -3.0 |
+| Baby food and formula([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.051 | - | 5.1 | -1.4 | -1.0 | 5.1 |
+| Other miscellaneous foods([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.560 | - | 0.7 | -0.9 | 0.5 | 0.7 |
+| Prepared salads([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table"))([4](#cpipress2.f.4 "Click to jump to footnotes at bottom of the table")) | - | - | 1.2 | 2.3 | -0.5 | 0.6 |
+| Food away from home([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table")) | 5.285 | - | 0.5 | 0.3 | 0.2 | 0.5 |
+| Full service meals and snacks([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 2.347 | - | 0.7 | 0.4 | 0.3 | 0.7 |
+| Limited service meals and snacks([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 2.637 | - | 0.4 | 0.0 | 0.2 | 0.4 |
+| Food at employee sites and schools([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.064 | - | 0.0 | 0.6 | 0.5 | 0.0 |
+| Food at elementary and secondary schools([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table"))([5](#cpipress2.f.5 "Click to jump to footnotes at bottom of the table")) | - | - | - | - | - | - |
+| Food from vending machines and mobile vendors([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.053 | - | 0.5 | 1.2 | -0.2 | 0.5 |
+| Other food away from home([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.184 | - | 0.0 | 0.3 | 0.0 | 0.2 |
+|
+| Energy | 7.649 | - | -0.4 | 2.1 | 5.2 | 0.7 |
+| Energy commodities | 4.403 | - | -0.3 | 4.2 | 9.3 | 0.8 |
+| Fuel oil and other fuels | 0.186 | - | 5.2 | 6.8 | 10.2 | 2.4 |
+| Fuel oil | 0.131 | - | 5.8 | 10.1 | 15.3 | 2.0 |
+| Propane, kerosene, and firewood([6](#cpipress2.f.6 "Click to jump to footnotes at bottom of the table")) | 0.055 | - | 3.8 | 0.9 | 0.2 | 1.8 |
+| Motor fuel | 4.217 | - | -0.6 | 4.1 | 9.3 | 0.7 |
+| Gasoline (all types) | 4.080 | 37.4 | -0.7 | 3.9 | 9.1 | 1.0 |
+| Gasoline, unleaded regular([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | 38.6 | -0.8 | 4.0 | 9.5 | 1.0 |
+| Gasoline, unleaded midgrade([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table"))([7](#cpipress2.f.7 "Click to jump to footnotes at bottom of the table")) | - | 33.9 | -0.2 | 3.6 | 7.8 | 1.3 |
+| Gasoline, unleaded premium([3](#cpipress2.f.3 "Click to jump to footnotes at bottom of the table")) | - | 31.4 | 0.0 | 3.1 | 7.1 | 1.1 |
+| Other motor fuels([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.136 | - | 2.7 | 9.6 | 11.9 | 2.7 |
+| Energy services | 3.245 | - | -0.6 | -0.4 | 0.1 | 0.6 |
+| Electricity | 2.513 | - | -0.7 | -0.2 | 0.2 | 0.9 |
+| Utility (piped) gas service | 0.732 | - | -0.1 | -1.1 | -0.3 | -0.8 |
+|
+| All items less food and energy | 78.905 | - | 0.2 | 0.3 | 0.3 | 0.3 |
+| Commodities less food and energy commodities | 18.807 | - | -0.2 | 0.1 | 0.3 | 0.2 |
+| Household furnishings and supplies([8](#cpipress2.f.8 "Click to jump to footnotes at bottom of the table")) | 3.294 | - | 0.5 | 0.0 | -0.2 | 0.7 |
+| Window and floor coverings and other linens([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.227 | - | -1.3 | -1.0 | -2.4 | -0.1 |
+| Floor coverings([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.066 | - | 0.4 | 1.5 | -0.6 | 0.4 |
+| Window coverings([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table"))([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.043 | - | -0.8 | 0.2 | -1.5 | -0.8 |
+| Other linens([2](#cpipress2.f.2 "Click to jump to footnotes at bottom of the table")) | 0.117 | - | -2.4 | -0.2 | -4.6 | -0.3 |
+| Furniture and bedding([1](#cpipress2.f.1 "Click to jump to footnotes at bottom of the table")) | 0.833 | - | 1.2 | -0.9 | -0.8 | 1.2 |
+
+[... middle omitted — see footer ...]
+
+| Nursing homes and adult day services([17](#cpipress7.f.17 "Click to jump to footnotes at bottom of the table")) | 0.222 | - | - | 0.54 | - | - |
+| Home health care([7](#cpipress7.f.7 "Click to jump to footnotes at bottom of the table")) | 0.228 | - | - | 2.31 | - | - |
+| Health insurance([7](#cpipress7.f.7 "Click to jump to footnotes at bottom of the table")) | 0.811 | - | - | 0.57 | - | - |
+| Transportation services | 6.256 | - | - | 0.53 | - | - |
+| Leased cars and trucks([14](#cpipress7.f.14 "Click to jump to footnotes at bottom of the table")) | 0.382 | 0.0 | - | 1.37 | L-Jul. 2025 | 0.2 |
+| Car and truck rental([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 0.153 | - | - | 2.93 | - | - |
+| Motor vehicle maintenance and repair | 1.065 | - | - | 1.67 | - | - |
+| Motor vehicle body work | - | - | - | - | - | - |
+| Motor vehicle maintenance and servicing | 0.526 | - | - | 0.70 | - | - |
+| Motor vehicle repair([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 0.412 | - | - | 3.58 | - | - |
+| Motor vehicle insurance | 2.510 | - | - | 0.94 | - | - |
+| Motor vehicle fees([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 0.495 | - | - | 0.67 | - | - |
+| State motor vehicle registration and license fees([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 0.291 | - | - | 0.67 | - | - |
+| Parking and other fees([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 0.185 | - | - | 1.22 | - | - |
+| Parking fees and tolls([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table"))([5](#cpipress7.f.5 "Click to jump to footnotes at bottom of the table")) | - | - | - | 1.05 | - | - |
+| Public transportation | 1.651 | - | - | 0.98 | - | - |
+| Airline fares | 1.055 | - | - | 1.31 | - | - |
+| Other intercity transportation | 0.225 | - | - | 2.33 | - | - |
+| Ship fare([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table"))([5](#cpipress7.f.5 "Click to jump to footnotes at bottom of the table")) | - | - | - | 3.78 | - | - |
+| Intracity transportation | 0.366 | - | - | 1.26 | - | - |
+| Intracity mass transit([5](#cpipress7.f.5 "Click to jump to footnotes at bottom of the table"))([10](#cpipress7.f.10 "Click to jump to footnotes at bottom of the table")) | - | - | - | - | - | - |
+| Recreation services([10](#cpipress7.f.10 "Click to jump to footnotes at bottom of the table")) | 3.127 | - | - | 0.48 | - | - |
+| Video and audio services([10](#cpipress7.f.10 "Click to jump to footnotes at bottom of the table")) | 0.774 | - | - | 0.72 | - | - |
+| Cable, satellite, and live streaming television service([12](#cpipress7.f.12 "Click to jump to footnotes at bottom of the table")) | 0.593 | - | - | 0.54 | - | - |
+| Purchase, subscription, and rental of video([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 0.180 | - | - | 2.80 | - | - |
+| Video discs and other media([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table"))([5](#cpipress7.f.5 "Click to jump to footnotes at bottom of the table")) | - | - | - | 5.43 | - | - |
+| Subscription and rental of video and video games([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table"))([5](#cpipress7.f.5 "Click to jump to footnotes at bottom of the table")) | - | - | - | 2.95 | - | - |
+| Pet services including veterinary([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 0.537 | - | - | 0.77 | - | - |
+| Pet services([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table"))([5](#cpipress7.f.5 "Click to jump to footnotes at bottom of the table")) | - | - | - | 1.42 | - | - |
+| Veterinarian services([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table"))([5](#cpipress7.f.5 "Click to jump to footnotes at bottom of the table")) | - | - | - | 1.13 | - | - |
+| Photographers and photo processing([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 0.036 | - | - | 1.32 | - | - |
+| Other recreation services([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 1.780 | - | - | 0.68 | - | - |
+| Club membership for shopping clubs, fraternal, or other organizations, or participant sports fees([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 0.736 | - | - | 0.59 | - | - |
+|  | 0.682 | - | - | 1.32 | - | - |
+| Admission to movies, theaters, and concerts([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table"))([5](#cpipress7.f.5 "Click to jump to footnotes at bottom of the table")) | - | - | - | 1.47 | - | - |
+| Admission to sporting events([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table"))([5](#cpipress7.f.5 "Click to jump to footnotes at bottom of the table")) | - | - | - | 10.68 | - | - |
+| Fees for lessons or instructions([8](#cpipress7.f.8 "Click to jump to footnotes at bottom of the table")) | 0.156 | - | - | 1.19 | - | - |
+| Education and communication services([10](#cpipress7.f.10 "Click to jump to footnotes at bottom of the table")) | 5.007 | - | - | 0.27 | - | - |
+| Tuition, other school fees, and childcare | 2.558 | - | - | 0.36 | - | - |
+| College tuition and fees | 1.349 | - | - | 0.61 | - | - |
+| Elementary and high school tuition and fees([13](#cpipress7.f.13 "Click to jump to footnotes at bottom of the table")) | 0.409 | - | - | 0.54 | - | - |
+| Day care and preschool([11](#cpipress7.f.11 "Click to jump to footnotes at bottom of the table")) | 0.693 | - | - | 0.65 | - | - |
+| Technical and vocational school tuition and fixed fees([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 0.045 | - | - | 0.42 | - | - |
+| Postage and delivery services([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 0.066 | - | - | 0.32 | - | - |
+| Postage | 0.061 | 13.3 | - | 0.34 | L-Jul. 2026 | 13.3 |
+| Delivery services([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 0.005 | - | - | 0.62 | - | - |
+| Telephone services([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 1.483 | - | - | 0.18 | - | - |
+| Wireless telephone services([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 1.361 | 3.0 | - | 0.17 | S-Jul. 2026 | -3.6 |
+| Residential telephone services([10](#cpipress7.f.10 "Click to jump to footnotes at bottom of the table")) | 0.123 | - | - | 0.74 | - | - |
+| Internet services and electronic information providers([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 0.889 | - | - | 0.82 | - | - |
+| Other personal services([10](#cpipress7.f.10 "Click to jump to footnotes at bottom of the table")) | 1.597 | - | - | 0.49 | - | - |
+| Personal care services | 0.667 | - | - | 0.55 | - | - |
+| Haircuts and other personal care services([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 0.667 | - | - | 0.55 | - | - |
+| Miscellaneous personal services | 0.929 | - | - | 0.79 | - | - |
+| Legal services([8](#cpipress7.f.8 "Click to jump to footnotes at bottom of the table")) | - | - | - | - | - | - |
+| Funeral expenses([8](#cpipress7.f.8 "Click to jump to footnotes at bottom of the table")) | 0.163 | - | - | 0.89 | - | - |
+| Laundry and dry cleaning services([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 0.130 | - | - | 1.72 | - | - |
+| Apparel services other than laundry and dry cleaning([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 0.030 | - | - | 2.43 | - | - |
+| Financial services([8](#cpipress7.f.8 "Click to jump to footnotes at bottom of the table")) | 0.235 | - | - | 1.41 | - | - |
+| Checking account and other bank services([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table"))([5](#cpipress7.f.5 "Click to jump to footnotes at bottom of the table")) | - | - | - | 1.88 | - | - |
+| Tax return preparation and other accounting fees([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table"))([5](#cpipress7.f.5 "Click to jump to footnotes at bottom of the table")) | - | - | - | 3.16 | - | - |
+|
+| Special aggregate indexes |
+|
+| All items less food | 86.553 | - | - | 0.10 | - | - |
+| All items less shelter | 64.762 | - | - | 0.11 | - | - |
+| All items less food and shelter | 51.315 | - | - | 0.14 | - | - |
+| All items less food, shelter, and energy | 43.667 | - | - | 0.16 | - | - |
+| All items less food, shelter, energy, and used cars and trucks | 40.997 | - | - | 0.17 | - | - |
+| All items less medical care | 91.809 | - | - | 0.09 | - | - |
+| All items less energy | 92.352 | - | - | 0.09 | - | - |
+| Commodities | 36.657 | - | - | 0.11 | - | - |
+| Commodities less food, energy, and used cars and trucks | 16.137 | - | - | 0.18 | - | - |
+| Commodities less food | 23.210 | - | - | 0.14 | - | - |
+| Commodities less food and beverages | 22.392 | - | - | 0.14 | - | - |
+| Services | 63.343 | - | - | 0.14 | - | - |
+| Services less rent of shelter([16](#cpipress7.f.16 "Click to jump to footnotes at bottom of the table")) | 28.392 | - | - | 0.22 | - | - |
+| Services less medical care services | 56.531 | - | - | 0.14 | - | - |
+| Durables | 10.512 | - | - | 0.18 | - | - |
+| Nondurables | 26.145 | - | - | 0.13 | - | - |
+| Nondurables less food | 12.698 | - | - | 0.22 | - | - |
+| Nondurables less food and beverages | 11.880 | - | - | 0.24 | - | - |
+| Nondurables less food, beverages, and apparel | 9.391 | - | - | 0.19 | - | - |
+| Nondurables less food and apparel | 10.209 | - | - | 0.17 | - | - |
+| Housing | 44.026 | - | - | 0.17 | - | - |
+| Education and communication([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 5.796 | - | - | 0.30 | - | - |
+| Education([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 2.595 | - | - | 0.34 | - | - |
+| Communication([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 3.201 | - | - | 0.42 | - | - |
+| Information and information processing([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 3.135 | - | - | 0.43 | - | - |
+| Information technology, hardware and services([13](#cpipress7.f.13 "Click to jump to footnotes at bottom of the table")) | 1.651 | - | - | 0.78 | - | - |
+| Recreation([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 5.057 | - | - | 0.36 | - | - |
+| Video and audio([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 1.035 | - | - | 0.59 | - | - |
+| Pets, pet products and services([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 1.132 | - | - | 0.64 | - | - |
+| Photography([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 0.061 | - | - | 1.23 | - | - |
+| Food and beverages | 14.265 | - | - | 0.16 | - | - |
+| Domestically produced farm food | 6.798 | - | - | 0.22 | - | - |
+| Other services | 9.730 | - | - | 0.22 | - | - |
+| Apparel less footwear | 1.888 | - | - | 0.94 | - | - |
+| Fuels and utilities | 4.575 | - | - | 0.53 | - | - |
+| Household energy | 3.432 | - | - | 0.69 | - | - |
+| Medical care | 8.191 | - | - | 0.48 | - | - |
+| Transportation | 17.283 | - | - | 0.22 | - | - |
+| Private transportation | 15.632 | - | - | 0.21 | - | - |
+| New and used motor vehicles([4](#cpipress7.f.4 "Click to jump to footnotes at bottom of the table")) | 7.007 | - | - | 0.14 | - | - |
+| Utilities and public transportation | 8.117 | - | - | 0.37 | - | - |
+| Household furnishings and operations | 4.212 | - | - | 0.41 | - | - |
+| Other goods and services | 2.894 | - | - | 0.35 | - | - |
+| Personal care | 2.444 | - | - | 0.41 | - | - |
+| Footnotes  (1)The 'effect' of an item category is a measure of that item's contribution to the All items price change. For example, if the Food index had an effect of 0.40, and the All items index rose 1.2 percent, then the increase in food prices contributed 0.40 / 1.2, or 33.3 percent, to that All items increase. Said another way, had food prices been unchanged for that year the change in the All items index would have been 1.2 percent minus 0.40, or 0.8 percent. Effects can be negative as well. For example, if the effect of food was a negative 0.1, and the All items index rose 0.5 percent, the All items index actually would have been 0.1 percent higher (or 0.6 percent) had food prices been unchanged. Since food prices fell while prices overall were rising, the contribution of food to the All items price change was negative (in this case, -0.1 / 0.5, or minus 20 percent).  (2)A statistic's margin of error is often expressed as its point estimate plus or minus two standard errors. For example, if a CPI category rose 2.6 percent, and its standard error was 0.25 percent, the margin of error on this item's 12-month percent change would be 2.6 percent, plus or minus 0.5 percent.  (3)If the current 12-month percent change is greater than the previous published 12-month percent change, then this column identifies the closest prior month with a 12-month percent change as (L)arge as or (L)arger than the current 12-month change. If the current 12-month percent change is smaller than the previous published 12-month percent change, the most recent month with a change as (S)mall or (S)maller than the current month change is identified. If the current and previous published 12-month percent changes are equal, a dash will appear. Standard numerical comparison is used. For example, 2.0% is greater than 0.6%, -4.4% is less than -2.0%, and -2.0% is less than 0.0%. Note that a (L)arger change can be a smaller decline, for example, a -0.2% change is larger than a -0.4% change, but still represents a decline in the price index. Likewise, (S)maller changes can be increases, for example, a 0.6% change is smaller than 0.8%, but still represents an increase in the price index. In this context, a -0.2% change is considered to be smaller than a 0.0% change.  (4)Indexes on a December 1997=100 base.  (5)Special indexes based on a substantially smaller sample. These series do not contribute to the all items index aggregation and therefore do not have a relative importance or effect.  (6)Indexes on a December 2007=100 base.  (7)Indexes on a December 2005=100 base.  (8)Indexes on a December 1986=100 base.  (9)Indexes on a December 1993=100 base.  (10)Indexes on a December 2009=100 base.  (11)Indexes on a December 1990=100 base.  (12)Indexes on a December 1983=100 base.  (13)Indexes on a December 2024=100 base.  (14)Indexes on a December 2001=100 base.  (15)Indexes on a December 2019=100 base.  (16)Indexes on a December 1982=100 base.  (17)Indexes on a December 1996=100 base. |
+| NOTE: The Oct 2025 data values are not available due to the 2025 lapse in appropriations. |
+
+  
+ **Last Modified Date:** November 10, 2026
+
+──────── [TRUNCATED] ────────
+Showing 44,889 chars (head) + 14,818 chars (tail) of 202,492 total clean characters.
+Full text saved to: /Users/ssh/.hermes/cache/web/www.bls.gov-8db4c12751.md
+To read the omitted middle: read_file path="/Users/ssh/.hermes/cache/web/www.bls.gov-8db4c12751.md" offset=270 limit=200  (the file is the complete page; raise/lower offset to page through it).
+─────────────────────────────

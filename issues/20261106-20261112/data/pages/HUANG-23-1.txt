@@ -1,0 +1,39 @@
+Mailing Address
+2788 SAN TOMAS EXPRESSWAY
+
+SANTA CLARA CA 95051
+
+Business Address
+2788 SAN TOMAS EXPRESSWAY
+
+SANTA CLARA CA 95051 
+408-486-2000
+
+NVIDIA CORP CIK#: [0001045810 (see all company filings)](/cgi-bin/browse-edgar?action=getcompany&CIK=0001045810&owner=include&count=10)
+
+SIC: [3674](/cgi-bin/browse-edgar?action=getcompany&SIC=3674&owner=include&count=10) - SEMICONDUCTORS & RELATED DEVICES  
+State location: [CA](/cgi-bin/browse-edgar?action=getcompany&State=CA&owner=include&count=10) | State of Inc.: **DE** | Fiscal Year End: 0131  
+formerly: NVIDIA CORP/CA (filings through 2002-06-04)  
+(CF Office: 04 Manufacturing)  
+Get [**insider transactions**](/cgi-bin/own-disp?action=getissuer&CIK=0001045810) for this **issuer**.
+  
+Get [**insider transactions**](/cgi-bin/own-disp?action=getowner&CIK=0001045810) for this **reporting owner**.
+
+| Filings | Format | Description | Filing Date | File/Film Number |
+| --- | --- | --- | --- | --- |
+| 8-K | Documents Interactive Data | Current report, items 5.02 and 9.01 Acc-no: 0001045810-26-000082 (34 Act) Size: 153 KB | 2026-11-12 | [000-23985 261543795](/cgi-bin/browse-edgar?action=getcompany&filenum=000-23985&owner=include&count=10) |
+| 8-K | Documents Interactive Data | Current report, item 8.01 Acc-no: 0001045810-26-000078 (34 Act) Size: 146 KB | 2026-09-03 | [000-23985 261356746](/cgi-bin/browse-edgar?action=getcompany&filenum=000-23985&owner=include&count=10) |
+| 8-K | Documents Interactive Data | Current report, items 2.02 and 9.01 Acc-no: 0001045810-26-000073 (34 Act) Size: 802 KB | 2026-08-26 | [000-23985 261323290](/cgi-bin/browse-edgar?action=getcompany&filenum=000-23985&owner=include&count=10) |
+| 8-K | Documents Interactive Data | Current report, items 1.01, 2.03, and 7.01 Acc-no: 0001045810-26-000069 (34 Act) Size: 178 KB | 2026-08-17 | [000-23985 261284957](/cgi-bin/browse-edgar?action=getcompany&filenum=000-23985&owner=include&count=10) |
+| 8-K | Documents Interactive Data | Current report, item 5.02 Acc-no: 0001045810-26-000060 (34 Act) Size: 138 KB | 2026-07-02 | [000-23985 261148237](/cgi-bin/browse-edgar?action=getcompany&filenum=000-23985&owner=include&count=10) |
+| 8-K | Documents Interactive Data | Current report, item 5.07 Acc-no: 0001045810-26-000056 (34 Act) Size: 178 KB | 2026-06-30 | [000-23985 261140846](/cgi-bin/browse-edgar?action=getcompany&filenum=000-23985&owner=include&count=10) |
+| 8-K | Documents Interactive Data | Current report, items 8.01 and 9.01 Acc-no: 0001193125-26-275783 (34 Act) Size: 1 MB | 2026-06-18 | [000-23985 261102367](/cgi-bin/browse-edgar?action=getcompany&filenum=000-23985&owner=include&count=10) |
+| 8-K | Documents Interactive Data | Current report, items 2.02 and 9.01 Acc-no: 0001045810-26-000051 (34 Act) Size: 637 KB | 2026-05-20 | [000-23985 261004320](/cgi-bin/browse-edgar?action=getcompany&filenum=000-23985&owner=include&count=10) |
+| 8-K | Documents Interactive Data | Current report, item 5.02 Acc-no: 0001045810-26-000028 (34 Act) Size: 135 KB | 2026-05-08 | [000-23985 26959034](/cgi-bin/browse-edgar?action=getcompany&filenum=000-23985&owner=include&count=10) |
+| 8-K | Documents Interactive Data | Current report, item 5.02 Acc-no: 0001045810-26-000026 (34 Act) Size: 137 KB | 2026-04-27 | [000-23985 26900997](/cgi-bin/browse-edgar?action=getcompany&filenum=000-23985&owner=include&count=10) |
+
+https://www.sec.gov/cgi-bin/browse-edgar
+
+[Home](/index.htm) | [Search the Next-Generation EDGAR System](/edgar/searchedgar/webusers.htm) | [Previous Page](javascript:history.back())
+
+Modified 07/18/2014
