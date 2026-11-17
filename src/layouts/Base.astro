@@ -28,6 +28,7 @@ const og = ogImage.startsWith('http') ? ogImage : SITE + (ogImage || '/assets/im
 <link rel="stylesheet" href={`/assets/css/site.css?v=${cssVersion}`}>
 <noscript><style>.search-btn{display:none}</style></noscript>
 <link rel="alternate" type="application/rss+xml" title="见闻周刊 · RSS" href={`${SITE}/rss.xml`}>
+<link rel="canonical" href={SITE + canonical}>
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="见闻周刊">
 <meta property="og:title" content={title}>
