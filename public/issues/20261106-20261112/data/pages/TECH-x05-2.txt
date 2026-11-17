@@ -1,0 +1,157 @@
+[Technology](https://www.satellitetoday.com/archives/technology/ "Technology archive")
+
+# First Anduril Satellite On Orbit is for Space Domain Awareness
+
+By ![Photo of Calvin Biesecker](https://www.satellitetoday.com/wp-content/uploads/2026/05/Cal-Biesekcer-copy-150x150.jpg) [Calvin Biesecker](https://www.satellitetoday.com/guest-author/calvin-biesecker/ "Posts by Calvin Biesecker")
+
+![](https://www.satellitetoday.com/wp-content/uploads/2026/11/2026-11-announcement-space-5-wide-wm-web-scaled-1.jpg) 
+
+Image of the Moon taken by Anduril's long-wave infrared sensor aboard the A-216 satellite. Image: Anduril Industries
+
+**Anduril Industries**‘ first satellite on orbit, launched in July, is designed to demonstrate space domain awareness missions, the company said on Tuesday.
+
+“You can’t fight in space if you can’t see in space,” Gokul Subramanian, an Anduril senior vice president and head of its space business, told reporters on Monday. “And we know, as we’re hearing clearly from the government, that space is a warfighting domain.”
+
+ANDURIL-216 was launched into orbit on a **SpaceX** rocket and includes a long-wave infrared (LWIR) sensor developed by Anduril and two third party electro-optical sensors. The LWIR sensor is less affected when angled toward the sun, enabling it to detect adversary spacecraft that might otherwise be hidden, Subramanian said.
+
+“It has very low solar exclusion, so we’re not blocked by the sun very rarely, and we can see things in full dark,” he said. “Basically, when the Earth is in its eclipse, and adversary systems may be hidden, long wave infrared allows us to detect those targets.”
+
+Adam Thurn, who runs Anduril’s orbital systems unit, told reporters that the eclipse period can last one-third of an orbit and that the LWIR sensor begins to close that gap by “maintaining custody [of an object] across that entire orbital period.”
+
+### **Systems Integrator**
+
+A key aspect of A-216, called Lectronimo internally by Anduril, is the experience the company is gaining as a satellite mission systems integrator, Subramanian said.
+
+“The purpose of this was really to allow us to build the team—we now have over 350 people working space at Anduril—build the skill sets and the facilities to prepare ourselves for our government missions,” he said.
+
+Anduril previously provided an electro-optical payload and its Lattice operating system as part of satellite bus manufacturer Apex’s first demonstration mission, [marking the first Lattice deployment in space](https://www.satellitetoday.com/technology/2024/10/02/apex-sn1-satellite-launched-in-march-has-anduril-payload/). Apex is the bus supplier for A-216. Anduril internally funded both of its space developments.
+
+In addition to the third-party sensors on A-216, Anduril integrated two more self-developed payloads that are important aspects to the “space infrastructure” the company is showcasing as part of its emerging systems integrator capabilities, Subramanian said. One is a mission compute module and the other a dynamic payload power module.
+
+The compute module is “over provisioned” with compute power and can run frontier artificial intelligence models and AI processing and includes a “slotted card architecture” for other parties to contribute software, Subramanian said.
+
+The compute module was developed with national security missions at the fore and enable quick, autonomous decision-making at the edge, Thurn said.
+
+The power module will interface with any satellite bus and makes payload integration on the spacecraft easier because it will “condition power to the payload,” Subramanian said. Anduril is not wed to a single bus supplier, he said.
+
+The power unit “is key to unlocking flexibility and also driving the prices down as each system no longer becomes a special snowflake,” he said.
+
+Thurn said both modules answer the government’s growing demand for modularity so that buses and payloads don’t have to be reengineered every time new capabilities are required.
+
+*[This story was first published by Defense Daily](https://www.defensedaily.com/first-anduril-satellite-on-orbit-is-for-space-domain-awareness/space/)*
+
+Next In [Technology](https://www.satellitetoday.com/archives/technology/)
+
+## [SES Reports Optical Communications Demo on K2 Gravitas Mission](https://www.satellitetoday.com/technology/2026/11/04/ses-reports-optical-communications-demo-on-k2-gravitas-mission/)
+
+## More on This Topic
+
+[![](https://www.satellitetoday.com/wp-content/uploads/2026/11/K2-Space-Mega-Class-satellite-800x462.jpg)](https://www.satellitetoday.com/technology/2026/11/04/ses-reports-optical-communications-demo-on-k2-gravitas-mission/ "SES Reports Optical Communications Demo on K2 Gravitas Mission ")   [Technology](https://www.satellitetoday.com/archives/technology/) 
+
+### [SES Reports Optical Communications Demo on K2 Gravitas Mission](https://www.satellitetoday.com/technology/2026/11/04/ses-reports-optical-communications-demo-on-k2-gravitas-mission/ "SES Reports Optical Communications Demo on K2 Gravitas Mission ")
+
+---
+
+[![](https://www.satellitetoday.com/wp-content/uploads/2026/11/Speedcast-Teleport-800x600.jpg)](https://www.satellitetoday.com/technology/2026/11/03/satport-acquires-speedcasts-teleport-business/ "SatPort Acquires Speedcast’s Teleport Business ")   [Technology](https://www.satellitetoday.com/archives/technology/) 
+
+### [SatPort Acquires Speedcast’s Teleport Business](https://www.satellitetoday.com/technology/2026/11/03/satport-acquires-speedcasts-teleport-business/ "SatPort Acquires Speedcast’s Teleport Business ")
+
+---
+
+[![](https://www.satellitetoday.com/wp-content/uploads/2026/06/Northwood-Prism-Without-Radome-800x450.jpg)](https://www.satellitetoday.com/finance/2026/11/02/northwood-space-to-scale-ground-network-build-out-with-375m-funding-raise/ "Northwood Space to Scale Ground Network Build-Out With $375M Funding Raise")   [Finance](https://www.satellitetoday.com/archives/finance/) 
+
+### [Northwood Space to Scale Ground Network Build-Out With $375M Funding Raise](https://www.satellitetoday.com/finance/2026/11/02/northwood-space-to-scale-ground-network-build-out-with-375m-funding-raise/ "Northwood Space to Scale Ground Network Build-Out With $375M Funding Raise")
+
+---
+
+[![](https://www.satellitetoday.com/wp-content/uploads/2025/09/IRIS-800x515.jpeg)](https://www.satellitetoday.com/technology/2026/10/30/mda-space-to-build-antenna-subsystems-for-66-iris%c2%b2-leo-satellites/ "MDA Space to Build Antenna Subsystems for 66 IRIS² LEO Satellites")   [Technology](https://www.satellitetoday.com/archives/technology/) 
+
+### [MDA Space to Build Antenna Subsystems for 66 IRIS² LEO Satellites](https://www.satellitetoday.com/technology/2026/10/30/mda-space-to-build-antenna-subsystems-for-66-iris%c2%b2-leo-satellites/ "MDA Space to Build Antenna Subsystems for 66 IRIS² LEO Satellites")
+
+---
+
+[![](https://www.satellitetoday.com/wp-content/uploads/2026/10/GT3-Angled-View-800x533.png)](https://www.satellitetoday.com/technology/2026/10/29/lite-coms-gt3-vehicle-terminal-connects-to-multiple-leo-networks-simultaneously/ "Lite Coms GT3 Vehicle Terminal Connects to Multiple LEO Networks Simultaneously")   [Technology](https://www.satellitetoday.com/archives/technology/) 
+
+### [Lite Coms GT3 Vehicle Terminal Connects to Multiple LEO Networks Simultaneously](https://www.satellitetoday.com/technology/2026/10/29/lite-coms-gt3-vehicle-terminal-connects-to-multiple-leo-networks-simultaneously/ "Lite Coms GT3 Vehicle Terminal Connects to Multiple LEO Networks Simultaneously")
+
+Lite Coms is rolling out the new GT3 flat panel antenna designed for simultaneous connectivity across multiple LEO satellite constellations. The Lite Sat GT3 combines commercial off-the-shelf equipment into a […]
+
+---
+
+[![](https://www.satellitetoday.com/wp-content/uploads/2024/10/iDirect-Intuition.jpeg)](https://www.satellitetoday.com/technology/2026/10/26/st-engineering-idirect-to-provide-ground-network-for-omans-mb-sat-1/ "ST Engineering iDirect to Provide Ground Network for Oman’s MB Sat-1 ") 
+
+[Technology](https://www.satellitetoday.com/archives/technology/) 
+
+### [ST Engineering iDirect to Provide Ground Network for Oman’s MB Sat-1](https://www.satellitetoday.com/technology/2026/10/26/st-engineering-idirect-to-provide-ground-network-for-omans-mb-sat-1/ "ST Engineering iDirect to Provide Ground Network for Oman’s MB Sat-1 ")
+
+---
+
+[![](https://www.satellitetoday.com/wp-content/uploads/2026/10/Xona-satellite-copy-800x450.jpg)](https://www.satellitetoday.com/technology/2026/10/23/xona-prepares-to-start-navigation-service-in-beta-with-recent-launch-and-250m-raise/ "Xona Prepares to Start Navigation Service in Beta With Recent Launch and $250M Raise") 
+
+[Technology](https://www.satellitetoday.com/archives/technology/) 
+
+### [Xona Prepares to Start Navigation Service in Beta With Recent Launch and $250M Raise](https://www.satellitetoday.com/technology/2026/10/23/xona-prepares-to-start-navigation-service-in-beta-with-recent-launch-and-250m-raise/ "Xona Prepares to Start Navigation Service in Beta With Recent Launch and $250M Raise")
+
+---
+
+[![](https://www.satellitetoday.com/wp-content/uploads/2026/10/Vigoride-7.jpg)](https://www.satellitetoday.com/space-economy/2026/10/23/solstar-demonstrated-space-wi-fi-technology-in-recent-rpo-mission-with-nasa/ "Solstar Demonstrated Space Wi-Fi Technology in Recent RPO Mission With NASA ") 
+
+[Space Economy](https://www.satellitetoday.com/archives/space-economy/) 
+
+### [Solstar Demonstrated Space Wi-Fi Technology in Recent RPO Mission With NASA](https://www.satellitetoday.com/space-economy/2026/10/23/solstar-demonstrated-space-wi-fi-technology-in-recent-rpo-mission-with-nasa/ "Solstar Demonstrated Space Wi-Fi Technology in Recent RPO Mission With NASA ")
+
+---
+
+[![](https://www.satellitetoday.com/wp-content/uploads/2026/10/Neurpac-Dashboard-800x260.png)](https://www.satellitetoday.com/finance/2026/10/21/atombeam-raises-18-3m-for-networking-technology/ "Atombeam Raises $18.3M for Networking Technology ") 
+
+[Finance](https://www.satellitetoday.com/archives/finance/) 
+
+### [Atombeam Raises $18.3M for Networking Technology](https://www.satellitetoday.com/finance/2026/10/21/atombeam-raises-18-3m-for-networking-technology/ "Atombeam Raises $18.3M for Networking Technology ")
+
+## Trending Now
+
+1. ![Space CISOs Sound Alarm on Starlink Disruption in Ukraine, Urge Clear Service Terms and Sovereign Control](https://www.satellitetoday.com/wp-content/uploads/2026/11/IMG_4713-300x165.jpeg) 
+
+   Cybersecurity
+
+   ### [Space CISOs Sound Alarm on Starlink Disruption in Ukraine, Urge Clear Service Terms and Sovereign Control](http://www.satellitetoday.com/cybersecurity/2026/11/03/space-cisos-sound-alarm-on-starlink-disruption-in-ukraine-urge-clear-service-terms-and-sovereign-control/?itm_source=parsely-api "Space CISOs Sound Alarm on Starlink Disruption in Ukraine, Urge Clear Service Terms and Sovereign Control")
+2. ![What Starlink Restrictions in Ukraine Reveal About Europe’s Space Sovereignty and the Path Forward](https://www.satellitetoday.com/wp-content/uploads/2026/11/Starlink-Ukraine-podcast-300x150.png) 
+
+   Podcast
+
+   ### [What Starlink Restrictions in Ukraine Reveal About Europe’s Space Sovereignty and the Path Forward](http://www.satellitetoday.com/podcast/2026/11/09/what-starlink-restrictions-in-ukraine-reveal-about-europes-space-sovereignty-and-the-path-forward/?itm_source=parsely-api "What Starlink Restrictions in Ukraine Reveal About Europe’s Space Sovereignty and the Path Forward")
+3. ![K2 Space CEO Sets Out Expansive Growth Plan as High-Power Demand Increases](https://www.satellitetoday.com/wp-content/uploads/2026/10/Karan-Kunjur-300x150.png) 
+
+   Manufacturing
+
+   ### [K2 Space CEO Sets Out Expansive Growth Plan as High-Power Demand Increases](http://www.satellitetoday.com/manufacturing/2026/10/30/k2-space-ceo-sets-out-expansive-growth-plan-as-high-power-demand-increases/?itm_source=parsely-api "K2 Space CEO Sets Out Expansive Growth Plan as High-Power Demand Increases")
+4. ![Former DoD Official Warns Golden Dome May Not Outlive Trump Presidency](https://www.satellitetoday.com/wp-content/uploads/2026/11/20261103_101142-300x170.jpg) 
+
+   Cybersecurity
+
+   ### [Former DoD Official Warns Golden Dome May Not Outlive Trump Presidency](http://www.satellitetoday.com/government-military/2026/11/04/former-dod-official-warns-that-golden-dome-may-not-outlive-trump-presidency/?itm_source=parsely-api "Former DoD Official Warns Golden Dome May Not Outlive Trump Presidency")
+5. ![SpaceX Strikes Deal with Qualcomm for Terrestrial Component of Starlink Mobile Network](https://www.satellitetoday.com/wp-content/uploads/2026/10/Starlink-Mobile-V2-satellite-300x150.png) 
+
+   Connectivity
+
+   ### [SpaceX Strikes Deal with Qualcomm for Terrestrial Component of Starlink Mobile Network](http://www.satellitetoday.com/connectivity/2026/11/04/spacex-strikes-deal-with-qualcomm-for-terrestrial-component-of-starlink-mobile-network/?itm_source=parsely-api "SpaceX Strikes Deal with Qualcomm for Terrestrial Component of Starlink Mobile Network")
+6. ![Viasat, SES, and Astranis Win NASA Ka-band Relay Contracts](https://www.satellitetoday.com/wp-content/uploads/2026/11/NASA-Relay-rendering-300x169.png) 
+
+   Government/Military
+
+   ### [Viasat, SES, and Astranis Win NASA Ka-band Relay Contracts](http://www.satellitetoday.com/government-military/2026/11/04/viasat-ses-and-astranis-win-nasa-ka-band-relay-contracts/?itm_source=parsely-api "Viasat, SES, and Astranis Win NASA Ka-band Relay Contracts")
+7. ![Rocket Lab’s Setback Shows Why Space Needs More Launch Providers](https://www.satellitetoday.com/wp-content/uploads/2026/04/Xr4iKwrMSI6JOOnBQfZk_VS_060123_DGTL_Bottle-300x225.jpg) 
+
+   Launch
+
+   ### [Rocket Lab’s Setback Shows Why Space Needs More Launch Providers](http://www.satellitetoday.com/opinion/2026/11/06/rocket-labs-setback-shows-why-space-needs-more-launch-providers/?itm_source=parsely-api "Rocket Lab’s Setback Shows Why Space Needs More Launch Providers")
+8. ![5G is Not a Destination: Adapting to the NTN Landscape with Comtech’s Daniel Gizinski](https://www.satellitetoday.com/wp-content/uploads/2026/09/Gizinski-On-Orbit-Podcast-Graphic-300x150.jpg) 
+
+   Partner Content
+
+   ### [5G is Not a Destination: Adapting to the NTN Landscape with Comtech’s Daniel Gizinski](http://www.satellitetoday.com/partner-content/2026/09/28/5g-is-not-a-destination-adapting-to-the-ntn-landscape-with-comtechs-daniel-gizinski/?itm_source=parsely-api "5G is Not a Destination: Adapting to the NTN Landscape with Comtech’s Daniel Gizinski")
+9. ![Globalstar Questions Supplier Relationship With Rocket Lab When Iridium Acquisition Closes](https://www.satellitetoday.com/wp-content/uploads/2026/05/Globalstar-Satellite-copy-300x170.jpg) 
+
+   Connectivity
+
+   ### [Globalstar Questions Supplier Relationship With Rocket Lab When Iridium Acquisition Closes](http://www.satellitetoday.com/connectivity/2026/11/03/globalstar-questions-supplier-relationship-with-rocket-lab-when-iridium-acquisition-closes/?itm_source=parsely-api "Globalstar Questions Supplier Relationship With Rocket Lab When Iridium Acquisition Closes")

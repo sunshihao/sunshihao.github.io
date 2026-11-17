@@ -1,0 +1,19 @@
+上海国际能源交易中心（INE）原油期货 每日行情（数据片段）
+来源文件: https://www.ine.cn/data/tradedata/future/dailydata/kx20261109.dat ; https://www.ine.cn/data/tradedata/future/dailydata/kx20261110.dat ; https://www.ine.cn/data/tradedata/future/dailydata/kx20261111.dat ; https://www.ine.cn/data/tradedata/future/dailydata/kx20261112.dat
+说明: 交易所每日行情原始文件中 o_curinstrument 数组的记录。每行由原始 JSON 逐字段转写（数值未改动），下一行为该条原始记录。
+
+交易日 2026-11-09（report_date=20261109，update_date=20261109 15:28:36）
+原油 sc2701 | 结算价 630.7 | 收盘价 624 | 前结算价 631.8 | 涨跌1 收盘-前结算 -7.8 | 涨跌2 结算-前结算 -1.1 | 成交量 59970 | 持仓量 22581
+原始记录 {"CLOSEPRICE": 624, "DELIVERYMONTH": "2701", "HIGHESTPRICE": 639.2, "LOWESTPRICE": 623, "OPENINTEREST": 22581, "OPENINTERESTCHG": 1117, "OPENPRICE": 629.9, "PRESETTLEMENTPRICE": 631.8, "PRODUCTCLASS": "1", "PRODUCTGROUPID": "sc", "PRODUCTID": "sc_f", "PRODUCTNAME": "原油", "SETTLEMENTPRICE": 630.7, "TASVOLUME": 0, "TURNOVER": 3782562.96, "VOLUME": 59970, "ZD1_CHG": -7.8, "ZD2_CHG": -1.1}
+
+交易日 2026-11-10（report_date=20261110，update_date=20261110 15:29:09）
+原油 sc2701 | 结算价 599.3 | 收盘价 583.2 | 前结算价 630.7 | 涨跌1 收盘-前结算 -47.5 | 涨跌2 结算-前结算 -31.4 | 成交量 82010 | 持仓量 25850
+原始记录 {"CLOSEPRICE": 583.2, "DELIVERYMONTH": "2701", "HIGHESTPRICE": 613.9, "LOWESTPRICE": 582.1, "OPENINTEREST": 25850, "OPENINTERESTCHG": 3269, "OPENPRICE": 609.4, "PRESETTLEMENTPRICE": 630.7, "PRODUCTCLASS": "1", "PRODUCTGROUPID": "sc", "PRODUCTID": "sc_f", "PRODUCTNAME": "原油", "SETTLEMENTPRICE": 599.3, "TASVOLUME": 0, "TURNOVER": 4915607.31, "VOLUME": 82010, "ZD1_CHG": -47.5, "ZD2_CHG": -31.4}
+
+交易日 2026-11-11（report_date=20261111，update_date=20261111 15:29:10）
+原油 sc2701 | 结算价 584.1 | 收盘价 591.9 | 前结算价 599.3 | 涨跌1 收盘-前结算 -7.4 | 涨跌2 结算-前结算 -15.2 | 成交量 70607 | 持仓量 25617
+原始记录 {"CLOSEPRICE": 591.9, "DELIVERYMONTH": "2701", "HIGHESTPRICE": 596, "LOWESTPRICE": 571.3, "OPENINTEREST": 25617, "OPENINTERESTCHG": -233, "OPENPRICE": 575.3, "PRESETTLEMENTPRICE": 599.3, "PRODUCTCLASS": "1", "PRODUCTGROUPID": "sc", "PRODUCTID": "sc_f", "PRODUCTNAME": "原油", "SETTLEMENTPRICE": 584.1, "TASVOLUME": 0, "TURNOVER": 4124239.62, "VOLUME": 70607, "ZD1_CHG": -7.4, "ZD2_CHG": -15.2}
+
+交易日 2026-11-12（report_date=20261112，update_date=20261112 15:55:02）
+原油 sc2701 | 结算价 595.9 | 收盘价 599.9 | 前结算价 584.1 | 涨跌1 收盘-前结算 15.8 | 涨跌2 结算-前结算 11.8 | 成交量 77371 | 持仓量 26740
+原始记录 {"CLOSEPRICE": 599.9, "DELIVERYMONTH": "2701", "HIGHESTPRICE": 606.3, "LOWESTPRICE": 587.4, "OPENINTEREST": 26740, "OPENINTERESTCHG": 1123, "OPENPRICE": 599, "PRESETTLEMENTPRICE": 584.1, "PRODUCTCLASS": "1", "PRODUCTGROUPID": "sc", "PRODUCTID": "sc_f", "PRODUCTNAME": "原油", "SETTLEMENTPRICE": 595.9, "TASVOLUME": 0, "TURNOVER": 4611074.54, "VOLUME": 77371, "ZD1_CHG": 15.8, "ZD2_CHG": 11.8}

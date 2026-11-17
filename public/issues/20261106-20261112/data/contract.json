@@ -1,0 +1,21 @@
+{
+  "brief_date": "2026-11-13",
+  "issue": "20261106-20261112",
+  "as_of": "2026-11-13T09:05:00+08:00",
+  "timezone": "Asia/Shanghai",
+  "trigger": "用户口头请求：生成 2026-11-06 至 2026-11-12 的见闻周刊（第 3 期），并着重梳理黄仁勋风波与辞职的前因后果",
+  "coverage": {
+    "start_local": "2026-11-06T00:00:00+08:00",
+    "end_local": "2026-11-12T23:59:59+08:00",
+    "start_utc": "2026-11-05T16:00:00Z",
+    "end_utc": "2026-11-12T15:59:59Z"
+  },
+  "categories": {
+    "foreign_politics": {"label": "国外政治", "quota": 10, "window_days": 7.4, "min_tier12_share": 0.6, "region_policy": "foreign_only"},
+    "foreign_markets": {"label": "国外财经/股市", "quota": 10, "window_days": 7.4, "min_tier12_share": 0.6, "region_policy": "foreign_only"},
+    "foreign_tech": {"label": "国外科技", "quota": 10, "window_days": 7.4, "min_tier12_share": 0.6, "region_policy": "foreign_only"},
+    "foreign_ai": {"label": "国外 AI", "quota": 10, "window_days": 7.4, "min_tier12_share": 0.6, "region_policy": "foreign_only"},
+    "cn_markets": {"label": "国内股市", "quota": 10, "window_days": 7.4, "min_tier12_share": 0.6, "region_policy": "any"},
+    "futures": {"label": "期货/大宗商品", "quota": 10, "window_days": 7.4, "min_tier12_share": 0.6, "region_policy": "any"}
+  }
+}

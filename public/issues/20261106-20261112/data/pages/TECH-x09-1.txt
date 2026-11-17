@@ -1,0 +1,109 @@
+![U.S. flag](/themes/custom/preview/assets/images/US_Flag.png)
+![Dot gov](/themes/custom/preview/assets/images/icon-dot-gov.svg)
+
+**The .gov means it’s official.**  
+Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you're on a federal government site.
+
+![SSL](/themes/custom/preview/assets/images/icon-https.svg)
+
+**The site is secure.**  
+ The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
+
+![U.S. Food and Drug Administration logo](/themes/custom/preview/assets/images/FDA_Logo_Icon_White.svg)
+
+## Featured
+
+## Products
+
+## Topics
+
+## Information For
+
+# FDA Requires Safety Labeling Changes for Glucagon-Like Peptide-1 Receptor Agonists (GLP-1 RAs) Due to Potential Increased Risk of Rare But Serious Eye Condition
+
+FDA Drug Safety Communication – November 9, 2026
+
+## [What Safety Concern is FDA Announcing?](#6af5ce6819a74)
+
+The U.S. Food and Drug Administration is informing patients and health care providers of a potential increased risk of non-arteritic anterior ischemic optic neuropathy (NAION) associated with use of glucagon-like peptide-1 receptor agonist (GLP-1 RA) medications. NAION is a rare condition that can result in acute, painless, decreased vision in one eye, including permanent vision loss.
+
+## [What is FDA Doing?](#6af5ce681a385)
+
+The agency is requiring application holders for all GLP-1 RA medications to add information to the Warnings and Precautions section of labeling about the potential increased risk of NAION associated with use of these medications. 
+
+## [What Are GLP-1 RAs?](#6af5ce681a415)
+
+GLP-1 RAs are a class of medications (see list in Table) that mimic the effects of a natural hormone called glucagon-like peptide-1 (GLP-1) that the intestine releases. GLP-1 helps lower blood glucose (sugar) levels after eating and acts in parts of the brain that control appetite and food intake. GLP-1 RAs are widely used to treat people with type 2 diabetes or to reduce excess body weight and maintain weight reduction long term.
+
+There are additional approved uses in adults for several medications in this drug class. These approved uses for certain GLP-1 RA drugs include:
+
+## **FDA-Approved GLP-1 RAs**
+
+| Trade name | Generic name | **Approval year** |
+| --- | --- | --- |
+| Byetta\* | exenatide | 2005 |
+| Victoza | liraglutide | 2010 |
+| Trulicity | dulaglutide | 2014 |
+| Saxenda | liraglutide | 2014 |
+| Xultophy | liraglutide + insulin degludec | 2016 |
+| Soliqua | lixisenatide + insulin glargine | 2016 |
+| Ozempic | semaglutide | 2017 |
+| Rybelsus | semaglutide | 2019 |
+| Wegovy | semaglutide | 2021 |
+| Mounjaro | tirzepatide\*\* | 2022 |
+| Zepbound | tirzepatide\*\* | 2023 |
+| Foundayo | orforglipron | 2026 |
+
+\*The Byetta new drug application was voluntarily withdrawn (not for reasons of safety or effectiveness) per the Federal Register notice of August 4, 2025, as it was no longer marketed, and only generic exenatide products are marketed at this time.
+
+\*\*Tirzepatide is a glucose-dependent insulinotropic polypeptide (GIP) receptor and GLP-1 receptor agonist.
+
+## [What Should Patients and Caregivers Do?](#6af5ce681a4a1)
+
+Patients and caregivers should be aware of a potential increased risk of NAION, a rare condition that can result in acute, painless, decreased vision in one eye, including permanent vision loss, with GLP-1 RA use.
+
+Symptoms of NAION include sudden, painless vision loss in one eye that patients may notice upon waking; blurred or missing portions of vision (visual defects such as blind spots or tunnel vision); distortion of colors; and reduced central sharpness (e.g., blurry or hazy spots). Patients should contact their health care professional right away if they have any of these symptoms.
+
+If a patient has had a NAION event, they should talk with their health care professional about whether to continue taking their GLP-1 RA medication or to stop it.  
+
+NAION is caused by decreased blood flow to the front part of the optic nerve (known as the optic disc), but the underlying cause is not completely understood. Risk factors may include smoking, diabetes, high blood pressure, sleep apnea, anemia, and kidney disease. If NAION has occurred in one eye, there is an increased risk that it will occur in the other eye.
+
+## [What Should Health Care Professionals Do?](#6af5ce681a517)
+
+Health care professionals should be aware of the potential increased risk of rare NAION in patients treated with GLP-1 RAs. Data from an analysis of 126 randomized, controlled clinical trials across multiple GLP-1 RAs showed an occurrence of 6.4 NAION cases per 100,000 person-years (PY) in patients treated with GLP-1 RAs compared to 3.8 NAION cases per 100,000 PY for patients treated with a placebo or a non-GLP-1 RA glucose-lowering medication. Based on published literature, the incidence of NAION in the general population is 2.3 to 10.2 cases per 100,000 persons per year in adults older than age 50. Patients with a history of NAION are at increased risk of recurrence.  
+
+Instruct patients to immediately report sudden onset of acute, painless, decreased vision; visual field deficits; or other visual disturbances in one eye. If NAION is suspected, promptly refer the patient to an ophthalmologist for evaluation. Consider discontinuing the GLP-1 RA in patients who develop NAION, unless the benefits of treatment clearly outweigh the risk.
+
+## [What Did FDA Find?](#6af5ce681a586)
+
+In July 2024, Hathaway et al. published an article titled “Risk of Nonarteritic Anterior Ischemic Optic Neuropathy in Patients Prescribed Semaglutide.”[[1]](#fn1) Although FDA identified several limitations of this study, the agency determined that further assessment of the potential increased risk for NAION was warranted. Therefore, FDA undertook a comprehensive evaluation of clinical trial data, animal data, and postmarketing data, including observational studies and case reports.
+
+FDA conducted a detailed review of reports of NAION in patients treated with GLP-1 RAs that were received through the FDA Adverse Event Monitoring System (AEMS), formerly the FDA Adverse Event Reporting System (FAERS). These reports were challenging to interpret because the risk factors for NAION often overlap with conditions common in patients treated with GLP-1 RAs. Therefore, FDA evaluated other data sources, described below, to further assess for a potential relationship between GLP-1 RA use and NAION.
+
+FDA review of the available animal data did not identify a mechanism for how GLP-1 RA use could increase the potential risk of NAION.
+
+FDA performed a meta-analysis of clinical trials across GLP-1 RA development programs because of the small number or absence of cases of NAION observed in individual trials. The primary objective of the meta-analysis was to assess the incidence of NAION events in patients treated with GLP-1 RAs compared to the incidence in patients treated with a comparator (a placebo or a non-GLP-1 RA glucose-lowering medication). There were 126 such trials for GLP-1 RAs included in the meta-analysis, including a total of 134,253 patients (78,217 GLP-1 RA users and 56,036 patients receiving a comparator) with 288,879 PY of exposure (156,947 PY for the GLP-1 RA users and 131,932 PY for the patients receiving a comparator). We identified 15 probable NAION events, 10 in patients treated with GLP-1 RAs, 5 in patients receiving placebo, and none in patients who received other non-GLP-1 RA glucose-lowering medication. Overall, the results showed a NAION incidence rate of 6.4 events per 100,000 PY in patients treated with GLP-1 RAs compared to 3.8 events per 100,000 PY in comparator-treated patients.
+
+In addition, FDA conducted a retrospective cohort study in FDA’s Sentinel Real-World Evidence Data Enterprise (RWE-DE) Commercial Network. This study assessed the NAION incidence rate among adults with type 2 diabetes mellitus who started a GLP-1 RA or another common diabetes medication – either a sodium glucose co-transporter-2 (SGLT-2) inhibitor or a dipeptidyl peptidase-4 (DPP-4) inhibitor – between 2019 and 2024. The NAION incidence rates ranged from 26 to 32 events per 100,000 PY (GLP-1 RA: 30-32 events; SGLT-2 inhibitor: 31 events; DPP-4 inhibitor: 26 events). There was no statistically significant increase in the risk for NAION with GLP1-RAs compared to SGLT-2 inhibitors (hazard ratio (HR) 1.19, 95% confidence interval (CI) 0.91, 1.54). In contrast, an increased risk of NAION was observed with GLP1-RAs compared to DPP-4 inhibitors (HR: 1.43, 95% CI: 1.02, 2.01).
+
+FDA also reviewed published observational studies evaluating the association between GLP-1 RAs and NAION. Methodologically rigorous studies consistently reported an increased risk of NAION in patients with type 2 diabetes mellitus who initiated GLP-1 RAs compared to those who initiated DPP-4 inhibitors or SGLT-2 inhibitors. These findings were generally consistent with those from FDA’s clinical trial analysis and Sentinel study.
+
+NAION cases have been reported for all currently marketed GLP-1 RA products. FDA concluded that there is a potential increased risk of rare NAION events in patients taking GLP-1 RAs. Based on these findings, FDA is requiring that application holders add information about the risk for NAION to the Warnings and Precautions section of labeling of all GLP-1 RAs.
+
+[1]Hathaway JT, Shah MP, Hathaway DB, Zekavat SM, Krasniqi D, Gittinger JW Jr, Cestari D, Mallery R, Abbasi B, Bouffard M, Chwalisz BK, Estrela T, Rizzo JF 3rd. Risk of Nonarteritic Anterior Ischemic Optic Neuropathy in Patients Prescribed Semaglutide. JAMA Ophthalmol. 2024 Aug 1;142(8):732-739. doi: 10.1001/jamaophthalmol.2024.2296. PMID: 38958939; PMCID: PMC11223051.
+
+## [How Do I Report Adverse Events from GLP-1 RAs?](#6af5ce681a5ec)
+
+Complete and submit the report [online](https://www.accessdata.fda.gov/scripts/medwatch/). [Download this form](/about-fda/forms/medwatch-consumer-voluntary-reporting-pdf "MEDWATCH Consumer Voluntary Reporting (PDF)") or call 1-800-332-1088 to request a reporting form, then complete and return to the address on the pre-addressed form or submit by fax to 1-800-FDA-0178. 
+
+## [How Can I Get New Safety Information About Medicines I’m Taking?](#6af5ce681a659)
+
+You can [sign up for email alerts](https://public.govdelivery.com/accounts/USFDA/subscriber/new) about Drug Safety Communications on medicines or medical specialties of interest to you.
+
+## Content current as of:
+
+11/09/2026
+
+## Regulated Product(s)
+
+![Food and Drug Administration Logo](/themes/custom/preview/assets/images/FDA_Logo_Icon_White.svg)

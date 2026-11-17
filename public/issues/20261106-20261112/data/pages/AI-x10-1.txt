@@ -1,0 +1,36 @@
+# OpenAI investing in AI data centers despite election results, CFO says
+URL: https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html
+Published: 2026-11-06
+Author: Ashley Capoot
+
+OpenAI investing in AI data centers despite election results, CFO says
+
+# OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC
+
+Published Fri, Nov 6 2026 11:22 AM EST Updated Fri, Nov 6 2026 5:25 PM EST
+
+Ashley Capoot@/in/ashley-capoot/
+
+Key Points
+
+- OpenAI CFO Sarah Friar said the company will continue to invest in artificial intelligence infrastructure despite the results of the midterm elections. 
+- Voters across the country on Tuesday voiced their support for candidates who have pledged to place restrictions on data center development. 
+- OpenAI needs infrastructure built as quickly as possible as it rapidly develops new services and models and pushes toward an IPO.
+
+VIDEO 4:32 04:32
+
+OpenAI CFO Sarah Friar on Friday said the company will continue to invest in artificial intelligence infrastructure, even after voters strongly opposed data centers during Tuesday's midterm elections.
+
+"When I think about the midterms, I need to keep thinking about how do we keep investing to meet that customer demand," Friar told CNBC's Sara Eisen in an interview at the Citi TMT Leadership Summit in Pebble Beach, California. "It starts early with having built relationships with all of the hyperscalers, and it will continue to mean that we raise capital."
+
+Out of 41 local ballot measures across 10 states, voters backed restrictions or rejected pro-development measures in all but one, according to an analysis by Ballotpedia and additional results gathered by CNBC on Wednesday. Opposition to the facilities mounted swiftly over the summer as Americans grew worried about their potential to harm the environment, raise utility bills and contribute to job loss.
+
+Investors have turned skeptical on the AI trade of late due to a combination of higher borrowing costs, concerns about soaring debt and public backlash toward the industry. The Nasdaq on Thursday suffered its steepest drop in 19 months, led by a plunge in shares of the chipmakers and neocloud companies most closely tied to the AI buildout. The stocks rebounded some on Friday.
+
+OpenAI depends on data centers to train its AI models and serve customers, and Friar said she doesn't think the election results dramatically changed anything for the company. On Thursday, OpenAI published a policy blueprint and a series of commitments that it pledged to apply to company-owned and -operated data centers in the future.
+
+"If the midterm means more focus on data centers and communities, we're going to keep doing the work to get into those communities and to build trust with them," Friar said.
+
+OpenAI confidentially filed its prospectus with the Securities and Exchange Commission in June, and Friar said Friday that the company would continue to look into a 2027 debut. Anthropic, OpenAI's chief rival, is trying to go public first, with an aim to hit the Nasdaq in mid-November. 
+
+Anthropic's revenue in the first nine months of the year jumped roughly 1,200% to $33.2 billion, according to its p

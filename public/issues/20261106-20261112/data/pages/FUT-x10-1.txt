@@ -1,0 +1,19 @@
+上海期货交易所 螺纹钢期货 每日行情（数据片段）
+来源文件: https://www.shfe.com.cn/data/tradedata/future/dailydata/kx20261109.dat ; https://www.shfe.com.cn/data/tradedata/future/dailydata/kx20261110.dat ; https://www.shfe.com.cn/data/tradedata/future/dailydata/kx20261111.dat ; https://www.shfe.com.cn/data/tradedata/future/dailydata/kx20261112.dat
+说明: 交易所每日行情原始文件中 o_curinstrument 数组的记录。每行由原始 JSON 逐字段转写（数值未改动），下一行为该条原始记录。
+
+交易日 2026-11-09（report_date=20261109，update_date=20261109 15:28:37）
+螺纹钢 rb2701 | 结算价 3039 | 收盘价 3037 | 前结算价 3041 | 涨跌1 收盘-前结算 -4 | 涨跌2 结算-前结算 -2 | 成交量 558767 | 持仓量 1680452
+原始记录 {"CLOSEPRICE": 3037, "DELIVERYMONTH": "2701", "HIGHESTPRICE": 3051, "LOWESTPRICE": 3031, "OPENINTEREST": 1680452, "OPENINTERESTCHG": -1477, "OPENPRICE": 3045, "PRESETTLEMENTPRICE": 3041, "PRODUCTCLASS": "1", "PRODUCTGROUPID": "rb", "PRODUCTID": "rb_f", "PRODUCTNAME": "螺纹钢", "SETTLEMENTPRICE": 3039, "TASVOLUME": "", "TURNOVER": 1698239.482, "VOLUME": 558767, "ZD1_CHG": -4, "ZD2_CHG": -2}
+
+交易日 2026-11-10（report_date=20261110，update_date=20261110 15:29:23）
+螺纹钢 rb2701 | 结算价 3033 | 收盘价 3036 | 前结算价 3039 | 涨跌1 收盘-前结算 -3 | 涨跌2 结算-前结算 -6 | 成交量 519680 | 持仓量 1667947
+原始记录 {"CLOSEPRICE": 3036, "DELIVERYMONTH": "2701", "HIGHESTPRICE": 3043, "LOWESTPRICE": 3022, "OPENINTEREST": 1667947, "OPENINTERESTCHG": -12505, "OPENPRICE": 3030, "PRESETTLEMENTPRICE": 3039, "PRODUCTCLASS": "1", "PRODUCTGROUPID": "rb", "PRODUCTID": "rb_f", "PRODUCTNAME": "螺纹钢", "SETTLEMENTPRICE": 3033, "TASVOLUME": "", "TURNOVER": 1576334.775, "VOLUME": 519680, "ZD1_CHG": -3, "ZD2_CHG": -6}
+
+交易日 2026-11-11（report_date=20261111，update_date=20261111 15:29:22）
+螺纹钢 rb2701 | 结算价 3039 | 收盘价 3045 | 前结算价 3033 | 涨跌1 收盘-前结算 12 | 涨跌2 结算-前结算 6 | 成交量 591800 | 持仓量 1635148
+原始记录 {"CLOSEPRICE": 3045, "DELIVERYMONTH": "2701", "HIGHESTPRICE": 3049, "LOWESTPRICE": 3028, "OPENINTEREST": 1635148, "OPENINTERESTCHG": -32799, "OPENPRICE": 3036, "PRESETTLEMENTPRICE": 3033, "PRODUCTCLASS": "1", "PRODUCTGROUPID": "rb", "PRODUCTID": "rb_f", "PRODUCTNAME": "螺纹钢", "SETTLEMENTPRICE": 3039, "TASVOLUME": "", "TURNOVER": 1798991.804, "VOLUME": 591800, "ZD1_CHG": 12, "ZD2_CHG": 6}
+
+交易日 2026-11-12（report_date=20261112，update_date=20261112 15:55:22）
+螺纹钢 rb2701 | 结算价 3031 | 收盘价 3024 | 前结算价 3039 | 涨跌1 收盘-前结算 -15 | 涨跌2 结算-前结算 -8 | 成交量 662582 | 持仓量 1668748
+原始记录 {"CLOSEPRICE": 3024, "DELIVERYMONTH": "2701", "HIGHESTPRICE": 3047, "LOWESTPRICE": 3018, "OPENINTEREST": 1668748, "OPENINTERESTCHG": 33600, "OPENPRICE": 3044, "PRESETTLEMENTPRICE": 3039, "PRODUCTCLASS": "1", "PRODUCTGROUPID": "rb", "PRODUCTID": "rb_f", "PRODUCTNAME": "螺纹钢", "SETTLEMENTPRICE": 3031, "TASVOLUME": "", "TURNOVER": 2008606.914, "VOLUME": 662582, "ZD1_CHG": -15, "ZD2_CHG": -8}

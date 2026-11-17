@@ -1,0 +1,85 @@
+UNITED STATES
+
+SECURITIES AND EXCHANGE COMMISSION
+
+WASHINGTON, DC 20549
+
+FORM 8-K
+
+CURRENT REPORT
+
+PURSUANT TO SECTION 13 OR 15(d) OF
+
+THE SECURITIES EXCHANGE ACT OF 1934
+
+Date of Report (Date of earliest event reported): 
+November 11, 2026
+
+NVIDIA CORPORATION
+
+(Exact name of registrant as specified in its charter)
+
+| Delaware | 0-23985 | 94-3177549 |
+| --- | --- | --- |
+| (State or other jurisdiction | (Commission | (IRS Employer |
+| of incorporation) | File Number) | Identification No.) |
+
+2788 San Tomas Expressway, Santa Clara, CA 95051
+
+(Address of principal executive offices) (Zip Code)
+
+Registrant’s telephone number, including area code: 
+(408) 486-2000
+
+Not Applicable
+
+(Former name or former address, if changed since last report)
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+
+☐ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+
+☐ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+
+☐ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+
+☐ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+| Title of each class | Trading Symbol(s) | Name of each exchange on which registered |
+| --- | --- | --- |
+| Common Stock, $0.001 par value per share | NVDA | The Nasdaq Global Select Market |
+
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+
+Emerging Growth Company ☐
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+
+On November 11, 2026, the Board of Directors, or the Board, of NVIDIA Corporation accepted the resignation of Jen-Hsun Huang, as NVIDIA’s President, Chief Executive Officer and member of the Board, effective immediately.
+
+Following Mr. Huang’s resignation, the Board appointed NVIDIA’s Executive Vice President and Chief Financial Officer Colette M. Kress, age 59, to serve as interim Chief Executive Officer, while the Board conducts a search for a new Chief Executive Officer. Ms. Kress has served as NVIDIA’s Executive Vice President and Chief Financial Officer since 2013 and will continue in that role while she serves as the interim Chief Executive Officer.
+
+On November 11, 2026, the Board appointed Harvey C. Jones, age 73, as Chair of the Board. Mr. Jones has served on the Board since 1993. He has been the Managing Partner of Square Wave Ventures, a private family office, since 2004 and has over 30 years of experience as an entrepreneur, high technology executive, and venture investor.
+
+A copy of the press release announcing the above is attached as Exhibit 99.1 to this Current Report on Form 8-K.
+
+Item 9.01.    Financial Statements and Exhibits.
+
+(d) Exhibits
+
+| Exhibit | Description |
+| --- | --- |
+| 99.1 | [Press Release, dated November 12, 2026](nvidiaannouncesceotransiti.htm) |
+| 104 | The cover page of this Current Report on Form 8-K, formatted in inline XBRL (included as Exhibit 101) |
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+|  | NVIDIA Corporation |
+| --- | --- |
+| Date: November 12, 2026 | By: /s/ Colette M. Kress |
+|  | Colette M. Kress |
+|  | Interim Chief Executive Officer, Executive Vice President and Chief Financial Officer |

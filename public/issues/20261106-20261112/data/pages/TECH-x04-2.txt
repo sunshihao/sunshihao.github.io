@@ -1,0 +1,32 @@
+# Microsoft's Outlook email hit by new outage | TechCrunch
+URL: https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/
+Published: 2026-11-12
+Author: Zack Whittaker
+
+Microsoft's Outlook email hit by new outage | TechCrunch
+
+Posted:
+
+11:03 AM PST · November 12, 2026
+
+Image Credits: David Ryder/Bloomberg / Getty Images
+
+- Zack Whittaker
+
+# Microsoft’s Outlook email hit by new outage
+
+Microsoft said its Outlook email service is currently experiencing an outage, preventing both business and consumer users from accessing their inboxes.
+
+The issue was initially flagged as affecting the U.S. and the Americas, and later expanded to affect “any region.”
+
+Microsoft hasn’t given a specific cause, but said that it was providing updates in its admin center, which wasn’t reachable at the time of publication. In a post on X for users who can’t access the admin center, Microsoft said some of its infrastructure was experiencing “elevated load,” and that it was “redistributing connection traffic across our broader worldwide infrastructure to help balance the load.”
+
+In its latest update, Microsoft attributed this incident to “a large number of servers being unexpectedly unavailable,” for reasons it did not explain. Microsoft said it continues to investigate the outage.
+
+Microsoft says its video conferencing tool Teams, file sharing platform SharePoint, and its AI tool Copilot are also unavailable. The company says its Defender XDR security system is also affected by the outage. 
+
+Consumers are also unable to access their OneDrive storage, Office (for the web), and several other Microsoft services during the ongoing outage.
+
+TechCrunch will reach out to Microsoft for comment, as soon as our own email service has resumed.
+
+The company’s last major incident was in September, when a days-long outage hit Microsoft 365, its online productivity suite that includes Outlook. During that outage, Microsoft blamed a “core authentication configuration” issue that prevented users from accessing the service.

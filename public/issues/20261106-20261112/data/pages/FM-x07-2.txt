@@ -1,0 +1,35 @@
+In this article
+
+CoreWeave shares climbed in extended trading on Tuesday after the neocloud reported higher quarterly revenue than expected.
+
+The earnings announcement lands at a particularly volatile moment for CoreWeave and its neocloud peers, as the market sours on the artificial intelligence trade and as Nvidia CEO Jensen Huang, the central figure in the AI buildout, faces a scandal tied to an affair with an alleged Chinese spy.
+
+Here's how the company performed relative to LSEG consensus:
+
+It is not immediately clear if the loss per share is comparable with the LSEG consensus loss of $1.16
+
+CoreWeave's revenue soared 168% from $1.36 billion a year earlier, according to a statement. The company recorded a net loss of $709 million, or $1.27 per share, compared to a net loss of $110 million a year earlier. Adjusted earnings exclude stock-based compensation.
+
+Executives pushed up their forecast for all of 2026. They now see $1.275 billion to $1.375 billion in adjusted operating income on $13.0 billion to $13.3 billion in revenue. Analysts surveyed by Visible Alpha were looking for $1.07 billion in adjusted operating income, and analysts polled by LSEG had expected $12.86 billion in 2026 revenue. In August, the company projected $960 million to $1.15 billion in adjusted operating income and $12.4 billion to $13.2 billion in revenue.
+
+CoreWeave has lost over 40% of its value in the past month, as investors rotate out of companies most closely tied to AI infrastructure. Rising interest rates have pushed lenders out of the market, raising concerns about ongoing access to capital. Some CoreWeave bond yields recently topped 16%.
+
+Fellow neocloud Nebius, whose stock is down by a similar amount, is scheduled to report earnings on Thursday.
+
+Both companies and several other providers of cloud-based graphics processing units are particularly reliant on Nvidia, which provides GPUs as well as necessary capital to the whole ecosystem. Nvidia shares have dropped nearly 10% to start the week as the Huang affair raises pressure on the company in Washington, D.C. Nvidia's board said on Tuesday that it hired Wachtell, Lipton, Rosen & Katz to investigate Huang and determine whether national security or company secrets were compromised.
+
+CoreWeave investors are also looking toward next week, when key customer Anthropic is scheduled to debut on the Nasdaq. In its updated IPO prospectus on Tuesday, Anthropic indicated that it could be valued at around $1.4 trillion after its share sale.
+
+During the quarter, CoreWeave said it would establish its first data centers in Asia and announced the Forge service for running and evaluating AI models.
+
+Management still anticipates 1.85 gigawatts in active power by the end of 2026. CoreWeave is targeting $37 billion to $39 billion in full-year capital expenditures, which would imply 155% growth at the middle of the range. Analysts polled by Visible Alpha were expecting $37.69 billion.
+
+CoreWeave owed almost $47 billion in debt at the end of the third quarter, according to the statement. Like its bigger cloud rivals such as Amazon and Oracle, CoreWeave is rushing to bolster computing capacity for clients. But last week, voters in the U.S., where CoreWeave derives most of its revenue, rejected dozens of initiatives on data center development.
+
+Meanwhile, demand remains robust, with the company now sitting on a $132.5 billion revenue backlog, up from $104 billion as of June.
+
+Executives will discuss the results with analysts on a conference call starting at 5 p.m. ET.
+
+This story is developing. Please check back for updates.
+
+WATCH: Cramer's Mad Dash: CoreWeave

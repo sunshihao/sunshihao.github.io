@@ -1,0 +1,25 @@
+# [News] NVIDIA Order Cuts Reportedly Loom Amid Huang Controversy; AMD, ASIC Rivals May Gain TSMC Capacity
+URL: https://www.trendforce.com/news/2026/11/10/news-nvidia-order-cuts-reportedly-loom-amid-huang-controversy-amd-asic-rivals-may-gain-tsmc-capacity/
+Published: 2026-11-10
+
+[News] NVIDIA Order Cuts Reportedly Loom Amid Huang Controversy; AMD, ASIC Rivals May Gain TSMC Capacity
+
+# [News] NVIDIA Order Cuts Reportedly Loom Amid Huang Controversy; AMD, ASIC Rivals May Gain TSMC Capacity
+
+2026-11-10 Semiconductors editor 
+
+ 
+
+NVIDIA is facing growing scrutiny over CEO Jensen Huang’s admitted extramarital affair and related national security concerns, raising questions about the potential impact on its business and supply chain. According to Commercial Times, supply chain sources suggest that NVIDIA may slow chip orders, potentially affecting upstream suppliers such as TSMC and ASE. If NVIDIA scales back orders, the capacity freed up at TSMC could benefit AMD and ASIC players including Broadcom, MediaTek, Alchip, and GUC.
+
+Several ASIC suppliers are already expanding their AI accelerator businesses. As the report indicates, MediaTek is targeting approximately US$16 billion for its first AI accelerator in 2027 and has secured a second customer. Alchip has also reportedly secured an ASIC order from a second major U.S. customer and expects revenue to grow in 2027 and 2028. Their existing production plans could position them to capture additional demand as cloud providers diversify chip procurement.
+
+AMD is another potential beneficiary, with demand for its data center products continuing to exceed supply. During a recent earnings call, CEO Lisa Su said major cloud service providers are expanding EPYC deployments, while demand for AI accelerators and rack-scale systems is strengthening. AMD’s Instinct MI455X has entered volume shipments, with several cloud customers and computing capacity buyers beginning to deploy their first Helios systems, Commercial Times reports.
+
+## Taiwan’s AI Server Supply Chain Sees Limited Impact So Far
+
+NVIDIA’s potential order cuts have raised concerns across Taiwan’s AI server supply chain. According to another Commercial Times report, some AI server orders from Asian customers are reportedly facing renewed reviews, including those previously approved by NVIDIA and those still undergoing documentation checks. However, industry sources say orders and production capacity remain unchanged for now. Economic Daily News similarly reports that Taiwanese suppliers of NVIDIA server chassis, racks, and cooling systems have seen no disruptions to orders or shipments.
+
+Beyond the immediate supply chain impact, industry executives expect the broader AI growth trend to remain intact. According to Central News Agency, Taiwanese semiconductor executives believe U.S. AI infrastructure investment will continue amid intensifying global competition, sustaining long-term demand despite potential short-term disruptions. An IC testing executive also noted that NVIDIA’s decades-long relationships with Taiwanese suppliers would be difficult to replicate, making an immediate shift in partnerships unlikely.
+
+Meanwhile, NVIDIA faces a separate shipment challenge in China, with approximately 600,000 H200 chips reportedly hel

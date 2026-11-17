@@ -1,0 +1,63 @@
+# Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI
+
+Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.
+
+![Grok Build logo](https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-640x336.webp)
+![Grok Build logo](https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp)
+
+Grok Build, the vibe-coding agent from SpaceXSI, is leaking data—some of it proprietary business information and other sensitive secrets—from thousands of its users, including the very same Elon Musk-owned company that offers the platform, new research shows.
+
+The information is revealed through links allowing Grok Build users to share their apps with others. Grok takes steps to randomize the URLs so only people who know the exact URL can access the data stored there. A design decision by developers of the platform, however, completely torpedoes that objective and makes it possible for anyone to enumerate thousands of live Grok Build projects. Except in rare cases, clicking those links opens the app and reveals all data associated with it.
+
+## You had one job
+
+Research from security firm Claroc shows that the exposed data includes things like internal business plans, ad proposals, medical exam results, galley checklists from a celebrity cruise line, and employee names and ID numbers. Ironically, some of the sensitive data comes from two-dozen apps built by SpaceXSI (the name of the now-merged SpaceX and xAI) itself. A small sampling of the documents revealed in the SpaceXSI apps—Claroc found 24 of them—include an onboarding plan, marked confidential, for a new member of SpaceXSI’s enterprise sales team, a sales territory map of 594 accounts, internal system addresses for sales team tools, and advertising proposals.
+
+“We were shocked,” Claroc said in a [Tuesday post](https://blog.claroc.io/ghostshares-grok-build-apps/). “The company that makes Grok had its own internal material open to anyone holding the link, and we had never been given it. Had the sales team bought a tool for this, it would have sat behind company sign-in, open only to the team. Built with AI, it went live open to anyone with the link.
+
+![](https://cdn.arstechnica.net/wp-content/uploads/2026/11/xai-new-hire-onboarding-plan-redacted-1024x1008.png)
+![](https://cdn.arstechnica.net/wp-content/uploads/2026/11/xai-sales-territory-map-redacted-1024x1040.png)
+![](https://cdn.arstechnica.net/wp-content/uploads/2026/11/x-ads-proposal-to-us-federal-agency-redacted-1024x555.png)
+![](https://cdn.arstechnica.net/wp-content/uploads/2026/11/x-ads-client-command-center-redacted-1024x1091.png)
+
+Claroc notified SpaceXSI of the privacy spill on Sunday. When no one responded, a Claroc official took to X to tag both Musk and Grok Manager Matt Palmer about the threat. At the time this post went live almost all data remained available with one notable exception: the contents from the 24 SpaceXSI apps. All of them were exposing the information on Monday evening. SpaceXSI began removing the links within a few hours of Ars sending an email with questions for this article. At the time this post went live, links for all 24 apps returned an “app not found” error.
+
+[![](https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-build-app-not-found-640x296.png)](https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-build-app-not-found.png)
+
+![](https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-build-app-not-found-640x296.png)
+
+Claroc found sensitive data belonging to other Grok Build users, some working for Fortune 500 companies and a defense contractor. Some of the affected organizations and data revealed includes:
+
+![](https://cdn.arstechnica.net/wp-content/uploads/2026/11/property-work-orders-redacted.png)
+![](https://cdn.arstechnica.net/wp-content/uploads/2026/11/student-ride-roster-redacted-1024x720.png)
+![](https://cdn.arstechnica.net/wp-content/uploads/2026/11/cruise-ship-galley-crew-checklist-redacted-1024x720.png)
+
+Asaf Aprozper, the co-founder and CTO of Claroc, said he’s in the process of notifying companies. After speaking to the CISO of the luxury cruise company, it “pulled in their whole security team as soon as we shared the findings and are already working to contain the Grok exposure.”
+
+## A fatal flaw… shared by most other AI platforms
+
+Link sharing for Grok Build is intended to streamline the process of developing and deploying apps. A user can input speech or text and have a working app ready for internal testing within minutes. The links are designed to give developers a way to get the app in front of authorized users quickly. The very left of the URLs contain two or more “dice words,” meaning randomly generated phrases such as “failing chassis traders,” although users can modify them. The rightmost portion of the link is grok.me. The URL for an X ads campaign plan was: https://cinder-crane-sand-frost.grok.me.
+
+The scheme is intended to prevent links from being easily guessable. When done correctly, a phrase comprising three dice words has roughly 38 bits of entropy, amounting to billions of possible combinations. The idea—sometimes called [capability-based access control](https://en.wikipedia.org/wiki/Capability-based_security)—is that possession of the URL serves as authorization to the resources behind it. Google has long used this technique to make URLs easy to share but hard to guess. A URL share on that platform might look like: https://docs.google.com/document/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/edit
+
+There’s a fatal flaw in the way SpaceXSI has implemented the mechanism. Instead of being to the right of the domain—as is the case with Google links—the randomness for Grok Build links is positioned to the left of it. That allows the links to be easily enumerated using passive DNS services. These services monitor central DNS lookup servers. When a server lookup requests the IP address of a previously never-before-seen URL, the transaction is captured in a publicly searchable database. Had Grok followed Google’s approach, the links would have been invisible to passive DNS searchers. Muse, the Meta agent that CEO Mark Zuckerberg said was built from the ground up for security, recently suspended a link-sharing feature after it too was found [leaking sensitive data](https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/).
+
+Aprozper said a passive DNS search returned 43,601 links ending in grok.me. Of them, more than 35,000, or nearly 95 percent, were public, meaning that clicking on the link opened the corresponding app and all data it stored. He said that tests he conducted over the past week showed that, by default, Grok sets links to “Anyone with the link.” Users have the option to change the setting to “invited users” or “only you.”
+
+A representative with Cursor, the AI coding service SpaceXSI recently acquired, said in an email that Grok Build “apps are private by default and nothing goes public unless the creator chooses to share it.” The representative said that competing coding agents from ChatGPT, Lovable, and Bolt also give users the ability to generate shareable links.
+
+Aprozper’s tests contradict the representative’s statement. In all cases, Grok Build required users to change anyone with the link to one of the other two options.
+
+The Cursor statement regarding other AI coding platforms is correct. Aprozper said that app builders, including Lovable, Bolt, and Replit, “also give each app its own web address, so the same DNS records expose them, too. However, Grok is where we found by far the most sensitive company data.” That means that people using these other platforms are also at risk of exposing sensitive data through shared links. Interestingly, AI platforms that follow the correct sharing link practice include Claude’s published artifacts (claude.ai/public/artifacts/), ChatGPT’s shared conversations (chatgpt.com/share/), and Gemini (gemini.google.com/share/). For all three, the secret randomness is in the path, so DNS never sees it.
+
+The representative didn’t respond to follow-up questions, including if SpaceXSI intentionally exposed the proprietary internal information, why the company removed the data after Ars asked about it, and if it planned to notify customers who also exposed similar types of information. Anyone using shareable links with Grok Build should choose the “invite others” option unless they intend to make an app widely available.
+
+![Photo of Dan Goodin](https://cdn.arstechnica.net/wp-content/uploads/2018/10/Dang.jpg)
+![Loading](https://cdn.arstechnica.net/wp-content/themes/ars-v9/public/images/firework-loader.1aaa7fe5bba8356d.gif)
+![Listing image for first story in Most Read: Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling](https://cdn.arstechnica.net/wp-content/uploads/2026/11/kalshi-baseball-500x500-1794257986.jpg)
+
+Ars Technica has been separating the signal from
+the noise for over 25 years. With our unique combination of
+technical savvy and wide-ranging interest in the technological arts
+and sciences, Ars is the trusted source in a sea of information. After
+all, you don’t need to know everything, only what’s important.

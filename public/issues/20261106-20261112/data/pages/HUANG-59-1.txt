@@ -1,0 +1,45 @@
+# Instant View: Nvidia board meets to decide CEO Huang’s future, source says By Reuters
+URL: https://www.investing.com/news/stock-market-news/instant-view-nvidia-is-preparing-to-oust-ceo-jensen-huang-wsj-reports-5020061
+Published: 2026-11-11
+
+Instant View: Nvidia board meets to decide CEO Huang’s future, source says By Reuters
+
+# Instant View: Nvidia board meets to decide CEO Huang’s future, source says
+
+By
+
+Published Nov 11, 2026, 06:19 PM
+
+Updated Nov 11, 2026, 07:54 PM
+
+© Reuters.
+
+SAN FRANCISCO, Nov 11 (Reuters) - Nvidia’s board is meeting on Wednesday to decide whether to oust CEO Jensen Huang, a source familiar with the matter told Reuters, as the world’s dominant supplier of AI processors grapples with reports of two extramarital affairs involving its longtime leader.
+
+Nvidia did not immediately respond to a request for comment on the board meeting.
+
+The Wall Street Journal reported on Wednesday that Nvidia’s board is preparing to oust Huang, citing people familiar with the matter.
+
+Here are some reactions to the report:
+
+SHAY BOLOOR, CHIEF MARKET STRATEGIST, FUTURUM EQUITIES
+
+"I think the market needs to separate leadership crisis from Nvidia’s actual business because Blackwell demand, the Rubin roadmap, networking expansion and CUDA ecosystem were already firmly established long before this fiasco, so I don’t see the next 12 to 18 months of revenue suddenly disappearing if Jensen were to leave.
+
+"My bigger concern is next decade because Jensen isn’t simply Nvidia’s CEO but he’s the person who has consistently identified where computing is going before customers even realize they need those tech and replacing that strategic vision at a company built around 60 direct reports and no obvious second-in-command is an enormous challenge.
+
+"If a transition becomes necessary then Ian Buck is the strongest long-term internal candidate given his role in creating CUDA and leading Nvidia’s hyperscale business and Arm CEO Rene Haas is an external candidate worth considering given his seven years at Nvidia."
+
+JUN BEI LIU, LEAD PORTFOLIO MANAGER, TEN CAP
+
+"He’s the face of Nvidia and Nvidia has been front and center of the AI build-out.
+
+"And if we look at how many new cloud data center businesses have been sponsored in this circular financing world, it’s pretty much all by Nvidia. And so I actually think it has quite a meaningful ramification for what is to come.
+
+"Are they still going to give that much funding? Is neocloud still going to be a focus for them? There’s just a lot of uncertainty to come ... not just for Nvidia, it’s for the whole AI, the circular financing, the AI build-out, all the businesses that they co-invest and sponsor." 
+
+NICK TWIDALE, CHIEF MARKET ANALYST, ATFX GLOBAL
+
+"I think we will see him leave the company and they are probably just going through a negotiation process at the moment while also working a strong PR angle to give investors confidence that Nvidia will remain the market leader moving forward without him — although I suspect some sort of consultant role in the future. I think the initial reaction to his resignation will be a further hit to the share price … although we have it well priced in at the moment.
+
+"The broader AI trade though does seem robust i

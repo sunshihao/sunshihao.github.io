@@ -1,0 +1,36 @@
+# Google releases Gemini 4 Carbon with agent ‘swarm’ feature | The Verge
+URL: https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout
+Published: 2026-11-10
+Author: Robert Hart
+
+Google releases Gemini 4 Carbon with agent ‘swarm’ feature | The Verge
+
+# Google releases Gemini 4 Carbon with agent ‘swarm’ feature
+
+It ‘pushes the frontier even further’ than its last release, Argon.﻿
+
+It ‘pushes the frontier even further’ than its last release, Argon.﻿
+
+by Robert Hart
+
+Nov 10, 2026, 4:00 PM UTC
+
+Image: Google
+
+is a London-based reporter at The Verge covering all things AI and a Senior Tarbell Fellow. Previously, he wrote about health, science and tech for Forbes.
+
+Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of “cybersecurity defenders” two weeks ago. Google claims Carbon is its “strongest model” yet, and capable of competing with the very best systems from Anthropic and OpenAI.
+
+Google says Gemini 4 Carbon “pushes the frontier even further” than Argon, referring to the company’s other frontier model that launched only last month. The company said Argon will likely remain “the ideal choice for the majority of software engineering and knowledge work,” but that Carbon is “built for tasks that test the limits of a model’s intelligence,” such as complex, multi-step coding and open-ended scientific research.
+
+To highlight Carbon’s utility for long-horizon work involving AI agents, Google said it is also previewing a “swarm” feature on its agentic development platform Antigravity, which will let users turn a single prompt “into a coordinated team of agents.”
+
+Carbon is rolling out today via the Gemini API in Google AI Studio and Gemini for business for all paying developers and enterprises, Google said in a blog post. It will also be available to all Google AI Ultra subscribers in the Gemini app, the AI Mode in Search, and on Antigravity. It is not clear when — or if — Carbon will be available to lower tier subscribers or free users.
+
+As with the launch of Argon, Google is pricing Carbon very competitively. The model is launching with an introductory price of $2 per million input tokens and $10 per million output tokens, around a fifth the cost of OpenAI’s GPT-6 Astra and a quarter the cost of Anthropic’s Fable 5.2 model, which launched yesterday. Even after those costs double at the end November — when the introductory period of lower prices finishes — Carbon will still be significantly cheaper than frontier rivals on a per-token basis, though this doesn’t necessarily translate to lower costs as models can use different numbers of tokens for the same tasks.
+
+Benchmarks cited by Google when it first announced Carbon suggest the model is one of the most powerful on the market across most metrics, behind Fable 5.2. It should be noted that companies can and do cherry-pick benchmark results to show their tools in the best possible light.
+
+The release, hot on the heels of Argon, marks a decisive return for Google at the very forefront of AI research. For months, frontier development looked like a two-horse race between Anthropic and OpenAI.
+
+Oh, Palantir is ‘progre

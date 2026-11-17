@@ -1,0 +1,120 @@
+[IBM Newsroom](index.php)
+
+
+
+# All press releases
+
+# IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality, with Plans to Scale Beyond 1,000 Qubits in 2027
+
+New Nighthawk r3 processor will be built to execute 10,000 quantum operations, enabling larger and more complex computations as IBM advances its roadmap toward fault tolerance
+
+Clients and partners including E.ON, Algorithmiq, and Q-CTRL have run more than 34 billion circuits on Nighthawk r2, reporting speedups of up to 19x beyond previous IBM quantum processors
+
+Enhanced IBM Quantum Platform unites quantum with classical computing in one environment
+
+Nov 11, 2026
+
+![](/image/IBM-Quantum-Nighthawk-banner.jpg)
+
+**YORKTOWN HEIGHTS, NY, November 11, 2026 —**IBM (NYSE: [IBM](http://www.ibm.com/investor)) today announced IBM Quantum Nighthawk r3, its next-generation processor, will be built to accurately execute 10,000 quantum operations across 520 qubits to tackle larger, more complex problems while maintaining the speed and quality demonstrated by the current generation Nighthawk available today.
+
+In 2027, IBM plans to link two Nighthawk r3 processors into a single system with more than 1,000 qubits.
+
+![](image/IBM-Quantum-Nighthawk-r2-processor.jpg)
+
+![](image/IBM-Quantum-Nighthawk-r2-processor-angle-in-hand.jpg)
+
+To be at the frontier of quantum computing, industry-relevant applications demand both computational quality and speed. Speed matters because a quantum computer delivers its answer in samples: each run of a quantum circuit returns one result. Applications increasingly require circuits executing thousands of quantum operations on approximately 100 qubits or more, generating millions to billions of samples. Scale and quality enable increasingly complex computations, but speed determines whether these demanding workloads can be completed in practical timeframes and at a reasonable cost.
+
+> “Useful quantum computing hinges on whether results can be delivered with accuracy and speed, both are fundamental,” said **Jay Gambetta, Director of IBM Research and IBM Fellow**. “Nighthawk is already showing us what that looks like today. As we scale this architecture to larger and more powerful quantum computers, the capabilities of quantum computation will reach new levels as we integrate more closely with classical resources and march ahead to fault tolerance.”
+
+**Nighthawk r2: Delivering Speed for Real-World Workloads**
+
+Introduced in September, IBM Quantum Nighthawk r2 delivers up to 100,000 samples per second while supporting accurate computations with more than 7,500 quantum operations on 120 qubits. Its high-speed qubit reset technology [dramatically](https://www.ibm.com/quantum/blog/nighthawk-r2) reduces the time between circuit executions, enabling applications to collect the millions or billions of samples needed for complex computations far more efficiently.
+
+Clients and partners including E.ON, Algorithmiq, and [Q-CTRL](https://q-ctrl.com/blog/q-ctrl-sets-the-standard-for-quantum-execution-speed-with-ibm-quantum-nighthawk) have executed 34 billion circuits on Nighthawk r2 to date, [reporting](https://www.ibm.com/quantum/blog/qdc-2026) performance improvements of up to 19x while maintaining the quality needed for scientific computation.
+
+The results are already demonstrating value across industries. E.ON [reported](https://www.ibm.com/quantum/blog/qdc-2026) a 15x speedup on Nighthawk r2 in quantum machine learning for energy grid optimization. IBM used Nighthawk r2 for a [12x speedup](https://www.ibm.com/quantum/blog/nighthawk-r2) of an experiment ran earlier this year with Oak Ridge National Laboratory, which simulated real magnetic materials and produced results consistent with neutron scattering experiments. Both of these speedups were achieved over previous work on IBM Quantum Heron. [Quantum Elements and ParityQC](https://www.ibm.com/quantum/blog/dev-tools-qdc-2026) are also among the partners reporting significant performance improvements on their own Nighthawk r2 workloads.
+
+The [quantum advantage](https://www.ibm.com/quantum/blog/quantum-advantage) experiments IBM and its partners published in July were first run on IBM Quantum Heron, with circuits and results openly available for independent testing through the community-led [Quantum Advantage Tracker.](https://quantum-advantage-tracker.github.io/) An [experiment](https://newsroom.ibm.com/2026-07-30-ibm-and-algorithmiq-demonstrate-quantum-advantage,-establishing-a-framework-for-trusted-quantum-computation-beyond-classical-verification) with Algorithmiq to simulate a heterogeneous quantum material has now been extended to Nighthawk r2, leveraging its speed and connectivity to execute circuits 8 times faster than the original experiment on Heron. At the same time, the [new circuits](https://www.ibm.com/quantum/blog/qdc-2026) are significantly more challenging for classical computers to simulate, requiring an estimated 240 times more memory to achieve comparable accuracy when using leading classical tensor-network methods.
+
+**Nighthawk r3: Scaling to More Than 1,000 Qubits**
+
+Building on the performance demonstrated by Nighthawk r2, Nighthawk r3 will extend the same high-speed architecture to larger quantum computers. The new processor is designed to support 10,000 quantum operations on 520 programmable qubits, with 2,034 total physical qubits. It retains r2's square-lattice connectivity and fast operations while introducing 10 chip-to-chip interconnects, called l-couplers, designed to connect processors into larger systems.
+
+IBM has already demonstrated two critical technologies that enable this modular approach. This year, IBM [connected](https://www.ibm.com/quantum/blog/connecting-quantum-processors-with-l-couplers) Nighthawk r1 processors using four l-couplers, achieving 99.3 percent quantum state transfer fidelity and progressing toward its 99.9 percent target. IBM also [connected two cryogenic modules](https://newsroom.ibm.com/2026-08-19-ibm-connects-its-first-modular-cryogenic-systems-in-milestone-toward-fault-tolerant-quantum-computing) into a single system for the first time, reaching operating temperature in under five days and cooling below 15 millikelvin.
+
+Together, these advances demonstrate critical progress in modularity and provide confidence in IBM's ability to scale Nighthawk to larger quantum computers. In 2027, IBM plans to connect two Nighthawk r3 processors into a single 1,040-qubit system, extending its high-performance architecture to larger and more complex computations.
+
+**Quantum Meets Classical on the IBM Quantum Platform**
+
+Advancing quantum computers requires continued progress in how they work alongside classical compute to handle errors. Industry-relevant workloads will demand layers of quantum error correction and error mitigation techniques alongside noise learning and post-processing. As quantum workloads scale, they will call for more classical resources, and the challenge now is how to best scale this integration.
+
+To unite these paradigms, IBM Quantum Platform is bringing high-performance (HPC) classical and quantum computing together into a single managed environment. Users can now integrate quantum workflows directly with a range of classical compute – whether from their laptop or a powerful supercomputer – or with the HPC and classical resources that are newly available on the platform.
+
+Users are seeing promising results from these integrations. For example, using the new environment, IBM and RIKEN\* scientists [executed](https://arxiv.org/abs/2511.00224) their original sample-based quantum diagonalization (SQD) workflow roughly 5 times faster while performing 100 times more computations than in the original [study](https://arxiv.org/abs/2405.05068). Cleveland Clinic and RIKEN also [leveraged](https://arxiv.org/pdf/2605.01138) the platform to automatically process 608 million samples for modeling biologically relevant structures, 33 times faster than without workflow automation.
+
+Enhanced capabilities will also fuel breakthroughs in quantum error correction. IBM Quantum Platform offers pulse-level capabilities to give researchers precise control over how they can detect, understand, and better correct errors within quantum and classical architectures. This helps them better time operations, reset qubits faster, and extract more information from quantum measurements – giving researchers the visibility to improve error correction at its most fundamental levels.
+
+IBM recently [launched](https://newsroom.ibm.com/2026-11-05-oak-ridge-national-lab,-ibm,-and-amd-launch-new-co-design-platform-for-quantum-error-correction) a new co-design platform for quantum error correction with Oak Ridge National Laboratory and AMD that physically co-locates Nighthawk with ORNL’s Umbra High-Performance Computing (HPC) system, powered by AMD Instinct™ MI355X GPUs and 5th Gen AMD EPYC™ CPUs.
+
+**About IBM**
+
+IBM is a leading global hybrid cloud and AI, and business services provider, helping clients in more than 175 countries capitalize on insights from their data, streamline business processes, reduce costs and gain the competitive edge in their industries. Thousands of governments and corporate entities in critical infrastructure areas such as financial services, telecommunications and healthcare rely on IBM's hybrid cloud platform and Red Hat OpenShift to affect their digital transformations quickly, efficiently and securely. IBM's breakthrough innovations in AI, quantum computing, industry-specific cloud solutions and business services deliver open and flexible options to our clients. All of this is backed by IBM's long-standing commitment to trust, transparency, responsibility, inclusivity and service.
+
+For more information, visit [https://research.ibm.com](https://research.ibm.com/).
+
+**Media contacts:**
+
+Brittany Forgione  
+ IBM  
+ [Brittany.forgione@ibm.com](mailto:Brittany.forgione@ibm.com)
+
+Erin Angelini  
+ IBM  
+ [edlehr@us.ibm.com](mailto:Edlehr@us.ibm.com)
+
+*\* This project is supported by NEDO (New Energy and Industrial Technology Development Organization), an organization under the jurisdiction of Japan's Ministry of Economy, Trade and Industry (METI)'s "Research and Development of Quantum-Supercomputers Hybrid Platform for Exploration of Uncharted Computable Capabilities" (Project Leader: Mitsuhisa Sato) as part of the "Project for Research and Development of Enhanced Infrastructures for Post 5G Information and Communications Systems (JPNP20017)."*
+
+* [![Download Renders of IBM Quantum Nighthawk r3 (L), and IBM Quantum Nighthawk r2 (R), IBM’s most powerful processors designed to support 10,000 quantum operations in 2027. (Credit: IBM)](/image/IBM-Quantum-Nighthawk-social.jpg)](/image/IBM-Quantum-Nighthawk-social.jpg)
+
+  Renders of IBM Quantum Nighthawk r3 (L), and IBM Quantum Nighthawk r2 (R), IBM’s most powerful processors designed to support 10,000 quantum operations in 2027. (Credit: IBM)
+* [![Download Photo of IBM Quantum Nighthawk r2, the processor capable of speedups up to 19x beyond previous IBM quantum processors. (Credit: IBM)](/image/IBM-Quantum-Nighthawk-r2-processor.jpg)](/image/IBM-Quantum-Nighthawk-r2-processor.jpg)
+
+  Photo of IBM Quantum Nighthawk r2, the processor capable of speedups up to 19x beyond previous IBM quantum processors. (Credit: IBM)
+* [![Download Photo of IBM Quantum Nighthawk r2, angle in hand, the processor capable of speedups up to 19x beyond previous IBM quantum processors. (Credit: IBM)](/image/IBM-Quantum-Nighthawk-r2-processor-angle-in-hand.jpg)](/image/IBM-Quantum-Nighthawk-r2-processor-angle-in-hand.jpg)
+
+  Photo of IBM Quantum Nighthawk r2, angle in hand, the processor capable of speedups up to 19x beyond previous IBM quantum processors. (Credit: IBM)
+
+[Subscribe to email](subscribe)
+
+#### Release Categories
+
+* [Research and innovation](https://newsroom.ibm.com/press-releases-research-and-innovation)
+
+more articles
+
+* Research and innovation
+
+| Nov 11, 2026
+
+[IBM Quantum Nighthawk Demonstrates New Levels of Speed and Quality, with Plans to Scale Beyond 1,000 Qubits in 2027](2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027)
+
+* Artificial intelligence
+
+| Nov 10, 2026
+
+[IBM and Microsoft Announce a New AI Agent Platform Designed for Industry-Specific Transformation](2026-11-10-ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation)
+
+* Artificial intelligence
+* Research and innovation
+
+| Nov 10, 2026
+
+[IBM Impact Accelerator Brings AI and Quantum to the Future of Learning and Work](2026-11-10-ibm-impact-accelerator-brings-ai-and-quantum-to-the-future-of-learning-and-work)
+
+[Subscribe to email](subscribe)
+
+(opens in a new window)
+
+ 

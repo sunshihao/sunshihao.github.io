@@ -1,0 +1,40 @@
+# Microsoft moves to consolidate its relationships with neoclouds in AI
+URL: https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html
+Published: 2026-11-06
+Author: Jordan Novet, Seema Mody
+
+Microsoft moves to consolidate its relationships with neoclouds in AI
+
+# Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain
+
+Published Fri, Nov 6 2026 1:31 PM EST Updated Fri, Nov 6 2026 1:40 PM EST
+
+Jordan Novet@in/jordannovet/
+
+Seema Mody@SeemaCNBC
+
+Key Points
+
+- Microsoft is looking to shrink the number of neoclouds it counts as partners, according to people familiar with the matter. 
+- The company will keep working with some key suppliers while it also builds out its own infrastructure, the sources said. 
+- Microsoft has signed deals with half a dozen neoclouds in recent years, including CoreWeave and Nebius. 
+
+Microsoft Add To Watchlist is shrinking its roster of neocloud partners as it focuses on work with a few key suppliers and builds out its own data centers, according to people familiar with the matter. 
+
+The software giant's plans pose another potential challenge for a corner of the artificial intelligence market that's showing signs of strain due to rising borrowing costs, hefty debt loads and concerns about whether the buildout will slow down. 
+
+Microsoft has forged relationships in recent years with a number of neoclouds, including CoreWeave Add To Watchlist, Nebius, Add To Watchlist Chronoscale Add To Watchlist, IREN Add To Watchlist, Lambda and Nscale, as well as with Oracle Add To Watchlist, which is pouring money into building out AI infrastructure. 
+
+Microsoft is now in the evaluation stage and hasn't decided which neoclouds it will stop using, said two sources, who asked not to be named because the talks are confidential. One of the people said Microsoft wants to prioritize its own data center footprint. Bloomberg reported on the plans earlier. Two people said that Microsoft opted not to renew a deal with Oracle. 
+
+A Microsoft spokesperson said in an emailed statement that its infrastructure strategy is "built on flexibility and choice."
+
+"We combine Microsoft-owned datacenters, leased facilities and strategic partnerships with third-party providers to deliver the capacity our customers need, where and when they need it," the spokesperson said. "We regularly review these investments against customer demand. That includes tracking delivery and adjusting plans as circumstances change."
+
+The neoclouds have been a turbulent trade on Wall Street in recent weeks as rising interest rates added to fears that many companies have become overly reliant on debt in rushing to build capacity. Shares of CoreWeave, Nebius and IREN are all down by roughly half over the past month even after rallying on Friday. 
+
+A recent industry review counted 323 neoclouds, and experts have predicted that many of them won't survive. 
+
+In its earnings report on Thursday, IREN said it handed over data center capacity to Microsoft in August, but Microsoft requested a networking equipment upgrade that will result in the infrastructure coming online in January or February instead of this year. 
+
+Microsoft finance chief Amy Hood said on th

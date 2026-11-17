@@ -1,0 +1,34 @@
+# Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang's exit | TechCrunch
+URL: https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/
+Published: 2026-11-12
+Author: Sarah Perez
+
+Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang's exit | TechCrunch
+
+Image Credits: TechCrunch
+
+# Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit
+
+ Sarah Perez 
+
+9:36 AM PST · November 12, 2026
+
+Hugging Face CEO Clément Delangue briefly commented on Nvidia CEO Jensen Huang’s departure on Thursday, calling it a “really sad day.” Nvidia had announced its plan to acquire the platform for open source AI models in September for $12.9 billion, making it the second-largest acquisition in the company’s history, just behind that of chipmaker Groq’s assets for $20 billion in December 2025.
+
+“This whole thing sucks, and I wish none of it had happened. It’s a really sad day! But I want to make one thing clear: we’ll keep fighting for open-source AI, harder than ever. This is too important to slow down now. Let’s go!,” Delangue wrote on X.
+
+> This whole thing sucks, and I wish none of it had happened. It’s a really sad day! But I want to make one thing clear: we’ll keep fighting for open-source AI, harder than ever. This is too important to slow down now. Let’s go!
+> 
+> — clem 🤗 (@ClementDelangue) November 12, 2026
+
+The post is interesting as it implies that Huang’s departure is potentially worrying to open source advocates, and he’s attempting to offer reassurance.
+
+As Nvidia’s CEO, Huang was known as a strong advocate for open source AI and open-weight models, which is why there could be concerns about how a company that’s no longer under his leadership will now approach this space.
+
+After Nvidia announced its plans to acquire Hugging Face, the U.S. Department of Justice began making inquiries about how the deal would impact competition in the AI market, Reuters reported in October. While Nvidia pledged that the platform would preserve open support, it would also allow the company to control a major distribution channel for AI models.
+
+The Hugging Face deal is still scheduled to close in the first half of 2027. Requests for further comment on the deal status and whether Hugging Face has spoken yet with Nvidia’s interim CEO Colette Kress were not returned.
+
+Huang’s advocacy for open source and open-weight AI has long extended beyond Hugging Face. In July, the CEO published an AI policy letter as his first-ever post on the social network X. The letter, which was signed by 25 companies, including Microsoft, Meta, Hugging Face, IBM, Palantir, and others, urged the U.S. government not to over-restrict open-weight AI models. It said models that “anyone can download, inspect, modify, and run on their own infrastructure” are an important part of the AI ecosystem because they make AI “more accessible, adaptable, and widely available.”
+
+Huang also wrote that open-weight models expand access to the AI economy, strengthen competition, and give customers greater control, as they know they won’t become locked into a single provider. “Open models strengthen safety and cybersecurity, accelerate innovation an

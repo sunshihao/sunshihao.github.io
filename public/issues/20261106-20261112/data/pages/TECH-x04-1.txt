@@ -1,0 +1,9 @@
+Microsoft suffered a widespread outage on Thursday that impacted thousands of users in North America, according to outage-tracking website Downdetector.com.
+
+The outage began shortly before 1 p.m. and affected services like Outlook, Teams and 365. Amazon Web Services and Google users also reported outages on the site.
+
+"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is likely contributing to the connectivity errors," the company's Microsoft 365 Status account wrote in a post to social media platform X shortly after 1:30 p.m. ET.
+
+The company determined that the outage was caused by an increase in unavailable servers and launched a restart of impacted servers. The shutdown may be linked to failed health checks caused by a "specific component that's responsible for processing server health," Microsoft added.
+
+"We've taken steps to prevent additional servers from being impacted while we work to return the affected servers to service," Microsoft added.

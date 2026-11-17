@@ -1,0 +1,72 @@
+{
+ "issue": "20261106-20261112",
+ "issue_no": 3,
+ "date": "2026-11-13",
+ "stats": "60 条 · 6 类 · T1/T2 87%",
+ "summary": "英伟达四天换掉创始人，美联储把加息概率推到九成，中国 PPI 涨到 5.7%——这一周，风险从技术转到了人和路径。",
+ "storage": "assets/img/20261106-20261112/；命名规则 <条目id小写>.jpg|svg，hero 为 hero.jpg；每张图在此登记 credit / link / caption；HTML 内一律相对路径，禁止热链远程图片。",
+ "hero": {
+  "src": "assets/img/20261106-20261112/hero.jpg",
+  "credit": "Getty Images via CNBC",
+  "link": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
+  "caption": "英伟达前首席执行官黄仁勋。11 月 12 日公司宣布他辞去总裁、CEO 与董事职务，即刻生效"
+ },
+ "gallery": [
+  {
+   "src": "assets/img/20261106-20261112/huang-press.jpg",
+   "credit": "AP via CBS News",
+   "link": "https://www.cbsnews.com/news/jensen-huang-nvidia-congress-testify",
+   "caption": "辞职当天，众议院三个委员会的共和党主席表示正与黄仁勋协商闭门作证，必要时动用传票权"
+  }
+ ],
+ "sections": {
+  "政治": {
+   "type": "numcard",
+   "big": "211–204",
+   "unit": "",
+   "label": "众院挡下赫格塞斯弹劾案",
+   "note": "8 项条款主要针对伊朗战争",
+   "img": "assets/img/20261106-20261112/card-politics.jpg"
+  },
+  "财经": {
+   "type": "numcard",
+   "big": "90",
+   "unit": "%",
+   "label": "12 月加息概率",
+   "note": "CME FedWatch 定价",
+   "img": "assets/img/20261106-20261112/card-fm.jpg"
+  },
+  "科技": {
+   "type": "numcard",
+   "big": "59.7",
+   "unit": "%",
+   "label": "台积电 10 月营收同比",
+   "note": "5,868.9 亿新台币",
+   "img": "assets/img/20261106-20261112/card-tech.jpg"
+  },
+  "AI": {
+   "type": "numcard",
+   "big": "643.5",
+   "unit": "亿美元",
+   "label": "Anthropic IPO 募资上限",
+   "note": "估值 1.405 万亿美元",
+   "img": "assets/img/20261106-20261112/card-ai.jpg"
+  },
+  "国内股市": {
+   "type": "numcard",
+   "big": "6,000",
+   "unit": "亿元",
+   "label": "长钱年内净买入 A 股",
+   "note": "第三批互换便利 1,000 亿元",
+   "img": "assets/img/20261106-20261112/card-cn.jpg"
+  },
+  "期货与商品": {
+   "type": "numcard",
+   "big": "92.76",
+   "unit": "美元",
+   "label": "ICE 布伦特 1 月合约结算",
+   "note": "月内仍跌 21.15%",
+   "img": "assets/img/20261106-20261112/card-futures.jpg"
+  }
+ }
+}

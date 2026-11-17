@@ -1,0 +1,48 @@
+# Nvidia stock falls after Jensen Huang resigns
+URL: https://www.nbcnews.com/business/markets/nvidia-stock-huang-resigns-rcna608958
+Published: 2026-11-12
+Author: Steve Kopack
+
+Nvidia stock falls after Jensen Huang resigns
+
+# Nvidia stock falls after Huang resigns, weighing on broader market
+
+The company at the center of the AI boom is in crisis at a pivotal moment for the technology and the economy.
+
+The rise and fall of former Nvidia CEO Jensen Huang 03:09
+
+Nov. 12, 2026, 10:00 AM EST / Updated Nov. 12, 2026, 4:13 PM EST
+
+By Steve Kopack
+
+Major stock indexes closed slightly lower following news that Jensen Huang, one of the most important executives in the AI boom, was resigning effective immediately as CEO of Nvidia.
+
+After diving as much as 16%, Nvidia’s stock ended the day down by 4.3%, as the company and investors grappled with multiple scandals that have engulfed its co-founder and now-former CEO Jensen Huang. 
+
+Throughout the day, the company was among the biggest decliners on the Nasdaq and S&P 500 indexes. It was the biggest decliner on the Dow.
+
+Without a formal succession plan, Nvidia, which designs the chips powering the entire AI sector, was thrust into crisis. It’s a pivotal moment for AI, with Anthropic gearing up for its potentially trillion-dollar-plus initial public offering next week.
+
+Anthropic is highly reliant on Nvidia’s chips and has entered into hundreds of billions of dollars worth of contracts with cloud providers to rent them.
+
+Nvidia named its longtime chief financial officer as its interim leader. Huang’s departure from Nvidia came after a New York Times report said the CEO had had a relationship with an executive at Nvidia who reports to him.
+
+That came right on the heels of his admission Sunday that he was “unfaithful” to his wife, an announcement that was released after the Financial Times reported Saturday that Huang had had a relationship with a businesswoman whom a source told NBC News was a Chinese spy.
+
+There are few companies as important to the artificial intelligence industry as Nvidia.
+
+“We’re probably the only AI company in the world that works with every AI company in the world,” Huang told Bloomberg in an October interview.
+
+As reports swirled around Huang this week, Nvidia’s shares have plunged, erasing about $500 billion in value. Nvidia’s total market value fell below $4 trillion for the first time since 2025 in early trading. It ended the day barely above that level.
+
+The news surrounding Huang, a confidant of President Donald Trump’s, also raises the prospect of tighter regulations on the chip and AI industry, which could further pressure stock indexes that have been powered for years by the explosion in AI stocks.
+
+“All told, given the national security concerns, we think the risk of more restrictive guidelines on shipments directly or indirectly into China has risen,” JPMorgan analysts said Thursday before Huang was removed.
+
+Industry experts widely believe that American leadership in AI has been powered by Nvidia. That too could come into question.
+
+Nvidia CEO Jensen Huang resigns after reports of extramarital relationships
+
+02:36
+
+“We expect the [Nvidia] team to mai

@@ -1,0 +1,36 @@
+# Information for Frontier Developers | Department of Financial Services
+URL: https://www.dfs.ny.gov/digit/Frontier-Developers
+
+Information for Frontier Developers | Department of Financial Services
+
+## Information for Frontier Developers 
+
+ All frontier model developers operating in New York have obligations and reporting requirements under the RAISE Act. 
+
+## Overview 
+
+The RAISE Act establishes transparency and critical safety incident reporting requirements for frontier developers operating in New York, with additional obligations for large frontier developers.
+
+All frontier developers must publish model transparency reports and report critical safety incidents in the timelines established under the Act. Additionally, large frontier developers must also publish frontier AI safety frameworks that describe how they identify and mitigate risks, and submit quarterly summaries of assessments of catastrophic risks.
+
+Once in effect, members of the public can report critical safety incidents related to frontier AI models.
+
+## Who Qualifies as a Large Frontier Developer? 
+
+Frontier models, frontier developers, and large frontier developers are defined in the RAISE Act. Visit NYSenate.gov to read the full text of the law.
+
+A summary of key terms includes:
+
+- Frontier model: A foundation model that was trained using a quantity of computing power greater than 10^26 integer or floating-point operations. The quantity of computing power includes computing for the original training run and for any subsequent fine-tuning, reinforcement learning, or other material modifications the developer applies to a preceding foundation model.
+- Frontier developer: A person who has trained or initiated the training of a frontier model using, or intending to use, the computing power specified under the RAISE Act.
+- Large frontier developer: A frontier developer, as described above, that, together with its affiliates, collectively had annual gross revenues in excess of $500 million in the preceding calendar year.
+
+## Requirements for All Frontier Developers 
+
+Under the RAISE Act, all frontier developers are subject to the following requirements:
+
+- Critical Safety Incidents:
+
+- Report qualifying critical safety incidents to DIGIT through the RAISE Portal within 72 hours of a determination that a critical safety incident has occurred or learning facts sufficient to establish a reasonable belief that a critical safety incident has occurred.
+- If a critical safety incident poses an imminent risk of death or serious physical injury, the frontier developer must disclose that incident within 24 hours to an appropriate authority, such as a law enforcement or public safety agency with jurisdiction.
+- Model Transparency Reports: Before, or concurrently with, deploying a new or substantially modified frontier model, developers must conspicuously publish a transparency report on their website containing the developer’s internet website address, contact information, the release date of the frontier model, languages supported by the frontier model, the modalities of output supported by the frontier model, intend

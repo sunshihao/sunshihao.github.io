@@ -22,7 +22,7 @@ const briefAsHtml = {
 };
 
 export default defineConfig({
-  site: 'https://week.dhc.ink',
+  site: 'https://weekly.dhc.ink',
   trailingSlash: 'ignore',
   build: { format: 'directory' },
   integrations: [briefAsHtml],

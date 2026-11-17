@@ -1,0 +1,62 @@
+A Singapore Government Agency Website How to identify
+
+Official website links end with .gov.sg
+
+Government agencies communicate via .gov.sg websites (e.g. go.gov.sg/open). [Trusted websites (opens in new tab)](https://www.gov.sg/trusted-sites#govsites)
+
+Secure websites use HTTPS
+
+Look for a **lock** () or https:// as an added precaution. Share sensitive information only on official, secure websites.
+
+[![Ministry of Home Affairs](https://isomer-user-content.by.gov.sg/341/ac9a71af-d5b3-4415-aa96-e09705c7a8e2/MHA-logo.png)](/)
+
+* [Our stories](/stories/)
+* [e-Services](/mha-e-services/)
+
+
+
+1. [Home](/)
+2. [Media room](/media-room/)
+3. [Newsroom](/media-room/newsroom/)
+4. Clarification Statement on Wall Street Journal’s Article
+
+Press Releases
+
+# Clarification Statement on Wall Street Journal’s Article
+
+31 October 2026
+
+1. We refer to the Wall Street Journal (WSJ) article “Chinese Executive Close to Nvidia CEO Suspected of Giving China Information” dated 30 Oct 2026.
+
+2. The WSJ article cites sources that Singapore officials were concerned with Alice Huang’s close ties to Nvidia Chief Executive Jensen Huang or her being an alleged Chinese intelligence source, and had separately investigated her ties to China.
+
+3. We would like to make clear that neither the Singapore Government nor its officials said this. And there were no such investigations conducted in respect of Alice Huang.
+
+4. WSJ wrote to the Singapore Government with some questions and the Singapore Government responded on 30 Oct. As would be seen from the Government response, nothing was said about Alice Huang or any concerns or investigations, regarding her alleged ties to Nvidia Chief Executive Jensen Huang or PRC intelligence.
+
+5. The WSJ’s query and the Singapore Government’s response to WSJ are at the **Annex** below.
+
+---
+
+**Annex:**  
+  
+**WSJ’s Query**
+
+I am writing to request comment from the Embassy of Singapore on the following matter.
+
+The Wall Street Journal has learned that Singapore's intelligence agency has suspected Alice Huang (also known as Huang Le), who has been associated with the Singapore-based data center company Megaspeed, of being an asset of China's Ministry of State Security. We also understand that Singaporean authorities brought Ms. Huang in for questioning in 2025 and subsequently released her. Does the embassy have any comment about this? And can the embassy comment on the scope or status of Singapore's investigation into Megaspeed and its affiliated companies?
+
+We are working on a tight deadline. I would appreciate a response by early afternoon today.   
+  
+  
+**SPF’s Reply on 30 Oct**
+
+1. Investigations into Megaspeed are ongoing. We are unable to comment further at this juncture.
+
+2. Singapore does not implement unilateral export controls imposed by foreign jurisdictions. At the same time, Singapore does not condone businesses deliberately using their association with Singapore to circumvent or violate other countries’ export controls. All companies operating in Singapore are expected to take into account other countries’ regulations, including export controls, in their international business activities.
+
+3. While we do not enforce unilateral export controls imposed by other countries, we act firmly against companies and individuals who violate our laws and are engaged in fraudulent and dishonest practices.
+
+4. Singapore has charged four individuals and four companies in Court between Feb 2025 and Jul 2026 for committing fraud on suppliers of servers, with these entities facing charges that carry imprisonment terms of up to 20 years each.
+
+5. Singapore holds a zero-tolerance stance towards such offences and will act resolutely against those — whether businesses or individuals — who violate our laws, and safeguard Singapore's integrity as a trusted global financial and business hub underpinned by the rule of law.

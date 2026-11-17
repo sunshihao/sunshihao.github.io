@@ -1,0 +1,287 @@
+The Nasdaq Composite fell on Thursday as investors assessed the departure of Nvidia CEO Jensen Huang and the outlook of the conflict in the Middle East.
+
+The tech-heavy Nasdaq dropped 0.39% to end at 25,366.09, while the Dow Jones Industrial Average shed 189.40 points, or 0.36%, to 52,297.09. The S&P 500 fell 0.35% and closed at 7,592.40.
+
+Nvidia shares dipped more than 4% to touch a 52-week low after the company announced that Huang had resigned and named CFO Colette Kress as interim CEO. This comes after Huang reportedly had an affair with an alleged Chinese spy.
+
+While the stock posted a loss on the day, selling pressure had eased considerably from earlier in the session. Shares were down double digits at one point after the announcement.
+
+Investors moved into competitors of Nvidia, particularly Advanced Micro Devices and Broadcom, which were up more than 5% each. Hyperscalers such as Alphabet — a key buyer of Nvidia chips and leader of the AI rally — also increased nearly 2%.
+
+"This is a golden opportunity for Amazon, for Google, for AMD, for Broadcom, for OpenAI and Anthropic, who are hiring chip experts to help them design their own chips," said Jed Ellerbroek, portfolio manager at Argent Capital Management.
+
+"Nvidia's fate as one company is one thing, but this AI revolution is way bigger than that," he also said. "If Nvidia falls from grace and their chips are no longer the best, and AMDs are better or Google's are better, then people will switch over and buy them. The demand for the chips is not going down."
+
+Hurting sentiment further, oil prices rose after after President Donald Trump said in a Truth Social post, "We don't need a deal with Iran. Those days have long since passed." U.S. West Texas Intermediate crude futures rose 2.55% to settle at $88.74 per barrel, while Brent crude futures added 3.3% to settle at $95.82 a barrel.
+
+The three major averages finished Thursday's session with losses.
+
+The S&P 500 dropped 0.35% to end the day at 7,592.40, and the Nasdaq Composite shed 0.39% to 25,366.09. The Dow Jones Industrial Average lost 189.40 points, or 0.36%, to 52,297.09.
+
+— Sean Conlon
+
+Nvidia's sharp drop today is exposing one of the quirks of the Dow Jones Industrial Average.
+
+Shares of the chip firm are down more than 5% today, after CEO Jensen Huang resigned amid a extra-marital affair scandal. The tech giant is dragging down the market-cap weighted S&P 500, where it makes up about 6% of the index. But Nvidia only represents about 2% of the Dow on a price-weighted basis, despite being one of the largest companies in the world by market value.
+
+The picture would look very different if the Dow's 30 components were weighted by float-adjusted market cap rather than by price. According to CNBC calculations, Nvidia would make up more than 15% of the blue chip index under that methodology, and its decline today would subtract about 80 basis points from the Dow's return.
+
+Other mega-cap stocks, like Alphabet, Microsoft and Amazon offset part of that drag. Still, a market-cap weighted version of the Dow would be down about 0.5% today, compared to an actual Dow which is little-changed going into the close.
+
+— Nick Wells
+
+Shares of the consumer tech giant ticked higher in Thursday's trading to touch an all-time high.
+
+Apple was last trading around the flatline on the day after notching a fresh high of $359.37 a share. It's the second time in a row that the stock has reached a new intraday high this week.
+
+The stock is also on course to close at a record – its second in a row and its third closing high this week alone.
+
+—Darla Mercado and Scott Schnipper
+
+Stephanie Link said Thursday she sold her Nvidia following Jensen Huang's resignation from his post as CEO, with the investor moving into another artificial intelligence play: Micron Technology.
+
+"The fundamentals are very, very strong at [Nvidia], and I expect the quarter next week to be very good with 300 billion in free cash flow next year," Link, the chief investment strategist at Hightower Advisors, said on CNBC's "Halftime Report." "But, this stock is not going to trade on fundamentals ... for a while because you have the overhang of the investigations of leadership changes of potential departures."
+
+CNBC Pro subscribers can read more here.
+
+— Liz Napolitano
+
+Nvidia shares were trading down 4% on Thursday after Jensen Huang announced he would immediately step down as CEO and a member of the board at the chipmaker.
+
+The stock hovered just under $4 trillion in market cap, after paring steeper losses earlier in the day of more than 10%. Nvidia has closed above the market cap benchmark since July 2025.
+
+Read the full story here.
+
+— Arjun Kharpal
+
+Paul Meeks says he's buying Nvidia shares with "both hands" despite CEO Jensen Huang's resignation, because the decline amid this unfolding scandal has brought the stock down to "stupid" valuation levels.
+
+The Freedom Capital head of technology research noted that the stock is trading at just 10 times fiscal 2028 earnings estimates after Thursday's decline.
+
+Nvidia shares are off 20% in November alone, pressured by the scandal unfolding.
+
+"I think that the actual announcement of his resignation is a market-clearing event," said Meeks.
+
+CNBC Pro subscribers can learn more about Meeks' other key points here.
+
+— John Melloy
+
+Even as Nvidia shares remained lower following CEO Jensen Huang's resignation, the broader market rose as investors moved past the announcement.
+
+The S&P 500 and Nasdaq Composite, both of which began Thursday's session lower, rose 0.2% and 0.1%, respectively.
+
+The Dow Jones Industrial Average outperformed, rising 138 points, or 0.3%.
+
+— Sean Conlon
+
+Sales of existing homes fell to their lowest level in more than 16 years during October, the National Association of Realtors reported Thursday.
+
+A decline of 5.5% brought the seasonally adjusted annualized rate down to 3.75 million during a month that saw mortgage rates continue to climb, putting pressure on an already beleaguered housing market. The total was the lowest since August 2010.
+
+"Home buying is difficult when mortgage rates have climbed to their highest levels since 2000, aside from a single month in 2023," said NAR chief economist Lawrence Yun. "Based on the current underwhelming home sales pace at a time of consistent job growth, there could be sizable pent-up demand if mortgage rates decline."
+
+— Jeff Cox
+
+Nvidia shares are seeing huge volume as the stock drops following the resignation of CEO Jensen Huang.
+
+The chipmaker saw more than 373 million shares traded amid the selling pressure. That's above the stock's 30-day average of 144.4 million.
+
+The stock was last down more than 5%.
+
+— Sean Conlon
+
+Cleveland Federal Reserve President Beth Hammack said Thursday she doesn't see the need for aggressive interest rate increases ahead.
+
+While Hammack still supports rate hikes as the Fed struggles to get inflation back to its 2% target, she advocated for a gradual approach that the economy can adapt to more easily.
+
+"I think we need to move rates higher to get to a restrictive stance of policy to bring inflation back down to 2%. My view is that if we go steadily in smaller increments, more frequent, smaller rises, it's easier for businesses and households to manage around that," she sad. "It's less disruptive to the overall economy than moving in sharper, more aggressive movements."
+
+Earlier in the week, Fed Governor Christopher Waller raised the specter of a half-point hike at the December meeting if the inflation data comes in worse than anticipated. However, Hammack said she doesn't think that's necessary, at least for now.
+
+"If we get behind the curve, and I don't think we're behind the curve today, but if we get behind the curve, then that might be something that we need to consider," she said. "So I'll certainly have an open mind walking into that December meeting."
+
+— Jeff Cox
+
+The S&P 500 and Nasdaq Composite began Thursday's session in the red.
+
+The broad market index fell 0.8% shortly after the opening bell, while the tech-heavy Nasdaq declined 1.5%. The Dow Jones Industrial Average rose 108 points, or 0.2%.
+
+— Sean Conlon
+
+Shares of Broadcom and Advanced Micro Devices gained about 3% each in premarket trading after Jensen Huang resigned as CEO of Nvidia.
+
+The company's chief financial officer Colette Kress has been named interim chief.
+
+Nvidia shares were last down about 10%.
+
+For more, follow along with our live updates of Nvidia and Jensen Huang here.
+
+— Tanaya Macheel
+
+Initial jobless claims showed a modest pop last week after hovering around their lowest levels since the late 1960s.
+
+First-time filings for unemployment benefits totaled a seasonally adjusted 200,000 for the week ending Nov. 7, a gain of 9,000 from the prior period and higher than the Dow Jones consensus for 195,000, the Labor Department reported Thursday.
+
+Continuing claims, which run a week behind, fell 20,000 to just below 1.7 million.
+
+— Jeff Cox
+
+Nebius shares plummeted in the premarket on Thursday after the neocloud's third-quarter revenue topped analysts' expectations, but its guidance disappointed investors.
+
+The stock was last down almost 16%. That's after it rose more than 15% in Wednesday's regular session.
+
+— Jordan Novet and Sean Conlon
+
+Nvidia founder and CEO Jensen Huang's future as head of one of the most important names in technology hangs in the balance following revelations that he had an affair with a woman who U.S. intelligence agencies say is a Chinese spy.
+
+Analysts said his ouster could lead to a 20%-plus decline in the shares with the uncertainty that would follow overhanging the stock a bit longer after that.
+
+CNBC Pro subscribers can read more here.
+
+— Tobias Burns
+
+"Jensen Huang is toast," Bill Blain, founder and principal at Wind Shift Capital, said in his morning newsletter. "Nvidia's dependence on Jensen Huang is now exposed as a major market risk. The dominant firm within the AI industry lacks clear succession planning and Huang was seen as the acceptable face of AI by the public."
+
+U.S. Treasury yields were mixed Thursday as bond trading resumed after the Veterans Day closure and investors looked ahead to fresh inflation and housing data for clues about the economy and the Federal Reserve's next move.
+
+The yield on the 10-year U.S. Treasury note — the benchmark for mortgages, auto loans and credit card debt — were flat at 4.9920%.
+
+The 2-year Treasury note yield, which is more sensitive to short-term Federal Reserve interest rate decisions, was 3 basis points higher at 4.7568%. The longer-dated 30-year Treasury note yield — which often moves on geopolitical developments — was steady at 5.3403%.
+
+— Hugh Leask
+
+Nvidia shares fell on Thursday as the company's board met to decide whether to remove Jensen Huang as CEO following reports that he had had two extramarital affairs.
+
+Several Wall Street analysts told CNBC that if Huang is removed as CEO, this could lead the stock to fall 20%, given how critical he has been to Nvidia's success. Nvidia's stock is already down more than 20% over the last month.
+
+Shares of Nvidia rivals AMD and Broadcom were up 3.9% and 3%, respectively, in premarket trading. Meanwhile, shares of chip stocks Intel, Marvell, Arm and Qualcomm were all trading lower.
+
+— Arjun Kharpal
+
+Shares listed in Europe edged higher at the open, with the pan-European Stoxx 600 index adding 0.3% shortly after the bell.
+
+Bucking the trend, the regional Stoxx 600 Technology index was down 1.3%. The sector was dragged lower by chip stocks in the wake of speculation Jensen Huang is set to be ousted as Nvidia CEO following news of another extramarital affair.
+
+ASMI was 1.8% lower, ASML shed 3%, Be Semiconductor was down 1.6% and Infineon lost 3.8%.
+
+— Chloe Taylor
+
+"In our view the writing is on the wall that Jensen's days at Nvidia could be numbered and we would expect this to be a very fluid situation over the next 48 hours," renowned tech bull Dan Ives said in a note overnight.
+
+"Jensen has created a black eye moment for himself and Nvidia and now has created a spider web of complexity that Wall Street, Silicon Valley, DC, and the global tech ecosystem are trying to figure out what is next."
+
+Ives, who founded Yorkville Ives & Co. earlier this year, was referring to the fallout from reports Nvidia CEO Jensen Huang had a second affair with an executive at the company, which followed news of an extramarital relationship with an alleged Chinese spy.
+
+"We believe Nvidia's value is $300 per share with Jensen as CEO and $225 per share without Jensen as CEO," Ives said. "The stock will clearly be under pressure with this fluid news but the reality is its a dark day for Nvidia, but the company will navigate this turmoil and get through to the other side and remain a core foundational piece of the AI Revolution."
+
+— Chloe Taylor
+
+Rolls-Royce reiterated its full-year profit and cash flow guidance Thursday as demand for power generation equipment used in data centers surged.
+
+Order intake in its power systems business rose 62% in the first nine months of the year, as orders for gas engines nearly tripled year-on-year, driven by power demand from data centers, the company said in a trading update.
+
+The unit's order backlog at the end of September stood at a record £8.6 billion ($11.4 billion).
+
+The British group highlighted strong demand across its power systems, civil aerospace and defense businesses, as it continues to expect underlying operating profit of between £4.7 billion and £4.9 billion in 2026.
+
+In defense, it highlighted progress on military aircraft programmes, including the MQ-25A autonomous refuelling aircraft and the Global Combat Air Programme.
+
+It also said demand remains strong across both widebody and business aviation, as its large engine order backlog grew to around 2,500 engines.
+
+"Given our strong progress this year, we will revisit our mid-term targets at our Full Year results in February," said CEO Tufan Erginbilgic.
+
+It also announced an interim £1.5 billion share buyback as part of an existing program through 2028.
+
+— Elsa Ohlen
+
+Asia-Pacific markets ended Thursday's trading session in negative territory, with major indexes across the region posting losses
+
+Japan's Nikkei 225 fell 0.70% to 60,819.36, though the broader Topix rose 0.20% to 3,937.33.
+
+South Korea's Kospi declined 0.61% to 5,342.73, while the small-cap, tech-focused Kosdaq fell 1.22% to 696.53.
+
+Mainland China's CSI 300 dropped 0.78% to 4,043.93, while Hong Kong's Hang Seng was down 1.43% as of its last hour of trade.
+
+Australia's S&P/ASX 200 ended flat at 9,146.8.
+
+Major tech names part of the Nvidia supply chain in Asia, including South Korea's SK Hynix, Taiwan's TSMC, Japan's Advantest fell as Nvidia board meets to decide Jensen Huang’s fate as the company's CEO.
+
+— Jenny Lee
+
+The U.K. economy grew 0.7% in the third quarter of the year, in line with estimates, driven by output in the services sector.
+
+The figures showed a slight improvement from the previous quarter, when gross domestic product grew by 0.5%. In the first quarter, the economy grew by 0.6%.
+
+— Chloe Taylor
+
+Nvidia's Frankfurt-listed shares were down 7.1% in premarket trading on Thursday as the U.S. chip giant's board gathered to decide the fate of CEO Jensen Huang following reports of two extramarital affairs.
+
+Nvidia's U.S. shares fell 8.6% in after-hours trading Wednesday.
+
+— Hugh Leask
+
+Shares of Sapporo Breweries rose 5.72% Thursday after the Japanese brewer announced plans to buyback shares
+
+The company plans to repurchase up to 10 billion yen ($63 million) worth of shares, or up to 7 million shares representing 1.8% of its outstanding shares excluding treasury stock, between Nov. 12 and Feb. 10, 2027.
+
+The beverage firm on Wednesday also reported an 83.2% year-on-year drop in operating profit to 2.62 billion yen ($16.4 million) for the first nine months of 2026.
+
+— Jenny Lee
+
+Nissan Motor shares fell 5.22% in Tokyo on Thursday after the Japanese automaker reported a 96% year-on-year plunge in second-quarter operating profit and lowered its full-year global sales forecast.
+
+The drop in operating profit was primarily due to the non-recurrence of benefit from lower U.S. emissions-related expenses seen last year, Nissan said.
+
+The company reported Wednesday that its quarterly operating profit fell to 2.1 billion yen ($13 million), while cutting its sales outlook for the fiscal year ending March 2027 to between 2.97 million and 3 million vehicles, from 3.15 million previously.
+
+Nissan CEO Ivan Espinosa told CNBC on Wednesday that the company plans to expand exports of China-developed vehicles to compete with Chinese rivals globally.
+
+— Jenny Lee
+
+Shares of South Korean internet giant Naver fell 5.89% on Thursday after the company reported a 20.9% year-on-year drop in third-quarter operating profit to 451.3 billion won ($338.1 million), while revenue rose 10.7% to 3.47 trillion won.
+
+Naver attributed the decline in operating profit to increased investments in AI infrastructure, content and offline data aimed at strengthening its competitiveness.
+
+The South Korean internet giant reported on Oct. 27 that it had signed a $9 billion deal with alternate investment firm Brookfield for AI infrastructure, which also paved the way for a strategic equity investment into the company by Nvidia.
+
+— Jenny Lee
+
+Shares of K-Pop agency JYP Entertainment surged over 20% Thursday after its third quarter results beat revenue expectations.
+
+The company also notched a record high revenue and gross profit figure. Revenue came in at 267.5 billion won ($200.32 million), 15% higher than the same period a year before and surpassing the 235.02 billion won estimated by LSEG.
+
+Operating profit climbed 17.6% year on year to 48 billion won.
+
+The results were driven mainly by boy group Stray Kids, which saw a "significant" expansion in album sales in the West.
+
+The group also saw larger sales of merchandise in its world tour and fan meetings, as well as Stray Kids' appearances in the Latin American region.
+
+— Lim Hui Jie
+
+Asia-Pacific markets were mixed early Thursday.
+
+Japan's Nikkei 225 was slightly higher in choppy trading, and the broader Topix index gained 0.62%. South Korea's Kospi, which is dominated by Nvidia suppliers Samsung and SK Hynix, fell 0.35%. The country's small-cap Kosdaq index dropped 0.66%.
+
+Australia's S&P/ASX 200 declined 0.31%.
+
+— Jenny Lee
+
+Asia-Pacific markets were set to open mixed Thursday.
+
+Futures for Japan's Nikkei 225 in Chicago were at 61,760 while in Osaka they were last at 62,020, compared with the index's previous close of 61,248.59.
+
+Futures for Hong Kong's Hang Seng index last traded at 24,107 compared with the index's close of 24,315.92.
+
+Australia's S&P/ASX 200 was down 0.31% in early trade.
+
+Nvidia shares dropped more than 9% in after-hours trading after The Wall Street Journal reported that the company's board was preparing to oust CEO Jensen Huang.
+
+— Jenny Lee
+
+Shares of Nvidia fell more than 7% in after-hours trading on Wednesday after The Wall Street Journal reported that the company's board is preparing to oust CEO Jensen Huang.
+
+Futures tied to the Nasdaq-100 and the S&P 500 opened lower to begin trading on Wednesday night.
+
+Futures tied to the tech-heavy Nasdaq-100 futures slid 0.9%, while S&P 500 futures fell 0.3%. Dow futures inched higher.
+
+— Tanaya Macheel

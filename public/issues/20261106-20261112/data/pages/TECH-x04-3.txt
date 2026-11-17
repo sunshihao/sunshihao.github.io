@@ -1,0 +1,52 @@
+# Microsoft Outlook is still down | The Verge
+URL: https://www.theverge.com/tech/1032226/microsoft-outlook-is-down
+Published: 2026-11-12
+Author: Richard Lawler
+
+Microsoft Outlook is still down | The Verge
+
+# Microsoft Outlook is still down
+
+Microsoft 365 issues have been cutting people off from their email since early Thursday afternoon, and they still aren’t fixed.
+
+Microsoft 365 issues have been cutting people off from their email since early Thursday afternoon, and they still aren’t fixed.
+
+by Richard Lawler
+
+Updated Nov 12, 2026, 11:24 PM UTC
+
+Image: The Verge
+
+is a senior editor following news across tech, culture, policy, and entertainment. He joined The Verge in 2021 after several years covering news at Engadget.
+
+Since just before 1PM ET on Thursday, reports have come in from around the world that people can’t access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the issue from its Microsoft 365 Status account, saying that “We’ve determined a portion of infrastructure is experiencing elevated load across multiple regions, which is likely contributing to the connectivity errors.”
+
+There were also some reports of problems with Teams, but not to the same extent, while Microsoft’s official updates said customers may experience issues across its suite of 365 business services. Microsoft comms director Ben Hope said in a statement that “We are aware and investigating reports of users experiencing issues with Microsoft 365 services, primarily issues with Exchange Online. We appreciate our customers’ patience while we work to restore services as soon as possible.”
+
+Several hours later, Microsoft has gone through several variations of update notes regarding the issues and its attempts to fix them, saying it’s had problems rebooting servers and being able to monitor their health. As of about 6PM ET, Microsoft has a note saying it’s managed to get some of the affected servers running:
+
+> We’ve begun returning a portion of the affected servers to service, and they’re remaining stable so far. We’ve also shifted traffic and connections to alternative pathways wherever possible and have observed limited recovery in some regions.
+> 
+> We’ve streamlined our recovery process to expedite returning the remaining affected servers to service. To further support recovery, we’re implementing protective traffic management measures in a specific location to reduce load on the affected infrastructure, and we’ll expand these measures to additional locations if we observe positive results. As capacity is restored, users may experience a gradual recovery as their clients reconnect to the service.
+
+There’s still no ETA for full restoration, but we will continue to monitor this ongoing outage.
+
+Screenshot: Microsoft 365 Status
+
+Update, 6:23PM ET: Added latest status update from Microsoft.
+
+‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation
+
+Jay Peters Nov 12
+
+Here are the 25 original Xbox games you can now play on PC
+
+Sean Hollister Nov 12
+
+No, AI agents did not discover a previously unknown Maya site
+
+Robert Hart Nov 12
+
+Oh, Palantir is ‘progressive’ now, is it?
+
+Th

@@ -1,0 +1,77 @@
+[Search Options](/search/search.htm)
+
+[Skip to Main Content](#main-content)
+
+* [About](/about.shtml)
+  + [What We Do](/about/whatwedo.shtml)
+  + [Commissioners](/about/commissioner.shtml)
+  + [Securities Laws](/about/laws.shtml)
+  + [Reports](/about/secreports.shtml)
+  + [Careers](/jobs.shtml)
+  + [Contact](/contact.shtml)
+* [Divisions](/divisions.shtml)
+  + [Corporation Finance](/divisions/corpfin.shtml)
+  + [Enforcement](/divisions/enforce.shtml)
+  + [Investment Management](/divisions/investment.shtml)
+  + [Risk, Strategy and Innovation](/divisions/riskfin.shtml)
+  + [Trading and Markets](/divisions/marketreg.shtml)
+  + [National Exam Program](/about/offices/ocie.shtml)
+  + [All Divisions and Offices](/divisions.shtml)
+* [Enforcement](/litigation.shtml)
+  + [Litigation Releases](/litigation/litreleases.shtml)
+  + [Administrative Proceedings](/litigation/admin.shtml)
+  + [Opinions and Adjudicatory Orders](/litigation/opinions.shtml)
+  + [Accounting and Auditing](/divisions/enforce/friactions.shtml)
+  + [Trading Suspensions](/litigation/suspensions.shtml)
+  + [How Investigations Work](/news/newsroom/howinvestigationswork.html)
+  + [Administrative Law Judges](/alj.shtml)
+* [Regulation](/rules.shtml)
+  + [Proposed Rules](/rules/proposed.shtml)
+  + [Final Rules](/rules/final.shtml)
+  + [Interim Final Temporary Rules](/rules/interim-final-temp.shtml)
+  + [Other Orders and Notices](/rules/other.shtml)
+  + [Self-Regulatory Organizations](/rules/sro.shtml)
+  + [Staff Interpretations](/interps.shtml)
+* [Education](/investor.shtml)
+  + [Investor.gov](http://investor.gov/)
+  + [Check Out a Broker or Adviser](/investor/brokers.htm)
+  + [Investor Alerts and Bulletins](/investor/alerts.shtml)
+  + [Fast Answers](/answers.shtml)
+  + [File a Tip or Complaint](/complaint/select.shtml)
+  + [Publications](/investor/pubs.shtml)
+* [Filings](/edgar.shtml)
+  + [Quick EDGAR Tutorial](/edgar/quickedgar.htm)
+  + [Company Filings Search](/edgar/searchedgar/companysearch.html)
+  + [Descriptions of SEC Forms](/about/forms/secforms.htm)
+  + [Requesting Public Documents](/answers/publicdocs.htm)
+* [News](/news/newsroom/index.html)
+  + [Press Releases](/news/press.shtml)
+  + [What's New](/news/whatsnew/wn-today.shtml)
+  + [Upcoming Events](/about/upcoming-events.htm)
+  + [News Digest](/news/digest.shtml)
+  + [Webcasts](/news/webcasts.shtml)
+  + [Special Studies](/news/studies.shtml)
+  + [Speeches and Public Statements](/news/speech.shtml)
+  + [Testimony](/news/testimony.shtml)
+
+# Directory Listing /Archives/edgar/data/1045810/000104581026000082
+
+[Parent Directory](/Archives/edgar/data/1045810)
+
+| Name | Size | Last Modified |
+| --- | --- | --- |
+| [0001045810-26-000082-index-headers.html](/Archives/edgar/data/1045810/000104581026000082/0001045810-26-000082-index-headers.html) |  | 2026-11-12 08:52:41 |
+| [0001045810-26-000082-index.html](/Archives/edgar/data/1045810/000104581026000082/0001045810-26-000082-index.html) |  | 2026-11-12 08:52:41 |
+| [0001045810-26-000082.txt](/Archives/edgar/data/1045810/000104581026000082/0001045810-26-000082.txt) |  | 2026-11-12 08:52:41 |
+| [0001045810-26-000082-xbrl.zip](/Archives/edgar/data/1045810/000104581026000082/0001045810-26-000082-xbrl.zip) | 11328 | 2026-11-12 08:52:41 |
+| [FilingSummary.xml](/Archives/edgar/data/1045810/000104581026000082/FilingSummary.xml) | 1721 | 2026-11-12 08:52:41 |
+| [MetaLinks.json](/Archives/edgar/data/1045810/000104581026000082/MetaLinks.json) | 17680 | 2026-11-12 08:52:41 |
+| [nvda-20261111.htm](/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm) | 23068 | 2026-11-12 08:52:41 |
+| [nvda-20261111.xsd](/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.xsd) | 1876 | 2026-11-12 08:52:41 |
+| [nvda-20261111\_htm.xml](/Archives/edgar/data/1045810/000104581026000082/nvda-20261111_htm.xml) | 2711 | 2026-11-12 08:52:41 |
+| [nvda-20261111\_lab.xml](/Archives/edgar/data/1045810/000104581026000082/nvda-20261111_lab.xml) | 21885 | 2026-11-12 08:52:41 |
+| [nvda-20261111\_pre.xml](/Archives/edgar/data/1045810/000104581026000082/nvda-20261111_pre.xml) | 12599 | 2026-11-12 08:52:41 |
+| [nvidiaannouncesceotransiti.htm](/Archives/edgar/data/1045810/000104581026000082/nvidiaannouncesceotransiti.htm) | 11297 | 2026-11-12 08:52:41 |
+| [R1.htm](/Archives/edgar/data/1045810/000104581026000082/R1.htm) | 38099 | 2026-11-12 08:52:41 |
+| [report.css](/Archives/edgar/data/1045810/000104581026000082/report.css) | 2766 | 2026-11-12 08:52:41 |
+| [Show.js](/Archives/edgar/data/1045810/000104581026000082/Show.js) | 1084 | 2026-11-12 08:52:41 |
