@@ -1,0 +1,47 @@
+URL: https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html
+TITLE: Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren
+
+# Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren
+URL: https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html
+Published: 2026-11-18
+Author: Kai Nicol-Schwarz
+
+Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren
+
+# Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren
+
+Published Wed, Nov 18 2026 4:19 AM EST Updated Wed, Nov 18 2026 4:06 PM EST
+
+Kai Nicol-Schwarz@in/kains
+
+Key Points
+
+- Nvidia beat on earnings and revenue Tuesday after the bell. 
+- The chip giant's earnings came at a tumultuous time for the company, following former CEO Jensen Huang's resignation last week.
+- Chair of the board Harvey Jones said on the earnings call Huang would not return as CEO.
+
+Nvidia Add To Watchlist shares declined another 2.89% Wednesday after the company issued its first earnings report since the departure of former CEO Jensen Huang. The stock is down more than 13% over the past week.
+
+Trading in the neocloud companies was volatile throughout the day, as CoreWeave Add To Watchlist closed down 4.13%, Iren Add To Watchlist sank 3.61% and Nebius Add To Watchlist whipsawed, ending the trading day up 0.87%.
+
+Nvidia's third-quarter revenue came in at $115.84 billion, more than $6 billion above analysts' expectations of $109.10 billion, while fourth-quarter guidance of $130 billion topped the $125.1 billion consensus, according to LSEG.
+
+The semiconductor giant continues to navigate the fallout from Huang's resignation last week. Shortly before the results, Huang made his first public statement since resigning last week, saying that he was open to returning to the company, after an outpouring of support from prominent tech figures.
+
+Neocloud stocks today
+
+But Harvey Jones, the new and first-ever chair of Nvidia's board, said on the earnings call that the board does not intend to reinstate him as CEO.
+
+″[Hyperscalers] are the ones that are right now feverishly looking for more focus in terms of the compute that we have available," interim CEO Colette Kress told Jim Cramer on CNBC's "Mad Money."
+
+"This concept that anything is changing in terms of any of our types of customers — that is just not true. They are all continuing to be with us, and we have a very deep breath of different customers."
+
+The U.S. Commerce Department announced a legal change on Monday to try and stem China's access to the most advanced Nvidia chips — which are already under export controls effectively preventing their import into the country — by restricting Chinese companies' ability to access compute remotely in overseas data centers. 
+
+In a letter Wednesday, the House Energy and Commerce Committee asked Commerce Secretary Howard Lutnick to appear to discuss chip export controls, and requested a briefing from interim CEO Colette Kress by Dec. 2.
+
+Nvidia told investors in its earnings commentary that it was "not assuming any Data Center compute revenue from China in our outlook," in keeping with its recent language on the country.
+
+Huang is slated to appear before several Congressional committees in the coming weeks. 
+
+Speaking to CNBC's "Squawk Box" Wednesday, Senate Banking Committee Chair Tim Scott, R-S.C., said H

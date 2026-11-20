@@ -1,0 +1,44 @@
+# Intel signs first external customer for advanced 18A chips
+URL: https://www.cnbc.com/2026/11/18/intel-first-18a-foundry-customer.html
+Published: 2026-11-19
+Author: Katie Tarasov
+
+Intel signs first external customer for advanced 18A chips
+
+# Intel signs first external customer for advanced 18A chips
+
+Published Wed, Nov 18 2026 8:05 PM EST
+
+Katie Tarasov@KatieTarasov
+
+Key Points
+
+- Intel CEO Lip-Bu Tan said Wednesday that the company signed its first outside customer for its 18A chips.
+- It's a major milestone for Intel in its five-year journey to start competing with chip manufacturing leader Taiwan Semiconductor Manufacturing Co.
+- Intel's stock has lost over half its value since the end of September. 
+
+Intel CEO Lip-Bu Tan speaks during a keynote presentation at Computex in Taipei on June 2, 2026. 
+
+Cheng Yu-chen | AFP | Getty Images
+
+Intel CEO Lip-Bu Tan said on Wednesday that the company has signed the first outside customer for its 18A chips.
+
+"Resilient supply on the foundry is very important," Tan said at the TomorrowX Summit in Austin, Texas. "And then 18A, I'm involved in production and we just signed the first customer," Tan added, without naming the debut client. 
+
+It's a milestone moment for Intel in its five-year effort to take on chip manufacturing leader Taiwan Semiconductor Manufacturing Co. After years of missteps and low yields, Intel touted 18A as key to a turnaround that would finally convert the company into a competitive chip manufacturer for non-Intel products.
+
+"It's a huge win for foundry," Creative Strategies analyst Ben Bajarin told CNBC in an interview. 
+
+Pushkar Ranade, Intel's technology chief, clarified on X that the external customer had signed up for Intel's 18A-P manufacturing process node, which went into risk production in June. In May, reports indicated that Apple and Intel were closing in on a deal to use Intel's foundry to make some of the chips for Apple devices.
+
+Intel's stock has lost more than half its value since the end of September, with most of that plunge coming late last month after the company said revenue this quarter will be at least $1 billion shy of analysts' estimates due to a PC sales slump and supply chain challenges. 
+
+In considering who the customer may be, Bajarin pointed to Nvidia, Apple or the major hyperscalers that make their own custom processors. 
+
+"Amazon, Microsoft and Google are struggling to get capacity for their CPU ambitions at TSMC," he said. "So it makes sense that you go somewhere for at least some capacity."
+
+Tan said in late October that he sees the global market for server processors increasing as much as five times over the next five years to about $200 billion, but that Intel can't currently meet customer demand. 
+
+Wall Street has turned on Intel of late after the chipmaker had become a top trade starting in the middle of last year. The U.S. government took a 10% stake in Intel in August 2025, and Nvidia followed with a $5 billion investment, as optimism grew around the prospect of U.S.-made chips that could replace an almost complete reliance on Taiwan.
+
+Until now, Intel has had no marquee customer for its foundry business, primarily manufact

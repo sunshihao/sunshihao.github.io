@@ -1,0 +1,32 @@
+# Introducing GPT-6.2 Astra and Sol | OpenAI
+URL: https://openai.com/index/introducing-gpt-6-2-astra-sol/
+
+Introducing GPT-6.2 Astra and Sol | OpenAI
+
+# Introducing GPT-6.2 Astra and Sol
+
+## A new standard for professional work
+
+We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. Both models deliver better results on demanding tasks with fewer output tokens, so you can get more done within your usage limits. For businesses and developers, that means frontier performance at costs that make sense at scale.
+
+GPT‑6.2 Astra sets a new quality bar for AI in complex professional work. Its slides, spreadsheets, and documents read less like AI, and more closely follow the templates you provide and the conventions of your field. It writes cleaner code and builds frontends that look and work better, particularly for websites, gaming, and 3D design.
+
+On Agents’ Last Exam, which tests multistep professional work, GPT‑6.2 Astra sets a new high, scoring 5.2 points higher than GPT‑6 Astra at less than a third of the cost, and 5.5 points ahead of Claude Fable 5.2 at just 5% of the cost.
+
+Agents’ Last Exam evaluates models on long-horizon professional workflows. Its leaderboard results for Fable 5.2 exclude nine tasks that used a fallback model.
+
+We believe GPT-6.2 Astra is the best model in the world for scientists. It sets a new high on Terminal-Bench-Science 0.1, which tests how well models can carry out scientific work in a terminal. GPT-6.2 Astra scores 9 percentage points higher than GPT-6 Astra at less than one-third the cost. It also sets a new high on the Vals Science Index, which asks models to interpret real biological data and run experiments to infer how a simulated system works.
+
+In the API, GPT‑6.2 Astra’s input and output token prices are 20% lower than GPT‑6 Astra’s, with a 60% discount on cached input ($8 for input, $0.40 for cached input, and $40 for output, all per million tokens). GPT‑6.2 Sol keeps GPT‑6.1 Sol’s API token prices. On several benchmarks, both models come close to or outperform other leading models at a small fraction of the cost per task.
+
+## GPT-6.2 Sol: our go-to model for everyday work
+
+Compared with GPT‑6.1 Sol, GPT‑6.2 Sol is smarter, more efficient, and lets you complete more tasks on the same paid plan. It powers through multistep agentic workflows, writes clearly and naturally, and is intuitive to collaborate with. Many employees at OpenAI use it as their default model for both technical and non-technical tasks.
+
+In Cognition’s FrontierCode 2.0, GPT‑6.2 Sol comes within 0.5 points of GPT‑6.2 Astra at about one-fifth the cost (both at max).
+
+FrontierCode 2.0 evaluates whether changes to real codebases meet maintainers’ standards for merging.
+
+Its speed and intelligence also make it ideal for the important tasks people turn to AI for outside of work. On our recently released LifeVal⁠ evaluation, which measures performance on challenging everyday tasks, GPT‑6.2 Sol outscores GPT‑6 Astra at about one-seventh the cost.
+
+LifeVal tests

@@ -1,0 +1,32 @@
+# Samsung Electro-Mechanics, Nvidia to expand cooperation on AI chip components | Yonhap News Agency
+URL: https://en.yna.co.kr/view/AEN20261118002600320
+Published: 2026-11-18
+Author: Kang Jae-eun
+
+Samsung Electro-Mechanics, Nvidia to expand cooperation on AI chip components | Yonhap News Agency
+
+# Samsung Electro-Mechanics, Nvidia to expand cooperation on AI chip components
+
+ Kang Jae-eun 
+
+ All News 09:56 November 18, 2026 
+
+ SEOUL, Nov. 18 (Yonhap) -- Samsung Electro-Mechanics Co., the electronic component affiliate of Samsung Electronics Co., said Wednesday it has agreed to expand its collaboration with Nvidia Corp. to support increased production of the U.S. chipmaker's accelerated computing platforms amid surging global demand for artificial intelligence (AI) infrastructure.
+
+ The expansion, which builds on a strategic partnership last month to supply semiconductor package substrates, will focus on increasing the supply of advanced package substrates for Nvidia's next-generation graphics processing units (GPUs), Samsung Electro-Mechanics said.
+
+ As part of the agreement, Nvidia will provide additional funding to support the expansion of Samsung Electro-Mechanics' two manufacturing facilities in South Korea.
+
+ The South Korean company plans to use the proceeds to establish a full-scale mass-production system by 2029, it added.
+
+ During an earnings call overnight, Nvidia announced new agreements with Samsung Electro-Mechanics and other key partners to secure additional substrate capacity and expand production capabilities at existing factories.
+
+ The two companies also plan to expand their partnership to multilayer ceramic capacitors (MLCCs), key components that help ensure a stable power supply to AI processors, according to Samsung Electro-Mechanics.
+
+ "By combining world-class substrate microfabrication technology with highly reliable MLCC technology, we will fully fulfill our role as a total solution provider to ensure that Nvidia's AI platforms are delivered to the global market in a timely manner with the highest performance and quality," said Chang Duck-hyun, chief executive officer (CEO) of Samsung Electro-Mechanics. 
+
+ 
+
+ The logos of Samsung Electro-Mechanics Co. and Nvidia Corp. (PHOTO NOT FOR SALE) (Yonhap) 
+
+ fairydust@yna.co.kr (END)

@@ -1,0 +1,53 @@
+# NVIDIA Corporation - NVIDIA Announces Financial Results for Third Quarter Fiscal 2027
+URL: https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/default.aspx
+Published: 2026-11-17
+
+NVIDIA Corporation - NVIDIA Announces Financial Results for Third Quarter Fiscal 2027 
+
+# Press Release Details
+
+### NVIDIA Announces Financial Results for Third Quarter Fiscal 2027
+
+ November 17, 2026 
+
+- Revenue of $115.8 billion, up 103% from a year ago
+- Data Center revenue of $107.6 billion, up 110% from a year ago
+- Vera Rubin NVL72, the most versatile and advanced computing platform ever built, has shipped
+
+SANTA CLARA, Calif., Nov. 17, 2026 (GLOBE NEWSWIRE) -- NVIDIA (NASDAQ: NVDA) today reported revenue for the third quarter ended October 25, 2026, of $115.8 billion, up 20% from the previous quarter and up 103% from a year ago. For the quarter, GAAP and non-GAAP gross margins were 74.8% and 74.9%, respectively. GAAP and non-GAAP earnings per diluted share were $2.70 and $2.68, respectively. 
+
+“Our momentum is real. NVIDIA is an exceptional technology leader, powered by the relentless innovation of our people,” said Colette Kress, interim CEO and executive vice president and chief financial officer of NVIDIA. “Vera Rubin is off to an explosive start, our roadmap is on track and our ambition has never been greater.”
+
+In September 2026, NVIDIA’s Board of Directors approved an increase of $150 billion to the company’s share repurchase authorization, without expiration. During the third quarter of fiscal 2027, NVIDIA returned $28.1 billion to shareholders in the form of shares repurchased and cash dividends. As of the end of the third quarter, the company had approximately $227.3 billion remaining under its share repurchase authorization.
+
+NVIDIA will pay its next quarterly cash dividend of $0.25 per share on December 23, 2026, to all shareholders of record on December 2, 2026.
+
+Q3 Fiscal 2027 Summary
+
+| GAAP | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| ($ in billions, except earnings per share) | Q3 FY27 | Q2 FY27 | Q3 FY26 | Q/Q* | Y/Y* |
+| Revenue | $115.8 | $96.2 | $57.0 | 20 % | 103 % |
+| Gross margin | 74.8 % | 75.0 % | 73.4 % | (0.2) pts | 1.4 pts |
+| Operating expenses | $9.2 | $8.4 | $5.8 | 9 % | 57 % |
+| Operating income | $77.5 | $63.7 | $36.0 | 22 % | 115 % |
+| Net income | $65.3 | $59.7 | $31.9 | 9 % | 105 % |
+| Diluted earnings per share | $2.70 | $2.46 | $1.30 | 10 % | 108 % |
+| *Q/Q and Y/Y calculated based on $ in millions | | | | | |
+
+| Non-GAAP | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| ($ in billions, except earnings per share) | Q3 FY27 | Q2 FY27 | Q3 FY26 | Q/Q* | Y/Y* |
+| Revenue | $115.8 | $96.2 | $57.0 | 20 % | 103 % |
+| Gross margin | 74.9 % | 75.0 % | 73.5 % | (0.1) pts | 1.4 pts |
+| Operating expenses | $8.8 | $8.2 | $5.8 | 7 % | 52 % |
+| Operating income | $77.9 | $64.0 | $36.1 | 22 % | 116 % |
+| Net income | $64.9 | $54.0 | $31.0 | 20 % | 109 % |
+| Diluted earnings per share | $2.68 | $2.22 | $1.27 | 21 % | 111 % |
+| *Q/Q and Y/Y calculated based on $ in millions | | | | | |
+
+Outlook
+
+NVIDIA’s outlook for the fourth quarter of fiscal 2027, which includes an additional week, is as follows:
+
+- Reven

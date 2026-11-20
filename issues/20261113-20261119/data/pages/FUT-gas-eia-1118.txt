@@ -1,0 +1,45 @@
+# U.S. natural gas inventories end injection season above normal levels -
+		U.S. Energy Information Administration (EIA)
+URL: https://www.eia.gov/todayinenergy/detail.php?id=68484
+Published: 2026-11-18
+
+U.S. natural gas inventories end injection season above normal levels - U.S. Energy Information Administration (EIA) 
+
+November 18, 2026
+
+# U.S. natural gas inventories end injection season above normal levels
+
+ Data source: U.S. Energy Information Administration, Weekly Natural Gas Storage Report and Natural Gas Monthly Note: Five-year average=2021–2025 
+
+Working natural gas in storage in the Lower 48 states ended the natural gas injection season at 3,810 billion cubic feet (Bcf), exceeding the five-year average by almost 2%, according to estimates based on data from our Weekly Natural Gas Storage Report released on November 12. Injection season runs April 1–October 31, the months of typically lower natural gas demand. 
+
+While net injections were 2 Bcf less than the five-year average this injection season, working gas stocks are higher than usual because they started the 2026 season 3% (63 Bcf) above the five-year average at 1,878 Bcf. 
+
+Higher than average inventories at the start of the summer injection season allowed storage operators to reach their end-of-season targets with smaller incremental natural gas injections. Although total dry natural gas production during the 2026 refill season was 3% higher than the same period in 2025, according to S&P Global Energy, most of the increased production during this period was used to meet rising demand from liquefied natural gas export terminals. 
+
+Mild spring temperatures during the first several weeks of the refill season mitigated seasonal residential and commercial natural gas demand, allowing the surplus to the five-year average to grow, peaking at 198 Bcf (7%) for the week ending August 7, before declining for the next 10 consecutive weeks, as warmer-than-normal temperatures during the summer months increased power generation demand for natural gas. Mild temperatures returned during the final weeks of the injection season, which led to above-normal injections. Weekly injections ranged from 108 Bcf in early June to 15 Bcf in late August. 
+
+In our November Short-Term Energy Outlook, we forecast natural gas withdrawals during the 2026–2027 heating season (November 1–March 31) will total 1,900 Bcf and that inventories will be 4% above the five-year (2022–2026) average at the end of March 2027 because of a relatively mild winter and increases in natural gas production. 
+
+Principal contributors: Jose Villar, Andrew Iraola
+
+### EIA Survey Forms 
+
+### Total Energy 
+
+Comprehensive data summaries, comparisons, analysis, and projections integrated across all energy sources.
+
+### Consumption & Efficiency 
+
+- Residential Energy Consumption Survey (RECS)
+- Commercial Buildings Energy Consumption Survey (CBECS)
+- Manufacturing Energy Consumption Survey (MECS)
+
+### U.S. States 
+
+### Environment 
+
+- U.S. Energy-Related Carbon Dioxide Emissions
+- Energy-Related Carbon Dioxide Emissions at the State Level
+
+### Analysis and Projections

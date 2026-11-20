@@ -1,0 +1,80 @@
+# Weekly Natural Gas Storage Report - EIA
+URL: https://ir.eia.gov/ngs/ngs.html
+
+Weekly Natural Gas Storage Report - EIA
+
+‹ See All Natural Gas Reports
+
+## Weekly Natural Gas Storage Report
+
+for week ending August 28, 2026 | Released: September 3, 2026 at 10:30 a.m. | Next Release: September 10, 2026
+
+| Working gas in underground storage, Lower 48 states Summary text CSV JSN | | | | | | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | | | | | Historical Comparisons | | | |
+| | Stocks billion cubic feet (Bcf) | | | | Year ago (08/28/25) | | 5-year average (2021-25) | |
+| Region | 08/28/26 | 08/21/26 | net change | implied flow | Bcf | % change | Bcf | % change |
+| East | 753 | 727 | 26 | 26 | 731 | 3.0 | 710 | 6.1 |
+| Midwest | 890 | 866 | 24 | 24 | 856 | 4.0 | 842 | 5.7 |
+| Mountain | 236 | 238 | -2 | -2 | 254 | -7.1 | 217 | 8.8 |
+| Pacific | 285 | 293 | -8 | -8 | 295 | -3.4 | 263 | 8.4 |
+| South Central | 1,051 | 1,061 | -10 | -10 | 1,128 | -6.8 | 1,022 | 2.8 |
+| Salt | 238 | 248 | -10 | -10 | 273 | -12.8 | 237 | 0.4 |
+| Nonsalt | 813 | 813 | 0 | 0 | 856 | -5.0 | 785 | 3.6 |
+| Total | 3,214 | 3,184 | 30 | 30 | 3,264 | -1.5 | 3,054 | 5.2 |
+| Totals may not equal sum of components because of independent rounding. | | | | | | | | |
+
+### Summary
+
+Working gas in storage was 3,214 Bcf as of Friday, August 28, 2026, according to EIA estimates. This represents a net increase of 30 Bcf from the previous week. Stocks were 50 Bcf less than last year at this time and 160 Bcf above the five-year average of 3,054 Bcf. At 3,214 Bcf, total working gas is within the five-year historical range. For information on sampling error in this report, see Estimated Measures of Sampling Variability table below.
+
+Note: The shaded area indicates the range between the historical minimum and maximum values for the weekly series from 2021 through 2025. The dashed vertical lines indicate current and year-ago weekly periods.
+
+| Estimated measures of sampling variability Download History (April 2015 to Present) | | | | |
+| --- | --- | --- | --- | --- |
+| Coefficient of Variation for Stocks % of working gas | | | Standard Error for Net Change billion cubic feet (Bcf) | |
+| Region | 08/28/26 | 08/21/26 | | net change |
+| East | 0.6 | 0.6 | | 0.3 |
+| Midwest | 0.9 | 0.8 | | 0.4 |
+| Mountain | 2.6 | 2.4 | | 0.4 |
+| Pacific | 0.0 | 0.0 | | 0.0 |
+| South Central | 0.8 | 0.8 | | 0.8 |
+| Salt | 1.2 | 1.2 | | 0.7 |
+| Nonsalt | 1.0 | 1.0 | | 0.4 |
+| Total | 0.4 | 0.4 | | 1.0 |
+
+#### More Storage Data
+
+- History
+- Five-year averages, maximum, minimum, and year-ago stocks
+- more...
+
+#### References
+
+#### Analysis
+
+- Performance evaluations
+- Types of Possible Survey Errors
+
+#### Related Links
+
+- The Basics of Underground Natural Gas Storage
+- Weekly Natural Gas Storage Supplement
+
+## EIA - 1000 Independence Avenue, SW, Washington, DC 20585
+
+### About EIA
+
+### Press Room
+
+### Careers
+
+### Feedback
+
+### Contact Us
+
+Topics Analysis & Projections Environment Markets & Finance Today in Energy
+
+Tools A-Z Index All Reports& Publications EIA Survey Forms
+
+Relate

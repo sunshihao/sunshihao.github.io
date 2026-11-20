@@ -1,0 +1,38 @@
+# Google bets on superhot geothermal to power Oregon… | Canary Media
+URL: https://www.canarymedia.com/articles/geothermal/google-superhot-geothermal-oregon-data-centers
+Published: 2026-11-17
+Author: Maria Gallucci
+
+Google bets on superhot geothermal to power Oregon… | Canary Media
+
+# Google bets on superhot geothermal to power Oregon data centers
+
+ The tech giant inked a $ 500 M-plus deal to secure clean power from Quaise Energy, a geothermal startup developing rock-melting beams for its first commercial project. 
+
+ 
+
+By Maria Gallucci
+
+ 17 November 2026 
+
+ 
+
+Quaise Energy’s next-generation geothermal project is under development near Oregon’s Newberry Volcano. (Quaise Energy)
+
+The geothermal startup Quaise Energy has landed a major first customer for its novel, superhot project in central Oregon.
+
+On Tuesday, the Houston-based firm announced that Google has agreed to buy 50 megawatts of carbon-free power from Quaise’s first commercial project, called Project Obsidian, near the Newberry Volcano. Quaise will deploy advanced drilling techniques and unique rock-melting technology to access significantly hotter geothermal resources than traditional plants can.
+
+Google said it plans to use the energy to help run its existing data center operations in northwest Oregon as early as 2030.
+
+The deal is valued at more than $ 500 million, Quaise confirmed. The startup is working to find offtakers for an additional 200 MW in future capacity at the Oregon site. 
+
+“ We started Quaise to make the Earth’s most abundant energy source universally accessible — and this agreement marks a critical next step, not just for Quaise but for the entire clean energy sector,” Carlos Araque, Quaise’s CEO and president, said in a Tuesday statement.
+
+Quaise is one of at least four U.S. geothermal companies to land agreements with tech giants to pursue next-generation plants. Fervo Energy, the startup that’s furthest along in project development, recently inked a landmark deal to supply Google with nearly 400 MW of clean electricity from the Cape Station facility in southwest Utah. Sage Geosystems and XGS Energy are both partnering with Meta to develop facilities in Nevada and New Mexico, respectively. 
+
+Tech firms are seeking to secure sources of clean, around-the-clock power for their vast buildout of data centers. For geothermal startups, winning customer contracts like these is an essential step toward raising the financing they need to build first-of-a-kind facilities. Their technologies, while promising, have yet to be deployed widely at commercial scales — and questions remain about how effectively they’ll be able to operate over long periods of time.
+
+Quaise said its Oregon project will cost about $ 350 million to build. The company raised $ 180 million in equity financing in August, which included investment from the oil-and-gas drilling firm Nabors Industries. (Another startup, Mazama Energy, recently nabbed $ 135 million to accelerate its own superhot geothermal project near the Newberry Volcano.)
+
+At the Project Obsidian site, Quaise will initially use oil-and-gas drilling technologies to develop an enhanced geothermal system. The emerging approach involves fracturing rocks and

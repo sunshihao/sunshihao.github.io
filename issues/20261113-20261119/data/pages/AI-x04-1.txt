@@ -1,0 +1,2 @@
+# Trump administration moves to block China from indirect access to American AI technology
+WASHINGTON (AP) — The Trump administration on Monday issued new rules to restrict remote access to advanced U.S. computing chips and servers, marking the latest step to [limit China’s abilities](https://apnews.com/article/nvidia-trump-xi-huang-ai-rivalry-aba7f92a1ec2f0f9e4b4da206d640d61) to use U.S. chips to train their best artificial intelligence models.

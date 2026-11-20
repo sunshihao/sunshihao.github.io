@@ -1,0 +1,69 @@
+# Oyster photocard holders’ personal data accessed in TfL breach - BBC News
+URL: https://www.bbc.co.uk/news/articles/c6n4kz3lgdz5o
+Published: 2026-11-18
+Author: Jess Warren
+
+Oyster photocard holders’ personal data accessed in TfL breach - BBC News
+
+# TfL photocard breach exposes 265,000 customers
+
+Image source, TfL
+
+Image caption, Six different types of Oyster photocard accounts may have been affected 
+
+By Jess Warren
+
+London
+
+18 November 2026
+
+Updated 19 November 2026
+
+The personal details of about 265,000 Oyster photocard customers have been accessed in a cyber breach, Transport for London (TfL) has said.
+
+Names, email and home addresses, phone numbers, dates of birth and security questions and answers were compromised after "suspicious activity" was detected on the photocard website on Monday.
+
+TfL said it took the photocard system offline to limit access and had notified the Information Commissioner's Office (ICO).
+
+It said no photos, passwords, bank or payment card details or journey information were compromised, and affected customers had been contacted.
+
+Customer accounts that may have been affected are: 
+
+- Zip Oyster cards (5-10, 11-15, 16+)
+- 18+ Student Oyster card
+- 18-25 Care Leaver Oyster photocard
+- 60+ London Oyster photocard
+- Apprentice Oyster photocard
+- Veterans Oyster photocard
+
+Customers with Oyster photocards can continue to travel.
+
+## 'Attractive target'
+
+Shashi Verma, TfL's director of technology strategy and revenue, said: "The protection of personal information is a priority for us, and I apologise to our customers affected by this incident."
+
+He said about 265,000 photocard customers may have had their account details compromised as part of the incident, which he said had been "contained". 
+
+No photos, passwords, bank or payment card details, customer journey information, or names and dates of birth of any children with a Zip Oyster card have been compromised, he said.
+
+## To play this video you need to enable JavaScript in your browser.
+
+This video can not be played
+
+Figure caption, TfL photocard breach exposes 265,000 customers
+
+Verma told BBC Radio London that TfL became aware of the breach on Monday morning when some customers began receiving "unexpected emails" to validate their account.
+
+"We investigated, found that there had been a breach and shut down the system immediately, limiting the impact on customers," he said.
+
+"No data about any child has been compromised in this."
+
+He said customers would be emailed by TfL with clear information about any next steps they needed to take.
+
+Asked about TfL's cyber-security, Verma said: "The system that has been breached was tested quite thoroughly last year. The reality of the modern world is the ways in which people are able to find weaknesses have increased.
+
+"We are in a different world of cyber-security, almost month by month.
+
+"New tools [for cyber-hacks] are becoming available all the time. This is a very difficult game to keep up with. But we know, like every other organisation does, that if you're an attractive target, you have to be prepared that somebody will come after you, and find a weakness and get inside."
+
+He said TfL carrie

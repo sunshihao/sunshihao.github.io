@@ -1,0 +1,27 @@
+# Fermilab, IBM and NVIDIA plan modular quantum computing co-design platform to advance scientific discovery
+URL: https://news.fnal.gov/2026/11/fermilab-ibm-and-nvidia-plan-modular-quantum-computing-co-design-platform-to-advance-scientific-discovery/
+Published: 2026-11-16
+
+Fermilab, IBM and NVIDIA plan modular quantum computing co-design platform to advance scientific discovery
+
+# Fermilab, IBM and NVIDIA plan modular quantum computing co-design platform to advance scientific discovery
+
+November 16, 2026 
+
+Building on the SQMS Center’s quantum hardware collaboration with IBM and NVIDIA, the effort would unite advanced quantum processors and interconnects, superintelligence-powered computing and the high-energy and nuclear physics community to help design the next generation of interconnected quantum systems.
+
+## Media contact
+
+- Tracy Marc, Fermilab
+
+media@fnal.gov, 224-290-7803
+
+The U.S. Department of Energy’s Fermi National Accelerator Laboratory, IBM and NVIDIA intend to collaborate on a modular quantum computing co-design platform aimed at accelerating the development of scalable, fault-tolerant quantum computers for scientific discovery.
+
+The initiative would build on the longstanding collaboration between IBM and Fermilab’s Superconducting Quantum Materials and Systems Center, a DOE National Quantum Information Science Research Center, to advance superconducting quantum technologies and interconnects. It would take that work a step further by bringing together quantum hardware, accelerated computing and the scientific community. The goal is to determine how to connect and operate future fault-tolerant quantum systems.
+
+Fermilab aims to make the proposed platform a focal point for high-energy and nuclear physics (HENP) researchers, bringing together its own particle physics scientists and domain expertise with the broader scientific community across national laboratories, universities and international institutions. Together, they would develop quantum algorithms, shared software and benchmarks for demanding problems such as particle interactions, neutrino physics and nuclear simulations. This work would help translate those scientific needs into requirements for future quantum computing systems.
+
+“This intended platform presents an extraordinary opportunity to bring together IBM’s leadership in quantum processors and networking, NVIDIA’s breakthroughs in accelerated computing and superintelligence, and Fermilab’s scientific community and SQMS expertise in ultracoherent quantum hardware,” said Anna Grassellino, Fermilab chief technology officer and director of the SQMS Center. “Our ambition is to help lead the development of quantum computers built for discovery. By bringing high-energy and nuclear physicists into the process, we can co-design the applications, algorithms and modular architectures needed to make fault-tolerant quantum computing useful for science. This would be an important step toward the capabilities and community needed for a future DOE quantum computing user facility.”
+
+Conceptual hardware illustration of the combined strengths toward the new quantum co-design platform. IBM: quantum computers (pictured: IBM Quantum System Two; image credit: IBM). Fermilab/SQMS: ultracoherent superconductin

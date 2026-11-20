@@ -1,0 +1,27 @@
+# 265,000 TfL Oyster photocard customers may have had account details compromised | ITV News London
+URL: https://www.itv.com/news/london/2026-11-19/265000-tfl-oyster-photocard-customers-may-have-had-account-details-compromised
+Published: 2026-11-19
+
+265,000 TfL Oyster photocard customers may have had account details compromised | ITV News London
+# 265,000 TfL Oyster photocard customers may have had account details compromised
+* London
+* Transport for London
+* Oyster cards
+* Thursday 19 November 2026 at 9:50am
+More than a quarter of a million customers may have been affected. Credit: PA Images
+Hundreds of thousands of Transport for London Oyster photocard customers may have had their account details compromised after “suspicious activity” was identified.
+On Monday, Oyster photocard customers received emails asking them to create an account, when they already had a photocard account, TfL said.
+The TfL photocard website was taken down while it was investigated, but TfL said it believes that around 265,000 photocard customers may have had their account details compromised.
+TfL’s current assessment is that no passwords, bank or payment card details, customer journey information, or names and date of births of any children with a Zip Oyster card have been compromised, it said.
+But the company sent an email on Wednesday to some of those affected saying their name and contact details including email address, phone number and home address, date of birth and security question and answer have been compromised.
+The email says: “We identified some suspicious activity which affected our Oyster photocard website on 16 November 2026 and took action to limit access, including taking the photocard system offline.
+“While we acted quickly to restrict this, this activity has unfortunately resulted in unauthorised access to the personal information contained in your web account.
+“We apologise for this.”
+TfL added that it has notified the Information Commissioner’s Office.
+It also said people could continue to travel with Oyster photocards and top them up through ticket vending machines in London Underground and National Rail stations, but will not be able to access their online photocard accounts.
+Customer accounts that may have been affected by the incident are: Zip Oyster cards (5-10, 11-15, 16+); 18+ Student Oyster card; 18-25 Care Leaver Oyster photocard; 60+ London Oyster photocard; Apprentice Oyster photocard; and Veterans Oyster photocard.
+Shashi Verma, TfL’s director of technology strategy and revenue, said: “On 16 November 2026, we became aware that Oyster photocard customers were receiving emails asking them to create an account, when they already have a photocard account.
+“We immediately took the TfL photocard website down while this was being investigated.
+“The protection of personal information is a priority for us, and I apologise to our customers affected by this incident.
+“While we acted swiftly, we now believe that around 265,000 photocard customers may have had their account details compromised as part of this incident.
+“We have now contained the incident, and our current assessment is that no passwords, bank or payment card details, customer journey information, or names and date of births of a

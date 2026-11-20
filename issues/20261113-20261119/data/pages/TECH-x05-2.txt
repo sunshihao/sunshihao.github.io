@@ -1,0 +1,27 @@
+# [News] SK hynix Reportedly Plans New HBM4 Equipment Orders, with P&T6 in Focus Despite NVIDIA Uncertainty
+URL: https://www.trendforce.com/news/2026/11/16/news-sk-hynix-reportedly-plans-new-hbm4-equipment-orders-with-pt6-in-focus-despite-nvidia-uncertainty/
+Published: 2026-11-16
+
+[News] SK hynix Reportedly Plans New HBM4 Equipment Orders, with P&T6 in Focus Despite NVIDIA Uncertainty
+
+# [News] SK hynix Reportedly Plans New HBM4 Equipment Orders, with P&T6 in Focus Despite NVIDIA Uncertainty
+
+2026-11-16 Semiconductors editor 
+
+ 
+
+Amid uncertainties surrounding NVIDIA’s leadership upheaval, the chipmaker’s main HBM supplier, SK hynix, continues to ramp up HBM4 expansion. According to ETNews, the company is reportedly in talks with suppliers over new orders for HBM4 manufacturing equipment, with back-end processes such as bonding, cutting and inspection tools taking center stage.
+
+The report suggests that SK hynix plans to focus its investment on HBM packaging and testing facilities, with full-scale operations slated to begin in the first half of 2027. Sources cited by ETNews noted that SK hynix’s P&T6 facility in Cheongju is seen as the likely site for the expansion. According to ETNews, operating the facility at full capacity could lift HBM output by more than 20,000 wafers per month.
+
+As reported by The Bell in June, P&T6 is being converted from SK hynix’s former M8 plant, vacated after its system semiconductor operations moved to China in 2020. While the aging facility was no longer suitable for advanced DRAM or NAND production, surging HBM demand has given it a new lease on life as a dedicated HBM packaging and testing hub, the report suggests.
+
+In addition to the reported P&T 6 expansion, SK hynix is also building P&T7 to further expand its backend processing capacity, according to The Bell. The large-scale project reportedly involves an investment of approximately KRW 19 trillion, covering fab construction and equipment installation. The facility will house wafer testing and wafer-level packaging lines, with the former scheduled for completion in October next year and the latter targeted for February 2028, The Bell reported.
+
+On the other hand, SK hynix also announced further investment to support chip suppliers. As noted by Reuters, the memory maker announced Monday that it will invest KRW 1.4 trillion ($1.05 billion) over the next five years to bolster domestic suppliers of semiconductor materials, components and equipment, as part of efforts to strengthen its supply chain.
+
+## Google’s TPU Boom Opens a New HBM Growth Front Beyond NVIDIA
+
+As ETNews notes, SK hynix’s P&T6 expansion reflects its push to keep pace with surging HBM4 demand. While NVIDIA’s leadership shake-up following Jensen Huang’s exit could disrupt its AI chip business, rising orders from AMD and Broadcom may help cushion the impact, the report suggests. SK hynix indicated during its October earnings call that its DRAM and HBM capacity was effectively sold out through 2029.
+
+Against this backdrop, Global Economic identifies Google’s expanding TPU business as an increasingly important battleground for South Korea’s HBM giants. Samsung is reportedly leveraging its strategic alliance with Broadcom, Google’s longtime chip design partner. The two companie

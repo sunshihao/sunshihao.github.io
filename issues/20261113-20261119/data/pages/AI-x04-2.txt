@@ -1,0 +1,175 @@
+# SUMMARY:
+In this interim final rule (IFR), the Department of Commerce is establishing new rules to prevent certain foreign actors from leveraging advanced computing power based on U.S. technology to threaten U.S. national security and foreign policy interests.
+First, this rule establishes new restrictions which will apply for exports, reexports, or transfers (in-country) to overseas data centers that remotely supply significant volumes of compute to companies headquartered in Country Group D:5 or Macau. These restrictions will undermine the ability of companies headquartered in countries of concern from using U.S. advanced Super Intelligence (SI) semiconductors to train advanced SI models.
+Data centers, foreign foundries, and chip exporters are required to perform robust due diligence on their customers, including any direct or indirect ownership or control by persons in Country Group D:5 or Macau, as part of complying with this new control. The license requirement will not apply to commercial recommender systems, such as those used by online retailers or social media companies, as these functions do not pose the same national security threat.
+Second, in addition to the current license requirements for advanced semiconductors, a license will be required to export, reexport, or transfer (in-country) advanced semiconductors to Indonesia, Malaysia, Singapore, Thailand, or Brazil (and any additional country designated by the Secretary of Commerce, in consultation with the Secretary of State or the Assistant to the President for National Security Affairs)—countries which present a higher-than-normal risk of diversion.
+The license requirement for these five countries will not apply to semiconductors destined to companies headquartered in, or whose ultimate parent company is headquartered in, the United States, provided certain reporting requirements are met.
+Commerce will be actively monitoring for countries that tolerate evasion of this IFR and will consider a range of consequences for such countries, such as import restrictions, new license requirements on advanced semiconductor exports, downgrading the country's status in the U.S. export control regime, and Entity List designations and temporary export prohibitions for foreign persons involved in such activities.
+Third, this IFR amends the presumptions which front-end chips fabricators and chip packagers face when exporting advanced-node logic chips. These amendments reduce the number of pathways to overcome the presumptions for chip designers located in destinations which face a license requirement for SI chips. This change gives the U.S.
+government critical oversight over companies headquartered in certain countries that seek to leverage advanced semiconductor production capabilities in third countries. Finally, the IFR formally rescinds the regulations implementing the Biden-era AI Diffusion Rule. The AI Diffusion Rule has never been enforced.
+The regulatory changes in this rule formalize the rescission of the AI Diffusion Rule, which the Department of Commerce Bureau of Industry and Security (BIS) announced in May 2025.
+
+...
+
+# ADDRESSES:
+Comments on this rule may be submitted to the Federal rulemaking portal ( _[www.regulations.gov](http://www.regulations.gov/)_ ). The _regulations.gov_ ID for this rule is: BIS-2026-0628. Please refer to RIN 0694-AK50 in all comments.
+
+...
+
+# SUPPLEMENTARY INFORMATION:
+## I. Background
+License applications will be reviewed on a case-by-case basis. These changes are contained in new § 744.24(a)(1).
+
+...
+
+This IFR amends the EAR to reflect a revision to the license review policy for these items in parts 742 (Regional stability) and 744 (Control Policy: End-User and End-Use Based) to simplify the licensing process for SI integrated circuits (ICs) and other SI-related items. The changes promulgated in this IFR follow extensive U.S. government consideration of the impact of these controls on U.S. national security and foreign policy interests.
+
+## II. License Requirements and Review Policy
+### Changes to § 742.6 Regional Stability
+This IFR revises § 742.6 to impose new license requirements and licensing policies for advance computing items identified in paragraph (a)(6)(iii)(A).
+First, under § 742.6(a)(6)(iii)(A)( _1_ ), a license is required for exports, reexports, or transfers (in-country) to or within Indonesia, Malaysia, Singapore, Brazil, and Thailand. As noted in section I of this preamble, these countries are being added in response to concerns that advanced computing items subject to EAR licensing requirements are being diverted to entities and countries of concern without authorization.
+
+...
+
+Second, under § 742.6(a)(6)(iii)(A)( _2_ ), this IFR amends the worldwide licensing requirement to require a license for exports, reexports, or transfers (in-country) to or within destinations specified in Country Groups D:1, D:4, and D:5, excluding destinations specified in Country Groups A:5 or A:6, as well as the United Arab Emirates—to the extent a license would otherwise be required by the final rule “Enhanced Favorable Treatment for the
+United Arab Emirates Under the Export Administration Regulations” ( [91 FR 43034](https://www.federalregister.gov/citation/91-FR-43034) , July 14, 2026).
+For the license requirements under paragraph (a)(6)(iii)(A)( _1_ ) of § 742.6, applications for exports, reexports, and transfers (in-country) will be reviewed on a case-by-case basis to determine whether the transaction is contrary to the national security or foreign policy interests of the United States, as described under § 742.6(b)(10)(iii)(A)( _1_ ).
+Pursuant to § 742.6(b)(10)(iii)(A)( _1_ ), destinations will be evaluated on the effectiveness of their export control regimes and their coordination with BIS on the enforcement of export controls.
+
+## III. End-Use Restrictions
+### A. Changes to Part 744—Control Policy: End-User and End-Use Based
+This IFR adds new § 744.24 Restrictions on exports, reexports, and transfers (in-country) of certain advanced computing items for use in data centers for end-uses and destinations of concern.
+Section 744.24 provides, in addition to the license requirements set forth elsewhere in the EAR, a prohibition on exports, reexports, or transfers (in-county) of advanced SI items without a license if, at the time of export, reexport, or transfer (in-country), you have “knowledge” that the item will be or is intended to be used in a data center end-use that is prohibited under paragraphs (a)(1) of § 744.24.
+You may not knowingly export, reexport, or transfer (in-county) items specified in paragraph (a) of § 744.24 for use in a data center to or within any destination worldwide that will provide access to more than 12,000,000 “aggregate TPP” (either at one data center or through `linked data centers' (including digitally-linked infrastructure, not just physically-linked infrastructure) to companies headquartered in, or whose
+ultimate parent company is headquartered in, Macau or a destination specified in Country Group D:5 in supplement no. 1 to part 740 of the EAR. `Linked data centers' are data centers that use networking infrastructure that links two or more separate data centers together to allow physical and virtual facilities to share resources, balance workloads, and replicate data as a unified whole.
+This prohibition is described under § 744.24(a)(1) and the definition is provided in § 744.24(d).
+The term “for an entity” as used in this § 744.24(a)(1) ( printed page 74972) applies to instances in which there is “knowledge” that a data center is providing remote access to a non-D:5 customer that is in turn training SI models for, or participating in the training of SI models for, or providing SI models to a D:5 company. This control will cut off additional potential diversion pathways and evasion efforts.
+These controls are necessary because providing computer power access at this level or greater will allow for training or running of advanced SI models; the Secretary of Commerce has determined that it could pose a national security and foreign policy threat to the United States when such computing power access will be provided to or for companies headquartered, or whose ultimate parent company is headquartered in, Macau
+or a destination specified in Country Group D:5—unless the computing power is exclusively used for commercial recommender systems.
+
+...
+
+This IFR adds an “is informed” process under paragraph (a)(2) of § 744.24 to impose an additional prohibition on persons informed by BIS that a license is required for the export, reexport, or transfer (in-country) of specified items to certain persons or destinations, because there is an unacceptable risk of use in, or diversion to, the activities specified in paragraph (a)(1) of § 744.24.
+
+...
+
+For purposes of § 744.24, `commercial recommender system' means a Super Intelligence (SI) tool exclusively designed and exclusively used to rank, filter, or suggest commercial products, services, or content to users based on user behavior, transaction history, or item attributes.
+This term does not include any SI system designed or used to generate novel text, image, audio, video, software, or other content in response to user inputs, or any system that incorporates such model, regardless of whether the system also performs recommendation functions.
+This IFR adds paragraph (e) to impose a notification and authorization requirement for subsequent changes in end-use.
+
+...
+
+### B. Conforming Change to 744.23 for Removal of Worldwide License Requirement in This IFR
+As a conforming change, this IFR makes revisions to the advanced computing items end-use control under § 744.23(a)(3) to ensure that a license will continue to be required for exports, reexports, and transfers (in-country) of these advanced computing items when such items are destined for entities headquartered in, or whose ultimate parent company is headquartered in, Country Group D:5 or Macau.
+
+...
+
+Specifically, this IFR revises § 744.23 “Supercomputer,” “advanced-node integrated circuits,” and semiconductor manufacturing equipment end-use controls under paragraph (a)(3)(i)(A) to specify that this end-use control for advanced computing items includes all advanced computing items ( _e.g.,_ those specified in ECCNs 3A090 (except for 3A090.c), 4A090, and related .z paragraph items).
+Prior to this IFR, there was an enforced license requirement under § 742.6(a)(6)(iii)(A) of the EAR that applied to all destinations outside of the United States for these advanced computing items when such items are destined to entities headquartered in, or whose ultimate parent company is headquartered in, Country Group D:5 or Macau.
+_See_ the May 31, 2026, “Guidance Regarding Enforcement of License Requirements for Advanced Computing Items for Entities Headquartered in Country Group D:5 and Macau” on the BIS website at _[http://www.bis.gov](http://www.bis.gov/) ._ With the removal of the worldwide license requirement this IFR makes a required conforming change to return the license requirement for these advanced computing items
+
+...
+
+For § 744.23(a)(3)(i)(A), BIS has received inquiries regarding the meaning of the phrase “for an entity” that is headquartered in, or whose ultimate parent company is headquartered in, either Macau or a destination specified in Country Group D:5.
+As stated in BIS's October 2023 Advanced Computing/Supercomputing (“AC/S”) IFR ( [88 FR 73458](https://www.federalregister.gov/citation/88-FR-73458) ) this control was intended to ensure that the national security and foreign policy objectives of the October 7, 2022 IFR and the AC/S IFR are not undermined by Macau, the People's Republic of China (PRC), or other Country Group D:5 headquartered
+entities setting up cloud servers or data centers in other countries to allow these entities of concern to continue to train their SI models in ways that would be contrary to U.S. national security and foreign policy interests.
+This end-use control thus is not, and has never been limited only to exports, reexports, and transfers (in-country) destined to such entities of concern as ultimate consignees or end users, but extends to exports, reexports, or transfers (in-country) _on behalf of_ these entities of concern, _e.g.,_ if an entity of concern was the purchaser in the transaction (directly or indirectly) or was the
+exclusive or primary (greater than 50 percent of total compute) remote end user of the data center computing capacity.
+Exporters, reexporters, and transferors are encouraged to examine both end-use controls in § 744.23(a)(3) and in new § 744.24 to the extent their transactions involve exports, reexports, or transfers to data centers outside of the United States where there is knowledge that a company headquartered in, or whose ultimate parent is headquartered in, Macau or D:5 will be an intended remote end user.
+
+...
+
+Bona fide operators of data centers who are otherwise engaged in activities consistent with the EAR and were providing remote access used for `commercial recommender systems' (as defined in the new § 744.24(d)(1)) may continue providing these services for 90 days, but must obtain a license following expiration of this period to continue these services.
+
+...
+
+This addition ensures that a license requirement continues to apply to “front end fabricators” and “OSATs” creating advanced ICs for non-approved, non-authorized IC designers wherever located. Additionally, the presumption created in Note 1 to 3A090.a continues to apply but can be overcome by the “front end fabricator” or “OSAT” if they follow the due diligence steps specified in that note.
+
+...
+
+## IV. Rescinded Provisions of the AI Diffusion Rule
+### B. Removing Country Tiers, Data Center VEUs, and Related Regulatory Language
+This IFR removes the Data Center VEU Authorization from § 748.15, supplement no. 8 to part 748, and supplement no. 10 to part 748. This IFR also makes conforming changes to the license review policy in § 742.6 to remove references to supplement no. 5 to part 740.
+
+...
+
+## V. Amendments to the Presumptions Faced by Front-End Fabricators and OSAT Companies
+Such companies which are not Authorized or Approved IC designers and face a presumption that their IC is 3A090.a for all “applicable advanced logic integrated circuits”. This addresses potential diversion pathways of advanced ICs.
+
+...
+
+# PART 743—SPECIAL REPORTING AND NOTIFICATION
+(d) _Monthly reporting requirement._ You must submit monthly reports regarding any transactions subject to the provisions of this section. The report shall cover any exports, reexports, or transfers (in-country) that qualify for an exclusion from the Regional Stability license requirement pursuant to Note 1 to § 742.6(a)(6)(iii)(A)( _1_ ) on or after November 19, 2026.
+Reports regarding any export, reexport, or transfer (in-country) subject to the provisions of this section are due no later than the first business day of the month following the transaction.
+
+...
+
+# PART 744—CONTROL POLICY: END-USER AND END-USE BASED
+15. Revise § 744.23(a)(3)(i) to read as follows:
+§ 744.23
+“Supercomputer,” “advanced-node integrated circuits,” and semiconductor manufacturing equipment end use controls.
+(a)
+* * * * *
+
+...
+
+* * * * *
+16. Add § 744.24 to read as follows:
+§ 744.24
+Restrictions on exports, reexports, and transfers (in-country) of certain advanced computing items for use in data centers for end-uses and destinations of concern.
+
+...
+
+# Note 1 to paragraph (a)(1):
+_The prohibitions pursuant to paragraph (a)(1) apply regardless of whether the person in possession of the EAR item was a party to the transaction to the original export, reexport, or transfer (in-country) (see § 748.5)._
+
+...
+
+# Note 2 to paragraph (a)(1):
+Reexporters and transferors may not rely on the de minimis provisions for incorporating or commingling U.S.-origin items specified under paragraph (a) into foreign-made items where there is “knowledge” at any point in the chain from the “development”,_ _“production”, or “use” of the foreign-made item that incorporates or commingles a U.S.-origin item will be used in a prohibited end-use under paragraph (a)(1) of this section._
+
+...
+
+# Note 3 to paragraph (a)(1):
+This term does not include any SI system designed or used to generate novel text, image, audio, video, software, or other content in response to user inputs, or any system that incorporates such model, regardless of whether the system also performs recommendation functions. ( printed page 74979)
+
+...
+
+# PART 748—APPLICATIONS (CLASSIFICATION, ADVISORY, AND LICENSE) AND DOCUMENTATION
+(a)(1) _Eligible end users for VEU Authorization._ The only end users to whom eligible items may be exported, reexported, or transferred (in-country) under a VEU Authorization are those validated end users identified in supplement no. 7 to part 748, according to the provisions in this section and those set forth in supplement nos.
+
+...
+
+Termination of VEU conditions does not relieve a validated end-user of its responsibility for violations that occurred prior to the availability of a license exception or prior to the removal of license requirements.
+(i) _Records._ Records of items that were shipped under VEU Authorization prior to the removal of a license requirement or the availability of a license exception remain subject to the review requirements of paragraph (f)(2) of this section on and after the date that the license requirement was removed or the license exception became applicable.
+
+...
+
+# PART 774—THE COMMERCE CONTROL LIST
+## Supplement No. 1 to Part 774—The Commerce Control List
+* * * * *
+**3A001 Electronic items as follows (see List of Items Controlled).**
+_Reason for Control:_ NS, RS, MT, NP, AT ( printed page 74981)
+| _Control(s)_ | _Country chart_ _(see Supp. No. 1 to part 738)_ |
+| NS applies to “Monolithic Microwave Integrated Circuit” (“MMIC”) amplifiers in 3A001.b.2 and discrete microwave transistors in 3A001.b.3, except those 3A001.b.2 and b.3 items being exported or reexported for use in civil telecommunications applications | NS Column 1. |
+| NS applies to entire entry | NS Column 2. |
+| RS applies “Monolithic Microwave Integrated Circuit” (“MMIC”) amplifiers in 3A001.b.2 and discrete microwave transistors in 3A001.b.3, except those 3A001.b.2 and b.3 items being exported or reexported for use in civil telecommunications applications | RS Column 1. |
+| RS applies to 3A001.z | To or within any destination specified in § 742.6(a)(6)(iii)(A)( _1_ ) of the EAR. |
+| RS applies to 3A001.z | To or within the United Arab Emirates or destinations specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. |
+
+...
+
+## List of Items Controlled
+a.5.b.2.a. An `adjusted update rate' exceeding 1,250 MSPS but not exceeding 3,500 MSPS, and having any of the following:
+a.5.b.2.a.1. A settling time less than 9 ns to arrive at or within 0.024% of full scale from a full scale step; _or_
+a.5.b.2.a.2. A `Spurious Free Dynamic Range' (SFDR) greater than 68 dBc (carrier) when synthesizing a full scale analog signal of 100 MHz or the highest full scale analog signal frequency specified below 100 MHz; _or_
+
+...
+
+_2. SFDR is determined directly from the specification table or from the characterization plots of SFDR versus frequency._
+_3. A signal is defined to be full scale when its amplitude is greater than −3 dBfs (full scale)._
+_4. `Adjusted update rate' for DACs is:_
+
+...
+
+_1. For the purposes of 4A004.a, `systolic array computers' are computers where the flow and modification of the data is ( printed page 74991) dynamically controllable at the logic gate level by the user._

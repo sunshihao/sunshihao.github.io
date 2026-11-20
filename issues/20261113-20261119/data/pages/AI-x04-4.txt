@@ -1,0 +1,58 @@
+[Government & Policy](https://techcrunch.com/category/government-policy/)
+
+...
+
+[?subject=US+tightens+AI+chip+export+controls+to+deter+Chinese+companies+from+accessing+compute+remotely&body=Article%3A+https%3A%2F%2Ftechcrunch.com%2F2026%2F11%2F16%2Fus-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely%2F](mailto:?subject=US+tightens+AI+chip+export+controls+to+deter+Chinese+companies+from+accessing+compute+remotely&%23038;body=Article%3A+https%3A%2F%2Ftechcrunch.com%2F2026%2F11%2F16%2Fus-tightens-ai-chip-export-controls-to-deter-chine
+se-companies-from-accessing-compute-remotely%2F) [](https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/)
+
+# US tightens AI chip export controls to deter Chinese companies from accessing compute remotely
+[Ram Iyer](https://techcrunch.com/author/ram-iyer/)
+7:02 AM PST · November 16, 2026
+
+...
+
+[?subject=US+tightens+AI+chip+export+controls+to+deter+Chinese+companies+from+accessing+compute+remotely&body=Article%3A+https%3A%2F%2Ftechcrunch.com%2F2026%2F11%2F16%2Fus-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely%2F](mailto:?subject=US+tightens+AI+chip+export+controls+to+deter+Chinese+companies+from+accessing+compute+remotely&%23038;body=Artic
+
+...
+
+The Trump administration on Monday is preparing to roll out new export controls on AI chips and data centers outside the U.S., seeking to prevent companies, especially those in China, from getting past U.S. export controls by remotely accessing AI infrastructure located in other countries.
+Under the [interim rule](https://www.bis.gov/media/documents/rin-0694-ak50.pdf) , the Commerce Department will require companies to get licenses to export, reexport, or transfer AI chips and servers to data centers anywhere in the world if they may provide compute to companies in China or other restricted countries.
+The remote-access rules target companies based in the U.S.’s D:5 group of embargoed countries, which includes China, Russia, Iran, North Korea, and 18 others.
+The U.S. already has rules requiring chip companies to get a license to ship AI chips to companies based in, or owned by any business in, this group of countries.
+“This new control is a logical extension of existing controls,” the interim rule reads. “These restrictions will undermine the ability of companies headquartered in countries of concern from using U.S. advanced Super Intelligence (SI) semiconductors to train advanced SI models.”
+The move comes days after [Nvidia co-founder Jensen Huang resigned](https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/) amid a scandal involving an alleged Chinese spy linked to one of the chipmaker’s customers. The U.S.
+government has reportedly been wanting to put that customer, Megaspeed, on a special entity list, as it believes the company has been buying thousands of Nvidia chips to [provide compute](https://www.wsj.com/politics/policy/bessent-says-treasury-supported-blacklisting-megaspeed-but-commerce-didnt-act-1f83148c) to Chinese businesses to get past existing export-control restrictions.
+
+...
+
+The rule applies to data centers or any network that can supply over 12 million total processing performance (TPP), an export-control metric the U.S. uses to measure computing power.
+
+...
+
+The Commerce Department said it had included these as they “present a higher-than-normal risk of diversion.” For these countries, however, the license requirements will not apply to chips “destined” for companies based in the U.S.
+
+...
+
+The rule also rescinds the Biden admin’s AI Diffusion Rule from January 2025, which sought to impose country-level limits on exports of advanced AI chips, and restrict transfers of certain powerful AI models. That May, the Trump administration said it would throw out that framework, arguing that it added unnecessary restrictions on U.S. companies and the country’s allies.
+“By making these changes, this IFR prevents the use of certain SI items in data centers and at a computing power level that can be used for training or running of advanced SI models,” the rule reads. “Access to such computing power can be used to train and run advanced SI models capable of supporting military- and intelligence-related activities that could threaten U.S.
+national security or foreign policy interests.”
+
+...
+
+[AI](https://techcrunch.com/category/artificial-intelligence/) , [AI chips](https://techcrunch.com/tag/ai-chips/) , [China](https://techcrunch.com/region/asia/china/) , [export controls](https://techcrunch.com/tag/export-controls/) , [Government & Policy](https://techcrunch.com/category/government-policy/) , [Hardware](https://techcrunch.com/category/hardware/) , [semiconductor export
+
+...
+
+_When you purchase through links in our articles, [we may earn a small commission](https://techcrunch.com/techcrunch-affiliate-monetization-standards/) . This doesn’t affect our editorial independence._
+
+...
+
+[?subject=US+tightens+AI+chip+export+controls+to+deter+Chinese+companies+from+accessing+compute+remotely&body=Article%3A+https%3A%2F%2Ftechcrunch.com%2F2026%2F11%2F16%2Fus-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely%2F](mailto:?subject=US+tightens+AI+chip+export+controls+to+deter+Chinese+companies+from+accessing+compute+remotely&%23038;body=Artic
+
+...
+
+## Most Popular
+* [Jensen Huang didn’t show confidence in his successor, report says](https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/)
++ [Ivan Mehta](https://techcrunch.com/author/ivan-mehta/)
+Loading the next article
+Error loading the next article

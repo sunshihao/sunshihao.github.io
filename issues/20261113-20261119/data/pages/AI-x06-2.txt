@@ -1,0 +1,53 @@
+# Gemini 4 Neon launches: Carbon quality at Flash speeds, for AI Pro
+URL: https://9to5google.com/2026/11/18/gemini-4-neon-announcement/
+Published: 2026-11-18
+Author: Abner Li
+
+Gemini 4 Neon launches: Carbon quality at Flash speeds, for AI Pro
+
+# Google launches Gemini 4 Neon with Carbon quality at Flash speeds, live for AI Pro
+
+ Abner Li | Nov 18 2026 - 1:34 pm PT 
+
+Following last week’s release of Carbon and Hydrogen, Google today is rolling out Gemini 4 Neon. The model offers “frontier-level reasoning for complex, high-frequency workflows faster and more cost efficiently.”
+
+Before today, Google’s Gemini 4 family consisted of:
+
+- Hydrogen — Everyday help: Flash replacement
+- Argon — Code & analysis: “…ideal choice for the majority of software engineering and knowledge work”
+- Carbon — Most complex work: “…built for tasks that test the limits of a model’s intelligence”
+
+Neon has performance comparable to, if not surpassing, Carbon across coding, reasoning, and agentic tasks, but at Flash speeds and a lower cost. 
+
+As such, Neon is available in the Gemini app for AI Pro (and AI Ultra) subscribers, with 3.1 Pro finally going away. Neon also replaces Argon. Meanwhile, 3.5 Flash-Lite is now “Auto” in the model picker for paid users.
+
+With this launch, the model picker is:
+
+- Auto: Adapts to your needs
+- Everyday help: 4 Hydrogen
+- Deeper analysis: 4 Neon
+- Code & complex work: 4 Carbon
+
+In the Gemini app, Google says to expect:
+
+- Higher-quality writing and knowledge work: Neon writes clearly, with well-structured responses and a natural, direct tone. It reads uploads like spreadsheets, PDFs, and photos more precisely, turns dense material into helpful reports and summaries, and pulls in relevant details from Google apps like Gmail and Docs.
+- Reliable research and analysis: Neon frequently incorporates details from sources across the web to keep responses current for fast-moving topics like comparing pricing across vendors before a major purchase or pulling together a complex brief with the latest market data.
+- Faster help for tougher tasks: Tasks in Gemini can now run on Neon, working through complex, multi-step jobs more quickly and efficiently than with larger models. Get more done while stretching usage limits further when handing off tedious to-dos, like analyzing billing statements to spot why a utility charge spiked or cross-checking multiple receipts and documents to negotiate a refund.
+
+## Top comment by Julian
+
+ Liked by 27 people 
+
+Honestly it's getting difficult to keep up with all these names 😩 It seems like they're taking the OpenAI / Anthropic approach on this.
+
+I personally like the previous naming scheme with Flash and Pro. You could easily tell which one is more advanced and which is a "lighter" quicker model.
+
+But on surface level when I look at the model selector in Antigravity, how am I supposed to know which model is better for my needs? Argon, Hydrogen, Carbon, or Neon????
+
+Same with ChatGPT - Astra, Sol, Terra, and Luna
+
+And Anthropic - Mythos, Fable, Opus, Sonnet and Haiku
+
+Maybe I'm just getting old 🥵 but i wish I didn't need to research which models to use for my work and was way simpler. 
+
+N

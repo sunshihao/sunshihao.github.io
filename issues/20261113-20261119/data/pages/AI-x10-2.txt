@@ -1,0 +1,28 @@
+# Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials | TechCrunch
+URL: https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/
+Published: 2026-11-17
+Author: Ram Iyer
+
+Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials | TechCrunch
+
+Posted:
+
+6:50 AM PST · November 17, 2026
+
+Image Credits: Jose Sarmento Matos/Bloomberg / Getty Images
+
+- Ram Iyer
+
+# Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials
+
+Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round as it seeks to take its drug candidates to clinical trials.
+
+The funding was co-led by Greenoaks and Sequoia Capital, with new investor Andreessen Horowitz and other investors also participating. All of the company’s existing backers, including Alphabet’s venture divisions GV and Capita G, Thrive Capital, MGX, Temasek, and the U.K. Sovereign AI Fund, also invested.
+
+Isomorphic Labs builds an AI drug-design engine that uses a slew of simulation AI models that explore various areas of chemistry to help the company design drugs. The company, whose work builds on DeepMind’s breakthrough AlphaFold protein-folding AI model, said its program has yielded “positive preclinical results” in oncology and immunology. The lab has struck deals with pharma giants like Eli Lilly, Novartis, and Johnson & Johnson.
+
+The new funding, which comes on the heels of a $2.1 billion Series B round in May, will be used to continue developing its drug-design engine, as well as to foray into more types of medicine.
+
+The Series C is Isomorphic’s first fundraise since its founder and CEO, Demis Hassabis, left his position as head of DeepMind to focus on drug discovery, which also saw him moving into a chairman role at DeepMind. Hassabis and then-director of DeepMind John Jumper won the Nobel Prize in chemistry for the lab’s work on AlphaFold, a system that predicts the 3D structure of proteins with nothing more than their genetic sequence.
+
+Isomorphic did not disclose its new valuation. Bloomberg reported earlier this month that the lab was looking to raise funding at a $50 billion valuation.
